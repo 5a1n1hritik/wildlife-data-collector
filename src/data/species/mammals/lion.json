@@ -1,11 +1,13 @@
 {
   "id": "lion",
   "name": "Lion",
-  "scientificName": null,
+  "scientificName": "Panthera leo",
+  "wikibase_item": "Q140",
   "description": "The lion is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a dark, hairy tuft at the tip of its tail. It is sexually dimorphic; adult male lions are larger than females and have a more prominent mane that usually obscures the ears and extends to the shoulders.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
   "source": {
-    "wikipedia": "https://en.wikipedia.org/wiki/Lion"
+    "wikipedia": "https://en.wikipedia.org/wiki/Lion",
+    "wikidata": "https://www.wikidata.org/wiki/Q140"
   },
-  "lastUpdated": "2025-12-13"
+  "lastUpdated": "2025-12-14"
 }

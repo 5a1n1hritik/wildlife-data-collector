@@ -5,6 +5,7 @@ export function cleanWikipediaSpecies(raw: any): Species {
     id: raw.title.toLowerCase().replace(/\s+/g, "-"),
     name: raw.title,
     scientificName: null, // later Wikidata se bharenge
+    wikibase_item: raw.wikibase_item ?? null,
     description: raw.extract,
     image: raw.originalimage?.source ?? raw.thumbnail?.source ?? null,
     source: {
