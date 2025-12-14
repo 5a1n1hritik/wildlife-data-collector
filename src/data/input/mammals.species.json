@@ -1,0 +1,32 @@
+[
+  {
+    "id": "panthera-leo",
+    "name": "Lion",
+    "wikibase_item": "Q140"
+  },
+  {
+    "id": "panthera-tigris",
+    "name": "Tiger",
+    "wikibase_item": "Q19939"
+  },
+  {
+    "id": "canis-lupus",
+    "name": "Wolf",
+    "wikibase_item": "Q18498"
+  },
+  {
+    "id": "loxodonta-africana",
+    "name": "African bush elephant",
+    "wikibase_item": "Q36557"
+  },
+  {
+    "id": "loxodonta-cyclotis",
+    "name": "African forest elephant",
+    "wikibase_item": "Q189514"
+  },
+  {
+    "id": "elephas-maximus",
+    "name": "Asian elephant",
+    "wikibase_item": "Q133006"
+  }
+]

@@ -1,21 +1,45 @@
+// export interface Species {
+//   id: string
+//   name: string
+//   scientificName?: string | null
+//   wikibase_item?: string | null
+//   taxonomy?: {
+//     kingdom?: string
+//     phylum?: string
+//     class?: string
+//     order?: string
+//     family?: string
+//     genus?: string
+//   }
+//   description: string
+//   image?: string | null
+//   source: {
+//     wikipedia: string
+//     wikidata?: string
+//   }
+//   lastUpdated: string
+// }
+
+
 export interface Species {
   id: string
   name: string
-  scientificName?: string | null
-  wikibase_item?: string | null
+
+  scientificName: string
+  wikibase_item: string
+
   taxonomy?: {
-    kingdom?: string
-    phylum?: string
-    class?: string
-    order?: string
-    family?: string
-    genus?: string
+    taxonRank?: any
+    parentTaxon?: any
   }
-  description: string
+
+  description?: string | null
   image?: string | null
+
   source: {
-    wikipedia: string
-    wikidata?: string
+    wikidata: string
+    wikipedia?: string
   }
+
   lastUpdated: string
 }

@@ -1,13 +1,12 @@
 {
   "id": "giraffe",
   "name": "Giraffe",
-  "scientificName": "Giraffa",
+  "scientificName": null,
   "wikibase_item": "Q862089",
   "description": "The giraffe is a large African hoofed mammal belonging to the genus Giraffa. It is the tallest living terrestrial animal and the largest ruminant on Earth. It is classified under the family Giraffidae, along with its closest extant relative, the okapi. Traditionally, giraffes have been thought of as one species, Giraffa camelopardalis, with nine subspecies. Most recently, researchers proposed dividing them into four extant species, with seven subspecies, which can be distinguished morphologically by their fur coat patterns. Six valid extinct species of Giraffa are known from the fossil record.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg",
   "source": {
-    "wikipedia": "https://en.wikipedia.org/wiki/Giraffe",
-    "wikidata": "https://www.wikidata.org/wiki/Q862089"
+    "wikipedia": "https://en.wikipedia.org/wiki/Giraffe"
   },
   "lastUpdated": "2025-12-14"
 }

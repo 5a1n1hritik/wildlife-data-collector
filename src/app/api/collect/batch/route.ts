@@ -31,28 +31,28 @@
 // }
 
 
-import speciesList from "@/data/input/species-list.json"
-import { fetchWikipediaSummary } from "@/lib/adapters/wikipedia.adapter"
-import { cleanWikipediaSpecies } from "@/lib/cleaners/species.cleaner"
-import { writeFile, mkdir } from "fs/promises"
-import path from "path"
+// import speciesList from "@/data/input/species-list.json"
+// import { fetchWikipediaSummary } from "@/lib/adapters/wikipedia.adapter"
+// import { cleanWikipediaSpecies } from "@/lib/cleaners/species.cleaner"
+// import { writeFile, mkdir } from "fs/promises"
+// import path from "path"
 
-export async function POST() {
-  const baseDir = path.join(process.cwd(), "src/data/species")
-  await mkdir(baseDir, { recursive: true })
+// export async function POST() {
+//   const baseDir = path.join(process.cwd(), "src/data/species")
+//   await mkdir(baseDir, { recursive: true })
 
-  for (const [category, speciesArr] of Object.entries(speciesList)) {
-    const categoryDir = path.join(baseDir, category)
-    await mkdir(categoryDir, { recursive: true })
+//   for (const [category, speciesArr] of Object.entries(speciesList)) {
+//     const categoryDir = path.join(baseDir, category)
+//     await mkdir(categoryDir, { recursive: true })
 
-    for (const name of speciesArr) {
-      const raw = await fetchWikipediaSummary(name)
-      const cleaned = cleanWikipediaSpecies(raw)
+//     for (const name of speciesArr) {
+//       const raw = await fetchWikipediaSummary(name)
+//       const cleaned = cleanWikipediaSpecies(raw)
 
-      const filePath = path.join(categoryDir, `${cleaned.id}.json`)
-      await writeFile(filePath, JSON.stringify(cleaned, null, 2))
-    }
-  }
+//       const filePath = path.join(categoryDir, `${cleaned.id}.json`)
+//       await writeFile(filePath, JSON.stringify(cleaned, null, 2))
+//     }
+//   }
 
-  return Response.json({ success: true })
-}
+//   return Response.json({ success: true })
+// }
