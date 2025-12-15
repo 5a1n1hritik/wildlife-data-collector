@@ -28,5 +28,95 @@
     "id": "elephas-maximus",
     "name": "Asian elephant",
     "wikibase_item": "Q133006"
+  },
+  {
+    "id": "giraffa-camelopardalis",
+    "name": "giraffe",
+    "wikibase_item": "Q15083",
+    "scientificName": "Giraffa camelopardalis"
+  },
+  {
+    "id": "homo-sapiens",
+    "name": "Homo sapiens",
+    "wikibase_item": "Q15978631",
+    "scientificName": "Homo sapiens"
+  },
+  {
+    "id": "bos-taurus",
+    "name": "Bos taurus",
+    "wikibase_item": "Q19610691",
+    "scientificName": "Bos taurus"
+  },
+  {
+    "id": "bos-indicus",
+    "name": "Bos indicus",
+    "wikibase_item": "Q20747726",
+    "scientificName": "Bos indicus"
+  },
+  {
+    "id": "bubalus-bubalis",
+    "name": "water buffalo",
+    "wikibase_item": "Q42710",
+    "scientificName": "Bubalus bubalis"
+  },
+  {
+    "id": "bubalus-depressicornis",
+    "name": "Bubalus depressicornis",
+    "wikibase_item": "Q317393",
+    "scientificName": "Bubalus depressicornis"
+  },
+  {
+    "id": "canis-familiaris",
+    "name": "Canis familiaris",
+    "wikibase_item": "Q20717272",
+    "scientificName": "Canis familiaris"
+  },
+  {
+    "id": "felis-catus",
+    "name": "Felis catus",
+    "wikibase_item": "Q20980826",
+    "scientificName": "Felis catus"
+  },
+  {
+    "id": "equus-ferus",
+    "name": "Equus ferus",
+    "wikibase_item": "Q27742",
+    "scientificName": "Equus ferus"
+  },
+  {
+    "id": "equus-ferus-caballus",
+    "name": "Equus ferus caballus",
+    "wikibase_item": "Q26644764",
+    "scientificName": "Equus ferus caballus"
+  },
+  {
+    "id": "camelus-dromedarius",
+    "name": "Camelus dromedarius",
+    "wikibase_item": "Q71516",
+    "scientificName": "Camelus dromedarius"
+  },
+  {
+    "id": "camelus-bactrianus",
+    "name": "Camelus bactrianus",
+    "wikibase_item": "Q132922",
+    "scientificName": "Camelus bactrianus"
+  },
+  {
+    "id": "macaca-mulatta",
+    "name": "rhesus macaque",
+    "wikibase_item": "Q156606",
+    "scientificName": "Macaca mulatta"
+  },
+  {
+    "id": "gorilla-beringei",
+    "name": "eastern gorilla",
+    "wikibase_item": "Q307157",
+    "scientificName": "Gorilla beringei"
+  },
+  {
+    "id": "gorilla-gorilla",
+    "name": "Gorilla gorilla",
+    "wikibase_item": "Q737838",
+    "scientificName": "Gorilla gorilla"
   }
 ]

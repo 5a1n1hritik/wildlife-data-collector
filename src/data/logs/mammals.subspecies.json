@@ -1,0 +1,26 @@
+[
+  {
+    "subspecies": {
+      "qid": "Q26644764",
+      "scientificName": null,
+      "label": "Equus ferus caballus",
+      "source": {
+        "wikidata": "https://www.wikidata.org/wiki/Q26644764",
+        "wikipedia": "https://en.wikipedia.org/wiki/Equus_ferus_caballus"
+      },
+      "image": null
+    },
+    "parentSpecies": {
+      "qid": "Q27742",
+      "scientificName": "Equus ferus",
+      "label": "Equus ferus",
+      "source": {
+        "wikidata": "https://www.wikidata.org/wiki/Q27742",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wild_horse"
+      },
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Equus%20ferus%20(wild%20horse)%20gallery.jpg"
+    },
+    "reason": "taxon rank = subspecies",
+    "timestamp": "2025-12-15T10:20:20.900Z"
+  }
+]

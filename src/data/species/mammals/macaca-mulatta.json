@@ -1,0 +1,25 @@
+{
+  "id": "macaca-mulatta",
+  "name": "rhesus macaque",
+  "scientificName": "Macaca mulatta",
+  "wikibase_item": "Q156606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 177601,
+      "id": "Q177601"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q156606",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhesus_macaque"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The rhesus macaque, colloquially rhesus monkey, is a species of Old World monkey in the Macaca genus. There are between six and nine recognised subspecies split between two groups, the Chinese-derived and the Indian-derived. Generally brown or grey in colour, it is 47–53 cm (19–21 in) in length with a 20.7–22.9 cm (8.1–9.0 in) tail and weighs 5.3–7.7 kg (12–17 lb). It is native to South, Central, and Southeast Asia and has the widest geographic range of all non-human primates, occupying a great diversity of altitudes and habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg"
+}

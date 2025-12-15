@@ -1,0 +1,25 @@
+{
+  "id": "homo-sapiens",
+  "name": "Homo sapiens",
+  "scientificName": "Homo sapiens",
+  "wikibase_item": "Q15978631",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 171283,
+      "id": "Q171283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15978631",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "Humans, scientifically known as Homo sapiens, are primates that belong to the biological family of great apes and are characterized by hairlessness, bipedality, and high intelligence. Humans have large brains compared to body size, enabling more advanced cognitive skills that facilitate successful adaptation to varied environments, development of sophisticated tools, and formation of complex social structures and civilizations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG"
+}

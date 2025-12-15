@@ -1,0 +1,25 @@
+{
+  "id": "equus-ferus",
+  "name": "Equus ferus",
+  "scientificName": "Equus ferus",
+  "wikibase_item": "Q27742",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 27022,
+      "id": "Q27022"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27742",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wild_horse"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The wild horse is a species of the genus Equus, which includes as subspecies the modern domesticated horse as well as the endangered Przewalski's horse. The European wild horse, also known as the tarpan, that went extinct in the late 19th or early 20th century has previously been treated as the nominate subspecies of wild horse, Equus ferus ferus, but more recent studies have cast doubt on whether tarpans were truly wild or if they actually were feral horses or hybrids.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Equus_ferus_%28wild_horse%29_gallery.jpg"
+}

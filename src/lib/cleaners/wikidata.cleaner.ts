@@ -16,7 +16,6 @@
 //   }
 // }
 
-
 // function getStringClaim(entity: any, prop: string): string | null {
 //   const claims = entity.claims?.[prop]
 //   if (!claims || !claims.length) return null
@@ -76,48 +75,62 @@
 //   }
 // }
 
-
 function getFirstClaim(entity: any, prop: string) {
-  const claim = entity.claims?.[prop]?.[0]
-  const value = claim?.mainsnak?.datavalue?.value
-  return value ?? null
+  const claim = entity.claims?.[prop]?.[0];
+  const value = claim?.mainsnak?.datavalue?.value;
+  return value ?? null;
 }
 
 function getEntityId(value: any): string | null {
-  if (!value) return null
-  if (value.id) return value.id
-  return null
+  if (!value) return null;
+  if (value.id) return value.id;
+  return null;
 }
 
 export function extractSpeciesFields(wikidata: any) {
-  const entity = wikidata.entities[Object.keys(wikidata.entities)[0]]
+  const entity = wikidata.entities[Object.keys(wikidata.entities)[0]];
 
   // Validate taxon
-  const instanceOf = getFirstClaim(entity, "P31")
-  const rank = getFirstClaim(entity, "P105")
+  const instanceOf = getFirstClaim(entity, "P31");
+  const rank = getFirstClaim(entity, "P105");
 
-  const isTaxon = getEntityId(instanceOf) === "Q16521"
-  const isSpecies = getEntityId(rank) === "Q7432"
+  const instanceId = getEntityId(instanceOf);
+  const rankId = getEntityId(rank);
 
-  if (!isTaxon || !isSpecies) {
-    throw new Error("Not a species-level taxon")
+  const isTaxon = instanceId === "Q16521";
+  const isSpecies = rankId === "Q7432";
+  const isSubspecies = rankId === "Q68947";
+
+  if (!isTaxon) {
+    throw new Error("Not a taxon");
+  }
+
+  if (isSubspecies) {
+    return {
+      type: "subspecies",
+      scientificName: getFirstClaim(entity, "P225")?.text ?? null,
+      parentQid: getFirstClaim(entity, "P171")?.id ?? null,
+    };
+  }
+
+  if (!isSpecies) {
+    throw new Error("Not a species-level taxon");
   }
 
   // Scientific name resolution
   let scientificName =
-    getFirstClaim(entity, "P225")?.text ??
-    entity.labels?.la?.value ??
-    null
+    getFirstClaim(entity, "P225")?.text ?? entity.labels?.la?.value ?? null;
 
   if (!scientificName) {
-    throw new Error("Scientific name not found")
+    throw new Error("Scientific name not found");
   }
 
   return {
+    type: "species",
     scientificName,
     taxonomy: {
       taxonRank: rank,
       parentTaxon: getFirstClaim(entity, "P171"),
-    }
-  }
+    },
+  };
 }

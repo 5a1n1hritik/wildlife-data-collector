@@ -1,0 +1,25 @@
+{
+  "id": "gorilla-gorilla",
+  "name": "Gorilla gorilla",
+  "scientificName": "Gorilla gorilla",
+  "wikibase_item": "Q737838",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 36611,
+      "id": "Q36611"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q737838",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_gorilla"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The western gorilla is a great ape found in Africa, one of two species of the hominine genus Gorilla. Large and robust with males weighing around 168 kilograms (370 lb), the species is found in a region of midwest Africa, geographically isolated from the eastern gorilla. The hair of the western species is significantly lighter in color.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Male_gorilla_in_SF_zoo.jpg"
+}
