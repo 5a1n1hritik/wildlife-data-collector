@@ -1,0 +1,26 @@
+{
+  "id": "chaetodipus-lineatus",
+  "name": "Lined pocket mouse",
+  "scientificName": "Chaetodipus lineatus",
+  "wikibase_item": "Q172360",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q172360",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lined_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lined pocket mouse is a species of rodent in the family Heteromyidae. This pocket mouse is endemic to a small area of central Mexico.",
+  "image": null,
+  "_score": 0
+}

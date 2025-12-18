@@ -1,0 +1,26 @@
+{
+  "id": "eumops-ferox",
+  "name": "Eumops ferox",
+  "scientificName": "Eumops ferox",
+  "wikibase_item": "Q50380120",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50380120",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eumops_ferox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eumops ferox, the fierce bonneted bat or the chestnut mastiff bat, is a species of free-tailed bat found in the Caribbean and Mexico. Until recently, it was synonymous with Wagner's bonneted bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Eumops_ferox_map.jpg",
+  "_score": 1
+}

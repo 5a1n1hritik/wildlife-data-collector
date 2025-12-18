@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-musicus",
+  "name": "Caucasian Mountain Ground Squirrel",
+  "scientificName": "Spermophilus musicus",
+  "wikibase_item": "Q2019318",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2019318",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caucasian_Mountain_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caucasian Mountain ground squirrel is a species of rodent in the family Sciuridae. Its taxonomic status has been the subject of much debate, and it has at times been treated as a subspecies of the little ground squirrel. It was formerly considered endemic to the North Caucasus, but a 2024 analysis suggested that all populations of the little ground squirrel to the west of the Volga River should be included in this species. According to this definition, the Caucasian ground squirrel is widespread, ranging from Dagestan to Crimea and between the Dnieper and the Volga. It is not distributed in the Kuban, and the population in the North Caucasus is isolated.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%A1%D1%83%D1%81%D0%BB%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5.jpg",
+  "_score": 2
+}

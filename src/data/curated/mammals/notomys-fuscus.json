@@ -1,0 +1,25 @@
+{
+  "id": "notomys-fuscus",
+  "name": "Dusky hopping mouse",
+  "scientificName": "Notomys fuscus",
+  "wikibase_item": "Q146477",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 782974,
+      "id": "Q782974"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146477",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_hopping_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky hopping mouse, is a small rodent endemic to Australia, inhabiting desert regions characterised by sand dunes. Populations have experienced significant declines since the arrival of Europeans, and continue to be subject to threatening processes. It is currently listed as a threatened species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Dusky_hopping_mouse.jpg"
+}

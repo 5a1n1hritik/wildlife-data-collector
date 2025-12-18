@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-lagonotus",
+  "name": "Saguinus lagonotus",
+  "scientificName": "Saguinus lagonotus",
+  "wikibase_item": "Q20083699",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20083699",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-mantled_saddle-back_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-mantled saddle-back tamarin is a species of saddle-back tamarin, a type of small monkey from South America. The red-mantled saddle-back tamarin was formerly considered to be a subspecies of the brown-mantled tamarin, L. fuscicollis. It lives in Ecuador and Peru and its type locality is in Peru, near the confluence of the Amazon River and the Napo River.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Saddleback_Tamarin.JPG",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "platyrrhinus-angustirostris",
+  "name": "Platyrrhinus angustirostris",
+  "scientificName": "Platyrrhinus angustirostris",
+  "wikibase_item": "Q16590959",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16590959",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender broad-nosed bat is a species of bat in the family Phyllostomidae. As a phyllostomid bat, it is characterized by a narrow uropatagium which is fringed with hair; a white dorsal stripe; large inner upper incisors convergent at the tips; and three upper and three lower molars. It is found in eastern Colombia and Ecuador, north-eastern Peru, and Venezuela. It is closely related to Platyrrhinus incarum and Platyrrhinus fusciventris.",
+  "image": null,
+  "_score": 1
+}

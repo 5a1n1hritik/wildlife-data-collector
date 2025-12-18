@@ -1,0 +1,26 @@
+{
+  "id": "lophostoma-occidentale",
+  "name": "Lophostoma occidentale",
+  "scientificName": "Lophostoma occidentale",
+  "wikibase_item": "Q21278727",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894193,
+      "id": "Q2894193"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21278727",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western round-eared bat is a bat species found only on the Pacific coast of northwestern Ecuador.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lophostoma_occidentalis_map.svg/500px-Lophostoma_occidentalis_map.svg.png",
+  "_score": 1
+}

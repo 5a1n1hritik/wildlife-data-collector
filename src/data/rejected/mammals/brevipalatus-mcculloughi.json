@@ -1,0 +1,28 @@
+{
+  "id": "brevipalatus-mcculloughi",
+  "name": "Brevipalatus mcculloughi",
+  "scientificName": "Brevipalatus mcculloughi",
+  "wikibase_item": "Q64205262",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 64205455,
+      "id": "Q64205455"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64205262",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brevipalatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brevipalatus mcculloughi is a species of bat that existed in the early Miocene. It was discovered at a fossil deposit of the Riversleigh World Heritage Area.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

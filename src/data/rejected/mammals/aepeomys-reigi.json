@@ -1,0 +1,26 @@
+{
+  "id": "aepeomys-reigi",
+  "name": "Reig's montane mouse",
+  "scientificName": "Aepeomys reigi",
+  "wikibase_item": "Q1766055",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 490428,
+      "id": "Q490428"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766055",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reig's_montane_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Reig's montane mouse is a species of rodent in the family Cricetidae.\nIt is found only in Venezuela. It is named after Argentine biologist Osvaldo Reig (1929–1992).",
+  "image": null,
+  "_score": 0
+}

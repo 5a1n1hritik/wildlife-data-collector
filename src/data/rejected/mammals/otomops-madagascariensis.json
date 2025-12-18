@@ -1,0 +1,26 @@
+{
+  "id": "otomops-madagascariensis",
+  "name": "Madagascar free-tailed bat",
+  "scientificName": "Otomops madagascariensis",
+  "wikibase_item": "Q577028",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q577028",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madagascar_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Madagascar free-tailed bat or Malagasy giant mastiff bat is a species of free-tailed bat formerly included as a subspecies of the large-eared free-tailed bat, but that was later considered to be a distinct, Malagasy species. The Madagascar free-tailed bat is endemic to northern, western, and southern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Otomops_madagascariensis_range_map.svg/2324px-Otomops_madagascariensis_range_map.svg.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "notiosorex-villai",
+  "name": "Villa's gray shrew",
+  "scientificName": "Notiosorex villa",
+  "wikibase_item": "Q1769073",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1543771,
+      "id": "Q1543771"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769073",
+    "wikipedia": "https://en.wikipedia.org/wiki/Villa's_gray_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Villa's gray shrew is a shrew native to northeastern Mexico, where it is called musaraña.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Villa%27s_Gray_Shrew_area.png",
+  "_score": 1
+}

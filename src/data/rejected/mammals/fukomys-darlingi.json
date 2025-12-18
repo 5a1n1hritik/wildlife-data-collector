@@ -1,0 +1,26 @@
+{
+  "id": "fukomys-darlingi",
+  "name": "Fukomys darlingi",
+  "scientificName": "Fukomys darlingi",
+  "wikibase_item": "Q978357",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q978357",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mashona_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mashona mole-rat is a species of rodent in the family Bathyergidae. It is found in Mozambique and Zimbabwe. Its natural habitats are subtropical or tropical dry shrubland, subtropical or tropical dry lowland grassland, and caves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Fukomys_darlingi_Rudloff.jpg",
+  "_score": 2
+}

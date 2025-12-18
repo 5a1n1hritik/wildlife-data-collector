@@ -1,0 +1,26 @@
+{
+  "id": "abrothrix-andina",
+  "name": "Andean Akodont",
+  "scientificName": "Abrothrix andinus",
+  "wikibase_item": "Q1769675",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769675",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrothrix_andina"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix andina, also known as the Andean Altiplano mouse or Andean akodont, is a species of rodent in the genus Abrothrix of family Cricetidae. It is found in the Altiplano habitat of the Andes from central Peru through Bolivia, south to Argentina and Chile.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Abrothrix_andina_363542836.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-mitratus",
+  "name": "Mitred Horseshoe Bat",
+  "scientificName": "Rhinolophus mitratus",
+  "wikibase_item": "Q1762069",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762069",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitred_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mitred horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to India. Little is known about the species, because it is known only from the holotype, the specimen used to describe the species to science. The specimen was collected in Jharkhand in 1844.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/EB1911_Chiroptera_Fig._6.jpg",
+  "_score": 1
+}

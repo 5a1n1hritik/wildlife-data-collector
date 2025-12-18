@@ -1,0 +1,28 @@
+{
+  "id": "nesophontes-longirostris",
+  "name": "Slender Cuban Nesophontes",
+  "scientificName": "Nesophontes longirostris",
+  "wikibase_item": "Q1768368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 941502,
+      "id": "Q941502"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768368",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_Cuban_nesophontes"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western Cuban nesophontes is an extinct species of mammal in the family Nesophontidae. It was found on Cuba and Hispaniola. It was recently discovered to include three previously thought species: N. submicrus, N. longirostris, and N. superstes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Western_Cuban_nesophontes_jaw.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

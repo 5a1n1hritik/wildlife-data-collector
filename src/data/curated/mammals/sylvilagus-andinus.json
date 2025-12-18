@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-andinus",
+  "name": "Sylvilagus andinus",
+  "scientificName": "Sylvilagus andinus",
+  "wikibase_item": "Q57321580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57321580",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_tapeti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andean tapeti or Andean cottontail is a species of cottontail rabbit native to Colombia, Venezuela, Peru and Ecuador. It was previously considered a subspecies of the common tapeti. It serves an important ecological role as a pervasive herbivore consuming a wide variety of plant species as well as an important food source for several predators. Some characteristics of the species is a head and body length of 326-353 mm, a small tail 6-7% of its head and body length, long hindfeet of 64-81 mm, dusky appearance, a forehead suffused with brown, ashy gray cheeks and neck sides, and a whitish chin and belly. Living at high elevations in the treeless Páramo of the Andes, analysis in 2017 confirmed that it is sufficiently distinct in both appearance and genetics to be considered a species in its own right. Although widespread, it remains poorly known, as few studies have been conducted on its biology and habits as distinct from those of the tapeti",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sylvilagus_brasiliensis_andinus_%2812687595295%29.jpg",
+  "_score": 3
+}

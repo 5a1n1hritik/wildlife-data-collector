@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-chocoana",
+  "name": "Lonchophylla chocoana",
+  "scientificName": "Lonchophylla chocoana",
+  "wikibase_item": "Q2388750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2388750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chocoan_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chocoan long-tongued bat is a species of bat found in South America. It was described as a new species in 2004.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Distribution_of_Lonchophylla_chocoana.png",
+  "_score": 1
+}

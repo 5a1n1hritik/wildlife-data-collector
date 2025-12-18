@@ -1,0 +1,26 @@
+{
+  "id": "philander-melanurus",
+  "name": "Philander melanurus",
+  "scientificName": "Philander melanurus",
+  "wikibase_item": "Q104248135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104248135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark four-eyed opossum is a species of opossum from Central and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Dark_Four-eyed_Opossum_imported_from_iNaturalist_photo_352635072_on_14_October_2024.jpg",
+  "_score": 1
+}

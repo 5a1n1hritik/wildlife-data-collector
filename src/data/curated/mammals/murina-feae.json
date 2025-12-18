@@ -1,0 +1,25 @@
+{
+  "id": "murina-feae",
+  "name": "Murina feae",
+  "scientificName": "Murina feae",
+  "wikibase_item": "Q41938286",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1179958,
+      "id": "Q1179958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41938286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fea's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fea's tube-nosed bat, also known as the ashy tube-nosed bat, is a species in the vesper bat in the family Vespertilionidae, found in southeastern Asia and southern China. They have tube-shaped nostrils which assist them with their feeding. It is named after Italian naturalist Leonardo Fea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ashy-gray_tube-nosed_bat.jpg"
+}

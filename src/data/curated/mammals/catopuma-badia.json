@@ -1,0 +1,26 @@
+{
+  "id": "catopuma-badia",
+  "name": "Catopuma badia",
+  "scientificName": "Catopuma badia",
+  "wikibase_item": "Q23772801",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1419858,
+      "id": "Q1419858"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23772801",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bay_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bay cat, also known as the Bornean bay cat, is a small wild cat endemic to the island of Borneo that appears to be relatively rare compared to sympatric wild cats, based on the paucity of historical, as well as recent records. Since 2002, it has been listed as Endangered on the IUCN Red List because it is estimated that fewer than 2,500 mature individuals exist, and that the population declined in the past. The bay cat has been recorded as rare and seems to occur at relatively low density, even in pristine habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bay_cat_1_Jim_Sanderson-cropped.jpg",
+  "_score": 3
+}

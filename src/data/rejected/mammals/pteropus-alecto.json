@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-alecto",
+  "name": "Black flying fox",
+  "scientificName": "Pteropus alecto",
+  "wikibase_item": "Q998343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q998343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black flying fox or black fruit bat is a bat in the family Pteropodidae. It is among the largest bats in the world, but is considerably smaller than the largest species in its genus, Pteropus. The black flying fox is native to Australia, Papua New Guinea, and Indonesia. It is not a threatened species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Black_Flying_Fox_-_Pteropus_alecto_-_%28IMG_4883%29.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "parantechinus-apicalis",
+  "name": "Parantechinus apicalis",
+  "scientificName": "Parantechinus apicalis",
+  "wikibase_item": "Q734940",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2724093,
+      "id": "Q2724093"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q734940",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dibbler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dibbler is an endangered species of marsupial. It is an inhabitant of the southwest mainland of Western Australia and some offshore islands. It is a member of the order Dasyuromorphia, and the only member of the genus Parantechinus. The dibbler is a small, nocturnal carnivore with speckled fur that is white around the eyes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Parantechinus_apicalis_-_Gould.jpg",
+  "_score": 1
+}

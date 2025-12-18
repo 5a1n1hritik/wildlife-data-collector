@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-seuanezi",
+  "name": "Oryzomys seuanezi",
+  "scientificName": "Oryzomys seuanezi",
+  "wikibase_item": "Q10803286",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10803286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hylaeamys_laticeps"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hylaeamys laticeps, also known as the Atlantic Forest oryzomys or the large-headed rice rat, is a species of rodent in the family Cricetidae.",
+  "image": null,
+  "_score": 0
+}

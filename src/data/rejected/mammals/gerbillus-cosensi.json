@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-cosensi",
+  "name": "Gerbillus cosensi",
+  "scientificName": "Gerbillus cosensi",
+  "wikibase_item": "Q14560472",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14560472",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agag_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Agag gerbil is distributed mainly in southern Mauritania to northern Nigeria and Sudan.",
+  "image": null,
+  "_score": 0
+}

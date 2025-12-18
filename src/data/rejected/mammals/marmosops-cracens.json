@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-cracens",
+  "name": "Narrow-headed slender opossum",
+  "scientificName": "Marmosops cracens",
+  "wikibase_item": "Q194140",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194140",
+    "wikipedia": "https://en.wikipedia.org/wiki/Narrow-headed_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The narrow-headed slender opossum is a species of opossum in the family Didelphidae. It is endemic to Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Slim-faced_Slender_Mouse_Opossum_area.png",
+  "_score": 1
+}

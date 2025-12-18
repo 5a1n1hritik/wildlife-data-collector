@@ -1,0 +1,25 @@
+{
+  "id": "acerodon-humilis",
+  "name": "Talaud Flying Fox",
+  "scientificName": "Acerodon humilis",
+  "wikibase_item": "Q301625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2307345,
+      "id": "Q2307345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301625",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talaud_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Talaud flying fox or Talaud fruit bat is a species of bat in the family Pteropodidae. It is endemic to the islands of Salebabu and Karekaleng in the Talaud Archipelago of Indonesia. Its natural habitat is subtropical or tropical swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Talaud_Flying_Fox_area.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-lenis",
+  "name": "Lenis woolly bat",
+  "scientificName": "Kerivoula lenis",
+  "wikibase_item": "Q649041",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q649041",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lenis_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lenis woolly bat is a species of bat in the family Vespertilionidae. It is found in South and Southeast Asia.",
+  "image": null,
+  "_score": 0
+}

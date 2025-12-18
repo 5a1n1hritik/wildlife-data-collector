@@ -1,0 +1,26 @@
+{
+  "id": "chaeropus-ecaudatus",
+  "name": "Chaeropus ecaudatus",
+  "scientificName": "Chaeropus ecaudatus",
+  "wikibase_item": "Q301045",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10745316,
+      "id": "Q10745316"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301045",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_pig-footed_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern pig-footed bandicoot was a small species of herbivorous marsupial in the genus Chaeropus, the pig-footed bandicoots.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PigFootedBandicoot.jpg",
+  "_score": 1
+}

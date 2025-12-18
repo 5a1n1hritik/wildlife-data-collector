@@ -1,0 +1,26 @@
+{
+  "id": "neodon-sikimensis",
+  "name": "Sikkim mountain vole",
+  "scientificName": "Neodon sikimensis",
+  "wikibase_item": "Q1764961",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427901,
+      "id": "Q427901"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764961",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sikkim_mountain_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sikkim mountain vole is a species of rodent in the family Cricetidae. It is found in Bhutan, India, Nepal and China.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "balionycteris-maculata",
+  "name": "Balionycteris maculata",
+  "scientificName": "Balionycteris maculata",
+  "wikibase_item": "Q134342",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10737561,
+      "id": "Q10737561"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134342",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted-winged_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted-winged fruit bat is the smallest megabat in the world. It inhabits forests in Brunei, Indonesia, Malaysia, and Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Spotted-winged_fruit_bat_Balionycteris_maculata.jpg",
+  "_score": 1
+}

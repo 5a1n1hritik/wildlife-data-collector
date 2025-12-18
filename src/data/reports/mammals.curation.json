@@ -1,0 +1,16 @@
+[
+  {
+    "total": 9083,
+    "accepted": 622,
+    "rejected": 8461,
+    "avgScore": 10.98,
+    "reasons": {
+      "no_description": 3766,
+      "no_wikipedia": 3766,
+      "low_score_2": 1054,
+      "low_score_0": 805,
+      "low_score_1": 2621,
+      "extinct_or_fossil": 215
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "chiropodomys-major",
+  "name": "Large pencil-tailed tree-mouse",
+  "scientificName": "Chiropodomys major",
+  "wikibase_item": "Q306622",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 579868,
+      "id": "Q579868"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306622",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_pencil-tailed_tree_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large pencil-tailed tree mouse or greater pencil-tailed tree mouse is a species of arboreal rodent in the family Muridae. It is endemic to Borneo where it is only known from Sabah and Sarawak (Malaysia), although it is likely to also occur in Kalimantan.",
+  "image": null,
+  "_score": 0
+}

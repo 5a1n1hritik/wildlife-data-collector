@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-bongolavensis",
+  "name": "Bongolava mouse lemur",
+  "scientificName": "Microcebus bongolavensis",
+  "wikibase_item": "Q892436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q892436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bongolava_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bongolava mouse lemur is a species of mouse lemur endemic to Madagascar. It lives in western deciduous forest within a limited range, including Bongolava Forest and Ambodimahabibo Forest between the Sofia River and the Mahajamba River.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Microcebus_bongolavensis_range_map.svg/960px-Microcebus_bongolavensis_range_map.svg.png"
+}

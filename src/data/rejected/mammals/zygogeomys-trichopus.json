@@ -1,0 +1,26 @@
+{
+  "id": "zygogeomys-trichopus",
+  "name": "Michoacan pocket gopher",
+  "scientificName": "Zygogeomys trichopus",
+  "wikibase_item": "Q973229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10838669,
+      "id": "Q10838669"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q973229",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michoacan_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Michoacan pocket gopher is a species of rodent in the family Geomyidae. It is monotypic within the genus Zygogeomys. It is endemic to Mexico where its natural habitat is temperate, high-altitude forests. Its numbers are declining and it is listed by the IUCN as \"endangered\".",
+  "image": null,
+  "_score": 1
+}

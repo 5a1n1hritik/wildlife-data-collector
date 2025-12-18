@@ -1,0 +1,26 @@
+{
+  "id": "myotis-leuconoe",
+  "name": "Myotis leuconoe",
+  "scientificName": "Myotis leuconoe",
+  "wikibase_item": "Q41085409",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085409"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

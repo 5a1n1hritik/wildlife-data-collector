@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-scapulatus",
+  "name": "Pteropus scapulatus",
+  "scientificName": "Pteropus scapulatus",
+  "wikibase_item": "Q559965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q559965",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_red_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little red flying-fox is a megachiropteran bat native to northern and eastern Australia. The species weighs about half a kilogram, one US pound, and is the smallest species of Pteropus in mainland Australia. P. scapulatus occurs at the coast and further inland, camping and flying to the tropical to temperate regions that provide them with an annual source of nectar. They exhibit an unusual method of obtaining drinking water during dry periods, skimming a stream's surface to gather it onto their fur while they are in flight.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Little_red_flying_fox_2016.png",
+  "_score": 2
+}

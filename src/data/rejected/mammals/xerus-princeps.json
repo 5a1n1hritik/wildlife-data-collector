@@ -1,0 +1,26 @@
+{
+  "id": "xerus-princeps",
+  "name": "Mountain ground squirrel",
+  "scientificName": "Xerus princeps",
+  "wikibase_item": "Q1765019",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284816,
+      "id": "Q284816"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765019",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain ground squirrel is a rodent that is native to southwestern Angola, western Namibia, and western South Africa. It is also known as the Kaoko ground squirrel or the Damara ground squirrel.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Damara_ground_squirrel.jpg",
+  "_score": 1
+}

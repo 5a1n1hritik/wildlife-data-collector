@@ -1,0 +1,26 @@
+{
+  "id": "otomys-sungae",
+  "name": "Otomys sungae",
+  "scientificName": "Otomys sungae",
+  "wikibase_item": "Q99194695",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194695"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

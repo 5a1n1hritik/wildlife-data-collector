@@ -1,0 +1,26 @@
+{
+  "id": "calomys-fecundus",
+  "name": "Fecund vesper mouse",
+  "scientificName": "Calomys fecundus",
+  "wikibase_item": "Q2497057",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2497057",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fecund_vesper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fecund vesper mouse is a species of rodent in the family Cricetidae. It is known only from Bolivia, where it is found in the yungas and Tucumano boliviano forest ecoregions at elevations from 600 to 2700 m. It is regarded by some authorities as conspecific with C. boliviae, and by some as conspecific with C. venustus, despite having a karyotype with 2n = 54 while C. venustus generally has a karyotype with 2n = 56.",
+  "image": null,
+  "_score": 1
+}

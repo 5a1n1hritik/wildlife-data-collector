@@ -1,0 +1,26 @@
+{
+  "id": "laephotis-stanleyi",
+  "name": "Laephotis stanleyi",
+  "scientificName": "Laephotis stanleyi",
+  "wikibase_item": "Q99977455",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 599681,
+      "id": "Q599681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99977455",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laephotis_stanleyi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Laephotis stanleyi, also called Stanley's serotine, is a species of vesper bat in the genus Laephotis. It is found across southern Africa. The species was formerly known as N. cf. melckorum, before being named as a species in 2017.",
+  "image": null,
+  "_score": 0
+}

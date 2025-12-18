@@ -1,0 +1,26 @@
+{
+  "id": "chalinolobus-gouldii",
+  "name": "Chalinolobus gouldii",
+  "scientificName": "Chalinolobus gouldii",
+  "wikibase_item": "Q136051",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134516,
+      "id": "Q134516"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136051",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gould's_wattled_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gould's wattled bat is a species of Australian wattled bat named after the English naturalist John Gould.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gould-Lappenfledermaus_-_Chalinolobus_gouldii_73885536.jpg",
+  "_score": 1
+}

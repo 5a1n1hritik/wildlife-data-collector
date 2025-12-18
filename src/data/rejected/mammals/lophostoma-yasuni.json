@@ -1,0 +1,26 @@
+{
+  "id": "lophostoma-yasuni",
+  "name": "Lophostoma yasuni",
+  "scientificName": "Lophostoma yasuni",
+  "wikibase_item": "Q2209146",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894193,
+      "id": "Q2894193"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2209146",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carriker's_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Carriker's round-eared bat is a bat species found in Bolivia, Brazil, Colombia, Guyana, Peru, Suriname and Venezuela. It was discovered by and named for Melbourne A. Carriker, Jr.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lophostoma_carrikeri.jpg",
+  "_score": 1
+}

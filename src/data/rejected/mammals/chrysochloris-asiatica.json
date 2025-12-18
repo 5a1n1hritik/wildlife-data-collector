@@ -1,0 +1,26 @@
+{
+  "id": "chrysochloris-asiatica",
+  "name": "Cape golden mole",
+  "scientificName": "Chrysochloris asiatica",
+  "wikibase_item": "Q2313420",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20870023,
+      "id": "Q20870023"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2313420",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape golden mole is a small, insectivorous mammal of the family Chrysochloridae, the golden moles. The species is a solitary subterranean insectivore, confined to the coastal regions of the southwestern and southern Cape in South Africa. When foraging for small, soil invertebrates and small lizards, these golden moles excavate superficial burrows using their conical nose shield and highly modified forefeet. Females are smaller than males. Golden moles have very dense, soft, and silky coats. The coats are colored blackish to slaty-grey and brown to pale fawn. They have also been observed to venture onto sandy beaches, presumably to feed on amphipods and isopods occurring there.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Chrysochloris_asiatica_270437025.jpg",
+  "_score": 2
+}

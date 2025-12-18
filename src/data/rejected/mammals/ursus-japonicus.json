@@ -1,0 +1,26 @@
+{
+  "id": "ursus-japonicus",
+  "name": "Ursus japonicus",
+  "scientificName": "Ursus japonicus",
+  "wikibase_item": "Q121502670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121502670",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_black_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese black bear is a subspecies of the Asian black bear that lives on two main islands of Japan: Honshu and Shikoku.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Japanese_black_bear_2.jpg",
+  "_score": 1
+}

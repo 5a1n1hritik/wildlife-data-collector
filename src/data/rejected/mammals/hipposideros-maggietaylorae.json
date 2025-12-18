@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-maggietaylorae",
+  "name": "Hipposideros maggietaylorae",
+  "scientificName": "Hipposideros maggietaylorae",
+  "wikibase_item": "Q1767744",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767744",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maggie_Taylor's_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Maggie Taylor's roundleaf bat is a species of bat in the family Hipposideridae. It is found in West Papua (Indonesia) and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Maggie_Taylor%27s_Roundleaf_Bat_area.png",
+  "_score": 1
+}

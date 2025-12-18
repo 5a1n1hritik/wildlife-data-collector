@@ -1,0 +1,25 @@
+{
+  "id": "marmosa-tyleriana",
+  "name": "Tyler's mouse opossum",
+  "scientificName": "Marmosa tyleriana",
+  "wikibase_item": "Q194879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler's_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tyler's mouse opossum is a South American marsupial of the family Didelphidae. It lives in rainforests of the Guiana Highlands of southern Venezuela at elevations between 1300 and 2200 m. The species has only been found on three isolated tepuis. All three of these locations are in protected areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tyler%27s_Mouse_Opossum_area.png"
+}

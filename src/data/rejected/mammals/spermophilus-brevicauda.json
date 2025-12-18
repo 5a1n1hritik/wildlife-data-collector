@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-brevicauda",
+  "name": "Spermophilus brevicauda",
+  "scientificName": "Spermophilus brevicauda",
+  "wikibase_item": "Q1765678",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765678",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spermophilus_brevicauda"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spermophilus brevicauda is a species of rodent in the family Sciuridae. It is found in eastern Kazakhstan and the northern half of the Xinjiang region of China.",
+  "image": null,
+  "_score": 0
+}

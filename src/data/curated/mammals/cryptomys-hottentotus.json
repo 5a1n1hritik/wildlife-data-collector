@@ -1,0 +1,25 @@
+{
+  "id": "cryptomys-hottentotus",
+  "name": "Common mole rat",
+  "scientificName": "Cryptomys hottentotus",
+  "wikibase_item": "Q1032783",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136488,
+      "id": "Q136488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1032783",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common mole-rat, African mole-rat, or Hottentot mole-rat, is a burrowing rodent found in Southern Africa, in particular in the Western Cape province of South Africa. It also occurs in Eswatini, Lesotho, Malawi, Mozambique, Tanzania, Zambia, and Zimbabwe. It is a species in the subfamily Bathyerginae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cryptomys_hottentotus_Whatmore_2.jpg"
+}

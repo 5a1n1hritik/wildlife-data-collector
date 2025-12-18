@@ -1,0 +1,26 @@
+{
+  "id": "avahi-meridionalis",
+  "name": "Southern woolly lemur",
+  "scientificName": "Avahi meridionalis",
+  "wikibase_item": "Q1350349",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1350349",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern woolly lemur, or southern avahi, has been recently recognized as a separate species of woolly lemur in 2006 by Zaramody et al. It is a nocturnal and pair-living species. Groups can range from 2 to 5 individuals. A study in Sainte Luce forest revealed home range varied from 2.2 to 3.5 ha and that males can have larger home range and cover longer daily distances than females, in agreement with the territory defence and mate guarding hypotheses.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Avahi_meridionalis_range_map.svg/960px-Avahi_meridionalis_range_map.svg.png",
+  "_score": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-ruwenzorii",
+  "name": "Ruwenzori Horseshoe Bat",
+  "scientificName": "Rhinolophus ruwenzorii",
+  "wikibase_item": "Q1761326",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761326",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruwenzori_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ruwenzori horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Democratic Republic of the Congo, Rwanda, and Uganda. Its natural habitats are subtropical or tropical moist lowland forest and swamps, caves and other subterranean habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ruwenzori_Horseshoe_Bat_area.png"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "perameles-notina",
+  "name": "Perameles notina",
+  "scientificName": "Perameles notina",
+  "wikibase_item": "Q111989902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207399,
+      "id": "Q1207399"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111989902",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perameles_notina"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Perameles notina, known as the south-eastern striped bandicoot or southern barred bandicoot, is an extinct species of bandicoot that was native to South-eastern South Australia, north-western Victoria, and South-western New South Wales. Despite not being officially categorized as extinct by the IUCN until October 2025, the species has gone unsighted since the late 1800s. The cause of extinction is likely related to agricultural development, changes in land use, and the increasing presence of feral cats.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

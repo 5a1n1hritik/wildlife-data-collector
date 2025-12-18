@@ -1,0 +1,25 @@
+{
+  "id": "galago-cocos",
+  "name": "Galago cocos",
+  "scientificName": "Galago cocos",
+  "wikibase_item": "Q50377737",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50377737",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenya_coast_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kenya coast galago is a species of primate in the family Galagidae. It is found across Kenya and Tanzania, particularly around the northern coastal area of each of the countries, and has been located living from sea level to around 350 metres (1,150 ft) above sea level.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Taita_mountain_dwarf_galago_from_Taita_Hills.jpg"
+}

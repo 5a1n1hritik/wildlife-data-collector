@@ -1,0 +1,26 @@
+{
+  "id": "episoriculus-caudatus",
+  "name": "Hodgsons's brown-toothed shrew",
+  "scientificName": "Episoriculus caudatus",
+  "wikibase_item": "Q1764018",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894104,
+      "id": "Q2894104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764018",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hodgson's_brown-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hodgson's brown-toothed shrew is a species of mammal in the family Soricidae. It is found in China, India, and Myanmar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Hodgsons%27s_Brown-toothed_Shrew_area.png",
+  "_score": 1
+}

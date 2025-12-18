@@ -1,0 +1,26 @@
+{
+  "id": "maxomys-hellwaldii",
+  "name": "Hellwald's spiny rat",
+  "scientificName": "Maxomys hellwaldii",
+  "wikibase_item": "Q1761193",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761193",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hellwald's_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hellwald's spiny rat is a species of rodent in the family Muridae.\nIt is found only on Sulawesi in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Taxidermied_Maxomys_hellwaldii.JPG",
+  "_score": 1
+}

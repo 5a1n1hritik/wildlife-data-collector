@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-velilla",
+  "name": "Rhogeessa velilla",
+  "scientificName": "Rhogeessa velilla",
+  "wikibase_item": "Q81849771",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608576,
+      "id": "Q608576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81849771",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhogeessa_velilla"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rhogeessa velilla, also called the Ecuadorian little yellow bat, is a species of vesper bat in the genus Rhogeessa. It is found in Northwestern Peru and parts of Ecuador. The species was previously included in R. io, but is now recognized as a separate species. Very little is known about this species, though it is generally considered to be insectivorous.",
+  "image": null,
+  "_score": 0
+}

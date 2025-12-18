@@ -1,0 +1,28 @@
+{
+  "id": "archetypomys-erlianensis",
+  "name": "Archetypomys erlianensis",
+  "scientificName": "Archetypomys erlianensis",
+  "wikibase_item": "Q4786165",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20675432,
+      "id": "Q20675432"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4786165",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archetypomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Archetypomys is an extinct genus of early Eocene rodent and the only member of the family Archetypomyidae. A single species, Archetypomys erlianensis, has been described from Inner Mongolia. Archetypomys was a very small rodent intermediate in morphology between the basal rodent family Alagomyidae and more advanced rodents.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

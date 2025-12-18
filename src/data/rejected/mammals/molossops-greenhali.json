@@ -1,0 +1,26 @@
+{
+  "id": "molossops-greenhali",
+  "name": "Molossops greenhali",
+  "scientificName": "Molossops greenhali",
+  "wikibase_item": "Q40519979",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 581284,
+      "id": "Q581284"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40519979"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "necromantis-grandis",
+  "name": "Necromantis grandis",
+  "scientificName": "Necromantis grandis",
+  "wikibase_item": "Q70342983",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20721996,
+      "id": "Q20721996"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70342983"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

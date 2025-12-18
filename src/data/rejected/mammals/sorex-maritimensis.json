@@ -1,0 +1,26 @@
+{
+  "id": "sorex-maritimensis",
+  "name": "Maritime Shrew",
+  "scientificName": "Sorex maritimensis",
+  "wikibase_item": "Q1769752",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769752",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maritime_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The maritime shrew is a species of mammal in the family Soricidae. It is found in New Brunswick and Nova Scotia in Canada.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Maritime_Shrew_area.png",
+  "_score": 1
+}

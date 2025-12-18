@@ -1,0 +1,26 @@
+{
+  "id": "glauconycteris-egeria",
+  "name": "Bibundi bat",
+  "scientificName": "Glauconycteris egeria",
+  "wikibase_item": "Q1833024",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833024",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bibundi_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bibundi bat is a species of vesper bat in the family Vespertilionidae. It can be found in Cameroon, Republic of the Congo, Uganda, and the Dzanga-Sangha Special Reserve.",
+  "image": null,
+  "_score": 0
+}

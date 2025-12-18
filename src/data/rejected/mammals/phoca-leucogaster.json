@@ -1,0 +1,26 @@
+{
+  "id": "phoca-leucogaster",
+  "name": "Phoca leucogaster",
+  "scientificName": "Phoca leucogaster",
+  "wikibase_item": "Q122828820",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 878742,
+      "id": "Q878742"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122828820"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

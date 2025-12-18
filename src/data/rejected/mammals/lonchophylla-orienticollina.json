@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-orienticollina",
+  "name": "Lonchophylla orienticollina",
+  "scientificName": "Lonchophylla orienticollina",
+  "wikibase_item": "Q16573401",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16573401",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonchophylla_orienticollina"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lonchophylla orienticollina is a species of bat found in Colombia, Venezuela, and Ecuador.",
+  "image": null,
+  "_score": 0
+}

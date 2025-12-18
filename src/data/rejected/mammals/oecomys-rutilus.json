@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-rutilus",
+  "name": "Oecomys rutilus",
+  "scientificName": "Oecomys rutilus",
+  "wikibase_item": "Q1764354",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764354",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_rutilus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys rutilus, also known as the reddish oecomys or red arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It is found in Guyana, Suriname, French Guiana, and nearby regions of Brazil and Venezuela.",
+  "image": null,
+  "_score": 0
+}

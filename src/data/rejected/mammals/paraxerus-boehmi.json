@@ -1,0 +1,26 @@
+{
+  "id": "paraxerus-boehmi",
+  "name": "Boehm's bush squirrel",
+  "scientificName": "Paraxerus boehmi",
+  "wikibase_item": "Q1768799",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768799",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boehm's_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Boehm's bush squirrel is a species of rodent in the family Sciuridae found in Burundi, the Democratic Republic of the Congo, Kenya, Rwanda, South Sudan, Tanzania, Uganda, and Zambia. Its natural habitats are subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, and moist savanna.",
+  "image": null,
+  "_score": 1
+}

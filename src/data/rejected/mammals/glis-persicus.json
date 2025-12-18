@@ -1,0 +1,26 @@
+{
+  "id": "glis-persicus",
+  "name": "Glis persicus",
+  "scientificName": "Glis persicus",
+  "wikibase_item": "Q108503982",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15102590,
+      "id": "Q15102590"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108503982",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iranian_edible_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Iranian edible dormouse or Iranian fat dormouse is a species of dormouse native to Western and Central Asia. It is one of only two species in the genus Glis.",
+  "image": null,
+  "_score": 0
+}

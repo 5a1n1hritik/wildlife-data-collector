@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-sublineatus",
+  "name": "Oryzomys sublineatus",
+  "scientificName": "Oryzomys sublineatus",
+  "wikibase_item": "Q126728383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126728383"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

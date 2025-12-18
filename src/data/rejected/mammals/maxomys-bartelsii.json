@@ -1,0 +1,26 @@
+{
+  "id": "maxomys-bartelsii",
+  "name": "Bartels's spiny rat",
+  "scientificName": "Maxomys bartelsii",
+  "wikibase_item": "Q1769725",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769725",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartels's_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bartels's spiny rat is a species of rodent in the family Muridae.\nIt is found only in Indonesia. This species is indigenous to the volcano forests of west and central Java, the main island of Indonesia. The species is able to tolerate moderate disturbance and can be found at the edge of the forests as well.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/DSC_6837.png",
+  "_score": 1
+}

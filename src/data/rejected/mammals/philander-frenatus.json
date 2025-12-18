@@ -1,0 +1,26 @@
+{
+  "id": "philander-frenatus",
+  "name": "Southeastern four-eyed opossum",
+  "scientificName": "Philander frenatus",
+  "wikibase_item": "Q194603",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southeastern_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southeastern four-eyed opossum is an opossum species native to South America. It is found in Atlantic Forest ecoregions, in Brazil, Paraguay and Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Philander_frenatus_distribution.svg/500px-Philander_frenatus_distribution.svg.png",
+  "_score": 1
+}

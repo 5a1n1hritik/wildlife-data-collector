@@ -1,0 +1,26 @@
+{
+  "id": "lavia-frons",
+  "name": "Yellow-winged bat",
+  "scientificName": "Lavia frons",
+  "wikibase_item": "Q301239",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17812613,
+      "id": "Q17812613"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301239",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-winged bat is one of five species of false vampire bat from Africa and is the only known species of its genus, Lavia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Yellow-Winged_Bat.jpeg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pholidotus-africanus",
+  "name": "Pholidotus africanus",
+  "scientificName": "Pholidotus africanus",
+  "wikibase_item": "Q41167059",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157040,
+      "id": "Q41157040"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167059",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant pangolin is a species of pangolin from genus Smutsia of subfamily Smutsiinae within the family Manidae. It is the largest living species of pangolins. Members of the species inhabit Africa with a range stretching along the equator from West Africa to Uganda. It subsists almost entirely on ants and termites.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Giant_pangolin_%28Manis_gigantea%29%2C_Natural_History_Museum%2C_London%2C_Mammals_Gallery.JPG",
+  "_score": 1
+}

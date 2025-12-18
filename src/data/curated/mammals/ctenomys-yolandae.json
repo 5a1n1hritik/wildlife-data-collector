@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-yolandae",
+  "name": "Yolanda's tuco-tuco",
+  "scientificName": "Ctenomys yolandae",
+  "wikibase_item": "Q1768710",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768710",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yolanda's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Yolanda's tuco-tuco is a species of rodent in the family Ctenomyidae. The species is endemic to Santa Fe Province, northeast Argentina, where it lives near the Paraná and San Javier rivers. Its karyotype has 2n = 50 and FN = 78. It is named after Argentine biologist Yolanda Davis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ctenomys_yolandae_237804760.jpg"
+}

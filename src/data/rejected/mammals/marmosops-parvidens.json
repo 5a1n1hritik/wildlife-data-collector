@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-parvidens",
+  "name": "Delicate slender opossum",
+  "scientificName": "Marmosops parvidens",
+  "wikibase_item": "Q195597",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q195597",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delicate_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The delicate slender opossum is a small pouchless marsupial of the family Didelphidae that occurs in French Guiana, Guyana, Suriname, and adjacent Venezuela and Brazil. Marmosops pinheiroi, Marmosops bishopi and Marmosops juninensis had long been considered to represent the same species, until parvidens and pinheiroi were found in sympatry in French Guiana. This species is found in moist primary tropical rainforest at elevations up to 2000 m. It is nocturnal and partially arboreal, and feeds on insects and fruit.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Delicate_Slender_Mouse_Opossum_area.png",
+  "_score": 2
+}

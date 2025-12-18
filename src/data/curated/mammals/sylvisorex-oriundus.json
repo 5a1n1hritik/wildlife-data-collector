@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-oriundus",
+  "name": "Lesser Forest Shrew",
+  "scientificName": "Sylvisorex oriundus",
+  "wikibase_item": "Q1764655",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764655",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser forest shrew is a species of mammal in the family Soricidae endemic to northeastern Democratic Republic of the Congo, where its type locality is at Medje. Its natural habitat is subtropical or tropical moist lowland forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sylvisorex_oriundus_Hollister%2C_female_adult.jpg"
+}

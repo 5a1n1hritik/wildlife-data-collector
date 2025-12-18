@@ -1,0 +1,26 @@
+{
+  "id": "tylomys-watsoni",
+  "name": "Watson's climbing rat",
+  "scientificName": "Tylomys watsoni",
+  "wikibase_item": "Q1770140",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 604917,
+      "id": "Q604917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770140",
+    "wikipedia": "https://en.wikipedia.org/wiki/Watson's_climbing_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Watson's climbing rat is a species of rodent in the family Cricetidae.\nIt is found in Costa Rica and Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tylomys_watsoni_241886038.jpg",
+  "_score": 1
+}

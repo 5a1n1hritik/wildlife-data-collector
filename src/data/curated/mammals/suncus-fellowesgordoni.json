@@ -1,0 +1,26 @@
+{
+  "id": "suncus-fellowesgordoni",
+  "name": "Sri Lankan Shrew",
+  "scientificName": "Suncus fellowesgordoni",
+  "wikibase_item": "Q1766162",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766162",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sri_Lankan_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sri Lankan shrew, also called Gordon's pygmy shrew, is a species of mammal in the family Soricidae. It is endemic to Sri Lanka. It is threatened by habitat loss. It is known as හික් මීයා in Sinhala. It was named after the wife of A. C. Tutein-Nolthenius, Marjory née Fellowes-Gordon, who collected specimens of the shrew and provided them to Phillips.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Suncus_fellowesgordoni_Range_Map.png",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cryptomys-anselli",
+  "name": "Cryptomys anselli",
+  "scientificName": "Cryptomys anselli",
+  "wikibase_item": "Q20745667",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136488,
+      "id": "Q136488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20745667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ansell's_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ansell's mole-rat is a species of rodent in the family Bathyergidae. It is endemic to Zambia. Its natural habitats are moist savanna and miombo forests. It is noted for its very long tunnels, up to 2.8 km (1.7 mi) for a single colony of only ten individuals. The colonies are made of a eusocial system. They include a main reproductive king and queen that are thought to be faithful to one another.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fukomys_anselli.jpg",
+  "_score": 2
+}

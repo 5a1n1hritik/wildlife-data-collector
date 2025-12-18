@@ -1,0 +1,26 @@
+{
+  "id": "glauconycteris-superba",
+  "name": "Niumbaha superba",
+  "scientificName": "Niumbaha superba",
+  "wikibase_item": "Q1831959",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831959",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pied_butterfly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pied butterfly bat, also known as the pied bat or badger bat, is a rare species of vesper bat in the family Vespertilionidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Niumbaha_superba_nostril_shape_and_orientation_-_ZooKeys-285-089-g003-top-right.jpeg",
+  "_score": 1
+}

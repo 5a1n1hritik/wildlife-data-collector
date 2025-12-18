@@ -1,0 +1,26 @@
+{
+  "id": "habromys-schmidlyi",
+  "name": "Habromys schmidlyi",
+  "scientificName": "Habromys schmidlyi",
+  "wikibase_item": "Q2723402",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135906,
+      "id": "Q135906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2723402",
+    "wikipedia": "https://en.wikipedia.org/wiki/Habromys_schmidlyi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Habromys schmidlyi, sometimes known as Schmidly's deer mouse, is a species of rodent in the family Cricetidae found only in Mexico. Its natural habitat is cloud forest in the Sierra de Taxco, on the border of Guerrero and Mexico states, above 1,800 meters elevation.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ailurops-melanotis",
+  "name": "Talaud Bear Cuscus",
+  "scientificName": "Ailurops melanotis",
+  "wikibase_item": "Q209718",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 905312,
+      "id": "Q905312"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209718",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talaud_bear_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Talaud bear cuscus is a species of marsupial in the family Phalangeridae. It is endemic to Salibabu Island in the Talaud Islands, Indonesia. Its natural habitat is subtropical or tropical dry forests. The species is considered Critically Endangered, with a small population size and heavy hunting pressure on both islands where it occurs, as well as continued habitat degradation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ailurops_melanotis.jpg",
+  "_score": 2
+}

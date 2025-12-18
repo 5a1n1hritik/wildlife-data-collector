@@ -1,0 +1,25 @@
+{
+  "id": "exilisciurus-whiteheadi",
+  "name": "Tufted pygmy squirrel",
+  "scientificName": "Exilisciurus whiteheadi",
+  "wikibase_item": "Q309089",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 728429,
+      "id": "Q728429"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309089",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tufted_pygmy_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tufted pygmy squirrel is a species of rodent in the family Sciuridae. It is endemic to highland forest in Borneo, where it can be found foraging on tree trunks. The common name of this tiny squirrel refers to its distinctive ear-tufts. It is omnivorous, with its diet consisting of a mix of insects, primarily ants, flakes of tree bark, mosses, and fruit and vegetable matter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tufted_Pygmy_Squirrel_from_Trusmadi_Bird_Station%2C_Tambunan%2C_Sabah%2C_Malaysia.jpg"
+}

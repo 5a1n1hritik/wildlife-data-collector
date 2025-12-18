@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-mongoz",
+  "name": "Eulemur mongoz",
+  "scientificName": "Eulemur mongoz",
+  "wikibase_item": "Q543695",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q543695",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongoose_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mongoose lemur is a small primate in the family Lemuridae, native to Madagascar and introduced to the Comoros Islands. These arboreal animals have pointed faces, long, bushy tails, dark-brown upper parts, pale bellies, and beards, which are reddish in males and white in females. They live in family groups and feed primarily on fruit, but also eat leaves, flowers, and nectar, with nectar from Ceiba pentandra trees making up a large part of their diet during the dry season. They have declined sharply in numbers because of habitat destruction and hunting, and the International Union for Conservation of Nature has rated their conservation status as \"critically endangered\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Eulemur-mongoz_59489762.jpg",
+  "_score": 4
+}

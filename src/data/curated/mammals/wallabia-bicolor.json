@@ -1,0 +1,25 @@
+{
+  "id": "wallabia-bicolor",
+  "name": "swamp wallaby",
+  "scientificName": "Wallabia bicolor",
+  "wikibase_item": "Q735179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12902645,
+      "id": "Q12902645"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q735179",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swamp_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The swamp wallaby is a small macropod marsupial of eastern Australia. This wallaby is also commonly known as the black wallaby, with other names including black-tailed wallaby, fern wallaby, black pademelon, stinker, and black stinker on account of its characteristic swampy odour.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Wallabia_bicolor_Jenolan_Caves_portrait.jpg"
+}

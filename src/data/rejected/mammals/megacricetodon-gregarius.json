@@ -1,0 +1,26 @@
+{
+  "id": "megacricetodon-gregarius",
+  "name": "Megacricetodon gregarius",
+  "scientificName": "Megacricetodon gregarius",
+  "wikibase_item": "Q117085056",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6009075,
+      "id": "Q6009075"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117085056"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

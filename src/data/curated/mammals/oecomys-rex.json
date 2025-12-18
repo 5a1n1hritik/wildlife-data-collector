@@ -1,0 +1,25 @@
+{
+  "id": "oecomys-rex",
+  "name": "Oecomys rex",
+  "scientificName": "Oecomys rex",
+  "wikibase_item": "Q1768806",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768806",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_rex"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys rex, also known as the regal oecomys or king arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It is found in Guyana, Suriname, French Guiana, and nearby parts of Venezuela and Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oecomys_rex_range.svg/250px-Oecomys_rex_range.svg.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-simulator",
+  "name": "Bushveld horseshoe bat",
+  "scientificName": "Rhinolophus simulator",
+  "wikibase_item": "Q1769005",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bushveld_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bushveld horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Botswana, Cameroon, Ivory Coast, Eswatini, Ethiopia, Guinea, Kenya, Liberia, Malawi, Mozambique, Nigeria, South Africa, South Sudan, Tanzania, Zambia, and Zimbabwe. Its natural habitats are moist savanna, caves and other subterranean habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bushveld_Horseshoe_Bat_area.png"
+}

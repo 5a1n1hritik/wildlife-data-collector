@@ -1,0 +1,28 @@
+{
+  "id": "pteropus-tuberculatus",
+  "name": "Pteropus tuberculatus",
+  "scientificName": "Pteropus tuberculatus",
+  "wikibase_item": "Q558431",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558431",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanikoro_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Vanikoro flying fox, also known locally as the basapine, is a species of bat in the family Pteropodidae. It has only been found in the Vanikoro island group located in the southern Solomon Islands. The species as a whole was originally known from just a few specimens collected sometime before 1930 but following surveys conducted on the island in the early 1990s did not detect this species again causing the Vanikoro flying fox to be listed as extinct. However, the species was rediscovered by a survey conducted in late 2014 which indicated a population in the high hundreds or low thousands and reported all observations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pteropus_tuberculatus.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

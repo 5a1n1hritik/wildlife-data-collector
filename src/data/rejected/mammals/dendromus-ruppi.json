@@ -1,0 +1,26 @@
+{
+  "id": "dendromus-ruppi",
+  "name": "Dendromus ruppi",
+  "scientificName": "Dendromus ruppi",
+  "wikibase_item": "Q20742587",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20742587",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupp's_African_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Rupp's African climbing mouse is a species of rodent in the family Nesomyidae. It is found in South Sudan.",
+  "image": null,
+  "_score": 0
+}

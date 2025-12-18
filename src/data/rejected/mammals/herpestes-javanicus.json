@@ -1,0 +1,26 @@
+{
+  "id": "herpestes-javanicus",
+  "name": "Small Asian mongoose",
+  "scientificName": "Herpestes javanicus",
+  "wikibase_item": "Q600530",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q600530",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_Asian_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Small Asian mongoose is a common name applied to two mammals which were formerly considered to be a single species:Javan mongoose\nSmall Indian mongoose\n",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-leucopus",
+  "name": "White-footed tamarin",
+  "scientificName": "Saguinus leucopus",
+  "wikibase_item": "Q1151198",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1151198",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-footed_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-footed tamarin is a tamarin species endemic to Colombia. It is a silvery brown colour with pale streaks and russet underparts, and is very similar in appearance to the cotton-top tamarin, from which it is separated by the Atrato River. It is thought that the two species diverged during the Pleistocene, at a time when a sea occupied the area between their present ranges. This tamarin is an arboreal species, living in small family groups in the canopy. Females give birth to one to three young after a gestation period of about 140 days. This species has a relatively small range and is under threat from destruction and fragmentation of the forest in which it lives and the International Union for Conservation of Nature has assessed its conservation status as \"vulnerable\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Saguinus_leucopus_235880857.jpg",
+  "_score": 4
+}

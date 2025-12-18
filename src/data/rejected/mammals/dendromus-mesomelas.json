@@ -1,0 +1,26 @@
+{
+  "id": "dendromus-mesomelas",
+  "name": "Brant's climbing mouse",
+  "scientificName": "Dendromus mesomelas",
+  "wikibase_item": "Q1768385",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768385",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brants's_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brants's climbing mouse is a species of rodent in the family Nesomyidae.\nIt is found in Botswana, Democratic Republic of the Congo, Kenya, Malawi, Mozambique, Namibia, South Africa, Tanzania, and Zambia.\nIts natural habitats are subtropical or tropical moist montane forests, dry savanna, Mediterranean-type shrubby vegetation, and subtropical or tropical high-altitude grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dendromus_mesomelas.jpg",
+  "_score": 2
+}

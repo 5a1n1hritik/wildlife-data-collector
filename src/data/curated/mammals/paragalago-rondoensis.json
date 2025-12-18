@@ -1,0 +1,26 @@
+{
+  "id": "paragalago-rondoensis",
+  "name": "Paragalago rondoensis",
+  "scientificName": "Paragalago rondoensis",
+  "wikibase_item": "Q104004501",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 31837388,
+      "id": "Q31837388"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104004501",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rondo_dwarf_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Rondo dwarf galago or Rondo bushbaby is a species of primate in the family Galagidae. The dwarf galagos are the smallest members of the genus Galagoides. It weighs less than 100 grams, making it the smallest known galago. It is endemic to Tanzania where its natural habitat is subtropical or tropical dry forests. It lives in an area reported in 2012 to be less than 100 square kilometers and is threatened by habitat loss due to logging. While it was discovered in the 1950s, the Rondo dwarf galago was deemed data deficient until 1996. In 1996, the Rondo dwarf galago was fully described as a species. It is now listed as one of \"The World's 25 Most Endangered Primates.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rondo_Bushbaby_area.png",
+  "_score": 4
+}

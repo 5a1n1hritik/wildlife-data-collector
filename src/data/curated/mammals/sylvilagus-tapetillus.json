@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-tapetillus",
+  "name": "Sylvilagus tapetillus",
+  "scientificName": "Sylvilagus tapetillus",
+  "wikibase_item": "Q40698478",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40698478",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coastal_tapeti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coastal tapeti, also known as the Rio de Janeiro dwarf cottontail or dwarf tapeti, is a species of cottontail rabbit native to Brazil. Known from only three specimens, captured in the late nineteenth century in the Paraíba Valley, it was for a long time considered to be a subspecies of the common tapeti. Slightly smaller than its close relative, analysis in 2017 confirmed that it is sufficiently distinct in both appearance and genetics to be considered a species in its own right. Due to destruction of its putative habitat in the densely populated Paraíba Valley, it is unclear whether or not the species still survives in the present day.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coastal_tapeti_range.jpg",
+  "_score": 3
+}

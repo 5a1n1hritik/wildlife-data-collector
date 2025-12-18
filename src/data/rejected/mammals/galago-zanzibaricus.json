@@ -1,0 +1,26 @@
+{
+  "id": "galago-zanzibaricus",
+  "name": "Zanzibar bushbaby",
+  "scientificName": "Galago zanzibaricus",
+  "wikibase_item": "Q1206278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1206278",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zanzibar_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zanzibar bushbaby, Matundu dwarf galago, Udzungwa bushbaby, or Zanzibar galago is a primate of the family Galagidae. An adult typically weighs 150 grams (5.3 oz), its head-body length is 14 to 15 centimetres and its tail is between 12 and 15 centimetres long. Like other species of galagos, its diet consists mainly of fruit, insects, and tree gums.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zanzibar_Bushbaby.JPG",
+  "_score": 2
+}

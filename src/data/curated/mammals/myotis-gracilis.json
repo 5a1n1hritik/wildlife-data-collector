@@ -1,0 +1,26 @@
+{
+  "id": "myotis-gracilis",
+  "name": "Ussuri whiskered bat",
+  "scientificName": "Myotis gracilis",
+  "wikibase_item": "Q6127612",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6127612",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siberian_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Siberian bat or Siberian whiskered myotis is a species of vesper bat in the family Vespertilionidae. It is found throughout northeastern Asia, primarily in Siberia. It is known for its high life expectancy relative to its body size, approximately twice that of humans, and holds the record for the oldest bat; in 2005, one individual was discovered in a cave in Siberia that had been banded in 1964, making the bat at least 41 years old.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Siberian_Bat_imported_from_iNaturalist_photo_414100139_on_27_October_2024.jpg",
+  "_score": 3
+}

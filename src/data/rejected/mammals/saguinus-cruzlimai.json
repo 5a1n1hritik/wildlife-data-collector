@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-cruzlimai",
+  "name": "Saguinus cruzlimai",
+  "scientificName": "Saguinus cruzlimai",
+  "wikibase_item": "Q125925839",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125925839",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cruz_Lima's_saddle-back_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cruz Lima's saddle-back tamarin is a species of saddle-back tamarin, a type of small monkey from South America. Cruz Lima's saddle-back tamarin was formerly considered to be a subspecies of the brown-mantled tamarin, L. fuscicollis. It lives in Brazil in the area near the Inauini River. Its fur is mostly reddish orange, with a black tail and white eyebrows. The IUCN rates it as least concern from a conservation standpoint.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Leontocebus_cruzlimai_%28cropped%29.png",
+  "_score": 2
+}

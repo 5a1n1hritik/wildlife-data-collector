@@ -1,0 +1,26 @@
+{
+  "id": "cryptonanus-chacoensis",
+  "name": "Chacoan gracile opossum",
+  "scientificName": "Cryptonanus chacoensis",
+  "wikibase_item": "Q2538969",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311590,
+      "id": "Q311590"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2538969",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chacoan_gracile_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chacoan gracile opossum is a species of opossum in the family Didelphidae. It is native to Argentina, Brazil and Paraguay. Its habitat is seasonally flooded grasslands and forests in and near the Gran Chaco.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cryptonanus_chacoensis_area.png",
+  "_score": 2
+}

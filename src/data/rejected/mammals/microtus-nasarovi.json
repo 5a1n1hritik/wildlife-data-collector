@@ -1,0 +1,26 @@
+{
+  "id": "microtus-nasarovi",
+  "name": "Microtus nasarovi",
+  "scientificName": "Microtus nasarovi",
+  "wikibase_item": "Q2207113",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2207113",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daghestan_pine_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Daghestan pine vole is a species of rodent in the family Cricetidae.\nIt is found in Russia, Georgia, Armenia, and Azerbaijan.",
+  "image": null,
+  "_score": 0
+}

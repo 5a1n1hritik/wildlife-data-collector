@@ -1,0 +1,26 @@
+{
+  "id": "melursus-ursinus",
+  "name": "sloth bear",
+  "scientificName": "Melursus ursinus",
+  "wikibase_item": "Q145016",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17484766,
+      "id": "Q17484766"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q145016",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sloth_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sloth bear, also known as the Indian bear, is a myrmecophagous bear species native to the Indian subcontinent. It feeds on fruits, ants and termites. It is listed as vulnerable on the IUCN Red List, mainly because of habitat loss and degradation. It is the only species in the genus Melursus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sloth_bear_stand.jpg",
+  "_score": 2
+}

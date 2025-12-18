@@ -1,0 +1,26 @@
+{
+  "id": "myoxus-glis",
+  "name": "Myoxus glis",
+  "scientificName": "Myoxus glis",
+  "wikibase_item": "Q122491235",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122490936,
+      "id": "Q122490936"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122491235",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_edible_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European edible dormouse, also known as the European dormouse or European fat dormouse, is a large dormouse and one of only two living species in the genus Glis, found in most of Europe and parts of western Asia. The common name comes from the Romans, who ate them as a delicacy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Edible_dormouse_-_Relmuis_-_Glis_glis.jpg",
+  "_score": 1
+}

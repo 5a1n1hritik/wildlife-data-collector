@@ -1,0 +1,26 @@
+{
+  "id": "arctictis-binturong",
+  "name": "binturong",
+  "scientificName": "Arctictis binturong",
+  "wikibase_item": "Q213141",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817059,
+      "id": "Q19817059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q213141",
+    "wikipedia": "https://en.wikipedia.org/wiki/Binturong"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The binturong, also known as the bearcat, is a viverrid native to South and Southeast Asia. It is uncommon in much of its range, and has been assessed as Vulnerable on the IUCN Red List because of a declining population. It is estimated to have declined at least 30% since the mid-1980s. The binturong is the only species in the genus Arctictis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Binturong_in_Overloon.jpg",
+  "_score": 1
+}

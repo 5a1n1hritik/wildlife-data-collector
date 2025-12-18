@@ -1,0 +1,26 @@
+{
+  "id": "trichechus-senegalensis",
+  "name": "African manatee",
+  "scientificName": "Trichechus senegalensis",
+  "wikibase_item": "Q387297",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 42797,
+      "id": "Q42797"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q387297",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_manatee"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African manatee, also known as the West African manatee, is a species of manatee that inhabits much of Western Africa – from Senegal to Angola. It is the only manatee species to be found in the Old World, as well as one of the two living Sirenians that live on the old world, the other being the Dugong.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/3024px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg",
+  "_score": 1
+}

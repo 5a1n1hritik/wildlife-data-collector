@@ -1,0 +1,26 @@
+{
+  "id": "kangurus-rufus",
+  "name": "Kangurus rufus",
+  "scientificName": "Kangurus rufus",
+  "wikibase_item": "Q122782807",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122782237,
+      "id": "Q122782237"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122782807"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

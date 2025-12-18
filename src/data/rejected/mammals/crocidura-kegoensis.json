@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-kegoensis",
+  "name": "Crocidura kegoensis",
+  "scientificName": "Crocidura kegoensis",
+  "wikibase_item": "Q2686953",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2686953",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocidura_kegoensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crocidura kegoensis, also known as the Ke Go shrew or Ke Go white-toothed shrew, is a species of shrew in the genus Crocidura described in 2004. It is smaller than other Crocidura species known from Vietnam, brownish-grey in colour with black markings on the muzzle. Its hair is short. The holotype was found in the Ke Go Nature Reserve, in Vietnam's Ha Tinh province, at an altitude of about 200 m.",
+  "image": null,
+  "_score": 0
+}

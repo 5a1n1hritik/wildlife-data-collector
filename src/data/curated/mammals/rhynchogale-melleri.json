@@ -1,0 +1,26 @@
+{
+  "id": "rhynchogale-melleri",
+  "name": "Rhynchogale melleri",
+  "scientificName": "Rhynchogale melleri",
+  "wikibase_item": "Q1757286",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10811693,
+      "id": "Q10811693"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1757286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meller's_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Meller's mongoose is a small brown mongoose native to savannas and woodlands of southeastern Africa. It is the only member of the genus Rhynchogale. The Meller's mongoose lives alone and is active at night, feeding on termites or other small insects and animals. While somewhat rare, it is adaptable and faces no serious threats. It is a member of the mongoose family (Herpestidae), a group of fox-like animals native to Asia, southern Europe, and Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Smit.m.rhinogale.melleri.jpg",
+  "_score": 3
+}

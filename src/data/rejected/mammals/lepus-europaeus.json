@@ -1,0 +1,26 @@
+{
+  "id": "lepus-europaeus",
+  "name": "Lepus europaeus",
+  "scientificName": "Lepus europaeus",
+  "wikibase_item": "Q26838",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3734504,
+      "id": "Q3734504"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26838",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European hare, also known as the brown hare, is a species of hare native to Europe and parts of Asia. It is among the largest hare species and is adapted to temperate, open country. Hares are herbivorous and feed mainly on grasses and herbs, supplementing these with twigs, buds, bark and field crops, particularly in winter. Their natural predators include red foxes and large birds of prey. They rely on high-speed endurance running to escape predation, having long, powerful limbs and large nostrils.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lepus_europaeus_%28Causse_M%C3%A9jean%2C_Loz%C3%A8re%29-cropped.jpg",
+  "_score": 2
+}

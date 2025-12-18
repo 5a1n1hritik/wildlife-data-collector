@@ -1,0 +1,26 @@
+{
+  "id": "selevinia-betpakdalaensis",
+  "name": "Desert dormouse",
+  "scientificName": "Selevinia betpakdalaensis",
+  "wikibase_item": "Q1331423",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12267290,
+      "id": "Q12267290"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1331423",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert dormouse is a species of rodent in the dormouse family, Gliridae. This species was formerly placed in its own family, Seleviniidae, but it is now considered to be a dormouse, monotypic within the genus Selevinia.\nIt is endemic to Kazakhstan.",
+  "image": null,
+  "_score": 0
+}

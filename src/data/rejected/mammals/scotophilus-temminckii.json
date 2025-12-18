@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-temminckii",
+  "name": "Scotophilus temminckii",
+  "scientificName": "Scotophilus temminckii",
+  "wikibase_item": "Q41088240",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088240"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

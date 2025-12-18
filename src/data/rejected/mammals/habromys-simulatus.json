@@ -1,0 +1,26 @@
+{
+  "id": "habromys-simulatus",
+  "name": "Jico Deermouse",
+  "scientificName": "Habromys simulatus",
+  "wikibase_item": "Q309338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135906,
+      "id": "Q135906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jico_deer_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Jico deer mouse is a species of rodent in the family Cricetidae found only in Mexico. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": null,
+  "_score": 1
+}

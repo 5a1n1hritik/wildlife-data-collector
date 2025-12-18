@@ -1,0 +1,25 @@
+{
+  "id": "sundasciurus-tahan",
+  "name": "Sundasciurus tahan",
+  "scientificName": "Sundasciurus tahan",
+  "wikibase_item": "Q19803238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19803238",
+    "wikipedia": "https://en.wikipedia.org/wiki/Upland_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The upland squirrel, also known as the mountain slender squirrel, is a species of rodent in the family Sciuridae. Native to Peninsular Malaysia, it inhabits montane and lower montane forests including portions of the Titiwangsa Mountains and Gunung Tahan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Squirrel-singapore.jpg"
+}

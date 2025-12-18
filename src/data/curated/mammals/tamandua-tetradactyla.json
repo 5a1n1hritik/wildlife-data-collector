@@ -1,0 +1,26 @@
+{
+  "id": "tamandua-tetradactyla",
+  "name": "southern tamandua",
+  "scientificName": "Tamandua tetradactyla",
+  "wikibase_item": "Q267514",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 428197,
+      "id": "Q428197"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q267514",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_tamandua"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern tamandua, also called the collared anteater or lesser anteater, is a species of anteater from South America and the island of Trinidad in the Caribbean. It is a solitary animal found in many habitats, from mature to highly disturbed secondary forests and arid savannas. It feeds on ants, termites, and bees. Its very strong foreclaws can be used to break insect nests or to defend itself.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/T_tetradactyla_1.jpg",
+  "_score": 3
+}

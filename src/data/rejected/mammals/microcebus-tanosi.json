@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-tanosi",
+  "name": "Anosy mouse lemur",
+  "scientificName": "Microcebus tanosi",
+  "wikibase_item": "Q13440247",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13440247",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anosy_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Anosy mouse lemur is a species of mouse lemur known only from the Manantantely Forest and Ivorona Forest in southeastern Madagascar, near Tôlanaro. Specimens were first collected in April 2007, and its discovery was announced in 2013 along with the Marohita mouse lemur. It is a relatively large mouse lemur and lives in the same region as the gray mouse lemur (M. murinus) and the reddish-gray mouse lemur (M. griseorufus), all three of which are found within 10 km (6.2 mi) of each other and are nearly identical in appearance. It has dark brownish fur on its back and light-colored fur on its underside. Nothing is known about its behavior. Its conservation status has not been evaluated by the International Union for Conservation of Nature (IUCN), although its known habitat has degraded since 2007.",
+  "image": null
+}

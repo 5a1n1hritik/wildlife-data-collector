@@ -1,0 +1,26 @@
+{
+  "id": "mimon-cozumelae",
+  "name": "Cozumelan Golden Bat",
+  "scientificName": "Mimon cozumelae",
+  "wikibase_item": "Q2490843",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703888,
+      "id": "Q2703888"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2490843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cozumelan_golden_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cozumelan golden bat is a bat species found in Mexico, Guatemala, Belize, Honduras, Nicaragua, Costa Rica, Panama and Colombia. At one time, this species was considered to be a subspecies of the golden bat. Little is known about the biology of this bat, but it has a wide range, no particular threats have been identified, and the population seems steady, so the International Union for Conservation of Nature has assessed its conservation status as being of \"the least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mimon_cozumelae_186286365.jpg",
+  "_score": 3
+}

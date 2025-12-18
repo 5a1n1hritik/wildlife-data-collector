@@ -1,0 +1,26 @@
+{
+  "id": "lepus-brachyurus",
+  "name": "Lepus brachyurus",
+  "scientificName": "Lepus brachyurus",
+  "wikibase_item": "Q1355766",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1355766",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese hare is a species of hare endemic to Japan. In Japanese, it is called the Nousagi, meaning \"field rabbit\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lepus_brachyurus%2C_March%2C_Tsukuba%2C_Japan.jpg",
+  "_score": 1
+}

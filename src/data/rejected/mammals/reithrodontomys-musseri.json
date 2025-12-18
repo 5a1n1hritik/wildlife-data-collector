@@ -1,0 +1,26 @@
+{
+  "id": "reithrodontomys-musseri",
+  "name": "Reithrodontomys musseri",
+  "scientificName": "Reithrodontomys musseri",
+  "wikibase_item": "Q28009762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 246808,
+      "id": "Q246808"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28009762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_harvest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small harvest mouse is a species of rodent in the family Cricetidae. It is found in central Costa Rica.",
+  "image": null,
+  "_score": 0
+}

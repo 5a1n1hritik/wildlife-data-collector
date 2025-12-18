@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-scotinus",
+  "name": "Miniopterus scotinus",
+  "scientificName": "Miniopterus scotinus",
+  "wikibase_item": "Q41084956",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084956"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

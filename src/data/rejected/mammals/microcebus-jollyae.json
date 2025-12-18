@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-jollyae",
+  "name": "Jolly's mouse lemur",
+  "scientificName": "Microcebus jollyae",
+  "wikibase_item": "Q1206248",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1206248",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jolly's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Jolly's mouse lemur is a species of mouse lemur from Mananjary and Kianjavato in Madagascar. The species is named in honor of primatologist Alison Jolly.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Microcebus_jollyae_range_map.svg/960px-Microcebus_jollyae_range_map.svg.png",
+  "_score": 1
+}

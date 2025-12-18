@@ -1,0 +1,26 @@
+{
+  "id": "genetta-piscivora",
+  "name": "aquatic genet",
+  "scientificName": "Genetta piscivora",
+  "wikibase_item": "Q43222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aquatic_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The aquatic genet, also known as the fishing genet, is a genet that has only been recorded in the northeast of the Democratic Republic of the Congo. Since it is only known from about 30 specimens in natural history museums, it had been listed as Data Deficient on the IUCN Red List since 1996, as it is considered one of Africa's rarest carnivores. In 2015, it has been reassessed as Near Threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Genetta_piscivora.jpg",
+  "_score": 2
+}

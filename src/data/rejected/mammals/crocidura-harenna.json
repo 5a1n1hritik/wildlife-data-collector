@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-harenna",
+  "name": "Harenna shrew",
+  "scientificName": "Crocidura harenna",
+  "wikibase_item": "Q136068",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136068",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harenna_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Harenna shrew is a white-toothed shrew found only in one location in the Bale Mountains in southern Ethiopia. It occurs within an area of less than ten square kilometres, and is listed as a critically endangered species, due to habitat loss and a restricted range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Harenna_Shrew_area.png",
+  "_score": 2
+}

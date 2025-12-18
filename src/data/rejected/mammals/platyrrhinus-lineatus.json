@@ -1,0 +1,26 @@
+{
+  "id": "platyrrhinus-lineatus",
+  "name": "White-lined Broad-nosed Bat",
+  "scientificName": "Platyrrhinus lineatus",
+  "wikibase_item": "Q1833571",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833571",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-lined_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-lined broad-nosed bat is a bat species found in southern and eastern Brazil, Paraguay, Uruguay, northern Argentina, Bolivia, Peru, Ecuador, Colombia, French Guiana and Suriname.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Platyrrhinus_-upside_down-6.jpg",
+  "_score": 1
+}

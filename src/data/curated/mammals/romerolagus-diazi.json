@@ -1,0 +1,25 @@
+{
+  "id": "romerolagus-diazi",
+  "name": "Volcano rabbit",
+  "scientificName": "Romerolagus diazi",
+  "wikibase_item": "Q668030",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10811874,
+      "id": "Q10811874"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q668030",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volcano_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The volcano rabbit, also known as the teporingo or zacatuche, is a species of small rabbit that lives in pine and alder forests on volcanic slopes in Mexico. It is the only species in the genus Romerolagus, and is considered to be the most primitive species among the rabbits and hares. It has small rounded ears, short legs, a large forehead, and short, thick fur. It is one of the world's smallest rabbits, lives in groups that consist of between two and five members, and makes burrows and runways among bunchgrasses. Up to 3 young are produced per litter, born in nests formed from shallow depressions in the ground lined with fur and plant matter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Romerolagus_diazi_-_Zoologico_de_Chapultepec%2C_Ciudad_de_M%C3%A9xico_-_Cropped2xAlt.png"
+}

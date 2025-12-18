@@ -1,0 +1,25 @@
+{
+  "id": "tasmacetus-shepherdi",
+  "name": "Shepherd's beaked whale",
+  "scientificName": "Tasmacetus shepherdi",
+  "wikibase_item": "Q1124755",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10824054,
+      "id": "Q10824054"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1124755",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shepherd's_beaked_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shepherd's beaked whale, also commonly called Tasman's beaked whale or simply the Tasman whale, is a cetacean of the family Ziphiidae and the only species in the genus Tasmacetus. The whale has not been studied extensively. Only four confirmed at sea sightings have been made and 42 strandings recorded. It was first known to science in 1937, being named by W. R. B. Oliver after George Shepherd, curator of the Wanganui Museum, who collected the type specimen near Ohawe on the south Taranaki coast of New Zealand's North Island, in 1933.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tasmacetus_shepherdi.jpg"
+}

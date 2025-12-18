@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-igniventris",
+  "name": "Northern Amazon red squirrel",
+  "scientificName": "Sciurus igniventris",
+  "wikibase_item": "Q577533",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q577533",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_Amazon_red_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern Amazon red squirrel is a species of squirrel from South America. It occurs in Brazil, Colombia, Ecuador, Peru and Venezuela. It is widespread across its distribution and inhabits lowland forests, preferring a diet of nuts with especially thick shells. It is considered a least-concern species by the International Union for Conservation of Nature, though it is hunted for food in Ecuador and Peru and may be subject to habitat fragmentation from human logging activities.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sciurus_igniventris_17101625.jpg",
+  "_score": 5
+}

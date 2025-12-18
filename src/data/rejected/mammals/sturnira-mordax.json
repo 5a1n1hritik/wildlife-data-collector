@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-mordax",
+  "name": "Talamancan yellow-shouldered bat",
+  "scientificName": "Sturnira mordax",
+  "wikibase_item": "Q1593288",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1593288",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talamancan_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Talamancan yellow-shouldered bat is a species of bat in the family Phyllostomidae. It is found only in Costa Rica and Panama, and there are no subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sturnira_mordax_map.svg/1052px-Sturnira_mordax_map.svg.png",
+  "_score": 1
+}

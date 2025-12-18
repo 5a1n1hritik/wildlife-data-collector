@@ -1,0 +1,26 @@
+{
+  "id": "sorex-isodon",
+  "name": "Taiga Shrew",
+  "scientificName": "Sorex isodon",
+  "wikibase_item": "Q1383978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1383978",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiga_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The taiga shrew, also known as the even-toothed shrew can achieve a body length of about 67 millimeters, with a tail of about 43 millimeters. This shrew is very similar to the long-clawed shrew. This species inhabits forested mountain valleys, and is found across northern Eurasia. It ranges from the Baltic Sea area through the Lake Baikal region of Siberia into the Russian Far East and along the Baekdu-daegan mountains of the Korean Peninsula.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Taiga_Shrew_area.png",
+  "_score": 2
+}

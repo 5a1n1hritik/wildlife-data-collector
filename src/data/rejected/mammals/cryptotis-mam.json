@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-mam",
+  "name": "Cryptotis mam",
+  "scientificName": "Cryptotis mam",
+  "wikibase_item": "Q22668418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22668418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cryptotis_mam"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cryptotis mam is a species of mammal in the family Soricidae. It is endemic to Guatemala.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cryptotis_mam.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "auliscomys-pictus",
+  "name": "Painted Big-eared Mouse",
+  "scientificName": "Auliscomys pictus",
+  "wikibase_item": "Q309313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 781345,
+      "id": "Q781345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309313",
+    "wikipedia": "https://en.wikipedia.org/wiki/Painted_big-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The painted big-eared mouse is a species of rodent in the family Cricetidae. It is found in Bolivia and Peru, and possibly Chile.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Auliscomys_pictus_%28Smit%29.jpg",
+  "_score": 1
+}

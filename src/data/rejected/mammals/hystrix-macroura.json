@@ -1,0 +1,26 @@
+{
+  "id": "hystrix-macroura",
+  "name": "Hystrix macroura",
+  "scientificName": "Hystrix macroura",
+  "wikibase_item": "Q109647319",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650703,
+      "id": "Q650703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647319"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

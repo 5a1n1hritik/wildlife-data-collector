@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-pattoni",
+  "name": "Lonchophylla pattoni",
+  "scientificName": "Lonchophylla pattoni",
+  "wikibase_item": "Q2778726",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2778726",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patton's_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Patton's long-tongued bat is a bat species from Bolivia, Colombia, Ecuador, and Peru. It was originally described in the genus Lonchophylla, but was moved to Hsunycteris when the latter was erected in 2014.",
+  "image": null,
+  "_score": 0
+}

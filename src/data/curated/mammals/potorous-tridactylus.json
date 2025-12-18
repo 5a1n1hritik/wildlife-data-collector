@@ -1,0 +1,26 @@
+{
+  "id": "potorous-tridactylus",
+  "name": "long-nosed potoroo",
+  "scientificName": "Potorous tridactylus",
+  "wikibase_item": "Q275608",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475146,
+      "id": "Q1475146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q275608",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_potoroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed potoroo is a small, hopping mammal native to forests and shrubland of southeastern Australia and Tasmania. A member of the potoroo and bettong family (Potoroidae), it lives alone and digs at night for fungi, roots, or small insects. It is also a marsupial and carries its young in a pouch. The long-nosed potoroo is threatened by habitat loss and introduced species such as cats or foxes. There are two subspecies: P. t. tridactylus on mainland Australia, and P. t. apicalis on Tasmania, with lighter fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Long-nosed_potoroo.jpg",
+  "_score": 4
+}

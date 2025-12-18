@@ -1,0 +1,26 @@
+{
+  "id": "plerotes-anchietae",
+  "name": "D'Anchieta's fruit bat",
+  "scientificName": "Plerotes anchietae",
+  "wikibase_item": "Q762933",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10807520,
+      "id": "Q10807520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q762933",
+    "wikipedia": "https://en.wikipedia.org/wiki/D'Anchieta's_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "D'Anchieta's fruit bat or D'Anchieta's epauletted bat is a species of megabat in the family Pteropodidae. It is the only species in the genus Plerotes. It is found in Angola, Democratic Republic of the Congo, Malawi, and Zambia, where it lives in subtropical or tropical dry forests, dry savanna, and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/D%27Anchieta%27s_Fruit_Bat_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crocuta-crocuta",
+  "name": "Crocuta crocuta",
+  "scientificName": "Crocuta crocuta",
+  "wikibase_item": "Q178089",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10750855,
+      "id": "Q10750855"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q178089",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted_hyena"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted hyena, also known as the laughing hyena, is a hyena species, currently classed as the sole extant member of the genus Crocuta, native to sub-Saharan Africa. It is listed as being of least concern by the IUCN due to its widespread range and large numbers estimated between 27,000 and 47,000 individuals. The species is, however, experiencing declines outside of protected areas due to habitat loss and poaching. Populations of Crocuta, usually considered a subspecies of Crocuta crocuta, known as cave hyenas, roamed across Eurasia for at least one million years until the end of the Late Pleistocene. The spotted hyena is the largest extant member of the Hyaenidae, and is further physically distinguished from other species by its vaguely bear-like build, rounded ears, less prominent mane, spotted pelt, more dual-purposed dentition, fewer nipples, and pseudo-penis. It is the only placental mammalian species where females have a pseudo-penis and lack an external vaginal opening.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Spotted_hyena_%28Crocuta_crocuta%29.jpg",
+  "_score": 4
+}

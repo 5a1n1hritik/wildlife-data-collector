@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-lowei",
+  "name": "Gerbillus lowei",
+  "scientificName": "Gerbillus lowei",
+  "wikibase_item": "Q28133289",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28133289",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lowe's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lowe's gerbil is distributed mainly in Sudan; Jebel Marra. Less than 250 individuals of this species are thought to persist in the wild. It is named after the collector Willoughby Prescott Lowe.",
+  "image": null,
+  "_score": 0
+}

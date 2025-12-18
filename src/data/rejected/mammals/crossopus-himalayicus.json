@@ -1,0 +1,26 @@
+{
+  "id": "crossopus-himalayicus",
+  "name": "Crossopus himalayicus",
+  "scientificName": "Crossopus himalayicus",
+  "wikibase_item": "Q41163965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41152822,
+      "id": "Q41152822"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41163965"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

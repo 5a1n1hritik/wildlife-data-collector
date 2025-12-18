@@ -1,0 +1,25 @@
+{
+  "id": "funambulus-layardi",
+  "name": "Layard's palm squirrel",
+  "scientificName": "Funambulus layardi",
+  "wikibase_item": "Q1767215",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1004346,
+      "id": "Q1004346"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767215",
+    "wikipedia": "https://en.wikipedia.org/wiki/Layard's_palm_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Layard's palm squirrel or flame-striped jungle squirrel is a species of rodent in the family Sciuridae endemic to Sri Lanka. The validity of the subspecies F. l. dravidianus based on a single specimen from the southern tip of India has been questioned, and is probably a juvenile F. sublineatus. Known as මූකලන් ලේනා in Sinhala.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Funambulus_layardi.jpg"
+}

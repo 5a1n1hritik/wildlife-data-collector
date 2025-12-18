@@ -1,0 +1,26 @@
+{
+  "id": "acerodon-leucotis",
+  "name": "Palawan Fruit Bat",
+  "scientificName": "Acerodon leucotis",
+  "wikibase_item": "Q301741",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2307345,
+      "id": "Q2307345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301741",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palawan_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Palawan fruit bat, also known as the Palawan flying fox, is a species of megabat found in forests of Palawan, Balabac and Busuanga in the Philippines. It is listed as vulnerable by the IUCN and is declining due to hunting and habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Palawan_Fruit_Bat_area.png",
+  "_score": 2
+}

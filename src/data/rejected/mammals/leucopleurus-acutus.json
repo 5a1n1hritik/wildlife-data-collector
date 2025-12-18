@@ -1,0 +1,26 @@
+{
+  "id": "leucopleurus-acutus",
+  "name": "Leucopleurus acutus",
+  "scientificName": "Leucopleurus acutus",
+  "wikibase_item": "Q125572715",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125572721,
+      "id": "Q125572721"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125572715",
+    "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_white-sided_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Atlantic white-sided dolphin is a distinctively coloured dolphin found in the cool to temperate waters of the North Atlantic Ocean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Atlantic_white-sided_dolphin.jpg",
+  "_score": 1
+}

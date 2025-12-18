@@ -1,0 +1,26 @@
+{
+  "id": "graphiurus-murinus",
+  "name": "Woodland Dormouse",
+  "scientificName": "Graphiurus murinus",
+  "wikibase_item": "Q1761632",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385877,
+      "id": "Q385877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761632",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodland_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The woodland dormouse is a species of rodent in the family Gliridae. It is native to southern and eastern Africa and is also known as the African dormouse, African dwarf dormouse, African pygmy dormouse, or colloquially as micro squirrel. Found in limited numbers in the pet trade, it has complicated care requirements compared to other pet rodents. Its natural habitats are subtropical or tropical, moist montane forests and rivers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Graphiurus_murinus_Plzen_zoo_02.2011.jpg",
+  "_score": 3
+}

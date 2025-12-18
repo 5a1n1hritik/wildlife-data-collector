@@ -1,0 +1,25 @@
+{
+  "id": "chodsigoa-parva",
+  "name": "Pygmy brown-toothed shrew",
+  "scientificName": "Chodsigoa parva",
+  "wikibase_item": "Q1762863",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135091,
+      "id": "Q135091"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762863",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_brown-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy brown-toothed shrew is a species of shrew in the order Eulipotyphla. It is distributed in China.\nC. parva was initially thought to be the same as Chodsigoa lamula, but it was found to be a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Pygmy_Brown-toothed_Shrew_area.png"
+}

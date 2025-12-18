@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-tenaster",
+  "name": "Tenasserim White-bellied Rat",
+  "scientificName": "Niviventer tenaster",
+  "wikibase_item": "Q1761120",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761120",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tenasserim_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tenasserim white-bellied rat is a species of rodent in the family Muridae.\nIt is named after the Tenasserim Hills and is found above 1,000 m in forested limestone mountainous areas. Its distribution includes India, Myanmar, Thailand, Cambodia (southern end of the Cardamom Mountains, Laos and Vietnam, and China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Range_Niviventer_tenaster.png",
+  "_score": 1
+}

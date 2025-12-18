@@ -1,0 +1,26 @@
+{
+  "id": "alouatta-coibensis",
+  "name": "Coiba Island howler",
+  "scientificName": "Alouatta coibensis",
+  "wikibase_item": "Q951736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q951736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coiba_Island_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Coiba Island howler is a type of howler monkey, a type of New World monkey, endemic to Panama. Although the Coiba Island howler has been recognized as a separate species by a number of authorities since a 1987 study of its fingerprints, mitochondrial DNA testing found it does not differ from mantled howler populations in any significant way. A reason given for treating it as a separate species is that the dermal ridges of its hands and feet differ from those of the mantled howler.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Alouatta_palliata_coibensis_30273613.jpg",
+  "_score": 2
+}

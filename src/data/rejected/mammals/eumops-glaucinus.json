@@ -1,0 +1,26 @@
+{
+  "id": "eumops-glaucinus",
+  "name": "Wagner's bonneted bat",
+  "scientificName": "Eumops glaucinus",
+  "wikibase_item": "Q301967",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301967",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wagner's_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wagner's bonneted bat, or Wagner's mastiff bat, is a species of bat in the family Molossidae. It is found in the Americas from Argentina and Peru north to Mexico, and Cuba. Populations in Florida in the United States are now recognized as the Florida bonneted bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SAM_1600.JPG",
+  "_score": 1
+}

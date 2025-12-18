@@ -1,0 +1,25 @@
+{
+  "id": "pteralopex-flanneryi",
+  "name": "Greater monkey-faced bat",
+  "scientificName": "Pteralopex flanneryi",
+  "wikibase_item": "Q720061",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2479576,
+      "id": "Q2479576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q720061",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_monkey-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater monkey-faced bat or greater flying monkey is a megabat endemic to Solomon Islands, Bougainville, in Papua New Guinea, and nearby small islands. It is listed as a critically endangered species and the population is decreasing. It is the largest monkey-faced bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Greater_Monkey-faced_Bat_area.png"
+}

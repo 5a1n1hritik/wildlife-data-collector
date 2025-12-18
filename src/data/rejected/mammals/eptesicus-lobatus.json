@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-lobatus",
+  "name": "Eptesicus lobatus",
+  "scientificName": "Eptesicus lobatus",
+  "wikibase_item": "Q12139506",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12139506",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eptesicus_lobatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eptesicus lobatus is a species of bat of genus Eptesicus and family Vespertilionidae.",
+  "image": null,
+  "_score": 0
+}

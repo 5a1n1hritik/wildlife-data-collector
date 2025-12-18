@@ -1,0 +1,26 @@
+{
+  "id": "vampyrodes-major",
+  "name": "Vampyrodes major",
+  "scientificName": "Vampyrodes major",
+  "wikibase_item": "Q41168580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10832377,
+      "id": "Q10832377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168580"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "canis-aureus",
+  "name": "golden jackal",
+  "scientificName": "Canis aureus",
+  "wikibase_item": "Q128098",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128098",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_jackal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden jackal, also called the common jackal, is a wolf-like canid that is native to Eurasia. The golden jackal's coat varies in color from a pale creamy yellow in summer to a dark tawny beige in winter. It is smaller and has shorter legs, a shorter tail, a more elongated torso, a less-prominent forehead, and a narrower and more pointed muzzle than the Arabian wolf. It is listed as Least Concern on the IUCN Red List due to its widespread distribution and high density in areas with plenty of available food and optimum shelter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent_%28cropped%29.jpg"
+}

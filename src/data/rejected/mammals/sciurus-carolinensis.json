@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-carolinensis",
+  "name": "Eastern gray squirrel",
+  "scientificName": "Sciurus carolinensis",
+  "wikibase_item": "Q468500",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q468500",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_gray_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern gray squirrel, known outside of the United States as the grey squirrel, is a species of tree squirrel in the genus Sciurus. It is native to eastern North America, where it is the most prodigious and ecologically essential natural forest regenerator. Widely introduced to certain places around the world, the eastern gray squirrel in Europe, in particular, is regarded as an invasive species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/EasternGraySquirrel_GAm.jpg",
+  "_score": 2
+}

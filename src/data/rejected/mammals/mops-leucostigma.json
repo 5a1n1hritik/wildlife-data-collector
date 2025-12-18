@@ -1,0 +1,26 @@
+{
+  "id": "mops-leucostigma",
+  "name": "Mops leucostigma",
+  "scientificName": "Mops leucostigma",
+  "wikibase_item": "Q1831085",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11937568,
+      "id": "Q11937568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831085",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malagasy_white-bellied_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malagasy white-bellied free-tailed bat is a species of bat in the family Molossidae. It is endemic to Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tadarida_leucostigma_range_map.svg/2324px-Tadarida_leucostigma_range_map.svg.png",
+  "_score": 1
+}

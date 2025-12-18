@@ -1,0 +1,26 @@
+{
+  "id": "mesembriomys-macrurus",
+  "name": "Golden-backed tree-rat",
+  "scientificName": "Mesembriomys macrurus",
+  "wikibase_item": "Q1765881",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132308,
+      "id": "Q132308"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765881",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-backed_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-backed tree rat is a species of rodent in the family Muridae, found only in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mesembriomys_macrurus.jpg",
+  "_score": 1
+}

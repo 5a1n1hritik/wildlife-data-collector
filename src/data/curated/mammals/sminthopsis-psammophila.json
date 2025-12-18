@@ -1,0 +1,25 @@
+{
+  "id": "sminthopsis-psammophila",
+  "name": "sandhill dunnart",
+  "scientificName": "Sminthopsis psammophila",
+  "wikibase_item": "Q133345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133345",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandhill_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sandhill dunnart is a species of carnivorous Australian marsupial of the family Dasyuridae. It is known from four scattered semi-arid areas of Australia: near Lake Amadeus in Northern Territory, the central and eastern Eyre Peninsula in South Australia, the southwestern and western edges of the Great Victoria Desert in Western Australia, and at Yellabinna in South Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sandhill_Dunnart_%28Sminthopsis_psammophila%29.webp/1200px-Sandhill_Dunnart_%28Sminthopsis_psammophila%29.webp.png"
+}

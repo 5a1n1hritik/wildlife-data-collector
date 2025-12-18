@@ -1,0 +1,26 @@
+{
+  "id": "apomys-brownorum",
+  "name": "Apomys brownorum",
+  "scientificName": "Apomys brownorum",
+  "wikibase_item": "Q2858504",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2858504",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Tapulao_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Tapulao forest mouse is a forest mouse endemic to the Mount Tapulao area in the Philippines. It is named after the American zoologist Barbara Elaine Russell Brown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Range_Apomys_brownorum.png",
+  "_score": 1
+}

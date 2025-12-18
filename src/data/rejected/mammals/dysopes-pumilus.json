@@ -1,0 +1,26 @@
+{
+  "id": "dysopes-pumilus",
+  "name": "Dysopes pumilus",
+  "scientificName": "Dysopes pumilus",
+  "wikibase_item": "Q109647271",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24273562,
+      "id": "Q24273562"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647271"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

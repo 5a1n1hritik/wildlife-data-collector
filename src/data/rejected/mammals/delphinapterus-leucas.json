@@ -1,0 +1,26 @@
+{
+  "id": "delphinapterus-leucas",
+  "name": "beluga whale",
+  "scientificName": "Delphinapterus leucas",
+  "wikibase_item": "Q132072",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16628343,
+      "id": "Q16628343"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beluga_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The beluga whale is an Arctic and sub-Arctic cetacean. It is one of two living members of the family Monodontidae, along with the narwhal, and the only member of the genus Delphinapterus. It is also known as the white whale, as it is the only cetacean to regularly occur with this colour; the sea canary, due to its high-pitched calls; and the melonhead, though that more commonly refers to the melon-headed whale, which is an oceanic dolphin.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Oceanogr%C3%A0fic_29102004.jpg",
+  "_score": 2
+}

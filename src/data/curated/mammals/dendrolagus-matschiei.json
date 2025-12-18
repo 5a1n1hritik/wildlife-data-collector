@@ -1,0 +1,25 @@
+{
+  "id": "dendrolagus-matschiei",
+  "name": "Matschie's tree-kangaroo",
+  "scientificName": "Dendrolagus matschiei",
+  "wikibase_item": "Q209174",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209174",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matschie's_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Matschie's tree-kangaroo, also known as the Huon tree-kangaroo is a tree-kangaroo native to the Huon Peninsula of northeastern New Guinea island, within the nation of Papua New Guinea. Under the IUCN classification, Matschie's tree-kangaroo is an endangered species. The scientific name honours German biologist Paul Matschie. The indigenous population refers to it as a Boongarry.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg"
+}

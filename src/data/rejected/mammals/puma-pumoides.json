@@ -1,0 +1,28 @@
+{
+  "id": "puma-pumoides",
+  "name": "Puma pumoides",
+  "scientificName": "Puma pumoides",
+  "wikibase_item": "Q16623301",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 270748,
+      "id": "Q270748"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16623301",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puma_pumoides"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Puma pumoides is an extinct prehistoric cat that was described in 1956 by Alfredo Castellanos using the scientific name Felis pumoides. Castellanos excavated its fossil remains in the Reartes Valley located in the province of Córdoba, Argentina in a stratum called 'Brocherense bed', which probably dates to the Pliocene.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

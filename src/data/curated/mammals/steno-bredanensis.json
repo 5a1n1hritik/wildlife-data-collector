@@ -1,0 +1,25 @@
+{
+  "id": "steno-bredanensis",
+  "name": "Rough-toothed dolphin",
+  "scientificName": "Steno bredanensis",
+  "wikibase_item": "Q838812",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18520455,
+      "id": "Q18520455"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q838812",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rough-toothed_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rough-toothed dolphin is a species of dolphin that lives in deep warm and tropical waters around the world. It was first described by Georges Cuvier in 1823. The genus name Steno, of which it is the only member, comes from the Greek for 'narrow', referring to the animal's beak, which is a diagnostic characteristic of this dolphin. Its specific name honours van Breda, who studied Cuvier's writings. There are no recognised subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rough_toothed_dolphin.jpg"
+}

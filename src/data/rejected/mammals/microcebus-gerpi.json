@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-gerpi",
+  "name": "Microcebus gerpi",
+  "scientificName": "Microcebus gerpi",
+  "wikibase_item": "Q1514699",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1514699",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerp's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gerp's mouse lemur is a species of mouse lemur known only from the Sahafina Forest in eastern Madagascar, near Mantadia National Park. Its discovery was announced in 2012 by a German and Malagasy research team. The Sahafina Forest had not been studied until 2008 and 2009, when Groupe d'Étude et de Recherche sur les Primates de Madagascar (GERP)—a Malagasy-based research and conservation group for which the lemur is named—inventoried the forest's lemurs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Microcebus_gerpi_001.jpg",
+  "_score": 2
+}

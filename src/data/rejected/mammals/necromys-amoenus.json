@@ -1,0 +1,26 @@
+{
+  "id": "necromys-amoenus",
+  "name": "Pleasant bolo mouse",
+  "scientificName": "Necromys amoenus",
+  "wikibase_item": "Q305893",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305893",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pleasant_bolo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pleasant bolo mouse, or pleasant akodont, is a species of rodent in the family Cricetidae. It is found on grassland at high altitudes in Bolivia and Peru.",
+  "image": null,
+  "_score": 0
+}

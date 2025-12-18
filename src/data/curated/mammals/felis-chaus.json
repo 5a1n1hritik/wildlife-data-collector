@@ -1,0 +1,26 @@
+{
+  "id": "felis-chaus",
+  "name": "Jungle cat",
+  "scientificName": "Chaus",
+  "wikibase_item": "Q42623",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42623",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jungle_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The jungle cat, also called reed cat and swamp cat, is a medium-sized cat native from the Eastern Mediterranean region and the Caucasus to parts of Central, South and Southeast Asia. It inhabits foremost wetlands like swamps, littoral and riparian areas with dense vegetation. It is listed as Least Concern on the IUCN Red List, and is mainly threatened by destruction of wetlands, trapping and poisoning.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/FelisChausMunsiari1.jpg",
+  "_score": 3
+}

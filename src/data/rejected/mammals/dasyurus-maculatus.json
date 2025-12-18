@@ -1,0 +1,26 @@
+{
+  "id": "dasyurus-maculatus",
+  "name": "tiger quoll",
+  "scientificName": "Dasyurus maculatus",
+  "wikibase_item": "Q194526",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 379740,
+      "id": "Q379740"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194526",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiger_quoll"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tiger quoll, also known as the spotted-tailed quoll, spotted quoll, spotted-tailed dasyure, or tiger cat, is a carnivorous marsupial of the quoll genus Dasyurus native to Australia. With males and females weighing around 3.5 and 1.8 kg, respectively, it is the world's second-largest extant carnivorous marsupial, behind the Tasmanian devil. Two subspecies are recognised; the nominate is found in wet forests of southeastern Australia and Tasmania, and a northern subspecies, D. m. gracilis, is found in a small area of northern Queensland and is endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dasyurus_maculatus_398569942.jpg",
+  "_score": 2
+}

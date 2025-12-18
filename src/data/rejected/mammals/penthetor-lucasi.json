@@ -1,0 +1,26 @@
+{
+  "id": "penthetor-lucasi",
+  "name": "Dusky fruit bat",
+  "scientificName": "Penthetor lucasi",
+  "wikibase_item": "Q1762334",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2550257,
+      "id": "Q2550257"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762334",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky fruit bat is a species of bat found in Brunei, Indonesia, Malaysia, and Singapore.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Naturalis_Biodiversity_Center_-_RMNH.MAM.33067_ven_-_Penthetor_lucasi_-_skin.jpeg",
+  "_score": 1
+}

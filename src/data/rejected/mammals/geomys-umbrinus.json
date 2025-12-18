@@ -1,0 +1,26 @@
+{
+  "id": "geomys-umbrinus",
+  "name": "Geomys umbrinus",
+  "scientificName": "Geomys umbrinus",
+  "wikibase_item": "Q40996631",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40996631"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

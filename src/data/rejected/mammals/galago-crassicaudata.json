@@ -1,0 +1,26 @@
+{
+  "id": "galago-crassicaudata",
+  "name": "Galago crassicaudata",
+  "scientificName": "Galago crassicaudata",
+  "wikibase_item": "Q41164879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164879"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "manis-javanica",
+  "name": "Sunda pangolin",
+  "scientificName": "Manis javanica",
+  "wikibase_item": "Q269728",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886658,
+      "id": "Q20886658"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q269728",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunda_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sunda pangolin, also known as the Malayan or Javan pangolin, is a species of pangolin. It is a member of the Manidae family. Its English name comes from the Malay name pëngulin, which means \"roller\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pangolin_borneo.jpg"
+}

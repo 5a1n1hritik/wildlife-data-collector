@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-luctus",
+  "name": "Woolly Horseshoe Bat",
+  "scientificName": "Rhinolophus luctus",
+  "wikibase_item": "Q1763690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great woolly horseshoe bat is a species of bat in the family Rhinolophidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Woolly_Horseshoe_Bat_imported_from_iNaturalist_photo_246196123_on_16_August_2024.jpg",
+  "_score": 1
+}

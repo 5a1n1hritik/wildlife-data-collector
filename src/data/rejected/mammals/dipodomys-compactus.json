@@ -1,0 +1,26 @@
+{
+  "id": "dipodomys-compactus",
+  "name": "Gulf Coast kangaroo rat",
+  "scientificName": "Dipodomys compactus",
+  "wikibase_item": "Q303588",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303588",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gulf_Coast_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gulf Coast kangaroo rat is a species of rodent in the family Heteromyidae found in Mexico and the state of Texas in the United States. Its appearance and ecology are very similar to those of its putative sister species, Ord's kangaroo rat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Padre_Island_kangaroo_rat.jpg",
+  "_score": 1
+}

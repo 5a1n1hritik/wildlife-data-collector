@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-serotinus",
+  "name": "serotine bat",
+  "scientificName": "Eptesicus serotinus",
+  "wikibase_item": "Q214869",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q214869",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serotine_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The serotine bat, also known as the common serotine bat, big brown bat, or silky bat, is a fairly large Eurasian bat with quite large ears. It has a wingspan of around 37 cm (15 in) and often hunts in woodland. It sometimes roosts in buildings, hanging upside down, in small groups or individually. The name serotine is derived from the Latin serotinus, which means 'evening', while the generic name derives from Greek ἔπιεν and οίκος, which means 'house flyer'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Eptesicus_serotinus.jpg",
+  "_score": 2
+}

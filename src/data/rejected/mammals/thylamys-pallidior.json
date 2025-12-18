@@ -1,0 +1,26 @@
+{
+  "id": "thylamys-pallidior",
+  "name": "White-bellied fat-tailed mouse opossum",
+  "scientificName": "Thylamys pallidior",
+  "wikibase_item": "Q195012",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q195012",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-bellied_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-bellied fat-tailed mouse opossum is a species of opossum in the family Didelphidae. It is found in Argentina, Bolivia, \nChile and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/White-bellied_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_316383502_on_18_February_2024.jpg",
+  "_score": 1
+}

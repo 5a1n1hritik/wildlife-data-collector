@@ -1,0 +1,26 @@
+{
+  "id": "molossus-sinaloae",
+  "name": "Sinaloan Mastiff Bat",
+  "scientificName": "Molossus sinaloae",
+  "wikibase_item": "Q135140",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1723019,
+      "id": "Q1723019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135140",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sinaloan_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sinaloan mastiff bat is a species of bat in the family Molossidae, native to Mexico, Central America and northern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Molossus_sinaloae_138488057.jpg",
+  "_score": 1
+}

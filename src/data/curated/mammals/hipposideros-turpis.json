@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-turpis",
+  "name": "Hipposideros turpis",
+  "scientificName": "Hipposideros turpis",
+  "wikibase_item": "Q306340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_great_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser great leaf-nosed bat or lesser roundleaf bat is a species of bat in the family Hipposideridae. It is found in Japan. Its natural habitat is temperate forests.\nHuman interference has caused rapid habitat destruction, this has caused the bat to become endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Naturalis_Biodiversity_Center_-_RMNH.MAM.33140.b_ven_-_Hipposideros_turpis_-_skin.jpeg",
+  "_score": 3
+}

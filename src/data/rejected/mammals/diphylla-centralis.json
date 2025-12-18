@@ -1,0 +1,26 @@
+{
+  "id": "diphylla-centralis",
+  "name": "Diphylla centralis",
+  "scientificName": "Diphylla centralis",
+  "wikibase_item": "Q41082898",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10755826,
+      "id": "Q10755826"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082898"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

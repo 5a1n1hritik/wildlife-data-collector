@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-faunulus",
+  "name": "Pteropus faunulus",
+  "scientificName": "Pteropus faunulus",
+  "wikibase_item": "Q1761363",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761363",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicobar_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nicobar flying fox is a species of flying fox in the family Pteropodidae. It is endemic to India. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical swamps. It is threatened by habitat loss due to forest clearing.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Pteropus_faunulus.jpg",
+  "_score": 3
+}

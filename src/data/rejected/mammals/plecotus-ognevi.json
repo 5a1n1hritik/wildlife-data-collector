@@ -1,0 +1,26 @@
+{
+  "id": "plecotus-ognevi",
+  "name": "Plecotus ognevi",
+  "scientificName": "Plecotus ognevi",
+  "wikibase_item": "Q2551828",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2551828",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ognev's_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ognev's long-eared bat is a species of bat found in Asia. By 2006, it was recognized as a separate species from the P. auritus species complex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Plecotus_ognevi_-_Alexander_A._Fomichev_%28cropped%29.jpeg",
+  "_score": 1
+}

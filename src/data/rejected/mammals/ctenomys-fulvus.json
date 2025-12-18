@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-fulvus",
+  "name": "Tawny tuco-tuco",
+  "scientificName": "Ctenomys fulvus",
+  "wikibase_item": "Q665866",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q665866",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tawny_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tawny tuco-tuco is a species of burrowing rodent in the family Ctenomyidae. It is found in the desert regions of northern Chile and adjoining areas of Argentina.",
+  "image": null,
+  "_score": 0
+}

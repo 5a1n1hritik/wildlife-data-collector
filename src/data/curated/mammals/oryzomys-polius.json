@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-polius",
+  "name": "Oryzomys polius",
+  "scientificName": "Oryzomys polius",
+  "wikibase_item": "Q27430089",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27430089",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eremoryzomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eremoryzomys polius, also known as the gray rice rat or the Marañon oryzomys, is a rodent species in the tribe Oryzomyini of the family Cricetidae. Discovered in 1912 and first described in 1913 by Wilfred Osgood, it was originally placed in Oryzomys and named Oryzomys polius. In 2006, a cladistic analysis found that it was not closely related to Oryzomys in the strict sense or to any other oryzomyine then known, so that it is now placed in its own genus, Eremoryzomys. The Brazilian genus Drymoreomys, named in 2011, is probably the closest relative of Eremoryzomys. Eremoryzomys has a limited distribution in the dry upper valley of the Marañón River in central Peru, but may yet contain more than one species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Eremoryzomys_distribution.png",
+  "_score": 3
+}

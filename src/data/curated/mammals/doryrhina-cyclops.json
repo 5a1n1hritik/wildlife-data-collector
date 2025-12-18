@@ -1,0 +1,25 @@
+{
+  "id": "doryrhina-cyclops",
+  "name": "Doryrhina cyclops",
+  "scientificName": "Doryrhina cyclops",
+  "wikibase_item": "Q116222386",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 105062191,
+      "id": "Q105062191"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116222386",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyclops_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cyclops roundleaf bat or cyclops leaf-nosed bat is a species of bat in the family Hipposideridae found in the forests of equatorial Africa. It is placed in the genus Doryrhina together with the closely related greater roundleaf bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hipposideros_cyclops.jpg"
+}

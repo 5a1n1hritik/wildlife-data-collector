@@ -1,0 +1,26 @@
+{
+  "id": "thalacomys-nigripes",
+  "name": "Thalacomys nigripes",
+  "scientificName": "Thalacomys nigripes",
+  "wikibase_item": "Q41168390",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41158753,
+      "id": "Q41158753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168390"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "otomys-denti",
+  "name": "Dent's vlei rat",
+  "scientificName": "Otomys denti",
+  "wikibase_item": "Q1764342",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764342",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dent's_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dent's vlei rat is a species of rodent in the family Muridae.\nIt is found in Burundi, Democratic Republic of the Congo, Malawi, Tanzania, Uganda, and Zambia.\nIts natural habitats are subtropical or tropical moist montane forests, subtropical or tropical high-altitude shrubland, and subtropical or tropical high-altitude grassland.\nIt is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

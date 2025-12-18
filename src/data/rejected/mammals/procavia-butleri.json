@@ -1,0 +1,26 @@
+{
+  "id": "procavia-butleri",
+  "name": "Procavia butleri",
+  "scientificName": "Procavia butleri",
+  "wikibase_item": "Q41167324",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2733577,
+      "id": "Q2733577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167324"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

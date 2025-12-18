@@ -1,0 +1,25 @@
+{
+  "id": "chalinolobus-morio",
+  "name": "Chalinolobus morio",
+  "scientificName": "Chalinolobus morio",
+  "wikibase_item": "Q305052",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134516,
+      "id": "Q134516"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305052",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chocolate_wattled_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chocolate wattled bat is a bat in the family Vespertilionidae. It is found only in Australia, including the island Tasmania, and widespread in southern regions. It is known to reside from sea level to at least 1,570 metres (5,150 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chalinolobus_morio.jpg"
+}

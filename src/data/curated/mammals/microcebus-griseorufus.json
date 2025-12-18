@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-griseorufus",
+  "name": "reddish-gray mouse lemur",
+  "scientificName": "Microcebus griseorufus",
+  "wikibase_item": "Q1543709",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1543709",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reddish-gray_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The reddish-gray mouse lemur also known as the gray-brown mouse lemur or rufous-gray mouse lemur, is a small, solitary-but-social, nocturnal and omnivorous primate from the Western Madagascar in the region around Beza Mahafaly Reserve, north to Lamboharana. Like the other lemur species, the reddish-grey mouse lemur is endemic to Madagascar. They generally live in the drier regions of the island. It is categorized as least concerned in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Microcebus_griseorufus.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "liomys-irroratus",
+  "name": "Mexican spiny pocket mouse",
+  "scientificName": "Liomys irroratus",
+  "wikibase_item": "Q115792",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 912104,
+      "id": "Q912104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115792",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_spiny_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican spiny pocket mouse is a species of rodent in the family Heteromyidae. It is native to Mexico and Texas in the United States where it is found in dry, scrubby habitats. The IUCN has assessed it as being of \"least concern\". It was formerly placed in the genus Liomys, which is now recognized to be paraphyletic and has been subsumed into Heteromys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Heteromys_irroratus_texensis.jpg",
+  "_score": 2
+}

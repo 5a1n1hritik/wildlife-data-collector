@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-collaris",
+  "name": "Eulemur collaris",
+  "scientificName": "Eulemur collaris",
+  "wikibase_item": "Q913784",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q913784",
+    "wikipedia": "https://en.wikipedia.org/wiki/Collared_brown_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The collared brown lemur, also known as the red-collared brown lemur, collared lemur, or red-collared lemur, is a medium-sized strepsirrhine primate and one of twelve species of brown lemur in the family Lemuridae. It is only found in south-eastern Madagascar. Like most species of lemur, it is arboreal, moving quadrupedally and occasionally leaping from tree to tree. Like other brown lemurs, this species is cathemeral, lives in social groups, primarily eats fruit, exhibits sexual dichromatism, and does not demonstrate female dominance. The species is listed as Endangered by the International Union for Conservation of Nature (IUCN) and is threatened primarily by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eulemur_collaris_001_edit.jpg",
+  "_score": 4
+}

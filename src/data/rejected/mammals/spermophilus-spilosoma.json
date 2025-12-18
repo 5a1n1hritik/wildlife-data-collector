@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-spilosoma",
+  "name": "Spotted ground squirrel",
+  "scientificName": "Spermophilus spilosoma",
+  "wikibase_item": "Q1769954",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769954",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted ground squirrel is a species of ground squirrel in the rodent family Sciuridae. It is found throughout Mexico and the central and western United States. Characterized by a white spotted back, the spotted ground squirrel is one of the smallest squirrels found in North America. They are mainly herbivorous, but also eat insects. A burrowing mammal, the spotted ground squirrel will make tunnels to store its food, as well as shelter and hibernation quarters.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Spotted_ground_squirrel.jpg",
+  "_score": 2
+}

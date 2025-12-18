@@ -1,0 +1,26 @@
+{
+  "id": "epomophorus-anchietae",
+  "name": "Epomophorus anchietae",
+  "scientificName": "Epomophorus anchietae",
+  "wikibase_item": "Q109647278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135238,
+      "id": "Q135238"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647278"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

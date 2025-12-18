@@ -1,0 +1,26 @@
+{
+  "id": "harpiocephalus-tubinaris",
+  "name": "Harpiocephalus tubinaris",
+  "scientificName": "Harpiocephalus tubinaris",
+  "wikibase_item": "Q109647305",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845856,
+      "id": "Q845856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647305"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

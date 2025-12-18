@@ -1,0 +1,26 @@
+{
+  "id": "sundasciurus-robinsoni",
+  "name": "Sundasciurus robinsoni",
+  "scientificName": "Sundasciurus robinsoni",
+  "wikibase_item": "Q98034216",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98034216",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robinson's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sundasciurus robinsoni, or Robinson's squirrel, is a species of rodent in the family Sciuridae. It is found in Indonesia, Malaysia and Thailand. The species Sundasciurus robinsoni has a dorsum that ranges from medium brown with orange agouti to dark brown, and its venter ranges from white to pale yellow/buff white, with a reduction in the extent of this pale coloration and a lack of distinct margins in the case of S. r. vanakeni. Some populations have a grayish ventral coloration in limbs while others do not. It can be easily distinguished from other medium-sized western Sundaland Sundasciurus based on its ventral coloration and tail. All populations of S. fraterculus except Siberut, S. tahan, and S. altitudinis have a venter fur coloration homogeneously admixed with gray. The only other medium-sized squirrel found in syntopy, S. tenuis, is also usually ventrally darker and dorsally lighter, with reddish-brown coloration on the shoulders and hips, white/pallid yellow hair tips present on tail, and a relatively thinner and longer tail (85–95% of head-body length; than S. robinsoni. Males of S. fraterculus, S. tahan and S. tenuis have a darker orange wash in the scrotal area than S. robinsoni, which is peach colored.",
+  "image": null,
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "neodon-shergylaensis",
+  "name": "Neodon shergylaensis",
+  "scientificName": "Neodon shergylaensis",
+  "wikibase_item": "Q118153925",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427901,
+      "id": "Q427901"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118153925",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shergyla_mountain_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Shergyla mountain vole is a species of rodent in the family Cricetidae. It is found only in China.",
+  "image": null,
+  "_score": 0
+}

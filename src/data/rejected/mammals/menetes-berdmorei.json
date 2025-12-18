@@ -1,0 +1,26 @@
+{
+  "id": "menetes-berdmorei",
+  "name": "Berdmore's ground squirrel",
+  "scientificName": "Menetes berdmorei",
+  "wikibase_item": "Q818872",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19638307,
+      "id": "Q19638307"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q818872",
+    "wikipedia": "https://en.wikipedia.org/wiki/Berdmore's_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Berdmore's ground squirrel, Indochinese ground squirrel, or Berdmore's squirrel is a ground squirrel found in Southeast Asia, from the east of Myanmar and Yunnan to Vietnam and Cambodia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Menetes_berdmorei_imported_from_iNaturalist_photo_54707112_on_1_December_2019.jpg",
+  "_score": 1
+}

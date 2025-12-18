@@ -1,0 +1,26 @@
+{
+  "id": "ammodillus-imbellis",
+  "name": "Ammodillus imbellis",
+  "scientificName": "Ammodillus imbellis",
+  "wikibase_item": "Q1558637",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 14592515,
+      "id": "Q14592515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1558637",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ammodile"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ammodile, walo or Somali gerbil is a species of rodent in the family Muridae. It is the only species in the genus Ammodillus. It is found in Ethiopia and Somalia. Its natural habitat is subtropical or tropical dry lowland grassland. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

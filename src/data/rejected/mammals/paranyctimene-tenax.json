@@ -1,0 +1,26 @@
+{
+  "id": "paranyctimene-tenax",
+  "name": "Steadfast tube-nosed bat",
+  "scientificName": "Paranyctimene tenax",
+  "wikibase_item": "Q1770246",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2503100,
+      "id": "Q2503100"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770246"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

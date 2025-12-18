@@ -1,0 +1,26 @@
+{
+  "id": "bassariscus-astutus",
+  "name": "ringtail",
+  "scientificName": "Bassariscus astutus",
+  "wikibase_item": "Q632701",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791240,
+      "id": "Q791240"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q632701",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringtail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ringtail is a mammal of the raccoon family native to arid regions of North America. It is widely distributed and well-adapted to its distributed areas. It has been legally trapped for its fur. Globally, it is listed as Least Concern on the IUCN Red List but is a Conservation Strategy Species in Oregon and Fully Protected in California The ringtail is the state mammal of Arizona.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Squaw-ringtail-28073.jpg",
+  "_score": 1
+}

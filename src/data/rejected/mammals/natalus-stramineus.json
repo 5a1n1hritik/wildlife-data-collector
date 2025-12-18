@@ -1,0 +1,26 @@
+{
+  "id": "natalus-stramineus",
+  "name": "Natalus stramineus",
+  "scientificName": "Natalus stramineus",
+  "wikibase_item": "Q1834574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2420687,
+      "id": "Q2420687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834574",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_funnel-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican funnel-eared bat is a bat species. Despite its name, it is native to the Lesser Antilles in the Caribbean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/NatalusStramineusFord.jpg",
+  "_score": 1
+}

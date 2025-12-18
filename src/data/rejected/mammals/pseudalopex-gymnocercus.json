@@ -1,0 +1,26 @@
+{
+  "id": "pseudalopex-gymnocercus",
+  "name": "Pseudalopex gymnocercus",
+  "scientificName": "Pseudalopex gymnocercus",
+  "wikibase_item": "Q107658272",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157563,
+      "id": "Q41157563"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107658272",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pampas_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pampas fox, also known as grey pampean fox, Pampas zorro, Azara's fox, or Azara's zorro, is a medium-sized zorro, or \"false\" fox, native to the South American Pampas. Azara in some of its alternative common names is a reference to Spanish naturalist Félix de Azara.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Na_estrada%3F.jpg",
+  "_score": 1
+}

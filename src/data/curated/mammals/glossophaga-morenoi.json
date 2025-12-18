@@ -1,0 +1,25 @@
+{
+  "id": "glossophaga-morenoi",
+  "name": "Glossophaga morenoi",
+  "scientificName": "Glossophaga morenoi",
+  "wikibase_item": "Q305048",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571718,
+      "id": "Q1571718"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305048",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western long-tongued bat is a species of bat in the family Phyllostomidae. It is endemic to southern Mexico, from Chiapas in the southeast to Tlaxcala in the northeast and Michoacán in the west. It ranges over tropical dry forest, shrubland, and dry pine–oak forests, typically from sea level to 300 meters elevation and occasionally up to 1500 meters elevation. It inhabits caves, tree hollows, culverts, wells, and buildings.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Western_long-tongued_bat_imported_from_iNaturalist_photo_61731732_on_18_April_2022_%28cropped%29.jpg"
+}

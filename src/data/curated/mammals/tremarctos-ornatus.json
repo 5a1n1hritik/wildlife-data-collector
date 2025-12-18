@@ -1,0 +1,26 @@
+{
+  "id": "tremarctos-ornatus",
+  "name": "spectacled bear",
+  "scientificName": "Tremarctos ornatus",
+  "wikibase_item": "Q137641",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3768986,
+      "id": "Q3768986"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137641",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spectacled_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spectacled bear, also known as the Andean bear, is a species of bear native to the Andes Mountains in northern and western South America. It is the only living species of bear native to South America, and the last remaining short-faced bear. Unlike other omnivorous bears, the diet of the spectacled bear is mostly herbivorous. The species is classified as Vulnerable by the IUCN because of habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tremarctos_ornatus_in_Jardim_Zool%C3%B3gico_de_Curitiba.jpg",
+  "_score": 4
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lepus-habessinicus",
+  "name": "Abyssinian hare",
+  "scientificName": "Lepus habessinicus",
+  "wikibase_item": "Q336528",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q336528",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abyssinian_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Abyssinian hare is a species of mammal in the family Leporidae. It is a small hare with fur that varies from sandy brown to grey depending on its geographic location, being almost entirely restricted to the nations of the Horn of Africa, though it extends marginally into eastern Sudan and may also occur in far northern Kenya. The Abyssinian hare is similar in appearance to and closely related to the Ethiopian highland hare and was once considered to be a subspecies of the Cape hare. It lives in semi-arid regions, deserts, savannahs, grasslands, and steppes, preferring regions with sparse vegetation that it uses for shade and protection from predators. Little study has been done on the Abyssinian hare's life history, but it is abundant and its range may be expanding, which has led the International Union for Conservation of Nature to classify it as a least-concern species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Abyssinian_Hare_%28Lepus_habessinicus%29_running.jpg",
+  "_score": 3
+}

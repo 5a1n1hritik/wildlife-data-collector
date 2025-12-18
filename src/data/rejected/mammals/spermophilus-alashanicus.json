@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-alashanicus",
+  "name": "Alashan ground squirrel",
+  "scientificName": "Spermophilus alashanicus",
+  "wikibase_item": "Q1767366",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767366",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alashan_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alashan ground squirrel is a species of squirrel. It is native to China and Mongolia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Spermophilus_alashanicus.jpg",
+  "_score": 1
+}

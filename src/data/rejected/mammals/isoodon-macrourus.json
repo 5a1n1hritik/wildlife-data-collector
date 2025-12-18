@@ -1,0 +1,26 @@
+{
+  "id": "isoodon-macrourus",
+  "name": "Northern brown bandicoot",
+  "scientificName": "Isoodon macrourus",
+  "wikibase_item": "Q194272",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475031,
+      "id": "Q1475031"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194272",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_brown_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern brown bandicoot, a marsupial species, is a bandicoot found only on the northern and eastern coasts of Australia and nearby islands, mainly Papua New Guinea. It is not, however, found far inland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Northern_Brown_Bandicoot.jpg",
+  "_score": 1
+}

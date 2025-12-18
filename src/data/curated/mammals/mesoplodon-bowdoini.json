@@ -1,0 +1,25 @@
+{
+  "id": "mesoplodon-bowdoini",
+  "name": "Andrews' beaked whale",
+  "scientificName": "Mesoplodon bowdoini",
+  "wikibase_item": "Q503578",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243810,
+      "id": "Q243810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q503578",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrews'_beaked_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andrews' beaked whale, sometimes known as the deep-crest beaked whale or splay-toothed whale, is one of the least known members of a poorly known genus. The species has never been observed in the wild, and is known only from specimens washed up on beaches.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mesoplodon_bowdoini.jpg"
+}

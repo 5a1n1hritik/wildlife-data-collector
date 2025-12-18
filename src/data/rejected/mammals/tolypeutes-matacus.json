@@ -1,0 +1,26 @@
+{
+  "id": "tolypeutes-matacus",
+  "name": "southern three-banded armadillo",
+  "scientificName": "Tolypeutes matacus",
+  "wikibase_item": "Q75070",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1080942,
+      "id": "Q1080942"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q75070",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_three-banded_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern three-banded armadillo, also known as La Plata three-banded armadillo or Azara's domed armadillo, is an armadillo species from South America. It is found in parts of northern Argentina, southwestern Brazil, Paraguay and Bolivia, at elevations from sea level to 770 m (2,530 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/SouthernThreeBandedArmadillo065b.jpg",
+  "_score": 1
+}

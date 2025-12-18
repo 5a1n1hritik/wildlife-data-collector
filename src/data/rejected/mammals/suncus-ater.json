@@ -1,0 +1,26 @@
+{
+  "id": "suncus-ater",
+  "name": "Black shrew",
+  "scientificName": "Suncus ater",
+  "wikibase_item": "Q1766540",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766540",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black shrew is a white-toothed shrew only known from Mount Kinabalu in the Malaysian state of Sabah on the island of Borneo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Black_Shrew_area.png",
+  "_score": 1
+}

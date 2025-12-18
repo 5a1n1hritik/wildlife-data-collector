@@ -1,0 +1,26 @@
+{
+  "id": "cynocephalus-anubis",
+  "name": "Cynocephalus anubis",
+  "scientificName": "Cynocephalus anubis",
+  "wikibase_item": "Q125420753",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10751360,
+      "id": "Q10751360"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125420753"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

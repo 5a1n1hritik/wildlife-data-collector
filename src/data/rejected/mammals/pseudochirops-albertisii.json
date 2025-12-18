@@ -1,0 +1,26 @@
+{
+  "id": "pseudochirops-albertisii",
+  "name": "D'Albertis' ringtail possum",
+  "scientificName": "Pseudochirops albertisii",
+  "wikibase_item": "Q209818",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1551997,
+      "id": "Q1551997"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209818",
+    "wikipedia": "https://en.wikipedia.org/wiki/D'Albertis's_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "D'Albertis' ringtail possum is a species of marsupial in the family Pseudocheiridae. It is found in Indonesia and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Enumerazione_dei_mammiferi_%289680493132%29.jpg",
+  "_score": 2
+}

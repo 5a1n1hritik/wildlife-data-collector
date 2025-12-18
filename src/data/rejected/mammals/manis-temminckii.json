@@ -1,0 +1,26 @@
+{
+  "id": "manis-temminckii",
+  "name": "Manis temminckii",
+  "scientificName": "Manis temminckii",
+  "wikibase_item": "Q476947",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25397,
+      "id": "Q25397"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q476947",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ground_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ground pangolin, also known as Temminck's pangolin, Cape pangolin or steppe pangolin is a species of pangolin from genus Smutsia of subfamily Smutsiinae the within family Manidae. It is one of four species of pangolins which can be found in Africa, and the only one in southern and eastern Africa. The animal was named for the Dutch zoologist Coenraad Jacob Temminck.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Manis_temminckii_%2829645803646%29.jpg",
+  "_score": 1
+}

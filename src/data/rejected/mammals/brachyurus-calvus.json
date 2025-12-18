@@ -1,0 +1,26 @@
+{
+  "id": "brachyurus-calvus",
+  "name": "Brachyurus calvus",
+  "scientificName": "Brachyurus calvus",
+  "wikibase_item": "Q123002784",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 123002598,
+      "id": "Q123002598"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123002784"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

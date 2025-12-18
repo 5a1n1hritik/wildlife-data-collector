@@ -1,0 +1,26 @@
+{
+  "id": "spilocuscus-rufoniger",
+  "name": "Black-spotted cuscus",
+  "scientificName": "Spilocuscus rufoniger",
+  "wikibase_item": "Q209570",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475049,
+      "id": "Q1475049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209570",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-spotted_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-spotted cuscus is a species of marsupial in the family Phalangeridae. It is among the largest members of the family, only being surpassed by the bear cuscus. It is a relatively colourful species found in forests of northern New Guinea. It is threatened by hunting and habitat loss, and has already disappeared from large parts of its range. Consequently, it is rated as Critically Endangered by IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Spilocuscus_rufoniger_2012_stamp_of_Indonesia.jpg",
+  "_score": 4
+}

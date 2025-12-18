@@ -1,0 +1,26 @@
+{
+  "id": "batomys-dentatus",
+  "name": "Large-toothed hairy-tailed rat",
+  "scientificName": "Batomys dentatus",
+  "wikibase_item": "Q306655",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791357,
+      "id": "Q791357"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306655",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-toothed_hairy-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-toothed hairy-tailed rat is one of five species of rodent in the genus Batomys. It is in the diverse family Muridae.\nThis species is found only in Philippines.\nIts natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Batomys_dentatus.jpg",
+  "_score": 2
+}

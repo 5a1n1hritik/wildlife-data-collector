@@ -1,0 +1,25 @@
+{
+  "id": "microtus-xanthognathus",
+  "name": "Taiga vole",
+  "scientificName": "Microtus xanthognathus",
+  "wikibase_item": "Q1769449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiga_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The taiga vole is a large vole found in northwestern North America, including Alaska and northwestern Canada. The name \"taiga vole\" comes from its living in the boreal taiga zone. It is also sometimes called the yellow-cheeked vole or chestnut-cheeked vole because of the rusty-yellow color on its face around its vibrisae (whiskers); The taiga voles derive their name from these features: \"xantho\" is Greek for yellow and \"gnathus\" is Greek for jaw. It is typically much larger than most other North American voles, especially those from the genus Microtus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yellow-cheeked_vole.jpg"
+}

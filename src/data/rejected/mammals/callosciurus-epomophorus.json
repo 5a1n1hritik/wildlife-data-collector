@@ -1,0 +1,26 @@
+{
+  "id": "callosciurus-epomophorus",
+  "name": "Callosciurus epomophorus",
+  "scientificName": "Callosciurus epomophorus",
+  "wikibase_item": "Q40652306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40652306"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

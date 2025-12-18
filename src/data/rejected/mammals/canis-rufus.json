@@ -1,0 +1,26 @@
+{
+  "id": "canis-rufus",
+  "name": "Canis rufus",
+  "scientificName": "Canis rufus",
+  "wikibase_item": "Q28196316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28196316",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_wolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red wolf is a canine native to the southeastern United States. Its size is intermediate between the coyote and gray wolf.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Red_wolf_%284531335218%29.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "scotinomys-teguina",
+  "name": "Alston's brown mouse",
+  "scientificName": "Scotinomys teguina",
+  "wikibase_item": "Q1767506",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 431119,
+      "id": "Q431119"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767506",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alston's_brown_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Alston's brown mouse, also called Alston's singing mouse, short-tailed singing mouse, or singing mouse, is a species of rodent in the family Cricetidae. It is found in Central America, from Chiapas, Mexico, to western Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Scotinomys_teguina.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "corynorhinus-mexicanus",
+  "name": "Mexican Big-eared Bat",
+  "scientificName": "Corynorhinus mexicanus",
+  "wikibase_item": "Q1833151",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278347,
+      "id": "Q278347"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833151",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican big-eared bat is a species of vesper bat endemic to Mexico. They are nocturnal and insectivorous. Their very large ears are located across their foreheads, and when captured, the bats are observed to curl their ears in a protective manner. The adults are usually brown colored, while the juveniles are usually a smoky brown color. They have small noses.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Corynorhinus_mexicanus.jpg",
+  "_score": 1
+}

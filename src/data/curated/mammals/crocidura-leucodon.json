@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-leucodon",
+  "name": "Bicolored Shrew",
+  "scientificName": "Crocidura leucodon",
+  "wikibase_item": "Q626921",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626921",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bicolored_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bicolored shrew or bicoloured white-toothed shrew is a species of mammal in the family Soricidae. It is found in eastern, central and southern Europe and in western Asia. It is a nocturnal species and feeds on insects and other small creatures. Several litters of young are born during the warmer months of the year in a nest of dry grasses in a concealed location.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crocidura_leucodon.JPG"
+}

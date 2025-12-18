@@ -1,0 +1,26 @@
+{
+  "id": "dendromus-sp.",
+  "name": "Dendromus sp.",
+  "scientificName": "Dendromus sp.",
+  "wikibase_item": "Q41082826",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082826"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

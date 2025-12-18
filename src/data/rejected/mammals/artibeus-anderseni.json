@@ -1,0 +1,26 @@
+{
+  "id": "artibeus-anderseni",
+  "name": "Andersen's fruit-eating bat",
+  "scientificName": "Artibeus anderseni",
+  "wikibase_item": "Q146466",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146466",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andersen's_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andersen's fruit-eating bat is a bat species found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Artibeus_anderseni_map.svg/1181px-Artibeus_anderseni_map.svg.png",
+  "_score": 1
+}

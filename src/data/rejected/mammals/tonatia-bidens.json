@@ -1,0 +1,26 @@
+{
+  "id": "tonatia-bidens",
+  "name": "greater round-eared bat",
+  "scientificName": "Tonatia bidens",
+  "wikibase_item": "Q1831382",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2896358,
+      "id": "Q2896358"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831382",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater round-eared bat is a bat species found in northeastern and southern Brazil, northern Argentina, Paraguay and Bolivia. The species feeds on fruit as well as hunting small birds. Once caught, birds are taken to a shelter and consumed.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tonatia_bidens_map.svg/500px-Tonatia_bidens_map.svg.png",
+  "_score": 1
+}

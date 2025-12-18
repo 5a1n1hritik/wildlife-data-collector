@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-niger",
+  "name": "fox squirrel",
+  "scientificName": "Sciurus niger",
+  "wikibase_item": "Q694296",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q694296",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fox_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fox squirrel, also known as the eastern fox squirrel or Bryant's fox squirrel, is the largest species of tree squirrel native to North America. It is sometimes mistaken for the American red squirrel or eastern gray squirrel in areas where the species co-exist, though they differ in size and coloration.The word Sciurus came from the ancient Greek words, ‘skia’ meaning shade and ‘oura’ meaning tail. Niger refers to the black coloration.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Fox_Squirrel_%2814539535789%29.jpg",
+  "_score": 2
+}

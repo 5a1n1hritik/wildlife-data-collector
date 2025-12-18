@@ -1,0 +1,25 @@
+{
+  "id": "lepus-capensis-mediterraneus",
+  "name": "Mediterranean hare",
+  "scientificName": "Lepus mediterraneus",
+  "wikibase_item": "Q124799988",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124799988",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mediterranean_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mediterranean hare, also known as the Northwest African hare and the Sardinian hare, is a species of mammal in the family Leporidae. It was first described in 1841 by Johann Andreas Wagner. Later, it was reclassified as a subspecies of the Cape hare, but was split in 2019 along with the Moroccan hare from central Morocco and the West Sahara hare from southern Morocco. The species has many synonyms, and likely represents a species complex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Die_S%C3%A4ugthiere_in_Abbildungen_nach_der_Natur%2C_mit_Beschreibungen_%28Plate_CCXXXIII.C%29_%288610040572%29.jpg"
+}

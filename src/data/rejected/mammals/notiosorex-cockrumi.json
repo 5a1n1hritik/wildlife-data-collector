@@ -1,0 +1,26 @@
+{
+  "id": "notiosorex-cockrumi",
+  "name": "Notiosorex cockrumi",
+  "scientificName": "Notiosorex cockrumi",
+  "wikibase_item": "Q1768803",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1543771,
+      "id": "Q1543771"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768803",
+    "wikipedia": "https://en.wikipedia.org/wiki/Notiosorex_cockrumi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Notiosorex cockrumi, also called Cockrum's gray shrew or Cockrum's desert shrew, is a tiny species of shrews named in 2003. This red-toothed shrew, which is as light as a penny, is the first new mammal species from the U.S. state of Arizona since 1977. Its range extends from Arizona to central portion of the Mexican state of Sonora.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/NSRL_specimen_of_Notiosorex_cockrumi.jpg",
+  "_score": 1
+}

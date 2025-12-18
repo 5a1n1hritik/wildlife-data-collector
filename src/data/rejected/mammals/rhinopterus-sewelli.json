@@ -1,0 +1,26 @@
+{
+  "id": "rhinopterus-sewelli",
+  "name": "Rhinopterus sewelli",
+  "scientificName": "Rhinopterus sewelli",
+  "wikibase_item": "Q15230032",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157861,
+      "id": "Q41157861"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15230032"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

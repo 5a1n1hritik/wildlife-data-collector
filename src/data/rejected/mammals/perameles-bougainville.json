@@ -1,0 +1,28 @@
+{
+  "id": "perameles-bougainville",
+  "name": "Western barred bandicoot",
+  "scientificName": "Perameles bougainville",
+  "wikibase_item": "Q596243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207399,
+      "id": "Q1207399"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q596243",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_barred_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western barred bandicoot, also known as the Shark Bay bandicoot or the marl, is a small species of bandicoot which was once widespread in arid and semi-arid areas of southern Australia. Now extinct across most of its former range, the western barred bandicoot became restricted to Bernier and Dorre islands in the early 20th century. Successful reintroduction programs have taken place since the beginning of the 21st century, and as of 2025, it is resident on four islands in Shark Bay and six fenced reserves on the mainland: one in Western Australia, two in South Australia, and three in New South Wales.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Perameles_bougainville_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02989.JPG",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

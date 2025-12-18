@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-lacernata",
+  "name": "Tupaia lacernata",
+  "scientificName": "Tupaia lacernata",
+  "wikibase_item": "Q40713369",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40713369"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

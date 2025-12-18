@@ -1,0 +1,26 @@
+{
+  "id": "bettongia-lesueur",
+  "name": "Bettongia lesueur",
+  "scientificName": "Bettongia lesueur",
+  "wikibase_item": "Q209763",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 945387,
+      "id": "Q945387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209763",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boodie"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The boodie, also known as the burrowing bettong or Lesueur's rat-kangaroo, is a small, furry, rat-like mammal native to Australia. Once common throughout the continent, it is now restricted to a few coastal islands. A member of the rat-kangaroo family (Potoroidae), it lives in burrows and is active at night when it forages for fungi, roots, and other plant matter. It is about the size of a rabbit and, like most marsupials, carries its young in a pouch.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Burrowing_bettong.jpg",
+  "_score": 2
+}

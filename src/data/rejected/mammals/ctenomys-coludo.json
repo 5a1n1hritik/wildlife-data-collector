@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-coludo",
+  "name": "Puntilla tuco-tuco",
+  "scientificName": "Ctenomys coludo",
+  "wikibase_item": "Q1762991",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762991",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puntilla_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Puntilla tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to central Argentina. The common name of the species comes from the municipality of La Puntilla at the type locality. It was first described by the British zoologist Oldfield Thomas in 1920 after being collected by Emilio Budin, an Argentine specimen collector who worked with Oldfield Thomas.",
+  "image": null,
+  "_score": 0
+}

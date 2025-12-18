@@ -1,0 +1,26 @@
+{
+  "id": "mormoops-megalophylla",
+  "name": "Mormoops megalophylla",
+  "scientificName": "Mormoops megalophylla",
+  "wikibase_item": "Q785067",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 848534,
+      "id": "Q848534"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q785067",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ghost-faced bat is a bat in the genus Mormoops. It is one of only two extant species within its genus, the other being the much smaller Mormoops blainvillii. They are nocturnal and hunt using echolocation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mormoops_megalophylla.JPG",
+  "_score": 1
+}

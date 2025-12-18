@@ -1,0 +1,26 @@
+{
+  "id": "gracilinanus-agilis",
+  "name": "Agile gracile opossum",
+  "scientificName": "Gracilinanus agilis",
+  "wikibase_item": "Q194432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311603,
+      "id": "Q311603"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194432",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agile_gracile_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The agile gracile opossum is an opossum species from South America. It is found in Argentina, Bolivia, Brazil, Colombia, Peru, Paraguay, and Uruguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gracilinanus_agilis_04.jpg",
+  "_score": 1
+}

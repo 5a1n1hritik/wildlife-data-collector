@@ -1,0 +1,26 @@
+{
+  "id": "tigris-sondaica",
+  "name": "Tigris sondaica",
+  "scientificName": "Tigris sondaica",
+  "wikibase_item": "Q122602511",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122602504,
+      "id": "Q122602504"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122602511"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sorex-tundrensis",
+  "name": "tundra shrew",
+  "scientificName": "Sorex tundrensis",
+  "wikibase_item": "Q1764913",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764913",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tundra_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tundra shrew is a small shrew found in Alaska, the northern Yukon Territory, the MacKenzie Delta region of the Northwest Territories, extreme northwestern British Columbia and eastern Russia. At one time, this animal was considered to be a subspecies of the Arctic shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tundra_shrew_%28Sorex_tundrensis%29.jpg",
+  "_score": 1
+}

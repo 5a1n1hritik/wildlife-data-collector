@@ -1,0 +1,26 @@
+{
+  "id": "ateles-chamek",
+  "name": "Ateles chamek",
+  "scientificName": "Ateles chamek",
+  "wikibase_item": "Q280520",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q280520",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peruvian spider monkey, also known as the black-faced black spider monkey, is a species of spider monkey that lives in Peru, as well as in Brazil and in Bolivia. At 60 centimetres long, they are relatively large among species of monkey, and their strong, prehensile tails can be up to 1 m (3 ft) long. Unlike many species of monkey, they have only a vestigial thumb, an adaptation which enables them to travel using brachiation. Peruvian spider monkeys live in groups of 20–30 individuals, but these groups are rarely all together simultaneously. The size and dynamics of the resulting subgroups vary with food availability and sociobehavioral activity. They prefer to eat fleshy fruit, but will change their diet in response to scarcity of ripe fruit. Individuals of this species also eat small animals, insects and leaves based on availability. Females separate from the band to give birth, typically in the fall. These females inhabit a group of core areas where resources are abundant in certain seasons. Typically, males exhibit ranging over longer distances than females, with movement of individuals enhancing the fluidity of subgroup size. Peruvian spider monkey are independent at about 10 months, with a lifespan of about 20 years.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ateles_chamek_SP_Zoo.jpg",
+  "_score": 5
+}

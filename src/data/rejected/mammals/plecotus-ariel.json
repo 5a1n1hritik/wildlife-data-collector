@@ -1,0 +1,26 @@
+{
+  "id": "plecotus-ariel",
+  "name": "Plecotus ariel",
+  "scientificName": "Plecotus ariel",
+  "wikibase_item": "Q2592169",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2592169",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ward's_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ward's long-eared bat is a species of vesper bat in the family Vespertilionidae. It is found in mountainous regions of South Asia and adjoining regions.",
+  "image": null,
+  "_score": 0
+}

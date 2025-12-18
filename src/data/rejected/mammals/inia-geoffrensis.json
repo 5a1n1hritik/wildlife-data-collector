@@ -1,0 +1,26 @@
+{
+  "id": "inia-geoffrensis",
+  "name": "Amazon river dolphin",
+  "scientificName": "Inia geoffrensis",
+  "wikibase_item": "Q205329",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2896224,
+      "id": "Q2896224"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q205329",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amazon_river_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amazon river dolphin, also known as the boto, bufeo or pink river dolphin, is a species of toothed whale endemic to South America and is classified in the family Iniidae. Three subspecies are currently recognized: I. g. geoffrensis, I. g. boliviensis and I. g. humboldtiana. The position of the Araguaian river dolphin within the clade is still unclear. The three subspecies are distributed in the Amazon basin, the upper Madeira River in Bolivia, and the Orinoco basin, respectively.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Amazonas-Flussdelfin_Orinoko3.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nyctalus-lasiopterus",
+  "name": "Greater noctule bat",
+  "scientificName": "Nyctalus lasiopterus",
+  "wikibase_item": "Q756108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q756108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_noctule_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater noctule bat is a rare carnivorous bat found in Europe, West Asia, and North Africa. It is the largest and least studied bat in Europe with a wingspan of up to 46 centimetres (18 in) and is one of the few bat species to feed on passerine birds. Greater noctule bats are the only bat species to hunt birds on the wing rather than when roosting. The greater noctule bat has wings adapted for open-air hunting and uses echolocation frequencies above the hearing range of birds.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/GreaterNoctule.JPG",
+  "_score": 2
+}

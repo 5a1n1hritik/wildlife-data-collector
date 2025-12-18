@@ -1,0 +1,26 @@
+{
+  "id": "phalanger-lullulae",
+  "name": "Woodlark cuscus",
+  "scientificName": "Phalanger lullulae",
+  "wikibase_item": "Q210110",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210110",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodlark_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Woodlark cuscus is a species of marsupial in the family Phalangeridae endemic to Papua New Guinea, specifically on Madau and Woodlark Island, a part of the Milne Bay Province of Papua New Guinea. It happens to be the largest mammal living on Woodlark Island but it is also found on the neighboring island of Alcester, 70 kilometers south of Woodlark Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1896.11.5.24_Skin_Dorsal_Skins-1_MG_1555-S.jpg",
+  "_score": 1
+}

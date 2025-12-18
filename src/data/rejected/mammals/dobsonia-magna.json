@@ -1,0 +1,26 @@
+{
+  "id": "dobsonia-magna",
+  "name": "Dobsonia magna",
+  "scientificName": "Dobsonia magna",
+  "wikibase_item": "Q665440",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q665440",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Guinea_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Guinea naked-backed fruit bat is a species of megabat native to Papua New Guinea and the Indonesian islands of Waigeo, Yapen, Batanta, and Misool.",
+  "image": null,
+  "_score": 0
+}

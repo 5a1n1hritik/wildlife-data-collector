@@ -1,0 +1,26 @@
+{
+  "id": "enchisthenes-hartii",
+  "name": "Velvety Fruit-eating Bat",
+  "scientificName": "Enchisthenes hartii",
+  "wikibase_item": "Q304206",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10758473,
+      "id": "Q10758473"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304206",
+    "wikipedia": "https://en.wikipedia.org/wiki/Velvety_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The velvety fruit-eating bat, also known as Hart's little fruit bat, is a species of bat in the family Phyllostomidae. It is the only species within the genus Enchisthenes. It is found in Central America, Mexico, the United States, and northern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Enchisthenes_hartii.jpg",
+  "_score": 1
+}

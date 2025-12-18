@@ -1,0 +1,25 @@
+{
+  "id": "loxodonta-cyclotis",
+  "name": "African forest elephant",
+  "scientificName": "Loxodonta cyclotis",
+  "wikibase_item": "Q189514",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185038,
+      "id": "Q185038"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q189514",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_forest_elephant"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The African forest elephant is an elephant species native to humid tropical forests in West Africa and the Congo Basin. It was first described in 1900. With an average shoulder height of 2.16 m, it is the smallest of the three living elephants. Both sexes have straight, down-pointing tusks, which begin to grow at the age of 1–3 years.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Loxodontacyclotis.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tamias-amoenus",
+  "name": "yellow-pine chipmunk",
+  "scientificName": "Tamias amoenus",
+  "wikibase_item": "Q1769990",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769990",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-pine_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-pine chipmunk is a species of order Rodentia in the family Sciuridae. It is found in parts of Canada and the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Yellow_Pine_Chipmunk.jpg",
+  "_score": 1
+}

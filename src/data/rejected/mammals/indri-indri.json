@@ -1,0 +1,26 @@
+{
+  "id": "indri-indri",
+  "name": "Indri indri",
+  "scientificName": "Indri indri",
+  "wikibase_item": "Q203868",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816385,
+      "id": "Q19816385"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203868",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The indri, also called the babakoto, is one of the largest living lemurs, with a head-body length of about 64–72 cm and a weight of between 6 and 9.5 kg. It has a black and white coat and maintains an upright posture when climbing or clinging. It is monogamous and lives in small family groups, moving through the canopy, and is herbivorous, feeding mainly on leaves but also seeds, fruits, and flowers. The groups are quite vocal, communicating with other groups by singing, roaring and other vocalisations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Indri_%28Indri_indri%29.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arctonyx-collaris",
+  "name": "Hog badger",
+  "scientificName": "Arctonyx collaris",
+  "wikibase_item": "Q744382",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11906411,
+      "id": "Q11906411"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q744382",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hog_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hog badgers are three species of mustelid in the genus Arctonyx. They represent one of the two genera in the subfamily Melinae, alongside the true badgers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Arctonyx-collaris-hog-badger.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "triaenops-furculus",
+  "name": "Triaenops furculus",
+  "scientificName": "Triaenops furculus",
+  "wikibase_item": "Q27334390",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 649924,
+      "id": "Q649924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27334390",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paratriaenops_furcula"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Paratriaenops furcula, also known as Trouessart's trident bat, is a species of bat in the family Hipposideridae. It is endemic to Madagascar. It was formerly assigned to the genus Triaenops, but is now placed in the separate genus Paratriaenops. A related species, Paratriaenops pauliani, occurs in the Seychelles.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Paratriaenops_distribution.png",
+  "_score": 1
+}

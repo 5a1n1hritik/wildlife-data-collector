@@ -1,0 +1,26 @@
+{
+  "id": "elephantulus-fuscus",
+  "name": "Dusky elephant shrew",
+  "scientificName": "Elephantulus fuscus",
+  "wikibase_item": "Q959355",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q959355",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky elephant shrew or dusky sengi is a species of elephant shrew in the family Macroscelididae. It is found in Malawi, Mozambique, and Zambia. Its natural habitat is dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Elephantulus_fuscus_Peters_1852.jpg",
+  "_score": 2
+}

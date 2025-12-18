@@ -1,0 +1,26 @@
+{
+  "id": "allocricetulus-eversmanni",
+  "name": "Eversmann's Hamster",
+  "scientificName": "Allocricetulus eversmanni",
+  "wikibase_item": "Q1382156",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656306,
+      "id": "Q656306"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1382156",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eversmann's_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eversmann's hamster is a species of hamster in the family Cricetidae, and is one of two members of the genus Allocricetulus. It is named after the Russian naturalist, zoologist, and explorer Eduard Friedrich Eversmann, who collected the holotype of this species. It is found in Kazakhstan, China, and Russia.",
+  "image": null,
+  "_score": 0
+}

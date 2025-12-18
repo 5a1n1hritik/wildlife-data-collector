@@ -1,0 +1,26 @@
+{
+  "id": "canis-alopex",
+  "name": "Canis alopex",
+  "scientificName": "Canis alopex",
+  "wikibase_item": "Q122170079",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122170079",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red fox is the largest of the true foxes and one of the most widely distributed members of the order Carnivora, being present across the entire Northern Hemisphere including most of North America, Europe and Asia, plus parts of North Africa. Its range has increased alongside human expansion, having been introduced to Australia, where it is considered harmful to native small and medium-sized rodents and marsupials. It is listed as least concern on the IUCN Red List. Due to its impact on native species, it is included on the list of the \"world's 100 worst invasive species\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-mittermeieri",
+  "name": "Lepilemur mittermeieri",
+  "scientificName": "Lepilemur mittermeieri",
+  "wikibase_item": "Q1139452",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1139452",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mittermeier's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mittermeier's sportive lemur is a sportive lemur endemic to the Ampasindava Peninsula in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lepilemur_mittermeieri_range_map.svg/960px-Lepilemur_mittermeieri_range_map.svg.png",
+  "_score": 1
+}

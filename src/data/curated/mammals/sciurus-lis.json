@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-lis",
+  "name": "Japanese squirrel",
+  "scientificName": "Sciurus lis",
+  "wikibase_item": "Q838575",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q838575",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese squirrel is a tree squirrel in the genus Sciurus endemic to Japan. It was described by Dutch zoologist Coenraad Jacob Temminck in 1844. The Japanese squirrel's native range includes large portions of the islands of Honshū, Shikoku, and Kyūshū. The Japanese squirrel is absent from Hokkaido, where it is replaced by the related red squirrel, which is conversely absent from the rest of the Japanese archipelago outside Hokkaido. Recently, populations in south-western Honshū and Shikoku decreased, and those on Kyūshū disappeared. One of the factors affecting the recent local extirpations of this species seems to be forest fragmentation by humans.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Japanese_Squirrel_edit2.jpg",
+  "_score": 3
+}

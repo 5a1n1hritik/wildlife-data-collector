@@ -1,0 +1,26 @@
+{
+  "id": "allosciurus-aubinni",
+  "name": "Allosciurus aubinni",
+  "scientificName": "Allosciurus aubinni",
+  "wikibase_item": "Q41162436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41150792,
+      "id": "Q41150792"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162436"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "suncus-malayanus",
+  "name": "Malayan pygmy shrew",
+  "scientificName": "Suncus malayanus",
+  "wikibase_item": "Q1765418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malayan_pygmy_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malayan pygmy shrew is a species of mammal in the family Soricidae. It can be found in Malaysia and Thailand. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Malayan_Pygmy_Shrew_area.png",
+  "_score": 2
+}

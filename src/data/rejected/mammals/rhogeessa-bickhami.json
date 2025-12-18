@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-bickhami",
+  "name": "Rhogeessa bickhami",
+  "scientificName": "Rhogeessa bickhami",
+  "wikibase_item": "Q15056145",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608576,
+      "id": "Q608576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15056145",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bickham's_little_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bickham's little yellow bat is a species of vesper bat found in Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Distribution_of_Rhogeessa_bickhami_%28cropped%29.png",
+  "_score": 1
+}

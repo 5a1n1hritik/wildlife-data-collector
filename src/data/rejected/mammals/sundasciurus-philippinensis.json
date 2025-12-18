@@ -1,0 +1,26 @@
+{
+  "id": "sundasciurus-philippinensis",
+  "name": "Philippine tree squirrel",
+  "scientificName": "Sundasciurus philippinensis",
+  "wikibase_item": "Q1761522",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761522",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_tree_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine tree squirrel is a species of rodent in the family Sciuridae which is endemic to the Philippines. The Philippine tree squirrel can only be found in Palawan, Bohol, Leyte and Samar and in Siargao. It is locally known as laksoy or kulagsing in the Visayan languages, like other endemic Philippine squirrels.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Range_Sundasciurus_philippinensis.png",
+  "_score": 1
+}

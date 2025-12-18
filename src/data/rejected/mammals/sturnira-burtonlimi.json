@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-burtonlimi",
+  "name": "Sturnira burtonlimi",
+  "scientificName": "Sturnira burtonlimi",
+  "wikibase_item": "Q16611002",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16611002",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burton's_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Burton's yellow-shouldered bat is a species of leaf-nosed bat found in Panama and Costa Rica.",
+  "image": null,
+  "_score": 0
+}

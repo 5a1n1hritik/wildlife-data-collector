@@ -1,0 +1,26 @@
+{
+  "id": "cynailurus-soemmeringii",
+  "name": "Cynailurus soemmeringii",
+  "scientificName": "Cynailurus soemmeringii",
+  "wikibase_item": "Q124799327",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 124799312,
+      "id": "Q124799312"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124799327"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "viverra-tangalunga",
+  "name": "Malayan civet",
+  "scientificName": "Viverra tangalunga",
+  "wikibase_item": "Q966901",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762710,
+      "id": "Q1762710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q966901",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malayan_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malayan civet, also known as the Malay civet and Oriental civet, is a viverrid native to the Malay Peninsula and the islands of Sumatra, Bangka, Borneo, the Riau Archipelago, and the Philippines. It is listed as \"Least Concern\" by IUCN as it is a relatively widely distributed, appears to be tolerant of degraded habitats, and occurs in a number of protected areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Malay_civet.jpg"
+}

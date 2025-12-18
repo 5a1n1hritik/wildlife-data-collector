@@ -1,0 +1,26 @@
+{
+  "id": "trinomys-albispinus",
+  "name": "White-spined Atlantic Spiny-rat",
+  "scientificName": "Trinomys albispinus",
+  "wikibase_item": "Q1768378",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768378",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-spined_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-spined Atlantic spiny rat is a spiny rat species endemic to Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Trinomys_albispinus_distribution_%28gray%29.png",
+  "_score": 1
+}

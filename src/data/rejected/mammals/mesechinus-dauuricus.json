@@ -1,0 +1,26 @@
+{
+  "id": "mesechinus-dauuricus",
+  "name": "Daurian hedgehog",
+  "scientificName": "Mesechinus dauuricus",
+  "wikibase_item": "Q1173033",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1545952,
+      "id": "Q1545952"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1173033",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daurian_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Daurian hedgehog is a solitary small hedgehog.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif/lossy-page1-2421px-Daurian_Hedgehog_%28Mesechinus_dauuricus%29.tif.jpg",
+  "_score": 1
+}

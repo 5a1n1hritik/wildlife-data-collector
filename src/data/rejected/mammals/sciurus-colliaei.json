@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-colliaei",
+  "name": "Collie's squirrel",
+  "scientificName": "Sciurus colliaei",
+  "wikibase_item": "Q1769125",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769125",
+    "wikipedia": "https://en.wikipedia.org/wiki/Collie's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Collie's squirrel is a tree squirrel in the genus Sciurus endemic to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Sciurus_colliaei_4164028.jpg",
+  "_score": 1
+}

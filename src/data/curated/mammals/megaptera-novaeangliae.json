@@ -1,0 +1,26 @@
+{
+  "id": "megaptera-novaeangliae",
+  "name": "humpback whale",
+  "scientificName": "Megaptera novaeangliae",
+  "wikibase_item": "Q132905",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12771348,
+      "id": "Q12771348"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132905",
+    "wikipedia": "https://en.wikipedia.org/wiki/Humpback_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The humpback whale is a species of baleen whale. It is a rorqual and is the only species in the genus Megaptera. Adults range in length from 14–17 m (46–56 ft) and weigh up to 40 metric tons. The humpback has a distinctive body shape, with long pectoral fins and tubercles on its head. It is known for breaching and other distinctive surface behaviors, making it popular with whale watchers. Males produce a complex song that typically lasts from 4 to 33 minutes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Humpback_Whale_underwater_shot.jpg",
+  "_score": 3
+}

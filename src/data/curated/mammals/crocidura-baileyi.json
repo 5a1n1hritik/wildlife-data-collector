@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-baileyi",
+  "name": "Bailey's shrew",
+  "scientificName": "Crocidura baileyi",
+  "wikibase_item": "Q305644",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305644",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bailey's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bailey's shrew is a species of mammal in the family Soricidae. The name honours American naturalist and museum director Alfred Marshall Bailey. It is endemic to Ethiopia. Its natural habitat is subtropical or tropical high-elevation grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bailey%27s_Shrew_area.png"
+}

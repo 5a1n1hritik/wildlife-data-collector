@@ -1,0 +1,26 @@
+{
+  "id": "hypsugo-lanzai",
+  "name": "Hypsugo lanzai",
+  "scientificName": "Hypsugo lanzai",
+  "wikibase_item": "Q3788010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3788010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Socotran_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Socotran pipistrelle or Lanza's pipistrelle is an endangered species of vesper bat in the family Vespertilionidae. It is endemic to Socotra Island in Yemen, and is the only mammal thought to be endemic to the island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Distribution_of_Hypsugo_lanzai.png",
+  "_score": 1
+}

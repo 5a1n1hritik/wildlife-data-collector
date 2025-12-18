@@ -1,0 +1,26 @@
+{
+  "id": "ursus-americanus",
+  "name": "American black bear",
+  "scientificName": "Ursus americanus",
+  "wikibase_item": "Q122783",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122783",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_black_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American black bear, or simply black bear, is a species of medium-sized bear which is endemic to North America. It is the continent's smallest and most widely distributed bear species. It is an omnivore, with a diet varying greatly depending on season and location. It typically lives in largely forested areas; it will leave forests in search of food and is sometimes attracted to human communities due to the immediate availability of food.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg",
+  "_score": 4
+}

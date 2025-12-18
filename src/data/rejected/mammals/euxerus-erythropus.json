@@ -1,0 +1,26 @@
+{
+  "id": "euxerus-erythropus",
+  "name": "Euxerus erythropus",
+  "scientificName": "Euxerus erythropus",
+  "wikibase_item": "Q125866100",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125866118,
+      "id": "Q125866118"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125866100",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_striped_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped ground squirrel is a species of squirrel native to Africa. It was first described by Geoffroy in 1803, but the binomial authority is sometimes incorrectly cited as \"Desmarest, 1817\". There are six subspecies. It is a moderately large ground squirrel with sandy-brown or dark-brown fur with a white lateral stripe and whitish underparts. Adults live alone or in pairs in a simple burrow with a central nest, foraging, mostly on the ground, for seeds, nuts and roots, and caching excess food under stones. This is a common species with a wide range and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Xerus_erythropus_3.jpg",
+  "_score": 2
+}

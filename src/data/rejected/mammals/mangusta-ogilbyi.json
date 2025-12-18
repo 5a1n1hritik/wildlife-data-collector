@@ -1,0 +1,26 @@
+{
+  "id": "mangusta-ogilbyi",
+  "name": "Mangusta ogilbyi",
+  "scientificName": "Mangusta ogilbyi",
+  "wikibase_item": "Q41165902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155305,
+      "id": "Q41155305"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165902"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ardops-nichollsi",
+  "name": "Tree Bat",
+  "scientificName": "Ardops nichollsi",
+  "wikibase_item": "Q301186",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10734971,
+      "id": "Q10734971"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301186",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tree_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tree bat is a species of bat in the family Phyllostomidae and the only species in the genus Ardops. It is found in the Lesser Antilles of the Caribbean, in Antigua, Dominica, Guadeloupe, Martinique, Montserrat, Saint Lucia, Saba, Saint Martin, Sint Eustatius, Saint Kitts, Nevis, Grenada and Saint Vincent and the Grenadines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stenoderma_luciae.jpg"
+}

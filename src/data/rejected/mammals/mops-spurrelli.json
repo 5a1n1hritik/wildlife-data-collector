@@ -1,0 +1,26 @@
+{
+  "id": "mops-spurrelli",
+  "name": "Spurrell's Free-tailed Bat",
+  "scientificName": "Mops spurrelli",
+  "wikibase_item": "Q602015",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19717467,
+      "id": "Q19717467"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q602015",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spurrell's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spurrell's free-tailed bat is a species of bat in the family Molossidae named after Herbert George Flaxman Spurrell. It is found in Central and West Africa. Its natural habitats are subtropical or tropical dry forest and subtropical or tropical moist lowland forest.",
+  "image": null,
+  "_score": 1
+}

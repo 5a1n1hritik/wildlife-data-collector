@@ -1,0 +1,25 @@
+{
+  "id": "setonix-brachyurus",
+  "name": "quokka",
+  "scientificName": "Setonix",
+  "wikibase_item": "Q726151",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10819547,
+      "id": "Q10819547"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q726151",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quokka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The quokka is a small macropod about the size of a domestic cat. It is the only member of the genus Setonix. Like other marsupials in the macropod family, the quokka is herbivorous and mainly nocturnal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Quokka_at_rottnest_%28cropped%29.jpg"
+}

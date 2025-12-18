@@ -1,0 +1,26 @@
+{
+  "id": "cheiromeles-parvidens",
+  "name": "Cheiromeles parvidens",
+  "scientificName": "Cheiromeles parvidens",
+  "wikibase_item": "Q302356",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1963129,
+      "id": "Q1963129"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302356",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_naked_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser naked bat is a species of bat in the family Molossidae, the free-tailed bats. It is native to Indonesia and the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Distribution_of_Cheiromeles_parvidens.png",
+  "_score": 1
+}

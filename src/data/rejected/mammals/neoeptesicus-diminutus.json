@@ -1,0 +1,26 @@
+{
+  "id": "neoeptesicus-diminutus",
+  "name": "Neoeptesicus diminutus",
+  "scientificName": "Neoeptesicus diminutus",
+  "wikibase_item": "Q125870636",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 124210949,
+      "id": "Q124210949"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125870636",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diminutive_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The diminutive serotine is a bat species found in Argentina, Colombia, Brazil, Paraguay, Uruguay, and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Diminutive_Serotine_imported_from_iNaturalist_photo_119586151_on_27_January_2022.jpg",
+  "_score": 1
+}

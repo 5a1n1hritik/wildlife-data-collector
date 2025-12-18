@@ -1,0 +1,26 @@
+{
+  "id": "pseudaelurus-skinneri",
+  "name": "Pseudaelurus skinneri",
+  "scientificName": "Pseudaelurus skinneri",
+  "wikibase_item": "Q27150054",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132747,
+      "id": "Q132747"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27150054"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

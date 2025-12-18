@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-squamipes",
+  "name": "Scaly-footed small-eared shrew",
+  "scientificName": "Cryptotis squamipes",
+  "wikibase_item": "Q1766250",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766250",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scaly-footed_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The scaly-footed small-eared shrew is a species of mammal in the family Soricidae. It is found in Colombia and Ecuador.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Scaly-footed_Small-eared_Shrew_area.png",
+  "_score": 1
+}

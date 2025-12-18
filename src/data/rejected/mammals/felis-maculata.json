@@ -1,0 +1,26 @@
+{
+  "id": "felis-maculata",
+  "name": "Felis maculata",
+  "scientificName": "Felis maculata",
+  "wikibase_item": "Q41083408",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083408"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

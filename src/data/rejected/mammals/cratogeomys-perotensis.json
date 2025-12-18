@@ -1,0 +1,26 @@
+{
+  "id": "cratogeomys-perotensis",
+  "name": "Cratogeomys perotensis",
+  "scientificName": "Cratogeomys perotensis",
+  "wikibase_item": "Q2498358",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 869542,
+      "id": "Q869542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2498358",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perote_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Perote pocket gopher, or Cofre de Perote pocket gopher, is a species of pocket gopher in the family Geomyidae.",
+  "image": null,
+  "_score": 0
+}

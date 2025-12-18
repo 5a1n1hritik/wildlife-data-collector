@@ -1,0 +1,28 @@
+{
+  "id": "dolinasorex-glyphodon",
+  "name": "Dolinasorex glyphodon",
+  "scientificName": "Dolinasorex glyphodon",
+  "wikibase_item": "Q5289131",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18579322,
+      "id": "Q18579322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5289131",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolinasorex"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dolinasorex glyphodon is an extinct species of giant venomous shrew. Fossilized remains of the animal were found at the Gran Dolina site, in the Sierra de Atapuerca, Burgos, Spain by researchers from the University of Zaragoza, Spain between 1991 and 2007. The deposit is estimated to be between 780,000 and 900,000 years old. D. glyphodon is the only known species in the genus Dolinasorex.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

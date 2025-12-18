@@ -1,0 +1,26 @@
+{
+  "id": "crunomys-rabori",
+  "name": "Crunomys rabori",
+  "scientificName": "Crunomys rabori",
+  "wikibase_item": "Q11842568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 769929,
+      "id": "Q769929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11842568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mindanao_shrew-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mindanao shrew-rat is a species of rodent in the family Muridae.\nIt is found only in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Range_Crunomys_melanius.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "berylmys-berdmorei",
+  "name": "Small White-toothed Rat",
+  "scientificName": "Berylmys berdmorei",
+  "wikibase_item": "Q303960",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 793842,
+      "id": "Q793842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303960",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_white-toothed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small white-toothed rat is a species of rodent in the family Muridae.\nIt is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Range_Berylmys_berdmorei.png",
+  "_score": 1
+}

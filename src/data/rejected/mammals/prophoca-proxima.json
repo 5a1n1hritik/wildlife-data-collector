@@ -1,0 +1,26 @@
+{
+  "id": "prophoca-proxima",
+  "name": "Prophoca proxima",
+  "scientificName": "Prophoca proxima",
+  "wikibase_item": "Q41167383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157488,
+      "id": "Q41157488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167383"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

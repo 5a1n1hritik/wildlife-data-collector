@@ -1,0 +1,28 @@
+{
+  "id": "uruguayodon-alius",
+  "name": "Uruguayodon alius",
+  "scientificName": "Uruguayodon alius",
+  "wikibase_item": "Q65127389",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111828147,
+      "id": "Q111828147"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65127389",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uruguayodon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Uruguayodon is an extinct genus of proterotheriid from the middle Pleistocene of Uruguay. It is known from the type and only species U. alius, named by Corona and colleagues in 2019 for dentaries and a partial postcrania from the Raigón Formation. Uruguayodon represents one of the latest occurrences of Proterotheriidae, with only Neolicaphrium representing other remains from the Pleistocene to possibly Holocene.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

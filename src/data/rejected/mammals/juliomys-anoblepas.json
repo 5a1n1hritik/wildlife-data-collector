@@ -1,0 +1,28 @@
+{
+  "id": "juliomys-anoblepas",
+  "name": "Juliomys anoblepas",
+  "scientificName": "Juliomys anoblepas",
+  "wikibase_item": "Q6309578",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 144819,
+      "id": "Q144819"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6309578",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliomys_anoblepas"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Juliomys anoblepas is a rodent in the genus Juliomys of the subfamily Sigmodontinae known from a single broken skull. The specimen was collected by Peter Wilhelm Lund in the caves of Lagoa Santa, Minas Gerais, Brazil, in the first half of the 19th century and described by Herluf Winge in 1888 as Calomys anoblepas. The species remained unstudied and its affinities unclear until 2011, when it was recognized as a member of the genus Juliomys, which includes three other species from southern Brazil and nearby Argentina and Paraguay. J. anoblepas is probably a separate extinct species of the genus, which is no longer found at Lagoa Santa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Calomys_anoblepas_Winge.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

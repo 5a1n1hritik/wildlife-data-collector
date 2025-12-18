@@ -1,0 +1,26 @@
+{
+  "id": "syconycteris-australis",
+  "name": "Common blossom bat",
+  "scientificName": "Syconycteris australis",
+  "wikibase_item": "Q1763583",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2434332,
+      "id": "Q2434332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763583",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_blossom_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common blossom bat also known as the southern blossom bat or Queensland blossom bat, is a megabat in the family Pteropodidae. The common blossom bat feeds mostly on nectar and pollen rather than fruit.\nIt is one of eight Pteropodidae species on mainland Australia. It is one of the smallest of all nectarivorous megabats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Syconycteris_australis.jpg/3000px-Syconycteris_australis.jpg",
+  "_score": 1
+}

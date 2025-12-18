@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-borealis",
+  "name": "eastern red bat",
+  "scientificName": "Lasiurus borealis",
+  "wikibase_item": "Q301708",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301708",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern red bat is a species of microbat in the family Vespertilionidae. Eastern red bats are widespread across eastern North America, with additional records in Bermuda.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/C-red-bat.jpg",
+  "_score": 1
+}

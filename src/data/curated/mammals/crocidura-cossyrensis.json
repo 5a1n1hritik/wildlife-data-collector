@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-cossyrensis",
+  "name": "Pantellerian Shrew",
+  "scientificName": "Crocidura cossyrensis",
+  "wikibase_item": "Q5408355",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5408355",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_African_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North African white-toothed shrew is a species of mammal in the family Soricidae. It is found on the islands of Ibiza, Sardinia, and Pantelleria in the Mediterranean Sea, in northern Algeria, and in northern Tunisia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Crocidura_pachuyra_02-cropped.jpg"
+}

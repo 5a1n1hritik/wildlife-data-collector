@@ -1,0 +1,26 @@
+{
+  "id": "nyctinomops-mbopicuare",
+  "name": "Nyctinomops mbopicuare",
+  "scientificName": "Nyctinomops mbopicuare",
+  "wikibase_item": "Q125218554",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2717017,
+      "id": "Q2717017"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125218554"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

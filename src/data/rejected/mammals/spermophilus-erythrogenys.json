@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-erythrogenys",
+  "name": "Red-cheeked ground squirrel",
+  "scientificName": "Spermophilus erythrogenys",
+  "wikibase_item": "Q1766551",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766551",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-cheeked_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-cheeked ground squirrel is a species of rodent in the family Sciuridae. It is commonly referred to as the red-cheeked ground souslik and there are several recognized subspecies. It is found in central Asia. Spermophilus brunnescens, Spermophilus heptneri and Spermophilus ungae are accepted as synonyms. There is some controversy over whether Spermophilus pallidicauda and Spermophilus brevicauda should be regarded as synonyms or full species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Spermophilus_erythrogenys.jpg",
+  "_score": 2
+}

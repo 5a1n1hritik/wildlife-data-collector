@@ -1,0 +1,26 @@
+{
+  "id": "anourosorex-yamashinai",
+  "name": "Taiwanese mole shrew",
+  "scientificName": "Anourosorex yamashinai",
+  "wikibase_item": "Q1762117",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2300900,
+      "id": "Q2300900"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762117",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiwanese_mole_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Taiwanese mole shrew is one of four species of red-toothed shrews in the genus Anourosorex. It is endemic to Taiwan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png",
+  "_score": 1
+}

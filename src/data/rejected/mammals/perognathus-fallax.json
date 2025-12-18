@@ -1,0 +1,26 @@
+{
+  "id": "perognathus-fallax",
+  "name": "Perognathus fallax",
+  "scientificName": "Perognathus fallax",
+  "wikibase_item": "Q24754179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24754179"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

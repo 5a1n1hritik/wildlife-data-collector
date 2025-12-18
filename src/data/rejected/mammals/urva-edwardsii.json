@@ -1,0 +1,26 @@
+{
+  "id": "urva-edwardsii",
+  "name": "Urva edwardsii",
+  "scientificName": "Urva edwardsii",
+  "wikibase_item": "Q123862361",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99217654,
+      "id": "Q99217654"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123862361",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_grey_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian grey mongoose or Asian grey mongoose is a mongoose species native to the Indian subcontinent and West Asia. It is listed as least concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Herpestes_edwardsii_at_Hyderaba.jpg",
+  "_score": 1
+}

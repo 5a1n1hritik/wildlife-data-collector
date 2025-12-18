@@ -1,0 +1,26 @@
+{
+  "id": "stylodipus-telum",
+  "name": "Thick-tailed Three-toed Jerboa",
+  "scientificName": "Stylodipus telum",
+  "wikibase_item": "Q1762756",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 658876,
+      "id": "Q658876"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762756",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thick-tailed_three-toed_jerboa"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The thick-tailed three-toed jerboa is a species of rodent in the family Dipodidae. It is found in China, Kazakhstan, Russia, Turkmenistan, Ukraine, and Uzbekistan. Its typical habitat is steppe, desert and mountain grassland where it is often found among saltbush and Artemisia in sandy or clayey soils.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Stylodipus_telum_%28cropped%29.JPG",
+  "_score": 2
+}

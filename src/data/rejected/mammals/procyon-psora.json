@@ -1,0 +1,26 @@
+{
+  "id": "procyon-psora",
+  "name": "Procyon psora",
+  "scientificName": "Procyon psora",
+  "wikibase_item": "Q40647793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40647793"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

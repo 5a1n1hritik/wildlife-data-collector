@@ -1,0 +1,26 @@
+{
+  "id": "anourosorex-schmidi",
+  "name": "Giant mole shrew",
+  "scientificName": "Anourosorex schmidi",
+  "wikibase_item": "Q1767445",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2300900,
+      "id": "Q2300900"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767445",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_mole_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant mole shrew is a species of red-toothed shrew native to the southeastern slopes of the Himalaya of Bhutan and India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Giant_Mole_Shrew_area.png",
+  "_score": 1
+}

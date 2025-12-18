@@ -1,0 +1,26 @@
+{
+  "id": "glauconycteris-beatrix",
+  "name": "Beatrix's bat",
+  "scientificName": "Glauconycteris beatrix",
+  "wikibase_item": "Q1830408",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830408",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrix's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Beatrix's bat is a species of vesper bat in the family Vespertilionidae. It can be found in Angola, Central African Republic, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Kenya, and Nigeria. It is found in subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Naturalis_Biodiversity_Center_-_RMNH.MAM.16362.b_ven_-_Glauconycteris_beatrix_-_skin.jpeg",
+  "_score": 1
+}

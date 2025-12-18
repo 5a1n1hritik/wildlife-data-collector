@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-crumeniferus",
+  "name": "Hipposideros crumeniferus",
+  "scientificName": "Hipposideros crumeniferus",
+  "wikibase_item": "Q1765650",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765650",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timor_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Timor roundleaf bat is a species of bat in the family Hipposideridae. It is endemic to Indonesia and Timor-Leste.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Timor_roundleaf_bat.jpg",
+  "_score": 1
+}

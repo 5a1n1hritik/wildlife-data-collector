@@ -1,0 +1,26 @@
+{
+  "id": "pseudochirops-cupreus",
+  "name": "Coppery ringtail possum",
+  "scientificName": "Pseudochirops cupreus",
+  "wikibase_item": "Q209513",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1551997,
+      "id": "Q1551997"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209513",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coppery_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coppery ringtail possum is a species of marsupial in the family Pseudocheiridae. It is found in Indonesia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1896.1.25.4_Skin_Dorsal_Skins-3_MG_1891-S.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "philander-mondolfii",
+  "name": "Mondolfi's four-eyed opossum",
+  "scientificName": "Philander mondolfii",
+  "wikibase_item": "Q2540888",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2540888",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mondolfi's_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mondolfi's four-eyed opossum is a South American species of opossum found in Colombia and Venezuela, first described in 2006. It inhabits foothills of the Cordillera de Mérida and those on the eastern side of the Cordillera Oriental at elevations from 50 to 800 m. Populations in the two ranges may represent distinct subspecies. It is named after the Venezuelan biologist Edgardo Mondolfi. It has short woolly fur with a pale cream-colored venter as well as large ears pigmented on only the distal half. It is considered to be a junior synonym of the common four-eyed opossum by some sources, such as the Mammal Diversity Database.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Philander_mondolfii_area.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aeromys-thomasi",
+  "name": "Thomas's flying squirrel",
+  "scientificName": "Aeromys thomasi",
+  "wikibase_item": "Q1762911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304282,
+      "id": "Q304282"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762911",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's flying squirrel is a species of rodent in the family Sciuridae. It is one of two species in the genus Aeromys. It is found in Indonesia and Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Thomas%27_Flying_Squirrel_imported_from_iNaturalist_photo_354233332_on_16_March_2024.jpg",
+  "_score": 1
+}

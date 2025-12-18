@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-gueldenstaedtii",
+  "name": "Gueldenstaedt's Shrew",
+  "scientificName": "Crocidura gueldenstaedtii",
+  "wikibase_item": "Q5396032",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5396032",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCldenst%C3%A4dt's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Güldenstädt's shrew is a species of mammal in the family Soricidae. It is sometimes considered a subspecies of the lesser white-toothed shrew, but more recent studies support it being a distinct species. It is named after Johann Anton Güldenstädt.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Crocidura_gueldenstaedtii.jpg",
+  "_score": 1
+}

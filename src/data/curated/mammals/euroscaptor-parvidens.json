@@ -1,0 +1,25 @@
+{
+  "id": "euroscaptor-parvidens",
+  "name": "Euroscaptor parvidens",
+  "scientificName": "Euroscaptor parvidens",
+  "wikibase_item": "Q598432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1851296,
+      "id": "Q1851296"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q598432",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small-toothed_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small-toothed mole is a species of mammal in the family Talpidae. It is found in Di Linh, in southern Vietnam, and Rakho near the border of Vietnam and China, and in southern Yunnan, China, near the Vietnamese border. It is likely that it has a broader distribution, especially in places between the currently known locations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Euroscaptor_parvidens_distribution_map.svg/960px-Euroscaptor_parvidens_distribution_map.svg.png"
+}

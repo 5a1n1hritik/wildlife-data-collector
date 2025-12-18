@@ -1,0 +1,26 @@
+{
+  "id": "coelops-hirsutus",
+  "name": "Philippine tailless leaf-nosed bat",
+  "scientificName": "Coelops hirsutus",
+  "wikibase_item": "Q1971977",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 868187,
+      "id": "Q868187"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1971977",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malayan_tailless_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malayan tailless leaf-nosed bat is a species of bat in the family Hipposideridae. It is a very small bat which has long and soft fur. The fur coloration is brown to blackish on the dorsal surface and ashy on the ventral surface. It can be distinguished from the other roundleaf bats by its small size and the absence of the tail. It is listed as vulnerable by the IUCN",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Malayan_Tailless_Leaf-nosed_Bat_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "graphiurus-christyi",
+  "name": "Christy's Dormouse",
+  "scientificName": "Graphiurus christyi",
+  "wikibase_item": "Q1770398",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385877,
+      "id": "Q385877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christy's_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Christy's dormouse is a species of rodent in the family Gliridae. It is found in Cameroon and Democratic Republic of the Congo. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Graphiurus_christyi_Map.jpg",
+  "_score": 2
+}

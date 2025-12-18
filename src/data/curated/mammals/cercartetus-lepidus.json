@@ -1,0 +1,25 @@
+{
+  "id": "cercartetus-lepidus",
+  "name": "Tasmanian pygmy possum",
+  "scientificName": "Cercartetus lepidus",
+  "wikibase_item": "Q209598",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 576870,
+      "id": "Q576870"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209598",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tasmanian_pygmy_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tasmanian pygmy possum, also known as the little pygmy possum or  tiny pygmy possum, is the world's smallest possum. It was first described by Oldfield Thomas in 1888, after he identified that a museum specimen labelled as an eastern pygmy possum in fact represented a species then unknown to science. The holotype resides in the Natural History Museum in London.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Specimen_C_27907_Cercartetus_lepidus.jpg"
+}

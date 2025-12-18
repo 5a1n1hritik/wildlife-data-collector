@@ -1,0 +1,26 @@
+{
+  "id": "chionomys-stekolnikovi",
+  "name": "Chionomys stekolnikovi",
+  "scientificName": "Chionomys stekolnikovi",
+  "wikibase_item": "Q125253383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 602763,
+      "id": "Q602763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125253383"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

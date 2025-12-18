@@ -1,0 +1,26 @@
+{
+  "id": "canis-latrans",
+  "name": "coyote",
+  "scientificName": "Coiotes",
+  "wikibase_item": "Q44299",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q44299",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coyote"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coyote is a species of canine also known as the American jackal, prairie wolf, and brush wolf. It is native to North America, and it is smaller than its close relative, the gray wolf, and slightly smaller than the closely related eastern wolf and red wolf. It fills much of the same ecological niche as the golden jackal does in Eurasia; however, the coyote is generally larger.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2009-Coyote-Yosemite.jpg",
+  "_score": 1
+}

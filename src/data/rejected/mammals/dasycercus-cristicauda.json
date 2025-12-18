@@ -1,0 +1,28 @@
+{
+  "id": "dasycercus-cristicauda",
+  "name": "Crest-tailed mulgara",
+  "scientificName": "Dasycercus cristicauda",
+  "wikibase_item": "Q1877099",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475367,
+      "id": "Q1475367"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1877099",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crest-tailed_mulgara"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crest-tailed mulgara is a small to medium-sized Australian carnivorous marsupial and a member of the family Dasyuridae which includes quolls, dunnarts, numbats, the endangered Tasmanian devil and the extinct thylacine.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Crest-tail_Mulgara.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

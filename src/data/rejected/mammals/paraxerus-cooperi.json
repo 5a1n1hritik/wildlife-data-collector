@@ -1,0 +1,26 @@
+{
+  "id": "paraxerus-cooperi",
+  "name": "Cooper's mountain squirrel",
+  "scientificName": "Paraxerus cooperi",
+  "wikibase_item": "Q1766374",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766374",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cooper's_mountain_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cooper's mountain squirrel is a species of rodent in the family Sciuridae found in Cameroon and Nigeria. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Paraxerus_cooperi_91651.jpg",
+  "_score": 2
+}

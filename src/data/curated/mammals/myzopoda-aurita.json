@@ -1,0 +1,26 @@
+{
+  "id": "myzopoda-aurita",
+  "name": "Madagascar sucker-footed bat",
+  "scientificName": "Myzopoda aurita",
+  "wikibase_item": "Q674905",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2610306,
+      "id": "Q2610306"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q674905",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madagascar_sucker-footed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Madagascar sucker-footed bat, Old World sucker-footed bat, or simply sucker-footed bat is a species of bat in the family Myzopodidae endemic to Madagascar, especially in the eastern part of the forests. The genus was thought to be monospecific until a second species, Myzopoda schliemanni, was discovered in the central western lowlands. It was classified as Vulnerable in the 1996 IUCN Red List of Threatened Species but is now known to be more abundant and was reclassified in 2008 as of \"Least Concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Myzopoda_aurita_13060431.jpg",
+  "_score": 3
+}

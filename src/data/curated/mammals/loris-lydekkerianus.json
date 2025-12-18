@@ -1,0 +1,26 @@
+{
+  "id": "loris-lydekkerianus",
+  "name": "Loris lydekkerianus",
+  "scientificName": "Loris lydekkerianus",
+  "wikibase_item": "Q262590",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3259581,
+      "id": "Q3259581"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q262590",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_slender_loris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray slender loris is a species of primate in the family Loridae. It is native to India and Sri Lanka and inhabits subtropical and tropical dry forests and subtropical or tropical moist lowland forests. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Slender_Loris.jpg",
+  "_score": 3
+}

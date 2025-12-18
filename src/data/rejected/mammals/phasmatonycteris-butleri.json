@@ -1,0 +1,26 @@
+{
+  "id": "phasmatonycteris-butleri",
+  "name": "Phasmatonycteris butleri",
+  "scientificName": "Phasmatonycteris butleri",
+  "wikibase_item": "Q21309699",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21223523,
+      "id": "Q21223523"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21309699"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

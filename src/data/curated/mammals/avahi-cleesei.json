@@ -1,0 +1,25 @@
+{
+  "id": "avahi-cleesei",
+  "name": "Bemaraha woolly lemur",
+  "scientificName": "Avahi cleesei",
+  "wikibase_item": "Q1099688",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1099688",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bemaraha_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bemaraha woolly lemur, also known as Cleese's woolly lemur, is a species of woolly lemur native to western Madagascar, named after John Cleese. The first scientist to discover the species named it after Cleese, star of Monty Python, mainly because of Cleese's fondness for lemurs, as shown in Operation Lemur With John Cleese and Fierce Creatures, and his efforts at protecting and preserving them. The species was first recorded in 1990 by a team of scientists from Zurich University led by Urs Thalmann, but was not formally described as a species until 11 November 2005.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Avahi_cleesei.png"
+}

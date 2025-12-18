@@ -1,0 +1,26 @@
+{
+  "id": "diclidurus-scutatus",
+  "name": "Lesser ghost bat",
+  "scientificName": "Diclidurus scutatus",
+  "wikibase_item": "Q302584",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11917119,
+      "id": "Q11917119"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302584",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_ghost_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser ghost bat is a bat species found in South America. It is one of six bat species worldwide to have white fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lesser_Ghost_Bat_area.png",
+  "_score": 1
+}

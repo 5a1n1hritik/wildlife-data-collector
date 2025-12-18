@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-patrius",
+  "name": "Country mouse",
+  "scientificName": "Pseudomys patrius",
+  "wikibase_item": "Q1764928",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764928",
+    "wikipedia": "https://en.wikipedia.org/wiki/Country_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The country mouse also known as the pebble-mound mouse or eastern pebble mound mouse\nis a species of rodent in the family Muridae. It lives only in Australia, where it is considered rare. It was described by Thomas and Dollman in 1909.",
+  "image": null,
+  "_score": 0
+}

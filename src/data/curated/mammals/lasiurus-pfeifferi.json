@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-pfeifferi",
+  "name": "Pfeiffer's red bat",
+  "scientificName": "Lasiurus pfeifferi",
+  "wikibase_item": "Q2685500",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2685500",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pfeiffer's_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pfeiffer's red bat is a species of bat from the family Vespertilioninae and is endemic to Cuba. It is listed as Near Threatened by the IUCN Red List due to a significant population decline, caused by human population density on its endemic island, habitat conversion, and hurricanes. The species is likely insectivorous; fecal matter samples from a single bat contained only beetles. It may be a subspecies of the Seminole bat.",
+  "image": null,
+  "_score": 4
+}

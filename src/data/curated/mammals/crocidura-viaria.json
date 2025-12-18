@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-viaria",
+  "name": "Savanna Path Shrew",
+  "scientificName": "Crocidura viaria",
+  "wikibase_item": "Q1768596",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768596",
+    "wikipedia": "https://en.wikipedia.org/wiki/Savanna_path_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The savanna path shrew is a species of mammal in the family Soricidae. It is found in Benin, Burkina Faso, Cameroon, Chad, Eritrea, Ethiopia, Ghana, Kenya, Mali, Mauritania, Morocco, Niger, Nigeria, Senegal, Somalia, Sudan, and Uganda. Its natural habitats are subtropical or tropical moist lowland forest, dry savanna, and heavily degraded former forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Savanna_Path_Shrew_area.png"
+}

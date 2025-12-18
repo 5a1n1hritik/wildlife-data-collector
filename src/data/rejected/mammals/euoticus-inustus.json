@@ -1,0 +1,26 @@
+{
+  "id": "euoticus-inustus",
+  "name": "Euoticus inustus",
+  "scientificName": "Euoticus inustus",
+  "wikibase_item": "Q3734551",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1193762,
+      "id": "Q1193762"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3734551"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

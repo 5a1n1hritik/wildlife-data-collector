@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-lanosus",
+  "name": "Rhinolophus lanosus",
+  "scientificName": "Rhinolophus lanosus",
+  "wikibase_item": "Q40671008",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40671008",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern woolly horseshoe bat is a bat species of the family Rhinolophidae. It is found in the Indian Subcontinent, Southeast Asia, and China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rhinolophus_perniger.jpg",
+  "_score": 1
+}

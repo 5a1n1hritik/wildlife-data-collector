@@ -1,0 +1,26 @@
+{
+  "id": "natalus-lanatus",
+  "name": "Natalus lanatus",
+  "scientificName": "Natalus lanatus",
+  "wikibase_item": "Q2927943",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2420687,
+      "id": "Q2420687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2927943",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_greater_funnel-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican greater funnel-eared bat is a species of bat found in Central America. While initially and currently described as a species, from 1959 to 2006 it was considered a subspecies of the Mexican funnel-eared bat, Natalus stramineus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Natalus_mexicanus_skull.jpg",
+  "_score": 1
+}

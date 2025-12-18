@@ -1,0 +1,26 @@
+{
+  "id": "microtus-mustersi",
+  "name": "Microtus mustersi",
+  "scientificName": "Microtus mustersi",
+  "wikibase_item": "Q99194683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194683",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnther's_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Günther's vole is a species of rodent in the family Cricetidae, also known by the name Levant vole.\nIt is found in Bulgaria, Greece, Iran, Iraq, Israel, Jordan, Lebanon, North Macedonia, Serbia, Montenegro, Syria, Turkey, and Libya. In Libya, its natural habitats are temperate grassland, subtropical or tropical high-altitude grassland, and arable land. In Israel, it is common in lowland agricultural fields, in peak years becoming a major crop pest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Levant_Vole_02.jpg",
+  "_score": 3
+}

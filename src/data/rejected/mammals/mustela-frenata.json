@@ -1,0 +1,26 @@
+{
+  "id": "mustela-frenata",
+  "name": "long-tailed weasel",
+  "scientificName": "Mustela frenata",
+  "wikibase_item": "Q720696",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q720696",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed weasel, also known as the bridled weasel, masked ermine, or big stoat, is a species of weasel found in North, Central, and South America. It is distinct from the short-tailed weasel, also known as a \"stoat\", a close relation in the genus Mustela that originated in Eurasia and crossed into North America some half million years ago; the two species are visually similar, having long, slender bodies and tails with short legs and a black tail tip.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mustela_frenata_new.jpg",
+  "_score": 2
+}

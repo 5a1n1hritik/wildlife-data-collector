@@ -1,0 +1,25 @@
+{
+  "id": "myodes-glareolus",
+  "name": "bank vole",
+  "scientificName": "Myodes glareolus",
+  "wikibase_item": "Q216580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q216580",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bank_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bank vole is a small vole with red-brown fur and some grey patches, with a tail about half as long as its body. A rodent, it lives in woodland areas and is around 100 millimetres (3.9 in) in length. The bank vole is found in much of Europe and in northwestern Asia. It is native to Great Britain but not to Ireland, where it has been accidentally introduced, and has now colonised much of the south and southwest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/R%C3%B6telmaus.jpg"
+}

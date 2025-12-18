@@ -1,0 +1,26 @@
+{
+  "id": "dasyprocta-fuliginosa",
+  "name": "Black agouti",
+  "scientificName": "Dasyprocta fuliginosa",
+  "wikibase_item": "Q1767371",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767371",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black agouti is a South American species of agouti from the family Dasyproctidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Black_agouti_%28Dasyprocta_fuliginosa%29_San_Isidro.jpg",
+  "_score": 1
+}

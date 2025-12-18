@@ -1,0 +1,26 @@
+{
+  "id": "tamias-umbrinus",
+  "name": "Tamias umbrinus",
+  "scientificName": "Tamias umbrinus",
+  "wikibase_item": "Q1767146",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767146",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uinta_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Uinta chipmunk or hidden forest chipmunk, is a species of chipmunk in the family Sciuridae. It is endemic to the United States. Formerly known as Tamias umbrinus, phylogenetic studies have shown it to be sufficiently distinct from the eastern chipmunk as to be placed in a separate genus, Neotamias. The same studies have also suggested that Palmer's chipmunk may actually be a subspecies of Uinta chipmunk, although the two are still generally regarded as separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Streifenh%C3%B6rnchen_Zion.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mesocetus-siphunculus",
+  "name": "Mesocetus siphunculus",
+  "scientificName": "Mesocetus siphunculus",
+  "wikibase_item": "Q124617781",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6821424,
+      "id": "Q6821424"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124617781"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

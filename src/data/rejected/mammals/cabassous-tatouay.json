@@ -1,0 +1,26 @@
+{
+  "id": "cabassous-tatouay",
+  "name": "Greater naked-tailed armadillo",
+  "scientificName": "Cabassous tatouay",
+  "wikibase_item": "Q1762962",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856879,
+      "id": "Q856879"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762962",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_naked-tailed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater naked-tailed armadillo is an armadillo species from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ejemplar_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg",
+  "_score": 1
+}

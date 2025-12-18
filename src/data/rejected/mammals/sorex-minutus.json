@@ -1,0 +1,26 @@
+{
+  "id": "sorex-minutus",
+  "name": "Eurasian pygmy shrew",
+  "scientificName": "Sorex minutus",
+  "wikibase_item": "Q244372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244372",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eurasian_pygmy_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eurasian pygmy shrew, often known simply as the pygmy shrew, is a widespread shrew of the northern Palearctic.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sorex_minutus.jpg",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-peninsularis",
+  "name": "Peninsular myotis",
+  "scientificName": "Myotis peninsularis",
+  "wikibase_item": "Q1829588",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829588",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peninsular_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The peninsular myotis is a species of vesper bat. It is endemic to northwestern Mexico, found only within Baja California Sur state on the southern Baja California Peninsula. Its habitats include the southern Peninsular Ranges and deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Peninsular_myotis_191141225.jpg"
+}

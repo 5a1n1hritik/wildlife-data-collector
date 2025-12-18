@@ -1,0 +1,26 @@
+{
+  "id": "palaeoxonodon-freemani",
+  "name": "Palaeoxonodon freemani",
+  "scientificName": "Palaeoxonodon freemani",
+  "wikibase_item": "Q41166726",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 30693356,
+      "id": "Q30693356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166726"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

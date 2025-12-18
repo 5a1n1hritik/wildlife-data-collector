@@ -1,0 +1,26 @@
+{
+  "id": "ichneumon-javanicus",
+  "name": "Ichneumon javanicus",
+  "scientificName": "Ichneumon javanicus",
+  "wikibase_item": "Q122759285",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99217654,
+      "id": "Q99217654"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122759285"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

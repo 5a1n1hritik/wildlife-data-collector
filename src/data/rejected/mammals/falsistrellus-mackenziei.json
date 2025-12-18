@@ -1,0 +1,26 @@
+{
+  "id": "falsistrellus-mackenziei",
+  "name": "Falsistrellus mackenziei",
+  "scientificName": "Falsistrellus mackenziei",
+  "wikibase_item": "Q1831829",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 248049,
+      "id": "Q248049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831829",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_false_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western false pipistrelle, species Falsistrellus mackenziei, is a vespertilionid bat that occurs in Southwest Australia. The population is declining due to loss of its habitat, old growth in tall eucalypt forest which has largely been clear felled for tree plantations, wheat cultivation and urbanisation. Although it is one of the largest Australian bats of the family, the species was not recorded or described until the early 1960s. A darkly colored bat with reddish brown fur and prominent ears, they fly rapidly around the upper canopy of trees in pursuit of flying insects.",
+  "image": null,
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "galerella-swalius",
+  "name": "Galerella swalius",
+  "scientificName": "Galerella swalius",
+  "wikibase_item": "Q3757593",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 118979,
+      "id": "Q118979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3757593",
+    "wikipedia": "https://en.wikipedia.org/wiki/Namaqua_slender_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Namaqua slender mongoose, also known as the Namibian slender mongoose, is a subspecies of the common slender mongoose that is endemic to Namibia. It was originally considered separate from the common slender mongoose and thought to be a distinct species. However, further analysis found that the characteristics were not distinguishable as a separate species, and it was classified as a sub-species of the common slender mongoose.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/2009-slender-mongoose.jpg",
+  "_score": 2
+}

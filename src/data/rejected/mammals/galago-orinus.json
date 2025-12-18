@@ -1,0 +1,26 @@
+{
+  "id": "galago-orinus",
+  "name": "Galago orinus",
+  "scientificName": "Galago orinus",
+  "wikibase_item": "Q819679",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q819679",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uluguru_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Uluguru bushbaby, also known as the mountain dwarf galago or the Amani dwarf galago, is a species of primate in the family Galagidae. Like all galagos, it is a strepsirrhine primate. It is endemic to the Eastern Arc Mountains of Kenya and Tanzania at altitudes of 1,200–2,000 m. It has its own set of unique calls, which helps distinguish it from other species of bushbaby.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Uluguru_Bushbaby_area.png",
+  "_score": 1
+}

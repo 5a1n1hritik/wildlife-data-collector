@@ -1,0 +1,26 @@
+{
+  "id": "dendrolagus-pulcherrimus",
+  "name": "Golden-mantled tree-kangaroo",
+  "scientificName": "Dendrolagus pulcherrimus",
+  "wikibase_item": "Q209545",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209545",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-mantled_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-mantled tree-kangaroo is a critically endangered, furry, bear-like mammal found only in mountain rain forests on the island of New Guinea. Like other tree-kangaroos, it lives in trees and feeds on plant matter. It belongs to the macropod family (Macropodidae) with kangaroos, and carries its young in a pouch like other marsupials. The range is restricted to two small mountain areas in the north and it is threatened by hunting and habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Golden-mantled_Tree_Kangaroo_area.png",
+  "_score": 4
+}

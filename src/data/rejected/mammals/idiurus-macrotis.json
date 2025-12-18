@@ -1,0 +1,26 @@
+{
+  "id": "idiurus-macrotis",
+  "name": "Long-eared Flying Mouse",
+  "scientificName": "Idiurus macrotis",
+  "wikibase_item": "Q305838",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 928256,
+      "id": "Q928256"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305838",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-eared_flying_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-eared flying mouse or long-eared scaly-tailed flying squirrel, is a species of flying mouse from western and central Africa. It is not actually a squirrel, nor a mouse, though it is a rodent. Not much is known about them because they are very hard to keep alive in captivity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Idiurus_macrotis.jpg",
+  "_score": 1
+}

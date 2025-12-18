@@ -1,0 +1,28 @@
+{
+  "id": "lepus-idahoensis",
+  "name": "Lepus idahoensis",
+  "scientificName": "Lepus idahoensis",
+  "wikibase_item": "Q50383231",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50383231",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy rabbit is a rabbit species native to the United States. It is one of the only two native rabbit species in North America to dig its own burrow. The pygmy rabbit differs significantly from species within either the Lepus (hare) or Sylvilagus (cottontail) genera, and was once considered to be within the genus Brachylagus, which includes one extinct species. One isolated population, the Columbia Basin pygmy rabbit, is listed as an endangered species by the U.S. Federal government, though the International Union for Conservation of Nature lists the species as lower risk.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/BRACHYLAGUS_IDAHOENSIS.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

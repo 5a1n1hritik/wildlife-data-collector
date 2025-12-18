@@ -1,0 +1,26 @@
+{
+  "id": "tungurictis-spocki",
+  "name": "Tungurictis spocki",
+  "scientificName": "Tungurictis spocki",
+  "wikibase_item": "Q60978126",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135090907,
+      "id": "Q135090907"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60978126"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

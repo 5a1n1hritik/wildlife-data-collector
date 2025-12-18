@@ -1,0 +1,26 @@
+{
+  "id": "propithecus-verreauxi",
+  "name": "Verreaux's sifaka",
+  "scientificName": "Propithecus verreauxi",
+  "wikibase_item": "Q913789",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q913789",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verreaux's_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Verreaux's sifaka, or the white sifaka, is a medium-sized primate in one of the lemur families, the Indriidae. Critically Endangered, it lives in Madagascar and can be found in a variety of habitats from rainforest to dry deciduous forests of western Madagascar and the spiny thickets of the south. Its fur is thick and silky and generally white with brown on the sides, top of the head, and on the arms. Like all sifakas, it has a long tail that it uses as a balance when leaping from tree to tree. However, its body is so highly adapted to an arboreal existence, on the ground its only means of locomotion is hopping. The species lives in small troops which forage for food.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Verreauxs_Sifika_Kirindy_Madagascar.jpg",
+  "_score": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mephitis-mephitis",
+  "name": "striped skunk",
+  "scientificName": "Mephitis mephitis",
+  "wikibase_item": "Q368495",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207714,
+      "id": "Q1207714"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q368495",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped skunk is a skunk of the genus Mephitis that occurs across much of North America, including southern Canada, the United States, and northern Mexico. It is currently listed as least concern by the IUCN on account of its wide range and ability to adapt to human-modified environments.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Skunk_about_to_spray.jpg"
+}

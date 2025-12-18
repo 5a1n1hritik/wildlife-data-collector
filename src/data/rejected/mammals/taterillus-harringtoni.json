@@ -1,0 +1,26 @@
+{
+  "id": "taterillus-harringtoni",
+  "name": "Harrington's gerbil",
+  "scientificName": "Taterillus harringtoni",
+  "wikibase_item": "Q1767208",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111842,
+      "id": "Q111842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767208",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harrington's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Harrington's gerbil or Harrington's tateril is a species of rodent found in the Central African Republic, Ethiopia, Kenya, Somalia, South Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland. It is sometimes considered to be conspecific with Emin's gerbil, because it has the same karyotype.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dasycercus-hillieri",
+  "name": "Dasycercus hillieri",
+  "scientificName": "Dasycercus hillieri",
+  "wikibase_item": "Q125131252",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475367,
+      "id": "Q1475367"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125131252",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ampurta"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ampurta is a species of mulgara. The ampurta is a marsupial micro-predator native to Australia.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "galago-pupulus",
+  "name": "Galago pupulus",
+  "scientificName": "Galago pupulus",
+  "wikibase_item": "Q41164889",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164889"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "necromys-obscurus",
+  "name": "Dark bolo mouse",
+  "scientificName": "Necromys obscurus",
+  "wikibase_item": "Q306412",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306412",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_bolo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark bolo mouse or dark-furred akodont is a species of rodent in the family Cricetidae. There are two subspecies; one is found in eastern and central parts of Buenos Aires Province, Argentina, and the other in coastal areas of southern Uruguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Rat%C3%B3n_oscuro_%28Necromys_obscurus%29%2C_Uruguay%2C_2022.jpg"
+}

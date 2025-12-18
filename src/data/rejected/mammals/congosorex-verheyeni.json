@@ -1,0 +1,26 @@
+{
+  "id": "congosorex-verheyeni",
+  "name": "Lesser Congo shrew",
+  "scientificName": "Congosorex verheyeni",
+  "wikibase_item": "Q1765781",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134766,
+      "id": "Q134766"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765781",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_Congo_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser Congo shrew is a species of mammal in the family Soricidae found in Cameroon, the Central African Republic, the Republic of the Congo, and Gabon. Its natural habitat is subtropical or tropical moist lowland forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lesser_Congo_Shrew_area.png",
+  "_score": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhynchomeles-prattorum",
+  "name": "Seram bandicoot",
+  "scientificName": "Rhynchomeles prattorum",
+  "wikibase_item": "Q1054600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10811696,
+      "id": "Q10811696"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1054600",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seram_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Seram bandicoot, also known as the Seram Island long-nosed bandicoot, is a member of the order Peramelemorphia that is endemic to the island of Seram in Indonesia. It is the only species in the genus Rhynchomeles.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Seram_Bandicoot_area.png"
+}

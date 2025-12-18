@@ -1,0 +1,26 @@
+{
+  "id": "lagostomus-trichodactylus",
+  "name": "Lagostomus trichodactylus",
+  "scientificName": "Lagostomus trichodactylus",
+  "wikibase_item": "Q20718575",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1071820,
+      "id": "Q1071820"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20718575",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lagostomus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lagostomus is a South American genus of rodents in the family Chinchillidae. It contains a single living species, the plains viscacha, and it is the only Holocene genus in the subfamily Lagostominae. It probably only has one extant species; the taxa Lagostomus crassus is probably not valid.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lagostomus_maximus_-_Parc_National_El_Palmar_en_Argentine_%28Entre-Rios%29.jpg",
+  "_score": 1
+}

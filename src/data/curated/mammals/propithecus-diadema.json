@@ -1,0 +1,26 @@
+{
+  "id": "propithecus-diadema",
+  "name": "Diademed sifaka",
+  "scientificName": "Propithecus diadema",
+  "wikibase_item": "Q677608",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q677608",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diademed_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The diademed sifaka, or diademed simpona, is an endangered species of sifaka, one of the lemurs endemic to certain rainforests in eastern Madagascar. Along with the indri, this species is one of the two largest living lemurs, with an average weight of 6.5 kg and a total adult length of approximately 105 centimetres (41 inches), half of which is its tail. Russell Mittermeier, one of the contemporary authorities on lemurs, describes the diademed sifaka as \"one of the most colorful and attractive of all the lemurs\", having a long and silky coat. P. diadema is also known by the Malagasy names simpona, simpony and ankomba joby. The term \"diademed sifaka\" is also used as a group species designation formerly encompassing four distinct subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Diademed_sifaka_%28Propithecus_diadema%29.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "setirostris-eleryi",
+  "name": "Setirostris eleryi",
+  "scientificName": "Setirostris eleryi",
+  "wikibase_item": "Q61650441",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 61626094,
+      "id": "Q61626094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61650441",
+    "wikipedia": "https://en.wikipedia.org/wiki/Setirostris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Setirostris eleryi is a species of small insectivorous bat found in inland eastern Australia. It is the sole species of the molossid genus Setirostris, a name that refers to the coarse bristles on their faces. Earlier common names have referred to this unique feature, and the 'free-tail' that is a common feature of its microchiropteran family, the Molossidae; no single common name emerged during the taxonomic revisions that identified what was referred to as the bristle-faced freetail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mormopterus_eleryi_Distribution_Map.png",
+  "_score": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "eliurus-grandidieri",
+  "name": "Grandidier's tufted-tailed rat",
+  "scientificName": "Eliurus grandidieri",
+  "wikibase_item": "Q3305799",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3305799",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grandidier's_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grandidier's tufted-tailed rat is a species of rodent from the family Nesomyidae. Morphological evidence suggests that Grandidier's tufted-tailed rat is most closely related to Petter's tufted-tailed rat, E. petteri. However, Grandidier's tufted-tailed rat is the smaller of the two species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eliurus_grandidieri_range_map.svg/2324px-Eliurus_grandidieri_range_map.svg.png"
+}

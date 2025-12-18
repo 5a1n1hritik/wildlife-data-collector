@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-gardneri",
+  "name": "Monodelphis gardneri",
+  "scientificName": "Monodelphis gardneri",
+  "wikibase_item": "Q21314200",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21314200",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gardner's_short-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gardner's short-tailed opossum is a marsupial mammal from South America. It was named in 2012 by Sergio Solari, Víctor Pacheco, Elena Vivar and Louise H. Emmons. They named it after Dr. Alfred L. Gardner who took the first specimen of this species.",
+  "image": null,
+  "_score": 0
+}

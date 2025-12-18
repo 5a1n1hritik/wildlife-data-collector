@@ -1,0 +1,26 @@
+{
+  "id": "tadarida-insignis",
+  "name": "Tadarida insignis",
+  "scientificName": "Tadarida insignis",
+  "wikibase_item": "Q2437062",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607105,
+      "id": "Q607105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2437062",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_Asian_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East Asian free-tailed bat was formerly considered to belong to the same species as the European free-tailed bat. Its range includes China, Japan, and the Korean Peninsula.",
+  "image": null,
+  "_score": 0
+}

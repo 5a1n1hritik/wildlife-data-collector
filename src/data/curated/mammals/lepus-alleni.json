@@ -1,0 +1,25 @@
+{
+  "id": "lepus-alleni",
+  "name": "antelope jackrabbit",
+  "scientificName": "Lepus alleni",
+  "wikibase_item": "Q577630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875168,
+      "id": "Q20875168"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q577630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antelope_jackrabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The antelope jackrabbit, also known as Allen's hare, is a species of North American hare in the family Leporidae found in southern Arizona and northwestern Mexico. Considered the \"handsomest\" of the hares, it occupies dry desert areas and was one of the last of the North American mammals to be formally described.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepus_alleni_83745875_%28cropped%29.jpg"
+}

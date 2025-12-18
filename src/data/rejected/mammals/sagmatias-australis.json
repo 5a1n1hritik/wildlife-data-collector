@@ -1,0 +1,26 @@
+{
+  "id": "sagmatias-australis",
+  "name": "Sagmatias australis",
+  "scientificName": "Sagmatias australis",
+  "wikibase_item": "Q125623776",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7399322,
+      "id": "Q7399322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125623776",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peale's_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peale's dolphin is a small dolphin found in the waters around Tierra del Fuego at the foot of South America. It is also commonly known as the black-chinned dolphin or even Peale's black-chinned dolphin. However, since Rice's work Peale's dolphin has been adopted as the standard common name.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Peale%27s_dolphin_%28Sagmatias_australis%29_off_the_coast_of_Calbuco%2C_Chile_%28380921709%29.jpg",
+  "_score": 1
+}

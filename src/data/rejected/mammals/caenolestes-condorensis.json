@@ -1,0 +1,26 @@
+{
+  "id": "caenolestes-condorensis",
+  "name": "Andean caenolestid",
+  "scientificName": "Caenolestes condorensis",
+  "wikibase_item": "Q194377",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303333,
+      "id": "Q1303333"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194377",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andean caenolestid, also known as the Andean shrew opossum or Condor caenolestid, is a shrew opossum known only from Cordillera del Cóndor (Ecuador), its type locality. It was first described by zoologists Bruce D. Patterson and Luis Albuja in 1996. It is the largest caenolestid. The IUCN classifies it as vulnerable. As of 2015, the population is estimated at less than 1,000.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Caenolestes_condorensis_area.png",
+  "_score": 1
+}

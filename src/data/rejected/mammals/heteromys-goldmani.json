@@ -1,0 +1,26 @@
+{
+  "id": "heteromys-goldmani",
+  "name": "Goldman's spiny pocket mouse",
+  "scientificName": "Heteromys goldmani",
+  "wikibase_item": "Q5580229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1035905,
+      "id": "Q1035905"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5580229",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldman's_spiny_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goldman's spiny pocket mouse is a species of rodent in the family Heteromyidae. It has been reported to be a subspecies of Heteromys desmarestianus. It is found in Guatemala and Mexico. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": null,
+  "_score": 1
+}

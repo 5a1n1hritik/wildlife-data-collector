@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-aberti",
+  "name": "Abert's squirrel",
+  "scientificName": "Sciurus aberti",
+  "wikibase_item": "Q987555",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q987555",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abert's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abert's squirrel or the tassel-eared squirrel is a tree squirrel in the genus Sciurus native to the southern Rocky Mountains from the United States to the northern Sierra Madre Occidental of Mexico, with concentrations found in Arizona, New Mexico, and southwestern Colorado. It is closely associated with, and largely confined to, mature ponderosa pine forests. It is named in honor of the American naturalist John James Abert; nine subspecies are recognised. It is recognizable by its tufted ears, gray color, pale underparts and rufous patch on the lower back. The squirrel feeds on the seeds and cones of the Mexican pinyon and the ponderosa pine when they are available, but will also take fungi, buds, bark, and carrion. Breeding normally occurs in summer, with a spherical nest being built high in the canopy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Aberts_squirrel.jpg",
+  "_score": 3
+}

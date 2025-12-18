@@ -1,0 +1,26 @@
+{
+  "id": "canis-primaevus",
+  "name": "Canis primaevus",
+  "scientificName": "Canis primaevus",
+  "wikibase_item": "Q40331162",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40331162"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

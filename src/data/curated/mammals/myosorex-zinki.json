@@ -1,0 +1,25 @@
+{
+  "id": "myosorex-zinki",
+  "name": "Kilimanjaro mouse shrew",
+  "scientificName": "Myosorex zinki",
+  "wikibase_item": "Q1767432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767432",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kilimanjaro_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kilimanjaro mouse shrew is a species of mammal in the family Soricidae endemic to Kilimanjaro Region of Tanzania. Its natural habitats are subtropical or tropical moist montane forests and swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Kilimanjaro_Mouse_Shrew_area.png"
+}

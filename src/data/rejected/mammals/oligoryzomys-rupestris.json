@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-rupestris",
+  "name": "Oligoryzomys rupestris",
+  "scientificName": "Oligoryzomys rupestris",
+  "wikibase_item": "Q2319334",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2319334",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_rupestris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys rupestris is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is known only from eastern Brazil, where it has been found in several localities in the campos rupestres montane savanna ecoregion. This is a small Oligoryzomys species with a gray head, a yellow-brown back and gray belly and tail. Of the two karyotypic forms described by Silva & Yonenaga-Yassuda in 1998, species 1 is probably identical to O. rupestris, while the other is closely related. Its karyotype has 2n = 46 and FNa = 52.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "procavia-capensis",
+  "name": "Procavia capensis",
+  "scientificName": "Procavia capensis",
+  "wikibase_item": "Q323847",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2733577,
+      "id": "Q2733577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q323847",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock_hyrax"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rock hyrax, also called dassie, Cape hyrax, rock rabbit, or coney, is a medium-sized terrestrial mammal native to Africa and the Middle East. Commonly referred to in South Africa as the dassie, it is one of the five living species of the order Hyracoidea, and the only one in the genus Procavia.\nRock hyraxes weigh 4–5 kg (8.8–11.0 lb) and have short ears.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rock_hyrax_%28Procavia_capensis%29_2.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mustela-nigripes",
+  "name": "black-footed ferret",
+  "scientificName": "Mustela nigripes",
+  "wikibase_item": "Q402885",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q402885",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-footed_ferret"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-footed ferret, also known as the American polecat or prairie dog hunter, is a species of mustelid native to central North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mustela_nigripes_2.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "taphozous-hilli",
+  "name": "Taphozous hilli",
+  "scientificName": "Taphozous hilli",
+  "wikibase_item": "Q1830340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hill's_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hill's sheath-tailed bat is a bat of the family Emballonuridae. They are found in the deserts of central Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hill%27s_Tomb_Bat_area.png",
+  "_score": 1
+}

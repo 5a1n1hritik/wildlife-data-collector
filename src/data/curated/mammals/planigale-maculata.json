@@ -1,0 +1,25 @@
+{
+  "id": "planigale-maculata",
+  "name": "Common planigale",
+  "scientificName": "Planigale maculata",
+  "wikibase_item": "Q194153",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541538,
+      "id": "Q541538"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_planigale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common planigale, also known as the pygmy planigale or coastal planigale, is one of the small carnivorous marsupials known as \"marsupial mice\" found in Australia. There they fill a similar niche to the insectivores of other parts of the world.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Planigale_maculata_-_Gould.jpg"
+}

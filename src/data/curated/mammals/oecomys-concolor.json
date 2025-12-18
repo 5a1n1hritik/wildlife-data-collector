@@ -1,0 +1,25 @@
+{
+  "id": "oecomys-concolor",
+  "name": "Oecomys concolor",
+  "scientificName": "Oecomys concolor",
+  "wikibase_item": "Q1761784",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761784",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_concolor"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys concolor, also known as the unicolored oecomys, unicolored rice rat, or unicolored arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It is found in tropical rainforest in the Amazon biome, but its range is poorly documented; it has been recorded in northwestern Brazil, southeastern Colombia, and southern Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Oecomys_concolor_group_distribution.png"
+}

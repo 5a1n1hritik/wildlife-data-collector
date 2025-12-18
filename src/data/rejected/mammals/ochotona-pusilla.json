@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-pusilla",
+  "name": "steppe pika",
+  "scientificName": "Ochotona pusilla",
+  "wikibase_item": "Q587278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q587278",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steppe_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The steppe pika is a small mammal of the pika family, Ochotonidae. It is found in the steppes of southern Russia and northern Kazakhstan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ochotona_pusilla.tif/lossless-page1-1177px-Ochotona_pusilla.tif.png",
+  "_score": 1
+}

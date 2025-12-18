@@ -1,0 +1,26 @@
+{
+  "id": "dasycyon-hagenbecki",
+  "name": "Andean wolf",
+  "scientificName": "Dasycyon hagenbecki",
+  "wikibase_item": "Q2164302",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 108545046,
+      "id": "Q108545046"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2164302",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_wolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andean wolf is a purported South American canine that is falsely labelled a wolf. Various tests on the singular pelt have failed to provide a conclusive identity.",
+  "image": null,
+  "_score": 0
+}

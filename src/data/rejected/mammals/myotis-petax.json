@@ -1,0 +1,26 @@
+{
+  "id": "myotis-petax",
+  "name": "Eastern water bat",
+  "scientificName": "Myotis petax",
+  "wikibase_item": "Q3869109",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3869109",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_water_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern water bat or Sakhalin bat is a species of mouse-eared bat. It was for a long time considered to be a subspecies of Myotis daubentonii.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Distribution_of_Myotis_petax.png",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cryptotis-parva",
+  "name": "North American least shrew",
+  "scientificName": "Cryptotis parva",
+  "wikibase_item": "Q1764011",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764011",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_American_least_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North American least shrew is one of the smallest mammals, growing to be only up to 3 inches long. It has a long pointed snout and a tail never more than twice the length of its hind foot. The dense fur coat is either grayish-brown or reddish-brown with a white belly. Its fur becomes lighter in the summer and darker in the winter. Although similar in appearance to several species of rodents, all shrews are members of the order Eulipotyphla and should not be mistaken for a member of the order Rodentia. The North American least shrew's eyes are small and its ears are completely concealed within its short fur, giving it very poor eyesight and hearing.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Shrew1opt.jpg"
+}

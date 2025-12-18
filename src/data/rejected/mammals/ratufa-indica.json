@@ -1,0 +1,26 @@
+{
+  "id": "ratufa-indica",
+  "name": "Indian giant squirrel",
+  "scientificName": "Ratufa indica",
+  "wikibase_item": "Q2668978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858747,
+      "id": "Q858747"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2668978",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_giant_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian giant squirrel or Malabar giant squirrel is a large multi-coloured tree squirrel species endemic to forests and woodlands in India. It is a diurnal, arboreal, and mainly herbivorous squirrel.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ratufa_indica_%28Bhadra%2C_2006%29.jpg",
+  "_score": 1
+}

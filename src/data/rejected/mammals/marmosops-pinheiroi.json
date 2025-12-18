@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-pinheiroi",
+  "name": "Pinheiro's slender opossum",
+  "scientificName": "Marmosops pinheiroi",
+  "wikibase_item": "Q194421",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194421",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pinheiro's_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pinheiro's slender opossum is an opossum species from South America. It is found in Brazil, French Guiana, Guyana, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pinheiro%27s_Slender_Opossum_area.png",
+  "_score": 1
+}

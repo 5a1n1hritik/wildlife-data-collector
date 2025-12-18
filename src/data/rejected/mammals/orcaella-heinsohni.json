@@ -1,0 +1,26 @@
+{
+  "id": "orcaella-heinsohni",
+  "name": "Australian snubfin dolphin",
+  "scientificName": "Orcaella heinsohni",
+  "wikibase_item": "Q782290",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134273,
+      "id": "Q134273"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q782290",
+    "wikipedia": "https://en.wikipedia.org/wiki/Australian_snubfin_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Australian snubfin dolphin is a dolphin found off the northern coasts of Australia. It closely resembles the Irrawaddy dolphin and was not described as a separate species until 2005. The closest relative to the genus Orcaella is the killer whale, Orcinus orca. The Australian snubfin has three colors on its skin, while the Irrawaddy dolphin only has two. The skull and the fins also show minor differences between the two species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Snubfin-3.jpg",
+  "_score": 2
+}

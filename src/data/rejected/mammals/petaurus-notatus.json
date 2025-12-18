@@ -1,0 +1,26 @@
+{
+  "id": "petaurus-notatus",
+  "name": "Petaurus notatus",
+  "scientificName": "Petaurus notatus",
+  "wikibase_item": "Q102281603",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102281603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krefft's_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Krefft's glider is a species of arboreal nocturnal gliding possum, a type of small marsupial. It is native to most of eastern mainland Australia and has been introduced to Tasmania. Populations of Petaurus from New Guinea and Indonesia previously classified under P. breviceps are also tentatively classified under P. notatus by the American Society of Mammalogists, but likely represent a complex of distinct species. As most captive gliders referred to as \"sugar gliders\" in at least the United States are thought to originate from West Papua, this likely makes them Krefft's gliders, at least tentatively.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sugar_Glider_JCB.jpg",
+  "_score": 2
+}

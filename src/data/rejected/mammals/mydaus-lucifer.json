@@ -1,0 +1,26 @@
+{
+  "id": "mydaus-lucifer",
+  "name": "Mydaus lucifer",
+  "scientificName": "Mydaus lucifer",
+  "wikibase_item": "Q41166221",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1507049,
+      "id": "Q1507049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166221"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

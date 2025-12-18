@@ -1,0 +1,26 @@
+{
+  "id": "melogale-personata",
+  "name": "Burmese ferret-badger",
+  "scientificName": "Melogale personata",
+  "wikibase_item": "Q844662",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1366503,
+      "id": "Q1366503"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q844662",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burmese_ferret-badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Burmese ferret-badger, also known as the large-toothed ferret-badger, is a mustelid native to Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Burmese_Ferret-badger_area.png",
+  "_score": 1
+}

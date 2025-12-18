@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-titania",
+  "name": "Kerivoula titania",
+  "scientificName": "Kerivoula titania",
+  "wikibase_item": "Q1818890",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1818890",
+    "wikipedia": "https://en.wikipedia.org/wiki/Titania's_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Titania's woolly bat is a species of bat found in Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kerivoula_titania_distribution_%28colored%29.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sundamys-maxi",
+  "name": "Bartels's rat",
+  "scientificName": "Sundamys maxi",
+  "wikibase_item": "Q597984",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284346,
+      "id": "Q284346"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q597984",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartels's_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bartels's rat is a species of rodent in the family Muridae.\nIt is found only in West Java, Indonesia, including in Gunung Gede Pangrango National Park.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sundamys_maxi_distribution.png",
+  "_score": 1
+}

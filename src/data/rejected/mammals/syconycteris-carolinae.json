@@ -1,0 +1,26 @@
+{
+  "id": "syconycteris-carolinae",
+  "name": "Halmahera blossom bat",
+  "scientificName": "Syconycteris carolinae",
+  "wikibase_item": "Q1762015",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2434332,
+      "id": "Q2434332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762015",
+    "wikipedia": "https://en.wikipedia.org/wiki/Halmahera_blossom_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Halmahera blossom bat is a species of megabat in the family Pteropodidae. It is endemic to Halmahera and Bacan islands, of the northern Maluku Islands archipelago in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Halmahera_Blossom_Bat_area.png",
+  "_score": 1
+}

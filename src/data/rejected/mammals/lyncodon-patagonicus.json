@@ -1,0 +1,26 @@
+{
+  "id": "lyncodon-patagonicus",
+  "name": "Patagonian weasel",
+  "scientificName": "Lyncodon patagonicus",
+  "wikibase_item": "Q853294",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817304,
+      "id": "Q19817304"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q853294",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patagonian_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Patagonian weasel is a small mustelid that is the only member of the genus Lyncodon. Its geographic range is the Pampas of western Argentina and sections of Chile. An early mention of the animal is in the Journal of Syms Covington, who sailed with Charles Darwin on his epic voyage aboard HMS Beagle.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lyncodon_patagonicus1.jpg",
+  "_score": 1
+}

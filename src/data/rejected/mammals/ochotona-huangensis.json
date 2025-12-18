@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-huangensis",
+  "name": "Tsing-ling pika",
+  "scientificName": "Ochotona huangensis",
+  "wikibase_item": "Q311609",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q311609",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsing-ling_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tsing-ling pika is a species of pika endemic to the mountains in Central China. It inhabits mountainous forests and shrublands. It is a poorly known species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tsing-ling_Pika_area.png",
+  "_score": 1
+}

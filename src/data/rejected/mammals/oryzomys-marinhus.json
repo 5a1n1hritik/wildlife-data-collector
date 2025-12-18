@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-marinhus",
+  "name": "Oryzomys marinhus",
+  "scientificName": "Oryzomys marinhus",
+  "wikibase_item": "Q27442208",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27442208",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerradomys_marinhus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cerradomys marinhus, also known as Marinho's rice rat, is a rodent species from South America. It is found in Minas Gerais, Brazil. It was formerly known as Oryzomys marinhus, but was transferred to the new genus Cerradomys in 2006.",
+  "image": null,
+  "_score": 0
+}

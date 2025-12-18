@@ -1,0 +1,28 @@
+{
+  "id": "caperea-marginata",
+  "name": "pygmy right whale",
+  "scientificName": "Caperea marginata",
+  "wikibase_item": "Q189615",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18520792,
+      "id": "Q18520792"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q189615",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_right_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy right whale is a species of baleen whale. It may be a member of the cetotheres, a family of baleen whales which until 2012 were thought to be extinct; C. marginata has otherwise been considered the sole member of the family Neobalaenidae and is the only member of the genus Caperea. First described by John Edward Gray in 1846, it is the smallest of the baleen whales, ranging between 6 and 6.5 metres in length and 3,000 and 3,500 kilograms in mass. Despite its name, the pygmy right whale may have more in common with the gray whale and rorquals than the bowhead and right whales.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Pygmy_right_whale.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

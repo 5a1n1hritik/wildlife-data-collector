@@ -1,0 +1,26 @@
+{
+  "id": "dobsonia-emersa",
+  "name": "Dobsonia emersa",
+  "scientificName": "Dobsonia emersa",
+  "wikibase_item": "Q301730",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301730",
+    "wikipedia": "https://en.wikipedia.org/wiki/Biak_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Biak naked-backed fruit bat is a species of megabat in the family Pteropodidae. It is endemic to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Biak_Naked-backed_Fruit_Bat_area.png",
+  "_score": 1
+}

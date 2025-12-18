@@ -1,0 +1,25 @@
+{
+  "id": "doryrhina-camerunensis",
+  "name": "Doryrhina camerunensis",
+  "scientificName": "Doryrhina camerunensis",
+  "wikibase_item": "Q125912561",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 105062191,
+      "id": "Q105062191"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125912561",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater roundleaf bat is a species of bat in the family Hipposideridae found in Cameroon, the Democratic Republic of the Congo, and Kenya. Previously placed in Hipposideros, it was transferred to Doryrhina because it is assumed to be closely related to the cyclops roundleaf bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Greater_Roundleaf_Bat_area.png"
+}

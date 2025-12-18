@@ -1,0 +1,26 @@
+{
+  "id": "isoodon-fusciventer",
+  "name": "Isoodon fusciventer",
+  "scientificName": "Isoodon fusciventer",
+  "wikibase_item": "Q50329215",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475031,
+      "id": "Q1475031"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50329215",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quenda"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The quenda, also known as the southwestern brown bandicoot or western brown bandicoot, is a small marsupial species endemic to Southwest Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Isoodon_fusciventer_221236462.jpg",
+  "_score": 1
+}

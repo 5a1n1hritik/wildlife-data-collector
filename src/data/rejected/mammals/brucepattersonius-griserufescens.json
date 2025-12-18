@@ -1,0 +1,25 @@
+{
+  "id": "brucepattersonius-griserufescens",
+  "name": "Brucepattersonius griserufescens",
+  "scientificName": "Brucepattersonius griserufescens",
+  "wikibase_item": "Q1764172",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141986,
+      "id": "Q141986"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764172",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brucepattersonius_griserufescens"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brucepattersonius griserufescens, also known as the gray-bellied akodont or grey-bellied brucie, is a rodent in the cricetid genus Brucepattersonius from southeastern Brazil, specifically the states of Minas Gerais, Espírito Santo and Rio de Janeiro between 1,300 and 2,700 metres. It was one of four species of Brucepattersonius described by Hershkovitz in 1998; another, Brucepattersonius albinasus, also known as the white-nosed akodont or white-nosed brucie, was later argued to be the same as B. griserufescens, though further work is needed to confirm this. It is threatened by habitat loss but is also protected by Caparaó National Park.",
+  "image": null
+}

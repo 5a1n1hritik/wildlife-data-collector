@@ -1,0 +1,26 @@
+{
+  "id": "pattonomys-occasius",
+  "name": "Bare-tailed armored tree-rat",
+  "scientificName": "Pattonomys occasius",
+  "wikibase_item": "Q1764840",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 250025,
+      "id": "Q250025"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764840",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bare-tailed_armored_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bare-tailed armored tree-rat is a species of arboreal rodent in the family Echimyidae. It is found in lowland tropical rainforest east of the Andes in Ecuador and Peru.",
+  "image": null,
+  "_score": 0
+}

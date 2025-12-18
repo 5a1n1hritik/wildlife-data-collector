@@ -1,0 +1,25 @@
+{
+  "id": "herpestes-brachyurus",
+  "name": "Short-tailed mongoose",
+  "scientificName": "Herpestes brachyurus",
+  "wikibase_item": "Q947395",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q947395",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed mongoose is a mongoose species native to Peninsular Malaysia, Sumatra and Borneo. It inhabits evergreen forest and rural gardens from sea level to an elevation of 1,500 m (4,900 ft). It is listed as Near Threatened on the IUCN Red List since 2008.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Herpestes_brachyurus.jpg"
+}

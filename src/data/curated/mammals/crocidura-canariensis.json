@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-canariensis",
+  "name": "Canarian shrew",
+  "scientificName": "Crocidura canariensis",
+  "wikibase_item": "Q305254",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305254",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canarian_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Canarian shrew is a species of mammal in the family Soricidae. It is endemic to the Canary Islands, specifically the eastern islands of Lanzarote, Fuerteventura, Lobos, and Mount Clara. It used to be found on Graciosa, Canary Islands and Alegranza. Its natural habitat is subtropical or tropical dry shrubland. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/C_canariensis_R_Hutterer.JPG",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cheirogaleus-major",
+  "name": "Greater dwarf lemur",
+  "scientificName": "Cheirogaleus major",
+  "wikibase_item": "Q900992",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q900992",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater dwarf lemur, or the Geoffroy's dwarf lemur, is a lemur that is widely distributed over the primary and secondary forests near the eastern coast of Madagascar. They are also found in northern parts of Madagascar. Greater dwarf lemurs live in forests and dry scrub areas. The head and body of the greater dwarf lemur can range from 167 to 264 millimeters in length, and 164 to 600 grams. Their tails can range from 195 to 310 millimeters in length.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/CHEIROGALEUS-1.JPG",
+  "_score": 2
+}

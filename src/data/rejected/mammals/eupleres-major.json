@@ -1,0 +1,26 @@
+{
+  "id": "eupleres-major",
+  "name": "Eupleres major",
+  "scientificName": "Eupleres major",
+  "wikibase_item": "Q22285838",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17509689,
+      "id": "Q17509689"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22285838",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_falanouc"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western falanouc is a rare mongoose-like mammal endemic to Madagascar. Until recently, the eastern falanouc was the only recognized species in the genus Eupleres. In 2010, Goodman and Helgen provided morphological evidence showing the two falanoucs are each a separate species and are found in separate geographical locations. E. major is larger and browner compared to E. goudotii and has a diet consisting mainly of invertebrates such as worms, snails, and slugs.",
+  "image": null,
+  "_score": 2
+}

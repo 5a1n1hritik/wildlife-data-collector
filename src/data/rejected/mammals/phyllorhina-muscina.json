@@ -1,0 +1,26 @@
+{
+  "id": "phyllorhina-muscina",
+  "name": "Phyllorhina muscina",
+  "scientificName": "Phyllorhina muscina",
+  "wikibase_item": "Q122808437",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157094,
+      "id": "Q41157094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122808437"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

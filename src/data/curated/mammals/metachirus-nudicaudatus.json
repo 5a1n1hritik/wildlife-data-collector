@@ -1,0 +1,26 @@
+{
+  "id": "metachirus-nudicaudatus",
+  "name": "Brown four-eyed opossum",
+  "scientificName": "Metachirus nudicaudatus",
+  "wikibase_item": "Q367378",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816272,
+      "id": "Q19816272"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q367378",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown four-eyed opossum is a pouchless marsupial of the family Didelphidae. It is found in different forested habitats of Central and South America, from Nicaragua to Brazil and northern Argentina, including southeastern Colombia, Paraguay and eastern Peru and Bolivia, at elevations from sea level to 1,500 m (4,900 ft). It is the only recognized species in the genus Metachirus, but molecular phylogenetics studies suggest that it should probably be split into several species. Population densities are usually low, and it is uncommon in parts of Central America. A density of 25.6/km2 (66/sq mi) was reported near Manaus, Brazil. Its karyotype has 2n = 14 and FN = 24.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vieraugen-Opossum_%28Metachirus_nudicaudatus%29.jpg",
+  "_score": 3
+}

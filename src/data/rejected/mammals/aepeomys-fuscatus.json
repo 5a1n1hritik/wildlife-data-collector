@@ -1,0 +1,26 @@
+{
+  "id": "aepeomys-fuscatus",
+  "name": "Aepeomys fuscatus",
+  "scientificName": "Aepeomys fuscatus",
+  "wikibase_item": "Q109646843",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 490428,
+      "id": "Q490428"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Handleyomys_fuscatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Handleyomys fuscatus, also known as the dusky-footed Handley's mouse or dusky-footed montane mouse, is a species of rodent in the tribe Oryzomyini of family Cricetidae. It was previously placed in the genus Aepeomys, but it is closely similar to Handleyomys intectus, and accordingly both species were placed in the new genus Handleyomys in 2002. It is found only in Colombia.",
+  "image": null,
+  "_score": 0
+}

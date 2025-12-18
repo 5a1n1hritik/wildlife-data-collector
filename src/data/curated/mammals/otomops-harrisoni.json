@@ -1,0 +1,25 @@
+{
+  "id": "otomops-harrisoni",
+  "name": "Otomops harrisoni",
+  "scientificName": "Otomops harrisoni",
+  "wikibase_item": "Q30016982",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30016982",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harrison's_large-eared_giant_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Harrison's large-eared giant mastiff bat is a species of bat found in Northeast Africa and the Arabian Peninsula.\nIt was described as a new species in 2015.\nThe IUCN evaluates it as a vulnerable species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Otomops_harrisoni.jpg"
+}

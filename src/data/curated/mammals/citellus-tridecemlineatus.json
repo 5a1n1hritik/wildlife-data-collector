@@ -1,0 +1,25 @@
+{
+  "id": "citellus-tridecemlineatus",
+  "name": "Citellus tridecemlineatus",
+  "scientificName": "Citellus tridecemlineatus",
+  "wikibase_item": "Q40336923",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26156044,
+      "id": "Q26156044"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40336923",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thirteen-lined_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The thirteen-lined ground squirrel, also known as the striped gopher, leopard ground squirrel, and squinny, is a species of hibernating ground squirrel that is widely distributed over grasslands and prairies of North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Thirteen-lined_ground_squirrel.jpg"
+}

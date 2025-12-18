@@ -1,0 +1,26 @@
+{
+  "id": "plecotus-strelkovi",
+  "name": "Plecotus strelkovi",
+  "scientificName": "Plecotus strelkovi",
+  "wikibase_item": "Q2168994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2168994",
+    "wikipedia": "https://en.wikipedia.org/wiki/Strelkov's_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Strelkov's long-eared bat is a species of vesper bat found in mountainous regions of Central Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Distribution_of_Plecotus_strelkovi.png",
+  "_score": 1
+}

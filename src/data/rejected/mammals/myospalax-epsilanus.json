@@ -1,0 +1,26 @@
+{
+  "id": "myospalax-epsilanus",
+  "name": "Myospalax epsilanus",
+  "scientificName": "Myospalax epsilanus",
+  "wikibase_item": "Q15731677",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 82713,
+      "id": "Q82713"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15731677",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transbaikal_zokor"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Transbaikal zokor is a species of rodent in the family Spalacidae. It is found in China, Mongolia, and Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Myospalax_psilurus.jpg",
+  "_score": 1
+}

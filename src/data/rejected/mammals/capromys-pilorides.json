@@ -1,0 +1,28 @@
+{
+  "id": "capromys-pilorides",
+  "name": "Desmarest's hutia",
+  "scientificName": "Capromys pilorides",
+  "wikibase_item": "Q836308",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858255,
+      "id": "Q858255"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q836308",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desmarest's_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Desmarest's hutia or the Cuban hutia is a stout, furry, rat-like mammal found only on Cuba and nearby islands. Growing to about 60 cm (2 ft), it normally lives in pairs and feeds on leaves, fruit, bark and sometimes small animals. It is the largest living hutia, a group of rodents native to the Caribbean that are mostly endangered or extinct. Desmarest's hutia remains widespread throughout its range, though one subspecies native to the nearby Cayman Islands went extinct shortly after European colonization in the 1500s.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Demarest%27s_hutia.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

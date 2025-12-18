@@ -1,0 +1,26 @@
+{
+  "id": "ateles-hybridus",
+  "name": "Ateles hybridus",
+  "scientificName": "Ateles hybridus",
+  "wikibase_item": "Q790630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q790630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown spider monkey or variegated spider monkey is a critically endangered species of spider monkey, a type of New World monkey, from forests in northern Colombia and northwestern Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/BrownSpiderMonkey_%28edit2%29.jpg",
+  "_score": 1
+}

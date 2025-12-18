@@ -1,0 +1,26 @@
+{
+  "id": "crunomys-tompotika",
+  "name": "Crunomys tompotika",
+  "scientificName": "Crunomys tompotika",
+  "wikibase_item": "Q119157184",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 769929,
+      "id": "Q769929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119157184"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

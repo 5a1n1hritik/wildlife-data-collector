@@ -1,0 +1,26 @@
+{
+  "id": "neoromicia-nanus",
+  "name": "Neoromicia nanus",
+  "scientificName": "Neoromicia nanus",
+  "wikibase_item": "Q277207",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q277207",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banana_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banana serotine, formerly known as the banana pipistrelle, is a species of vesper bat found throughout much of Africa. It was previously known as Pipistrellus nanus, but genetic analysis later reclassified it in Neoromicia. However, more recent phylogenetic evidence indicates that it and Heller's serotine comprise the distinct genus Afronycteris.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Naturalis_Biodiversity_Center_-_RMNH.MAM.32138.b_dor_-_Neoromicia_nanus_stampflii_-_skin_%28cropped%29.jpeg",
+  "_score": 1
+}

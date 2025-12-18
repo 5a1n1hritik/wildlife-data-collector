@@ -1,0 +1,26 @@
+{
+  "id": "galagoides-kumbirensis",
+  "name": "Angolan dwarf galago",
+  "scientificName": "Galagoides kumbirensis",
+  "wikibase_item": "Q29870046",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3094482,
+      "id": "Q3094482"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29870046",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_dwarf_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan dwarf galago is a species of dwarf galago native to Angola, and was named after western Angolan Kumbira Forest. Though 36 individuals of the Angolan dwarf galago were identified in September 2013, it was declared as a new species in 2017, and is now the nineteenth species of galago to be identified. Its call, described as \"A loud chirping crescendo of longer notes, followed by a fading twitter\", was enough to separate it as a new species, without any genetic identification, due to its uniqueness.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Angolan_Dwarf_Galago.svg/1200px-Angolan_Dwarf_Galago.svg.png",
+  "_score": 2
+}

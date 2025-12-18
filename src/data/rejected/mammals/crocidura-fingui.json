@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-fingui",
+  "name": "Crocidura fingui",
+  "scientificName": "Crocidura fingui",
+  "wikibase_item": "Q20053594",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20053594",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fingui_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Fingui white-toothed shrew or Principe white-toothed shrew is a species of mammal in the family Soricidae. It is endemic to the island of Príncipe in São Tomé and Príncipe.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "handleyomys-melanotis",
+  "name": "Handleyomys melanotis",
+  "scientificName": "Handleyomys melanotis",
+  "wikibase_item": "Q612528",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 142280,
+      "id": "Q142280"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q612528",
+    "wikipedia": "https://en.wikipedia.org/wiki/Handleyomys_melanotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Handleyomys melanotis, also known as the black-eared oryzomys or black-eared rice rat, is a species of rodent in the genus Handleyomys of family Cricetidae. It is found in coastal lowland forest in western Mexico.",
+  "image": null,
+  "_score": 0
+}

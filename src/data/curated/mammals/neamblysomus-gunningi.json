@@ -1,0 +1,25 @@
+{
+  "id": "neamblysomus-gunningi",
+  "name": "Gunning's golden mole",
+  "scientificName": "Neamblysomus gunningi",
+  "wikibase_item": "Q82399",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141889,
+      "id": "Q141889"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q82399",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gunning's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gunning's golden mole is a small mammal endemic to South Africa. It was listed in 2006 as an endangered species. Its decreasing numbers are due to habitat clearance or destruction and predation from domesticated cats and dogs. It is a burrowing animal and spends the majority of its time underground.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gunning%27s_Golden_Mole_area.png"
+}

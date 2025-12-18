@@ -1,0 +1,26 @@
+{
+  "id": "felis-lybica",
+  "name": "Felis lybica",
+  "scientificName": "Felis lybica",
+  "wikibase_item": "Q47482585",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47482585",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_wildcat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African wildcat is a small wildcat species with sandy grey fur, pale vertical stripes on the sides and around the face. It is native to Africa, West and Central Asia, and is distributed to Rajasthan in India and Xinjiang in China. It inhabits a broad variety of landscapes ranging from deserts to savannas, shrublands and grasslands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Southern_African_Wildcat_%28Felis_sylvestris_cafra%29_female_..._%28captive_specimen%29_%2839789072173%29.jpg",
+  "_score": 1
+}

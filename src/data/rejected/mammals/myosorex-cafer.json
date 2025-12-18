@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-cafer",
+  "name": "Dark-footed mouse shrew",
+  "scientificName": "Myosorex cafer",
+  "wikibase_item": "Q1766086",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766086",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark-footed_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark-footed mouse shrew is a species of mammal in the family Soricidae found in Mozambique, South Africa, Eswatini, and Zimbabwe. Its natural habitat is subtropical or tropical moist montane forests. It was formerly sometimes called the dark-footed forest shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dark-footed_Mouse_Shrew_area.png",
+  "_score": 2
+}

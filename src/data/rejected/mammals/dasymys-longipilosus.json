@@ -1,0 +1,26 @@
+{
+  "id": "dasymys-longipilosus",
+  "name": "Dasymys longipilosus",
+  "scientificName": "Dasymys longipilosus",
+  "wikibase_item": "Q2751430",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2751430"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

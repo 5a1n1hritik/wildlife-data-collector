@@ -1,0 +1,26 @@
+{
+  "id": "philander-opossum",
+  "name": "Gray four-eyed opossum",
+  "scientificName": "Philander opossum",
+  "wikibase_item": "Q194671",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194671",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray four-eyed opossum is an opossum species found in Guyana, Suriname, French Guiana, and northern Brazil, at altitudes from sea level to 1600 m, but generally below 1,000 metres (3,300 ft). Its habitats include primary, secondary and disturbed forest. It is one of many opossum species in the order Didelphimorphia and the family Didelphidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuica_verdadeira.jpg",
+  "_score": 2
+}

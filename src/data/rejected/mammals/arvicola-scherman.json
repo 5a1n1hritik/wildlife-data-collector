@@ -1,0 +1,28 @@
+{
+  "id": "arvicola-scherman",
+  "name": "Montane Water Vole",
+  "scientificName": "Arvicola scherman",
+  "wikibase_item": "Q1769958",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 539670,
+      "id": "Q539670"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769958",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_water_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane water vole is a fossorial species of vole found throughout Central and Western Europe, northern Spain, and central Romania, particularly in high-altitude mountain regions such as the Alps, Pyrenees, and Carpathians. Arvicola scherman was initially regarded as a subspecies of Arvicola terrestris but was later redesignated as a species by Panteleyev in 2000. Unlike its close relative, the European water vole, which is semi-aquatic, the montane water vole has adapted to a burrowing lifestyle in mountainous environments. Genetic and fossil evidence suggest that the Arvicola species originated during the Pleistocene epoch, with the montane water vole diverging due to habitat specialization and geographic isolation. While the American Society of Mammalogists treats A. scherman as a synonym of Arvicola amphibius, genetic studies indicate distinct differences between the two species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Arvicola-terrestris.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "callosciurus-leucomus",
+  "name": "Callosciurus leucomus",
+  "scientificName": "Callosciurus leucomus",
+  "wikibase_item": "Q40652432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40652432"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

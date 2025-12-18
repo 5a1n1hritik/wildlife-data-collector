@@ -1,0 +1,26 @@
+{
+  "id": "submyotodon-latirostris",
+  "name": "Submyotodon latirostris",
+  "scientificName": "Submyotodon latirostris",
+  "wikibase_item": "Q19521375",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19521380,
+      "id": "Q19521380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19521375",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiwan_broad-muzzled_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Taiwan broad-muzzled bat or Taiwan broad-muzzled myotis is a species of vesper bat found in Taiwan.",
+  "image": null,
+  "_score": 0
+}

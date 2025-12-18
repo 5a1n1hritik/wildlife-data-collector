@@ -1,0 +1,28 @@
+{
+  "id": "monodelphis-unistriata",
+  "name": "One-striped opossum",
+  "scientificName": "Monodelphis unistriata",
+  "wikibase_item": "Q5488250",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5488250",
+    "wikipedia": "https://en.wikipedia.org/wiki/One-striped_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The one-striped opossum is a possibly extinct opossum species from South America. It is known only from two specimens found in Brazil in 1821 and Argentina in 1899.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Single-striped_Opossum_area.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

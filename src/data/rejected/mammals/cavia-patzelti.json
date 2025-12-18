@@ -1,0 +1,26 @@
+{
+  "id": "cavia-patzelti",
+  "name": "Cavia patzelti",
+  "scientificName": "Cavia patzelti",
+  "wikibase_item": "Q55606788",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55606788",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cavia_patzelti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cavia patzelti, commonly known as the Sacha guinea pig, is a species of Cavia native to Ecuador. Little is known about its population.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "simia-troglodytes",
+  "name": "Simia troglodytes",
+  "scientificName": "Simia troglodytes",
+  "wikibase_item": "Q46122413",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1427112,
+      "id": "Q1427112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46122413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chimpanzee"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chimpanzee, also simply known as the chimp, is a species of great ape native to the forests and savannahs of tropical Africa. It has four confirmed subspecies and a fifth proposed one. When its close relative, the bonobo, was more commonly known as the pygmy chimpanzee, this species was often called the common chimpanzee or the robust chimpanzee. The chimpanzee and the bonobo are the only species in the genus Pan. Evidence from fossils and DNA sequencing shows that Pan is a sister taxon to the human lineage and is thus humans' closest living relative.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "murina-shuipuensis",
+  "name": "Murina shuipuensis",
+  "scientificName": "Murina shuipuensis",
+  "wikibase_item": "Q17343624",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1179958,
+      "id": "Q1179958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17343624",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shuipu_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Shuipu tube-nosed bat or Shuifu tube-nosed bat is a species of vesper bat in the family Vespertilionidae. It is endemic to southern China, where it is known only from Guangxi province. It is named after the type locality, Shuipu Village.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Distribution_of_Murina_shuipuensis.png"
+}

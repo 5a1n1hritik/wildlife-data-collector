@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-sakejiensis",
+  "name": "Sakeji Horseshoe Bat",
+  "scientificName": "Rhinolophus sakejiensis",
+  "wikibase_item": "Q1767703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sakeji_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sakeji horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to Zambia. Its natural habitats are subtropical and tropical dry and moist lowland forest, and moist savanna. It is threatened by habitat loss. It was discovered in 2000.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sakeji_Horseshoe_Bat_area.png",
+  "_score": 3
+}

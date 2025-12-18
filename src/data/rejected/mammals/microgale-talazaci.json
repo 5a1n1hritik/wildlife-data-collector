@@ -1,0 +1,26 @@
+{
+  "id": "microgale-talazaci",
+  "name": "Talazac's shrew tenrec",
+  "scientificName": "Microgale talazaci",
+  "wikibase_item": "Q3856978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3856978",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talazac's_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Talazac's shrew tenrec is a species of mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitats are subtropical or tropical moist forests. On the basis of molecular data indicating that it and Dobson's shrew tenrec form a sister group to the rest of Microgale, these two species were transferred from Microgale to Nesogale in 2016.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Microgale_talazaci_range_map.svg/2324px-Microgale_talazaci_range_map.svg.png",
+  "_score": 2
+}

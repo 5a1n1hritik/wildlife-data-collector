@@ -1,0 +1,25 @@
+{
+  "id": "mustela-sibirica",
+  "name": "Mustela sibirica",
+  "scientificName": "Mustela sibirica",
+  "wikibase_item": "Q271459",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q271459",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siberian_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Siberian weasel or kolonok is a medium-sized weasel native to Asia, where it is widely distributed and inhabits various forest habitats and open areas. It is therefore listed as least concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Siberian_Weasel_Pangolakha_Wildlife_Sanctuary_East_Sikkim_India_14.05.2016.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "akodon-polopi",
+  "name": "Akodon polopi",
+  "scientificName": "Akodon polopi",
+  "wikibase_item": "Q2829106",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2829106",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akodon_polopi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Akodon polopi is a species of rodent in the family Cricetidae. It is found in Argentina.",
+  "image": null,
+  "_score": 0
+}

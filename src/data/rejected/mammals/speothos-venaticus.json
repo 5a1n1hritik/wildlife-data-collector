@@ -1,0 +1,28 @@
+{
+  "id": "speothos-venaticus",
+  "name": "Speothos venaticus",
+  "scientificName": "Speothos venaticus",
+  "wikibase_item": "Q191737",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2898113,
+      "id": "Q2898113"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q191737",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bush_dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bush dog is a canine found in Central and South America. In spite of its extensive range, it is very rare in most areas except in Suriname, Guyana and Peru; it was first described by Peter Wilhelm Lund from fossils in Brazilian caves and was believed to be extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Speothos_venaticus_Zoo_Praha_2011-5_%28cropped%29.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

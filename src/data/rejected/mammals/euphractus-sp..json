@@ -1,0 +1,26 @@
+{
+  "id": "euphractus-sp.",
+  "name": "Euphractus sp.",
+  "scientificName": "Euphractus sp.",
+  "wikibase_item": "Q41083249",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10759617,
+      "id": "Q10759617"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083249"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

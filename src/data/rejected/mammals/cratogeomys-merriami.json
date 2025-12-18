@@ -1,0 +1,26 @@
+{
+  "id": "cratogeomys-merriami",
+  "name": "Merriam's pocket gopher",
+  "scientificName": "Cratogeomys merriami",
+  "wikibase_item": "Q1765852",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 869542,
+      "id": "Q869542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765852",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merriam's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Merriam's pocket gopher is a species of rodent in the family Geomyidae. It is endemic to Mexico, where it is found in the area of the Valley of Mexico and the Valley of Toluca at elevations from 1800 to 4000 m. Its favored habitats are the Zacatonal grassland and temperate pine-oak woodlands, as well as farmland and rangeland. Its karyotype has 2n = 36 and FN = 68.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cratogeomys_merriami_277936069.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "didelphis-voluccella",
+  "name": "Didelphis voluccella",
+  "scientificName": "Didelphis voluccella",
+  "wikibase_item": "Q122920812",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122920812"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

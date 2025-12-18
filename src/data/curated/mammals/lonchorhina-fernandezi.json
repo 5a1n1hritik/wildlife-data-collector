@@ -1,0 +1,26 @@
+{
+  "id": "lonchorhina-fernandezi",
+  "name": "Fernandez's sword-nosed bat",
+  "scientificName": "Lonchorhina fernandezi",
+  "wikibase_item": "Q1832556",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 138625,
+      "id": "Q138625"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832556",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernandez's_sword-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fernandez's sword-nosed bat is a species of bat in the family Phyllostomidae. It is the smallest species of the Lonchorhina genus. It is endemic to Venezuela. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation. It is threatened by habitat loss. It derives its scientific name from a Venezuelan zoologist, Dr. Alberto Fernandez Badillo, whose research focused on vampire bats, in particular.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Distribution_of_Lonchorhina_fernandezi.png",
+  "_score": 4
+}

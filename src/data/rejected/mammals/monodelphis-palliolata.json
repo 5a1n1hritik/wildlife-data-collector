@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-palliolata",
+  "name": "Hooded red-sided opossum",
+  "scientificName": "Monodelphis palliolata",
+  "wikibase_item": "Q195043",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q195043",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hooded_red-sided_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hooded red-sided opossum is a South American opossum species of the family Didelphidae. Until recently, it was viewed as a subspecies of M. brevicaudata. It is found in Colombia and Venezuela at altitudes from sea level to 2250 m. It is a primarily nonarboreal resident of tropical rainforest, but has also been seen in areas under cultivation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hooded_Red-sided_Opossum_area.png",
+  "_score": 1
+}

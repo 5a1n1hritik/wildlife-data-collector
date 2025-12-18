@@ -1,0 +1,25 @@
+{
+  "id": "funisciurus-carruthersi",
+  "name": "Carruther's mountain squirrel",
+  "scientificName": "Funisciurus carruthersi",
+  "wikibase_item": "Q308493",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278459,
+      "id": "Q278459"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308493",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carruther's_mountain_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Carruther's mountain squirrel is a species of rodent in the family Sciuridae. It is found in Burundi, Democratic Republic of the Congo, Rwanda, and Uganda. Its natural habitat is tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Carruthers%27_Mountain_Squirrel%2C_Musanze%2C_Rwanda_imported_from_iNaturalist_photo_398604653.jpg"
+}

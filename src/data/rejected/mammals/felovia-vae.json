@@ -1,0 +1,26 @@
+{
+  "id": "felovia-vae",
+  "name": "Felou gundi",
+  "scientificName": "Felovia vae",
+  "wikibase_item": "Q303610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10760065,
+      "id": "Q10760065"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303610",
+    "wikipedia": "https://en.wikipedia.org/wiki/Felou_gundi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The felou gundi is a species of rodent in the family Ctenodactylidae. It is monotypic within the genus Felovia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Felovia_vae.jpg",
+  "_score": 1
+}

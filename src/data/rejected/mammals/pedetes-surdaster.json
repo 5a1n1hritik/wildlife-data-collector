@@ -1,0 +1,26 @@
+{
+  "id": "pedetes-surdaster",
+  "name": "Pedetes surdaster",
+  "scientificName": "Pedetes surdaster",
+  "wikibase_item": "Q777220",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3027980,
+      "id": "Q3027980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q777220",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_African_springhare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East African springhare is an African mammal found in Kenya and Tanzania that is closely related to the South African springhare. It is a member of the Pedetidae, a rodent family, and resembles a small kangaroo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/East_African_Springhare_%28Pedetes_surdaster%29_%288290878677%29.jpg",
+  "_score": 1
+}

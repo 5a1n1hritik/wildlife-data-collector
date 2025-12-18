@@ -1,0 +1,26 @@
+{
+  "id": "herpestes-gambianus",
+  "name": "Herpestes gambianus",
+  "scientificName": "Herpestes gambianus",
+  "wikibase_item": "Q41165239",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165239"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

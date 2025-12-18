@@ -1,0 +1,26 @@
+{
+  "id": "myotis-scotti",
+  "name": "Scott's mouse-eared bat",
+  "scientificName": "Myotis scotti",
+  "wikibase_item": "Q2895422",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2895422",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott's_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Scott's mouse-eared bat is a species of vesper bat. It is found only in Ethiopia, in subtropical or tropical moist montane forests and shrubland. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

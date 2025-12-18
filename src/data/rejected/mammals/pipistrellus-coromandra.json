@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-coromandra",
+  "name": "Indian Pipistrelle",
+  "scientificName": "Pipistrellus coromandra",
+  "wikibase_item": "Q1831606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831606",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian pipistrelle is a species of bat in the family Vespertilionidae found in Afghanistan, Bangladesh, Bhutan, Cambodia, India, Myanmar, Nepal, Pakistan, Sri Lanka, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Pipistrellus_coromandra_by_Suvray.jpg",
+  "_score": 1
+}

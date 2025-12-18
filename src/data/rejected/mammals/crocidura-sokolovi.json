@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-sokolovi",
+  "name": "Crocidura sokolovi",
+  "scientificName": "Crocidura sokolovi",
+  "wikibase_item": "Q2325553",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2325553",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sokolov's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sokolov's shrew is a species of mammal in the family Soricidae. It is endemic to Vietnam.",
+  "image": null,
+  "_score": 0
+}

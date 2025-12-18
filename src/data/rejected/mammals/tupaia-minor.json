@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-minor",
+  "name": "Pygmy treeshrew",
+  "scientificName": "Tupaia minor",
+  "wikibase_item": "Q935284",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q935284",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy treeshrew is a treeshrew species within the family Tupaiidae. It is native to Thailand, Malaysia and Indonesia. The generic name is derived from the Malay word tupai meaning squirrel or small animals that resemble squirrels.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tupaia_minor_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02511.JPG",
+  "_score": 1
+}

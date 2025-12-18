@@ -1,0 +1,26 @@
+{
+  "id": "pseudokoala-curramulkensis",
+  "name": "Pseudokoala curramulkensis",
+  "scientificName": "Pseudokoala curramulkensis",
+  "wikibase_item": "Q21327194",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21333987,
+      "id": "Q21333987"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21327194"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arctocebus-aureus",
+  "name": "Golden angwantibo",
+  "scientificName": "Arctocebus aureus",
+  "wikibase_item": "Q1150343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1019157,
+      "id": "Q1019157"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1150343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_angwantibo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden angwantibo is a strepsirrhine primate of the family Lorisidae. It shares the genus Arctocebus with the Calabar angwantibo and together they are commonly called the golden pottos. The golden\nangwantibo is found in Cameroon, the Republic of Congo, Equatorial Guinea and Gabon. Its usual habitat is rain forest, but it has also been known to live on farmland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Golden_Angwantibo_area.png",
+  "_score": 2
+}

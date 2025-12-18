@@ -1,0 +1,26 @@
+{
+  "id": "petrogale-wilkinsi",
+  "name": "Eastern short-eared rock-wallaby",
+  "scientificName": "Petrogale wilkinsi",
+  "wikibase_item": "Q19597052",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19597052",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_short-eared_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern short-eared rock-wallaby or Wilkins' rock-wallaby is a species of rock-wallaby found in the northernmost parts of the Northern Territory of Australia, and is common in the Kakadu and Litchfield National Parks. It was thought to be a subpopulation of the short-eared rock-wallaby Petrogale brachyotis found in the Kimberley, but recent genetic and morphological studies have shown it to be distinct. Wilkins' rock-wallaby is smaller, has more distinct grey/brown markings on its head and sides, and more colourful limbs than the western species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Wilkins-rock-wallaby-face-side-view260817p18lowres.jpg",
+  "_score": 2
+}

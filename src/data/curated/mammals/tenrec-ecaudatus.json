@@ -1,0 +1,26 @@
+{
+  "id": "tenrec-ecaudatus",
+  "name": "Tailless tenrec",
+  "scientificName": "Tenrec ecaudatus",
+  "wikibase_item": "Q852769",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15402150,
+      "id": "Q15402150"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q852769",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tailless_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tailless tenrec, also known as the common tenrec, is a species of mammal in the family Tenrecidae. It is the only member of the genus Tenrec. Native to Madagascar, it is also found on the Comoros, Mauritius, Réunion, and Seychelles island groups, where it has been purposely introduced. Its natural habitat is the understory of subtropical-tropical forest, open forest, arid shrub-land, savanna, arable land, pastures, crop plantations, private gardens, and some landscaped, urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tanrek.jpg",
+  "_score": 3
+}

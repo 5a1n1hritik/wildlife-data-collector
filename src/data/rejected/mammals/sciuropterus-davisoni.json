@@ -1,0 +1,26 @@
+{
+  "id": "sciuropterus-davisoni",
+  "name": "Sciuropterus davisoni",
+  "scientificName": "Sciuropterus davisoni",
+  "wikibase_item": "Q66754073",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 66588680,
+      "id": "Q66588680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66754073"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

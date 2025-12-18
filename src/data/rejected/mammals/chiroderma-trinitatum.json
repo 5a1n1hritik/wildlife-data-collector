@@ -1,0 +1,26 @@
+{
+  "id": "chiroderma-trinitatum",
+  "name": "little big-eyed bat",
+  "scientificName": "Chiroderma trinitatum",
+  "wikibase_item": "Q309337",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702286,
+      "id": "Q2702286"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309337",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_big-eyed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little big-eyed bat is a bat species from South and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Chiroderma_trinitatum_Peru.jpg",
+  "_score": 1
+}

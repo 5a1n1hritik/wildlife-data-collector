@@ -1,0 +1,26 @@
+{
+  "id": "onychogalea-fraenata",
+  "name": "Bridled nail-tail wallaby",
+  "scientificName": "Onychogalea fraenata",
+  "wikibase_item": "Q533063",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 429799,
+      "id": "Q429799"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q533063",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bridled_nail-tail_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bridled nail-tail wallaby, also known as the bridled nail-tailed wallaby, bridled nailtail wallaby, bridled wallaby, merrin, and flashjack, is a vulnerable species of macropod. It is a small wallaby found in three isolated areas in Queensland, Australia, and whose population is declining. In early 2019 the total population of the species was estimated to be fewer than 500 mature individuals in the wild and 2285 in captivity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bridled_nailtail_wallaby-female-01.JPG",
+  "_score": 2
+}

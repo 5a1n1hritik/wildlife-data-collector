@@ -1,0 +1,26 @@
+{
+  "id": "meles-taxus",
+  "name": "Meles taxus",
+  "scientificName": "Meles taxus",
+  "wikibase_item": "Q106448094",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1345042,
+      "id": "Q1345042"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106448094"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

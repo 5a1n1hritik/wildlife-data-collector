@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-nicobarica",
+  "name": "Nicobar Treeshrew",
+  "scientificName": "Tupaia nicobarica",
+  "wikibase_item": "Q1338043",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1338043",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicobar_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nicobar treeshrew is a species of small, non-volant mammal. It is endemic to the Nicobar Islands of the Andaman Sea, India. where it inhabits the islands' rain forests. Based on geographical distribution, there are two subspecies identified: T. nicobarica nicobarica from the Great Nicobar Island and T. nicobarica surda from the Little Nicobar Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Nicobar_Treeshrew_%28Tupaia_nicobarica_nicobarica%29.jpg",
+  "_score": 1
+}

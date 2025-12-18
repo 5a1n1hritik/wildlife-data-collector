@@ -1,0 +1,26 @@
+{
+  "id": "euroscaptor-micrura",
+  "name": "Euroscaptor micrura",
+  "scientificName": "Euroscaptor micrura",
+  "wikibase_item": "Q1770493",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1851296,
+      "id": "Q1851296"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770493",
+    "wikipedia": "https://en.wikipedia.org/wiki/Himalayan_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Himalayan mole or short-tailed mole is a species of mammal in the family Talpidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Himalayan_Mole_area.png",
+  "_score": 1
+}

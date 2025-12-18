@@ -1,0 +1,26 @@
+{
+  "id": "cynopterus-horsfeildi",
+  "name": "Cynopterus horsfeildi",
+  "scientificName": "Cynopterus horsfeildi",
+  "wikibase_item": "Q40423606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311701,
+      "id": "Q311701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40423606"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-minutus",
+  "name": "Tiny tuco-tuco",
+  "scientificName": "Ctenomys minutus",
+  "wikibase_item": "Q1769927",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769927",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiny_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tiny tuco-tuco is a tuco-tuco species found in Brazil and Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tuco-tuco%2C_Tiny_Tuco_Tuco_%28Ctenomys_minutus%29.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-chinensis",
+  "name": "Large myotis",
+  "scientificName": "Myotis chinensis",
+  "wikibase_item": "Q1830675",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830675",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large myotis is a species of vesper bat. It is found in central and southeast China, Hong Kong, Myanmar, Thailand, and northern Vietnam. It is also expected to occur in northern Laos, but not yet documented there.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Distribution_of_Myotis_chinensis.png",
+  "_score": 1
+}

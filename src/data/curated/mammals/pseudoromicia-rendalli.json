@@ -1,0 +1,26 @@
+{
+  "id": "pseudoromicia-rendalli",
+  "name": "Pseudoromicia rendalli",
+  "scientificName": "Pseudoromicia rendalli",
+  "wikibase_item": "Q99838816",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99836920,
+      "id": "Q99836920"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99838816",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rendall's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rendall's serotine is a species of vesper bat. It is found in Benin, Botswana, Burkina Faso, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Gambia, Ghana, Kenya, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, Sudan, Tanzania, Uganda, and Zambia. Its natural habitats are savanna and subtropical or tropical shrubland,.\nIt is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Naturalis_Biodiversity_Center_-_RMNH.MAM.27153.b_dor_-_Neoromicia_rendalli_-_skin.jpeg",
+  "_score": 4
+}

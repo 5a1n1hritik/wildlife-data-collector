@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-rapit",
+  "name": "Long-tailed Mountain Rat",
+  "scientificName": "Niviventer rapit",
+  "wikibase_item": "Q1765320",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765320",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_mountain_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed mountain rat is a species of rodent in the family Muridae. It is endemic to Borneo and found in Indonesia and Malaysia. Recorded at elevations of 940–3,360 m (3,080–11,020 ft) above sea level, it is a poorly known species but presumably common, assumed to inhabit forests and scrubland.",
+  "image": null,
+  "_score": 0
+}

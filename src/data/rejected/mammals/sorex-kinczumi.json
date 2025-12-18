@@ -1,0 +1,26 @@
+{
+  "id": "sorex-kinczumi",
+  "name": "Sorex kinczumi",
+  "scientificName": "Sorex kinczumi",
+  "wikibase_item": "Q122733492",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122733492"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

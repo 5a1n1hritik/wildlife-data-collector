@@ -1,0 +1,26 @@
+{
+  "id": "octodon-ricardojeda",
+  "name": "Ricardo Ojeda's degu",
+  "scientificName": "Octodon ricardojeda",
+  "wikibase_item": "Q109424155",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 628979,
+      "id": "Q628979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109424155",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Ojeda's_degu"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ricardo Ojeda's degu is a species of rodent in the family Octodontidae. It is found in a small portion of eastern Chile and western Argentina, being the only degu found outside of Chile. It was named after Argentine mammalogist Ricardo Ojeda.",
+  "image": null,
+  "_score": 0
+}

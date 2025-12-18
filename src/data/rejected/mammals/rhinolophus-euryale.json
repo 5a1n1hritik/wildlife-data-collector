@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-euryale",
+  "name": "Mediterranean Horseshoe Bat",
+  "scientificName": "Rhinolophus euryale",
+  "wikibase_item": "Q282863",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q282863",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mediterranean_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mediterranean horseshoe bat is a species of insectivorous bat in the family Rhinolophidae. It is found in the Mediterranean region and Balkan peninsula, as well as parts of Italy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rhinolophus_euryale-cropped.jpg",
+  "_score": 1
+}

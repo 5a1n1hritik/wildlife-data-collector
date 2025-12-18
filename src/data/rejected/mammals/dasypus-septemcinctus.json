@@ -1,0 +1,26 @@
+{
+  "id": "dasypus-septemcinctus",
+  "name": "seven-banded armadillo",
+  "scientificName": "Dasypus septemcinctus",
+  "wikibase_item": "Q1761577",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761577",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seven-banded_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The seven-banded armadillo, also known as the Brazilian lesser long-nosed armadillo, is a species of armadillo from South America found in Paraguay, Argentina, Bolivia and Brazil.\nIt is a solitary nocturnal, terrestrial animal, living mostly in dry habitats, outside of rainforest regions.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Dasypus_septemcinctus_hybridus_%28also_named_Dasypus_hybridus%29%2C_at_Valizas%2C_Uruguay.jpg",
+  "_score": 2
+}

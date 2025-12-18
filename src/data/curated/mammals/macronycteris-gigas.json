@@ -1,0 +1,26 @@
+{
+  "id": "macronycteris-gigas",
+  "name": "Macronycteris gigas",
+  "scientificName": "Macronycteris gigas",
+  "wikibase_item": "Q116215167",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 105062291,
+      "id": "Q105062291"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116215167",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant roundleaf bat is a species of bat in the family Hipposideridae found in western tropical Africa. Its natural habitats are subtropical or tropical moist lowland forests and caves. The species was formerly considered part of M. commersoni, which is now viewed as being restricted to Madagascar. Both commersoni and it were formerly placed in the genus Hipposideros, but moved to the resurrected Macronycteris in 2017 on the basis of molecular evidence. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hipposideros_gigas.jpg",
+  "_score": 4
+}

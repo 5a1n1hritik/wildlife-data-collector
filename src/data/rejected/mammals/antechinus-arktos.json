@@ -1,0 +1,26 @@
+{
+  "id": "antechinus-arktos",
+  "name": "Antechinus arktos",
+  "scientificName": "Antechinus arktos",
+  "wikibase_item": "Q15778682",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15778682",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antechinus_arktos"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Antechinus arktos, the black-tailed antechinus, is a species of small carnivorous marsupial native to Australia.",
+  "image": null,
+  "_score": 0
+}

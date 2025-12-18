@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-suslicus",
+  "name": "Speckled ground squirrel",
+  "scientificName": "Spermophilus suslicus",
+  "wikibase_item": "Q854681",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q854681",
+    "wikipedia": "https://en.wikipedia.org/wiki/Speckled_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The speckled ground squirrel or spotted souslik is a species of rodent in the family Sciuridae from Eastern Europe. Spermophilus suslicus consists of three subspecies: S. s. boristhenicus, S. s. guttatus, and S. s. suslicus. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Spermophilus_suslicus_%28G_Lesniewski%29.jpg",
+  "_score": 3
+}

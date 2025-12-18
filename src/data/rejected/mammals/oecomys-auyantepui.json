@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-auyantepui",
+  "name": "Oecomys auyantepui",
+  "scientificName": "Oecomys auyantepui",
+  "wikibase_item": "Q1767757",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767757",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_auyantepui"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys auyantepui, also known as the Guianan oecomys and north Amazonian arboreal rice rat, is a species of rodent in the genus Oecomys from South America. It is found in Guyana, Suriname, French Guiana, and nearby regions of Venezuela and Brazil. It is an arboreal rodent known from the understory of primary rainforest, found at altitudes from sea level to 1100 m.",
+  "image": null,
+  "_score": 0
+}

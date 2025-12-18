@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-macroura",
+  "name": "Stripe-faced Dunnart",
+  "scientificName": "Sminthopsis macroura",
+  "wikibase_item": "Q133334",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133334",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stripe-faced_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped-faced dunnart is a small, Australian, nocturnal, \"marsupial mouse,\" part of the family Dasyuridae. The species' distribution occurs throughout much of inland central and northern Australia, occupying a range of arid and semi-arid habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sminthopsis_macroura_1.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "calomyscus-grandis",
+  "name": "Calomyscus grandis",
+  "scientificName": "Calomyscus grandis",
+  "wikibase_item": "Q1761775",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761775",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noble_mouse-like_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The noble mouse-like hamster or the noble calomyscus, is a species of mouse-like hamster from Iran. It is the largest species of Calomyscus and was initially described as a subspecies of Calomyscus bailwardi. The animal is found in the region near Tehran and is identifiable based on its large size (74–91 mm) and soft, buffy, brown dorsal pelage. The American Society of Mammalogists as well as Musser and Carleton recognize C. grandis as a distinct species.",
+  "image": null,
+  "_score": 1
+}

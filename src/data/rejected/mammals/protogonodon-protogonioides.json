@@ -1,0 +1,26 @@
+{
+  "id": "protogonodon-protogonioides",
+  "name": "Protogonodon protogonioides",
+  "scientificName": "Protogonodon protogonioides",
+  "wikibase_item": "Q41527593",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41219055,
+      "id": "Q41219055"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41527593"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

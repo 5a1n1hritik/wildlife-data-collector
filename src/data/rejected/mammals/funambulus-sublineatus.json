@@ -1,0 +1,26 @@
+{
+  "id": "funambulus-sublineatus",
+  "name": "Nilgiri striped squirrel",
+  "scientificName": "Funambulus sublineatus",
+  "wikibase_item": "Q308491",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1004346,
+      "id": "Q1004346"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308491",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nilgiri_striped_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nilgiri striped squirrel is a threatened species of rodent, a small squirrel (Sciuridae) from rainforests in the southern Western Ghats, including the Nilgiris, in Peninsular India. It formerly included Funambulus obscurus from Sri Lanka as a subspecies, at which point the English name of the \"combined species\" also was dusky striped squirrel.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Dusky_striped_squirrel_by_N_A_Nazeer.jpg",
+  "_score": 2
+}

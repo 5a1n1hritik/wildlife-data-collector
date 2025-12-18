@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-religiosa",
+  "name": "Egyptian pygmy shrew",
+  "scientificName": "Crocidura religiosa",
+  "wikibase_item": "Q305606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305606",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egyptian_pygmy_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Egyptian pygmy shrew or sacred shrew is a species of mammal in the family Soricidae. It is endemic to Egypt. Its natural habitat is arable land. It is threatened by habitat loss, partially caused by the construction of the Aswan Dam. They are 48–62 mm (1.9–2.4 in) in length and weigh 7 g (0.25 oz), making them one of the smallest shrews in Egypt.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Egyptian_Pygmy_Shrew_area.png",
+  "_score": 3
+}

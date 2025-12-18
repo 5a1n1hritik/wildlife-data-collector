@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-roberti",
+  "name": "Oecomys roberti",
+  "scientificName": "Oecomys roberti",
+  "wikibase_item": "Q1767440",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767440",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_roberti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys roberti, also known as Robert's oecomys or Robert's arboreal rice rat, is a rodent species from South America in the genus Oecomys. It has a broad distribution in the Amazon biome, being found in Bolivia, Brazil, French Guiana, Guyana, Peru, Suriname and Venezuela.",
+  "image": null,
+  "_score": 0
+}

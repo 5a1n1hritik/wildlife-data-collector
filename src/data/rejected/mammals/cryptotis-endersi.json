@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-endersi",
+  "name": "Enders's small-eared shrew",
+  "scientificName": "Cryptotis endersi",
+  "wikibase_item": "Q307023",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307023",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enders's_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Enders's small-eared shrew is a species of mammal in the family Soricidae. It is endemic to Panama. This species is larger than the other species in the Cryptotis genus and has a tail that is about 49-60% of their head and body length. There have only been two specimens found in 1950 and 1980 which interests scientists but also concerns them about conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Enders%27s_Small-eared_Shrew_area.png",
+  "_score": 1
+}

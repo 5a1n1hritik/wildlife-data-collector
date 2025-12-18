@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-kachinensis",
+  "name": "Kerivoula kachinensis",
+  "scientificName": "Kerivoula kachinensis",
+  "wikibase_item": "Q2636490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2636490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kachin_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kachin woolly bat is a species of bat found in Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Distribution_of_Kerivoula_kachinensis.png",
+  "_score": 1
+}

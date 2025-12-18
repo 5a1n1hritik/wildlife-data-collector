@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-myoxinus",
+  "name": "Pygmy mouse lemur",
+  "scientificName": "Microcebus myoxinus",
+  "wikibase_item": "Q243990",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q243990",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy mouse lemur, also known as Peters' mouse lemur or dormouse lemur, is a primate weighing only 43–55 g (1.5–1.9 oz); it is the second smallest of the mouse lemurs. Its dorsal side is a rufous-brown colour, and creamy-white ventrally. It lives in dry deciduous forests of western Madagascar. It has been captured in the Tsingy de Bemaraha Nature Reserve, the Andramasy forests north of Belo sur Tsiribihina, and the border of heavily degraded deciduous forest and savanna at Aboalimena. It has also been found in other habitats, in mangroves in two localities.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Zwergmausmaki--w.jpg",
+  "_score": 3
+}

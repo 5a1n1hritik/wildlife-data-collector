@@ -1,0 +1,26 @@
+{
+  "id": "mimon-koepckeae",
+  "name": "Mimon koepckeae",
+  "scientificName": "Mimon koepckeae",
+  "wikibase_item": "Q3485485",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703888,
+      "id": "Q2703888"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3485485",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koepcke's_hairy-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Koepcke's hairy-nosed bat is a species of bat that is endemic to Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Distribution_of_Mimon_koepckeae.png",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "idionycteris-phyllotis",
+  "name": "Idionycteris phyllotis",
+  "scientificName": "Idionycteris phyllotis",
+  "wikibase_item": "Q247338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10772699,
+      "id": "Q10772699"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen's_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Allen's big-eared bat, also known as the lappet-browed bat, is a species of vesper bat in the monotypic genus Idionycteris. It occurs in Mexico and in Arizona, California, Nevada, New Mexico, Utah, and Colorado in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Idionycteris_phyllotis_461573.jpg"
+}

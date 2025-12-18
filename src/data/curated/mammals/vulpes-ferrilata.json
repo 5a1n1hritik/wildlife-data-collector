@@ -1,0 +1,25 @@
+{
+  "id": "vulpes-ferrilata",
+  "name": "Tibetan fox",
+  "scientificName": "Vulpes ferrilata",
+  "wikibase_item": "Q319070",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q319070",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tibetan_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tibetan fox, also known as the Tibetan sand fox, is a species of true fox endemic to the high Tibetan Plateau, Nepal, China, Bhutan and the Indian states of Ladakh and Sikkim, up to elevations of about 5,300 m (17,400 ft). It is listed as Least Concern in the IUCN Red List, on account of its widespread range in the Tibetan Plateau's steppes and semi-deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vulpes_ferrilata.jpg"
+}

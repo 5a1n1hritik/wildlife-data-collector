@@ -1,0 +1,26 @@
+{
+  "id": "lissonycteris-smithi",
+  "name": "Smith's fruit bat",
+  "scientificName": "Lissonycteris smithi",
+  "wikibase_item": "Q5416291",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2895188,
+      "id": "Q2895188"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5416291",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_rousette"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan fruit bat, Angolan rousette or silky bat is a species of megabat in the family Pteropodidae. It is found in Angola, Burundi, Cameroon, Central African Republic, Republic of Congo, Democratic Republic of Congo, Kenya, Nigeria, Rwanda, Sudan, Tanzania, Uganda, and Zambia. Its natural habitats are subtropical or tropical moist lowland forest, moist savanna, and rocky areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Naturalis_Biodiversity_Center_-_ZMA.MAM.15537.b_dor_-_Lissonycteris_angolensis_angolensis_Bocage%2C_1898_-_skin.jpeg",
+  "_score": 2
+}

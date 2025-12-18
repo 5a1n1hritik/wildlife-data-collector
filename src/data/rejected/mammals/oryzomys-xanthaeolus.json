@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-xanthaeolus",
+  "name": "Oryzomys xanthaeolus",
+  "scientificName": "Oryzomys xanthaeolus",
+  "wikibase_item": "Q27430198",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27430198",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aegialomys_xanthaeolus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Aegialomys xanthaeolus, also known as the yellowish oryzomys or yellowish rice rat, is a species of rodent in the family Cricetidae. It belongs to the genus Aegialomys in tribe Oryzomyini, which was not recognized as distinct from Oryzomys until 2006. It is found in coastal Ecuador and Peru. Though it is currently the only formally recognized mainland species of Aegialomys, at least one other exists. The specific name is sometimes incorrectly spelled \"xantheolus\", without the second \"a\".",
+  "image": null,
+  "_score": 1
+}

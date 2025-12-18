@@ -1,0 +1,26 @@
+{
+  "id": "funambulus-obscurus",
+  "name": "Funambulus obscurus",
+  "scientificName": "Funambulus obscurus",
+  "wikibase_item": "Q19597262",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1004346,
+      "id": "Q1004346"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19597262",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_striped_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky striped squirrel is a species of small squirrel from Sri Lanka that is largely confined to rainforests in the southwestern \"wet zone\" with higher rainfall than the rest of the island. It was formerly regarded as a subspecies of Funambulus sublineatus from India, at which point the English name of the \"combined species\" also was dusky striped squirrel. It is known as පුංචි ලේනා or \"batu lena\" in the Sinhala language.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Funambulus_obscurus%2C_The_Dusky-striped_squirrel.png",
+  "_score": 2
+}

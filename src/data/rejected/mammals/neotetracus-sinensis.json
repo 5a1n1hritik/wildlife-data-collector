@@ -1,0 +1,26 @@
+{
+  "id": "neotetracus-sinensis",
+  "name": "Neotetracus sinensis",
+  "scientificName": "Neotetracus sinensis",
+  "wikibase_item": "Q301071",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816786,
+      "id": "Q19816786"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301071",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shrew_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The shrew gymnure, or shrew hedgehog, is a species of mammal in the family Erinaceidae and is the only extant species in the genus Neotetracus. It is found in China, Myanmar, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Neotetracus_sinensis.jpg",
+  "_score": 1
+}

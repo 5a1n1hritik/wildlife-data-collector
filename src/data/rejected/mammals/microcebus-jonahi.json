@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-jonahi",
+  "name": "Microcebus jonahi",
+  "scientificName": "Microcebus jonahi",
+  "wikibase_item": "Q97961729",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97961729",
+    "wikipedia": "https://en.wikipedia.org/wiki/Microcebus_jonahi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Microcebus jonahi, or Jonah's mouse lemur, is a tiny species of primate. It weighs 60 g (2.1 oz) and has a body length of around 13 cm (5.1 in) and its tail measures around 13 cm (5.1 in) as well. It is the 25th recognized species of mouse lemur and the 108th recognized species of lemur.",
+  "image": null,
+  "_score": 0
+}

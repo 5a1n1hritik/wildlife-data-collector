@@ -1,0 +1,26 @@
+{
+  "id": "potorous-longipes",
+  "name": "long-footed potoroo",
+  "scientificName": "Potorous longipes",
+  "wikibase_item": "Q209600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475146,
+      "id": "Q1475146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209600",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-footed_potoroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-footed potoroo is a small marsupial found in southeastern Australia, restricted to an area around the coastal border between New South Wales and Victoria. It was first recorded in 1967 when an adult male was caught in a dog trap in the forest southwest of Bonang, Victoria. It is classified as vulnerable.",
+  "image": null,
+  "_score": 0
+}

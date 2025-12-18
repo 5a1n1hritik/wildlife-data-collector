@@ -1,0 +1,25 @@
+{
+  "id": "petaurus-breviceps",
+  "name": "Petaurus breviceps",
+  "scientificName": "Petaurus breviceps",
+  "wikibase_item": "Q723435",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q723435",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugar_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sugar glider is a small, omnivorous, arboreal, and nocturnal gliding possum. The common name refers to its predilection for sugary foods such as sap and nectar and its ability to glide through the air, much like a flying squirrel. They have very similar habits and appearance to the flying squirrel, despite not being closely related—an example of convergent evolution. The scientific name, Petaurus breviceps, translates from Latin as \"short-headed rope-dancer\", a reference to their canopy acrobatics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Petaurus_breviceps-Cayley.jpg"
+}

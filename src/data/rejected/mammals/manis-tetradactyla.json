@@ -1,0 +1,26 @@
+{
+  "id": "manis-tetradactyla",
+  "name": "Manis tetradactyla",
+  "scientificName": "Manis tetradactyla",
+  "wikibase_item": "Q262560",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886679,
+      "id": "Q20886679"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q262560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed pangolin, also called the African black-bellied pangolin or ipi, is a diurnal, arboreal pangolin species belonging to the family Manidae, in the order Pholidota. They feed on ants rather than termites. The common names for this species stem from physical characteristics, such as the extremely long tail or the dark hairs that cover the underside of their bodies and limbs. Pangolin comes from the Malay word pengguling, meaning \"something that rolls up\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Manis_tetradactyla_%2829645778336%29.jpg",
+  "_score": 2
+}

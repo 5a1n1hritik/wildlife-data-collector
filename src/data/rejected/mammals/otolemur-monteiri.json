@@ -1,0 +1,26 @@
+{
+  "id": "otolemur-monteiri",
+  "name": "Silvery greater galago",
+  "scientificName": "Otolemur monteiri",
+  "wikibase_item": "Q1206135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1190066,
+      "id": "Q1190066"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1206135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvery_greater_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silvery greater galago is a nocturnal primate from the galago family. It is usually found in Brachystegia woodland, from Angola to Tanzania, western Kenya and Rwanda.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/GalagoMonteiriWolf.jpg",
+  "_score": 1
+}

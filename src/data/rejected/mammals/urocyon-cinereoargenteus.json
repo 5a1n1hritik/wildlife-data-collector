@@ -1,0 +1,26 @@
+{
+  "id": "urocyon-cinereoargenteus",
+  "name": "Gray fox",
+  "scientificName": "Urocyon cinereoargenteus",
+  "wikibase_item": "Q215250",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 738191,
+      "id": "Q738191"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q215250",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray fox, or grey fox, is an omnivorous mammal of the family Canidae, widespread throughout North America and Central America. This species and its only congener, the diminutive island fox of the California Channel Islands, are the only living members of the genus Urocyon, which is considered to be genetically sister to all other living canids. Its species name cinereoargenteus means \"ashen silver\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Gray_fox.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "murina-rozendaali",
+  "name": "Gilded tube-nosed bat",
+  "scientificName": "Murina rozendaali",
+  "wikibase_item": "Q2895820",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2895820",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilded_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gilded tube-nosed bat is a species of vesper bat in the family Vespertilionidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Distribution_of_Murina_rozendaali.png",
+  "_score": 1
+}

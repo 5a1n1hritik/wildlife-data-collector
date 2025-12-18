@@ -1,0 +1,26 @@
+{
+  "id": "arctogalidia-millsi",
+  "name": "Arctogalidia millsi",
+  "scientificName": "Arctogalidia millsi",
+  "wikibase_item": "Q41080383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817068,
+      "id": "Q19817068"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080383"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

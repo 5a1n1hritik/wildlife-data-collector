@@ -1,0 +1,26 @@
+{
+  "id": "myotis-annectans",
+  "name": "Hairy-faced bat",
+  "scientificName": "Myotis annectans",
+  "wikibase_item": "Q1829896",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829896",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-faced bat is a species of vesper bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Myotis_annectans_distribution.png",
+  "_score": 1
+}

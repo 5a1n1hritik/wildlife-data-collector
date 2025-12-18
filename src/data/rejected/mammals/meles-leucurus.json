@@ -1,0 +1,26 @@
+{
+  "id": "meles-leucurus",
+  "name": "Asian badger",
+  "scientificName": "Meles leucurus",
+  "wikibase_item": "Q728454",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1345042,
+      "id": "Q1345042"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q728454",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian badger, also known as the sand badger, is a species of badger native to Mongolia, China, Kazakhstan, Kyrgyzstan, the Korean Peninsula and Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Meles_leucurus_-_Kunming_Natural_History_Museum_of_Zoology_-_DSC02498.JPG",
+  "_score": 1
+}

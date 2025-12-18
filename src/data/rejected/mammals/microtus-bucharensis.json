@@ -1,0 +1,26 @@
+{
+  "id": "microtus-bucharensis",
+  "name": "Microtus bucharensis",
+  "scientificName": "Microtus bucharensis",
+  "wikibase_item": "Q99194681",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194681",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bucharian_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bucharian vole is a species of rodent in the family Cricetidae. It is found in Afghanistan, Tajikistan, Uzbekistan, and Turkmenistan. Its natural habitat is temperate desert.",
+  "image": null,
+  "_score": 1
+}

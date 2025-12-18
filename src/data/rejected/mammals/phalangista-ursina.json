@@ -1,0 +1,26 @@
+{
+  "id": "phalangista-ursina",
+  "name": "Phalangista ursina",
+  "scientificName": "Phalangista ursina",
+  "wikibase_item": "Q41166945",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156922,
+      "id": "Q41156922"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166945"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

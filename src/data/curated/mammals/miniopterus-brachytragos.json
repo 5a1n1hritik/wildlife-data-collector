@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-brachytragos",
+  "name": "Miniopterus brachytragos",
+  "scientificName": "Miniopterus brachytragos",
+  "wikibase_item": "Q11936833",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11936833",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_brachytragos"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus brachytragos is a bat in the genus Miniopterus that occurs in northern and western Madagascar. Populations of this species have historically been included in Miniopterus manavi, but molecular data published in 2008 and 2009 indicate this supposed species in fact consists of five separate species, including the newly described M. brachytragos. Up to four species of this group may occur in the same place. M. brachytragos has been found in dry and wet forests from sea level to 320 m (1,050 ft) altitude.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miniopterus_brachytragos_range.svg/500px-Miniopterus_brachytragos_range.svg.png"
+}

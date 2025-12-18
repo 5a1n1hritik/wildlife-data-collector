@@ -1,0 +1,26 @@
+{
+  "id": "aotus-jorgehernandezi",
+  "name": "Hernández-Camacho's night monkey",
+  "scientificName": "Aotus jorgehernandezi",
+  "wikibase_item": "Q1134351",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1134351",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1ndez-Camacho's_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hernández-Camacho's night monkey is a species of night monkey of the family Aotidae. It was first described in 2007 by Thomas Defler and Marta Bueno. It has a gray neck and a white patch over each eye, separated by a black band. The fur on the chest, belly, lower arms and lower wrists is thick and white. It differs from other gray-necked night monkey species other than Brumback's night monkey in having 50 chromosomes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hernandez-Camacho%27s_Night_Monkey_area.png",
+  "_score": 2
+}

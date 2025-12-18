@@ -1,0 +1,26 @@
+{
+  "id": "herpetarius-humilis",
+  "name": "Herpetarius humilis",
+  "scientificName": "Herpetarius humilis",
+  "wikibase_item": "Q11925519",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21369001,
+      "id": "Q21369001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11925519"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

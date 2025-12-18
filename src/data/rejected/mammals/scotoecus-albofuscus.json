@@ -1,0 +1,26 @@
+{
+  "id": "scotoecus-albofuscus",
+  "name": "Light-winged lesser house bat",
+  "scientificName": "Scotoecus albofuscus",
+  "wikibase_item": "Q1831944",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845860,
+      "id": "Q845860"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831944",
+    "wikipedia": "https://en.wikipedia.org/wiki/Light-winged_lesser_house_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The light-winged lesser house bat is a species of vesper bat. It can be found in Benin, Democratic Republic of the Congo, Ivory Coast, Gambia, Ghana, Kenya, Malawi, Mozambique, Nigeria, Senegal, Sierra Leone, South Africa, South Sudan, Tanzania, and Uganda. It is found in dry savanna.",
+  "image": null,
+  "_score": 0
+}

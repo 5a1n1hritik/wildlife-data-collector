@@ -1,0 +1,26 @@
+{
+  "id": "uropsilus-gracilis",
+  "name": "Gracile shrew mole",
+  "scientificName": "Uropsilus gracilis",
+  "wikibase_item": "Q1764388",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 867212,
+      "id": "Q867212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764388",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gracile_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gracile shrew mole is a species of mammal in the family Talpidae. It is endemic to China; populations known from Myanmar likely represent other species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gracile_Shrew_Mole_area.png",
+  "_score": 1
+}

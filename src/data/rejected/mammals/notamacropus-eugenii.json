@@ -1,0 +1,26 @@
+{
+  "id": "notamacropus-eugenii",
+  "name": "tammar wallaby",
+  "scientificName": "Notamacropus eugenii",
+  "wikibase_item": "Q109262318",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 108675804,
+      "id": "Q108675804"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109262318",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tammar_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tammar wallaby, also known as the dama wallaby or darma wallaby, is a small macropod native to South and Western Australia. Though its geographical range has been severely reduced since European colonisation, the tammar wallaby remains common within its reduced range and is listed as \"Least Concern\" by the International Union for Conservation of Nature (IUCN). It has been introduced to New Zealand and reintroduced to some areas of Australia where it had been previously extirpated. Skull variations differentiate between tammar wallabies from Western Australia, Kangaroo Island, and mainland South Australia, making them distinct population groups.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Macropus_eugenii.jpg",
+  "_score": 2
+}

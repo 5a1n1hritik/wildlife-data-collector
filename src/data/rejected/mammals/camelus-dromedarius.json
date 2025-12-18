@@ -1,0 +1,26 @@
+{
+  "id": "camelus-dromedarius",
+  "name": "Camelus dromedarius",
+  "scientificName": "Camelus dromedarius",
+  "wikibase_item": "Q71516",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7375,
+      "id": "Q7375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q71516",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dromedary"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dromedary, also known as the dromedary camel, Arabian camel and one-humped camel, is a large camel of the genus Camelus with one hump on its back. It is the tallest of the three camel species; adult males stand 1.8–2.4 m at the shoulder, while females are 1.7–1.9 m tall. Males typically weigh between 400 and 690 kg, and females weigh between 300 and 540 kg .\nThe dromedary's distinctive features include its long, curved neck, narrow chest, a single hump, and long hairs on the throat, shoulders, and hump. The coat is generally a shade of brown. The hump, 20 cm (7.9 in) tall or more, is made of fat bound together by fibrous tissue.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Camelus_dromedarius_in_Nuweiba.jpg",
+  "_score": 2
+}

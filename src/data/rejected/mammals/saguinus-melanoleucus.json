@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-melanoleucus",
+  "name": "White-mantled tamarin",
+  "scientificName": "Saguinus melanoleucus",
+  "wikibase_item": "Q1205801",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1205801",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-mantled_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-mantled tamarin, Leontocebus weddelli melanoleucus, is a subspecies of Weddell's saddle-back tamarin, a tamarin monkey from South America. It is found in Brazil, between Rio Jurua and Rio Tarauacá.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Saguinus_melanoleucus_1.jpg",
+  "_score": 1
+}

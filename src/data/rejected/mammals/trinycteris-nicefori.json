@@ -1,0 +1,26 @@
+{
+  "id": "trinycteris-nicefori",
+  "name": "Niceforo's Big-eared Bat",
+  "scientificName": "Trinycteris nicefori",
+  "wikibase_item": "Q209207",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10828091,
+      "id": "Q10828091"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209207",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niceforo's_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Niceforo's big-eared bat is a bat species from South and Central America, ranging from Chiapas to Bolivia and northeastern Brazil. Its habitat is primary and secondary forest at altitudes from sea level to 1000 m. It is crepuscular, being most active in the hour after sunset and before dawn. The species is monotypic within its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Trinycteris_nicefori.jpg",
+  "_score": 2
+}

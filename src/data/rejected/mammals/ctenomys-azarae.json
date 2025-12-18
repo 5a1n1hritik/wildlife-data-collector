@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-azarae",
+  "name": "Azara's tuco-tuco",
+  "scientificName": "Ctenomys azarae",
+  "wikibase_item": "Q1766898",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766898",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mendoza_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mendoza tuco-tuco is a species of rodent in the family Ctenomyidae.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "orycteropus-afer",
+  "name": "aardvark",
+  "scientificName": "Orycteropus afer",
+  "wikibase_item": "Q46212",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1975774,
+      "id": "Q1975774"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46212",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aardvark"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. The aardvark is the only living member of the genus Orycteropus, the family Orycteropodidae and the order Tubulidentata. It has a long proboscis, similar to a pig's snout, which is used to sniff out food.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Orycteropus_afer_175359469.jpg"
+}

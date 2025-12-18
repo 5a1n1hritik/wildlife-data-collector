@@ -1,0 +1,26 @@
+{
+  "id": "marmosa-paraguayana",
+  "name": "Marmosa paraguayana",
+  "scientificName": "Marmosa paraguayana",
+  "wikibase_item": "Q20829969",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20829969",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tate's_woolly_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tate's woolly mouse opossum is an omnivorous, arboreal South American marsupial of the family Didelphidae, named by American zoologist George Henry Hamilton Tate. It is native to Atlantic coastal forests of Brazil, Paraguay and Argentina. The species lives in both primary and secondary forest, including forest fragments within grassland. Insects are a major component of its diet. It was formerly assigned to the genus Micoureus, which was made a subgenus of Marmosa in 2009. While its conservation status is \"least concern\", its habitat is shrinking through urbanization and conversion to agriculture over much of its range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cu%C3%ADca_-_Marmosa_paraguayana.jpg",
+  "_score": 4
+}

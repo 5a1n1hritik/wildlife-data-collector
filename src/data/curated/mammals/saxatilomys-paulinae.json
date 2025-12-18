@@ -1,0 +1,25 @@
+{
+  "id": "saxatilomys-paulinae",
+  "name": "Saxatilomys paulinae",
+  "scientificName": "Saxatilomys paulinae",
+  "wikibase_item": "Q141405",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19947185,
+      "id": "Q19947185"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141405",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saxatilomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Saxatilomys paulinae, Paulina's limestone rat, is a species of murid rodent native to central Laos and Vietnam, separated to a monotypic genus Saxatilomys. It was first discovered in the Khammouan Limestone National Biodiversity Conservation Area in Khammouan Province, Laos, and also been found in the Vietnamese province of Quang Bình. It is the only known species in the genus Saxatilomys. The genus name is derived from the Latin saxatilis, meaning \"among the rocks\" and the Greek mys, meaning mouse or rat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Living_specimen_of_Saxatilomys_paulinae_-_oo_39952.jpg"
+}

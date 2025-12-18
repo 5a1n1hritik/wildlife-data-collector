@@ -1,0 +1,26 @@
+{
+  "id": "myotis-csorbai",
+  "name": "Csorba's mouse-eared bat",
+  "scientificName": "Myotis csorbai",
+  "wikibase_item": "Q1829334",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829334",
+    "wikipedia": "https://en.wikipedia.org/wiki/Csorba's_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Csorba's mouse-eared bat is a species of vesper bat. It is found only in Nepal.",
+  "image": null,
+  "_score": 0
+}

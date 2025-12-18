@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-mutesae",
+  "name": "Ugandan Musk Shrew",
+  "scientificName": "Crocidura mutesae",
+  "wikibase_item": "Q1765996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765996",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ugandan_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ugandan musk shrew is a species of mammal in the family Soricidae. It is found in Uganda, the Democratic Republic of Congo and the Central African Republic. Its range, population size and habits are poorly known.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ugandan_Musk_Shrew_area.png",
+  "_score": 1
+}

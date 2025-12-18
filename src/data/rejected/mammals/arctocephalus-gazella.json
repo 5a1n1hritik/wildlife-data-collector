@@ -1,0 +1,26 @@
+{
+  "id": "arctocephalus-gazella",
+  "name": "Antarctic fur seal",
+  "scientificName": "Arctocephalus gazella",
+  "wikibase_item": "Q571449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q571449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antarctic_fur_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Antarctic fur seal is one of eight seals in the genus Arctocephalus, and one of nine fur seals in the subfamily Arctocephalinae. Despite what its name suggests, the Antarctic fur seal is mostly distributed in Subantarctic islands and its scientific name is thought to have come from the German vessel SMS Gazelle, which was the first to collect specimens of this species from the Kerguelen Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Seeb%C3%A4r_%28Arctocephalus%29_01.jpg",
+  "_score": 2
+}

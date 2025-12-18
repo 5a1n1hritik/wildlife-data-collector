@@ -1,0 +1,26 @@
+{
+  "id": "arctocebus-calabarensis",
+  "name": "Calabar angwantibo",
+  "scientificName": "Arctocebus calabarensis",
+  "wikibase_item": "Q1153493",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1019157,
+      "id": "Q1019157"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1153493",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calabar_angwantibo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Calabar angwantibo, also known as the Calabar potto, is a strepsirrhine primate of the family Lorisidae. It shares the genus Arctocebus with the golden angwantibo. It is closely related to the potto and to the various lorises.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/ArctocebusCalabarensisWolf.jpg",
+  "_score": 1
+}

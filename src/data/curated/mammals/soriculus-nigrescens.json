@@ -1,0 +1,26 @@
+{
+  "id": "soriculus-nigrescens",
+  "name": "Soriculus nigrescens",
+  "scientificName": "Soriculus nigrescens",
+  "wikibase_item": "Q1637560",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10820244,
+      "id": "Q10820244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1637560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Himalayan_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Himalayan shrew is a species of shrew in the subfamily Soricinae and tribe Nectogalini. It is native to montane forest habitats in the southern Himalayas in Bhutan, China, India, Myanmar, and Nepal, ranging in altitude from 700 metres (2,300 ft) to 4,500 metres (14,800 ft). It is generally considered to be the only species in the genus Soriculus. The body size is relatively, large, the largest in Soriculus, at approximately 17.6 grams (0.62 oz). The fur colour varies from brown to black. The tail is relatively short, about half the length of the combined head and body. The forelimbs and their claws are relatively enlarged, suggesting fossorial (digging) habits for the species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Soriculus.png",
+  "_score": 3
+}

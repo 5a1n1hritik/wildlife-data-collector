@@ -1,0 +1,26 @@
+{
+  "id": "chrysospalax-villosus",
+  "name": "Rough-haired golden mole",
+  "scientificName": "Chrysospalax villosus",
+  "wikibase_item": "Q1769615",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593921,
+      "id": "Q593921"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769615",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rough-haired_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rough-haired golden mole is a species of mammal that live mostly below ground. They have shiny coats of dense fur and a streamlined, formless appearance. They have no visible eyes or ears; in fact, they are blind - the small eyes are covered with hairy skin. The ears are small and are hidden in the animal's fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chrysospalax_villosus_Smith_1849.jpg",
+  "_score": 1
+}

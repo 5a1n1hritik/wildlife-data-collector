@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-miya",
+  "name": "Sri Lankan Long-tailed Shrew",
+  "scientificName": "Crocidura miya",
+  "wikibase_item": "Q303047",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303047",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sri_Lankan_long-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sri Lankan long-tailed shrew is a species of mammal in the family Soricidae. It is endemic to Sri Lanka. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Crocidura_miya_Range_Map.png"
+}

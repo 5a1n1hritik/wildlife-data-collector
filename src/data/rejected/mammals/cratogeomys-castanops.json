@@ -1,0 +1,28 @@
+{
+  "id": "cratogeomys-castanops",
+  "name": "Yellow-faced pocket gopher",
+  "scientificName": "Cratogeomys castanops",
+  "wikibase_item": "Q921341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 869542,
+      "id": "Q869542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q921341",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-faced_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-faced pocket gopher is a species of pocket gopher that is native to shortgrass prairies in the south-western United States and northern Mexico. It is the species that lives north of the Southern Coahuila Filter-Barrier (SCFB). Among the different species, the yellow-faced pocket gopher has a small to medium-sized skull. The fossil of this genus was recorded from the pre-Pleistocene Benson Beds of Arizona.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Yellow_faced_gopher_peaking_his_head_out.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

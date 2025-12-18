@@ -1,0 +1,26 @@
+{
+  "id": "glossophaga-soricina",
+  "name": "Glossophaga soricina",
+  "scientificName": "Glossophaga soricina",
+  "wikibase_item": "Q304929",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571718,
+      "id": "Q1571718"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304929",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pallas's_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pallas's long-tongued bat is a South and Central American bat with a fast metabolism that feeds on nectar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pallas%27s_long-tongued_bat.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-medellinius",
+  "name": "Cryptotis medellinius",
+  "scientificName": "Cryptotis medellinius",
+  "wikibase_item": "Q41082683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082683",
+    "wikipedia": "https://en.wikipedia.org/wiki/Medell%C3%ADn_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Medellín small-eared shrew is a species of mammal in the family Soricidae. It is endemic to Colombia, where it is known from the northern parts of the Cordillera Occidental and Cordillera Central at elevations from 2,500 to 2,800 m. The species is found in montane forest and cultivated areas, and is subject to predation from the crab-eating fox. The specific name refers to the city of Medellín.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cryptotis_medellinia.jpg",
+  "_score": 2
+}

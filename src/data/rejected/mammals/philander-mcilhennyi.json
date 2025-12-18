@@ -1,0 +1,26 @@
+{
+  "id": "philander-mcilhennyi",
+  "name": "McIlhenny's four-eyed opossum",
+  "scientificName": "Philander mcilhennyi",
+  "wikibase_item": "Q194606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194606",
+    "wikipedia": "https://en.wikipedia.org/wiki/McIlhenny's_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "McIlhenny's four-eyed opossum is a South American species of opossum. Found in Brazil and Peru, it is almost entirely black, except for white spots above each eye.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mcilhenny%27s_Four-eyed_Opossum_area.png",
+  "_score": 1
+}

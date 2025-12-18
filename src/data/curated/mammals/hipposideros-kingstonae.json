@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-kingstonae",
+  "name": "Hipposideros kingstonae",
+  "scientificName": "Hipposideros kingstonae",
+  "wikibase_item": "Q118944881",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118944881",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hipposideros_kingstonae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hipposideros kingstonae is a species of bat in the family Hipposideridae. First described in 2023, it was named after Tigga Kingston in honor of her work for bat conversation in Southeast Asia. It is securely known from far southern Thailand, Peninsular Malaysia, and Sabah in northern Borneo. However, it is likely more widespread on Borneo and may also occur on the nearby island of Palawan in the Philippines. Based on mitochondrial DNA data, the species is most closely related to Hipposideros bicolor and Hipposideros kunzi. However, morphologically it resembles another closely related species, Hipposideros einnaythu from Myanmar. However, H. einnaythu is slightly larger and differs in details of the noseleaf and baculum.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hipposideros_kingstonae.jpg",
+  "_score": 3
+}

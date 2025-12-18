@@ -1,0 +1,26 @@
+{
+  "id": "saccolaimus-peli",
+  "name": "Pel's Pouched Bat",
+  "scientificName": "Saccolaimus peli",
+  "wikibase_item": "Q1830379",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2340679,
+      "id": "Q2340679"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830379",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pel's_pouched_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pel's pouched bat is a species of sac-winged bat in the family Emballonuridae. It is found in Angola, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Nigeria, and Uganda. Its natural habitats are subtropical and tropical forests. Its common names also include Giant Pouched Bat and Black-hawk Bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Saccolaimus_peli_photo.jpg",
+  "_score": 2
+}

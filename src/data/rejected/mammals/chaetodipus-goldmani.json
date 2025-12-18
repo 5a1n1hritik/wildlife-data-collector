@@ -1,0 +1,26 @@
+{
+  "id": "chaetodipus-goldmani",
+  "name": "Goldman's pocket mouse",
+  "scientificName": "Chaetodipus goldmani",
+  "wikibase_item": "Q167701",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167701",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldman's_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goldman's pocket mouse is a species of rodent in the family Heteromyidae. It is endemic to Mexico, where it is threatened by the increasing conversion of its dry, scrubby habitat into agricultural land. As a result, the International Union for Conservation of Nature has assessed its conservation status as being \"near threatened\".",
+  "image": null,
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-griseoventer",
+  "name": "Grey-bellied Dunnart",
+  "scientificName": "Sminthopsis griseoventer",
+  "wikibase_item": "Q134076",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134076",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey-bellied_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grey-bellied dunnart, alternately spelled gray-bellied dunnart, was described by Kitchener, Stoddart and Henry along with the Kangaroo Island dunnart, Gilbert's dunnart and little long-tailed dunnart in 1984. They also described the Mallee ningaui in 1983.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Grey-bellied_Dunnart_area.png",
+  "_score": 1
+}

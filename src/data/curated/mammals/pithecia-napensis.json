@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-napensis",
+  "name": "Pithecia napensis",
+  "scientificName": "Pithecia napensis",
+  "wikibase_item": "Q20721736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Napo_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Napo saki, also known as the Napo monk saki, is a species of saki monkey, a type of New World monkey. Its range includes parts of eastern Ecuador and northern Peru. The name is derived from the Napo River in its locality. This species was originally described by Lönnberg as the subspecies Pithecia monachus napensis and has been treated as a synonym of P. monachus monachus. Hershkovitz retained it under P. monachus in 1987, but it was raised to full species status in 2014.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pithecia_napensis_2.jpg"
+}

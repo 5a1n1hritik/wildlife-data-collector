@@ -1,0 +1,26 @@
+{
+  "id": "prionodon-linsang",
+  "name": "Prionodon linsang",
+  "scientificName": "Prionodon linsang",
+  "wikibase_item": "Q842799",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 847194,
+      "id": "Q847194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q842799",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banded_linsang"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banded linsang is a linsang, a tree-dwelling carnivorous mammal native to the Sundaic region of Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Prionodon_linsang_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02704.JPG",
+  "_score": 1
+}

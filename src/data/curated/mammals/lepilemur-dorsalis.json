@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-dorsalis",
+  "name": "Lepilemur dorsalis",
+  "scientificName": "Lepilemur dorsalis",
+  "wikibase_item": "Q1351289",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1351289",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-backed_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-backed sportive lemur, also known as Gray's sportive lemur or back-striped sportive lemur, is a species of lemur in the family Lepilemuridae. It is endemic to Madagascar. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lepilemur_dorsalis.jpg",
+  "_score": 3
+}

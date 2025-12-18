@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-majori",
+  "name": "Miniopterus majori",
+  "scientificName": "Miniopterus majori",
+  "wikibase_item": "Q2643265",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2643265",
+    "wikipedia": "https://en.wikipedia.org/wiki/Major's_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Major's long-fingered bat is a species of vesper bat in the family Miniopteridae. It is found only in Madagascar. It is similar to M. schreibersi of continental Africa, differing by having a shorter forearm, slightly longer digits and a narrow box-shaped skull. The pelage is often a greyish-brown colour, and the tragus is kidney-shaped and is a prominent feature. It is an insectivore and is viewed as a possible contributor to pest removal in Madagascar. The species was named in honour of Swiss zoologist C. I. Forsyth Major.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Miniopterus_majori_range_map.svg/2324px-Miniopterus_majori_range_map.svg.png",
+  "_score": 2
+}

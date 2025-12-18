@@ -1,0 +1,26 @@
+{
+  "id": "aethomys-nyikae",
+  "name": "Nyika Rock Rat",
+  "scientificName": "Aethomys nyikae",
+  "wikibase_item": "Q306680",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385933,
+      "id": "Q385933"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyika_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nyika rock rat is a species of rodent in the family Muridae\nfound in Angola, the Democratic Republic of the Congo, Malawi, and Zambia.\nIts natural habitat is subtropical or tropical dry forest.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "taphozous-perforatus",
+  "name": "Egyptian tomb bat",
+  "scientificName": "Taphozous perforatus",
+  "wikibase_item": "Q1833527",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833527",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egyptian_tomb_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Egyptian tomb bat is a species of sac-winged bat in the family Emballonuridae. It is a medium- to large-sized microbat with a mass of approximately 30 g (1.1 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Taphozous_perforatus.png",
+  "_score": 1
+}

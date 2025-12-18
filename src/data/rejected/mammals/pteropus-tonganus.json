@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-tonganus",
+  "name": "Pteropus tonganus",
+  "scientificName": "Pteropus tonganus",
+  "wikibase_item": "Q1766941",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766941",
+    "wikipedia": "https://en.wikipedia.org/wiki/Insular_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The insular flying fox or Pacific flying fox is a species of flying fox in the family Pteropodidae. It is geographically widespread, the most widespread flying fox in the Pacific: it is found in American Samoa, the Cook Islands, Fiji, New Caledonia, Niue, Papua New Guinea, Samoa, the Solomon Islands, Tonga, and Vanuatu.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Polynesian_flying_fox_%28Pteropus_tonganus%29_in_flight_Taveuni.jpg",
+  "_score": 1
+}

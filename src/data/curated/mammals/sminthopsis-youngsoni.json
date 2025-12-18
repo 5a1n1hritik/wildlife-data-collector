@@ -1,0 +1,25 @@
+{
+  "id": "sminthopsis-youngsoni",
+  "name": "lesser hairy-footed dunnart",
+  "scientificName": "Sminthopsis youngsoni",
+  "wikibase_item": "Q194155",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194155",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_hairy-footed_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser hairy-footed dunnart is a small carnivorous Australian marsupial of the family Dasyuridae. It is a widespread and fairly common species, being found in many desert areas of Western Australia, Northern Territory and Queensland. Its foraging strategies have been studied by Haythornthwaite and Dickman.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dunnart.JPG"
+}

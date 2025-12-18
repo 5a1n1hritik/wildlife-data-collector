@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-galeritus",
+  "name": "Hipposideros galeritus",
+  "scientificName": "Hipposideros galeritus",
+  "wikibase_item": "Q309010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cantor's_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cantor's roundleaf bat is a species of bat in the family Hipposideridae. It is found in Bangladesh, Brunei, Cambodia, India, Indonesia, Laos, Malaysia, Sri Lanka, Thailand and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cantor%27s_Leaf-nosed_bat_%28Hipposideros_galeritus%29.jpg",
+  "_score": 1
+}

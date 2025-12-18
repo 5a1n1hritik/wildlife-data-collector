@@ -1,0 +1,25 @@
+{
+  "id": "spilogale-yucatanensis",
+  "name": "Spilogale yucatanensis",
+  "scientificName": "Spilogale yucatanensis",
+  "wikibase_item": "Q115867490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1154492,
+      "id": "Q1154492"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115867490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spilogale_yucatanensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spilogale yucatanensis, the Yucatan spotted skunk, is a species of skunk native to the Yucatán Peninsula, it was originally classified as a subspecies of Southern spotted skunk, but is now elevated into a full species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Spilogale_yucatanensis_01.jpg"
+}

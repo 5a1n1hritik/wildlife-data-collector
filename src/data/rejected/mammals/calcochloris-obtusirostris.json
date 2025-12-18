@@ -1,0 +1,26 @@
+{
+  "id": "calcochloris-obtusirostris",
+  "name": "Yellow golden mole",
+  "scientificName": "Calcochloris obtusirostris",
+  "wikibase_item": "Q1768768",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20870033,
+      "id": "Q20870033"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768768",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow golden mole is a species of mammal in the family Chrysochloridae. It is found in Mozambique, South Africa, and Zimbabwe. The yellow golden mole's natural habitats are subtropical or tropical dry and moist lowland forests, savanna, arable land, pasture, plantations, and rural gardens.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calcochloris_obtusirostris_Peters_1852.jpg",
+  "_score": 2
+}

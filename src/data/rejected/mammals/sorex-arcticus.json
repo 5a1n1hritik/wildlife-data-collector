@@ -1,0 +1,26 @@
+{
+  "id": "sorex-arcticus",
+  "name": "Arctic shrew",
+  "scientificName": "Sorex arcticus",
+  "wikibase_item": "Q1763695",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763695",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arctic_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arctic shrew, also known as the blackback shrew or saddlebacked shrew, is a medium-sized shrew found in Canada and the northern United States. Separate species status has been proposed for the maritime shrew which is found in New Brunswick and Nova Scotia and had been considered to be a subspecies of the Arctic shrew. The tundra shrew was formerly considered to be a subspecies of the Arctic shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sorex_arcticus.jpg",
+  "_score": 2
+}

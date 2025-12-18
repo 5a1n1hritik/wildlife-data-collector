@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-bobrinskoi",
+  "name": "Bobrinski's serotine",
+  "scientificName": "Eptesicus bobrinskoi",
+  "wikibase_item": "Q1834625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834625",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobrinski's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bobrinski's serotine is a species of vesper bat. It can be found in Iran and Kazakhstan.",
+  "image": null,
+  "_score": 0
+}

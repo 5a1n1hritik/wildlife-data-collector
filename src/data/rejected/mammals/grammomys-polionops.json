@@ -1,0 +1,26 @@
+{
+  "id": "grammomys-polionops",
+  "name": "Grammomys polionops",
+  "scientificName": "Grammomys polionops",
+  "wikibase_item": "Q128051718",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128051718"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

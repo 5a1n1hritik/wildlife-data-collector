@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-beccarii",
+  "name": "Beccari's shrew",
+  "scientificName": "Crocidura beccarii",
+  "wikibase_item": "Q305591",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305591",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beccari's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Beccari's shrew is a species of mammal in the family Soricidae. It is found in the Barisan Mountains of Sumatra.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Beccari%27s_Shrew_area.png",
+  "_score": 1
+}

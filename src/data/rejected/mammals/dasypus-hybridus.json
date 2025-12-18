@@ -1,0 +1,26 @@
+{
+  "id": "dasypus-hybridus",
+  "name": "southern long-nosed armadillo",
+  "scientificName": "Dasypus hybridus",
+  "wikibase_item": "Q1767476",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767476",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_long-nosed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern long-nosed armadillo is a species of armadillo native to South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Dasypus_hybridus_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03055.JPG",
+  "_score": 1
+}

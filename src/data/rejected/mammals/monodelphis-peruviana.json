@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-peruviana",
+  "name": "Peruvian short-tailed opossum",
+  "scientificName": "Monodelphis peruviana",
+  "wikibase_item": "Q81851707",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81851707",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_short-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peruvian short-tailed opossum is a species of marsupial in the family Didelphidae.It is found in Bolivia and Peru.",
+  "image": null,
+  "_score": 0
+}

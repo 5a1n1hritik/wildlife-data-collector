@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-aruensis",
+  "name": "Pteropus aruensis",
+  "scientificName": "Pteropus aruensis",
+  "wikibase_item": "Q135144",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135144",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aru_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Aru flying fox is a Critically Endangered species of megabat found in the Aru Islands in Indonesia. It was described by Wilhelm Peters in 1867. It was formerly considered a subspecies of the black-bearded flying fox. The species is poorly known, and has not been encountered since the 19th century. It is classified as critically endangered by the IUCN and is listed on CITES appendix II.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pteropus_aruensis.jpg",
+  "_score": 1
+}

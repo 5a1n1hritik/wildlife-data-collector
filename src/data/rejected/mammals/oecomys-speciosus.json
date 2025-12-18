@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-speciosus",
+  "name": "Oecomys speciosus",
+  "scientificName": "Oecomys speciosus",
+  "wikibase_item": "Q1770142",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770142",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_speciosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys speciosus, also known as the savannah oecomys, arboreal rice rat, or Venezuelan arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It ranges over northeastern Colombia and much of Venezuela, including the island of Trinidad. This rodent lives in tropical rainforest and tropical dry forest, including secondary forest and gallery forest, as well as in savanna habitat.",
+  "image": null,
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rhynchocyon-chrysopygus",
+  "name": "Golden-rumped elephant shrew",
+  "scientificName": "Rhynchocyon chrysopygus",
+  "wikibase_item": "Q1333257",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1333257",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-rumped_sengi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-rumped sengi is a small African mammal. It is the largest species of the elephant shrew family along with its close relative the grey-faced sengi. It is classified as endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Rhynchocyon_chrysopygus-J_Smit_2.jpg",
+  "_score": 1
+}

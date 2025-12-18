@@ -1,0 +1,26 @@
+{
+  "id": "alouatta-seniculus",
+  "name": "Venezuelan red howler",
+  "scientificName": "Alouatta seniculus",
+  "wikibase_item": "Q583362",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q583362",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colombian_red_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Colombian red howler or Venezuelan red howler is a South American species of howler monkey, a type of New World monkey, found in the western Amazon Basin in Venezuela, Colombia, Ecuador, Peru and Brazil. The population in the Santa Cruz Department in Bolivia was split off as a separate species, the Bolivian red howler, in 1986, and more recently, splitting off the population in northeastern South America and Trinidad as the Guyanan red howler has occurred. All howler monkeys belong to the family Atelidae and the infraorder Platyrrhini.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Alouatta_seniculus_Sorocaba.JPG",
+  "_score": 2
+}

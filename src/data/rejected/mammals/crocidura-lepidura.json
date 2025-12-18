@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-lepidura",
+  "name": "Sumatran giant shrew",
+  "scientificName": "Crocidura lepidura",
+  "wikibase_item": "Q1770025",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770025",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumatran_giant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sumatran giant shrew is a shrew of the genus Crocidura. It is native to the Indonesian island of Sumatra, where it is found both in the rainforests to the west of the island and in the hillsides in the south and east. The shrew can be found up to approximately 2,000 metres (6,600 ft) above sea level but is most common at 1,500–1,800 metres (4,900–5,900 ft) above sea level.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sumatran_Giant_Shrew_area.png",
+  "_score": 1
+}

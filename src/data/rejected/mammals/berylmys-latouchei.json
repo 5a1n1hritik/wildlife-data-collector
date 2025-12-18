@@ -1,0 +1,26 @@
+{
+  "id": "berylmys-latouchei",
+  "name": "Berylmys latouchei",
+  "scientificName": "Berylmys latouchei",
+  "wikibase_item": "Q125218753",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 793842,
+      "id": "Q793842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125218753"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

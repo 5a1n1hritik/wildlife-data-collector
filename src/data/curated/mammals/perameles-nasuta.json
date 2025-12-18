@@ -1,0 +1,25 @@
+{
+  "id": "perameles-nasuta",
+  "name": "long-nosed bandicoot",
+  "scientificName": "Perameles nasuta",
+  "wikibase_item": "Q194268",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207399,
+      "id": "Q1207399"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194268",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed bandicoot, a marsupial, is a species of bandicoot found in eastern Australia, from north Queensland along the east coast to Victoria. Around 40 centimetres (16 in) long, it is sandy- or grey-brown with a long snouty nose. Omnivorous, it forages for invertebrates, fungi and plants at night.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Long-nosed_Bandicoot_0059.jpg"
+}

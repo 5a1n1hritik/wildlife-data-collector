@@ -1,0 +1,26 @@
+{
+  "id": "heliophoca-atlantica",
+  "name": "Heliophoca atlantica",
+  "scientificName": "Heliophoca atlantica",
+  "wikibase_item": "Q41165151",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41154162,
+      "id": "Q41154162"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165151"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

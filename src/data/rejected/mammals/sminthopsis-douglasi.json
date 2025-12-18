@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-douglasi",
+  "name": "Julia Creek Dunnart",
+  "scientificName": "Sminthopsis douglasi",
+  "wikibase_item": "Q133348",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133348",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Creek_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Julia Creek dunnart is a marsupial with a buffy brown upperside and white underside. This dunnart has a body length of 100–135 mm with a tail of 60–105 mm to make a total length of 160–240 mm. Its weight is between 40 and 70 g. The length of the hind foot is 22–24 mm. The species has a dark brown triangle colour from above and below the eye with the point at the nose, and another dark stripe on top of the skull. A healthy dunnart has a carrot-shaped tail filled with fat stores.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Julia_Creek_Dunnart_area.png",
+  "_score": 2
+}

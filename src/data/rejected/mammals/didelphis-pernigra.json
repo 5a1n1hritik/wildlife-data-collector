@@ -1,0 +1,26 @@
+{
+  "id": "didelphis-pernigra",
+  "name": "Andean white-eared opossum",
+  "scientificName": "Didelphis pernigra",
+  "wikibase_item": "Q194241",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194241",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_white-eared_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andean white-eared opossum is an opossum species from South America. It is found in the Andes Mountains, ranging from Venezuela to Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Didelphis_pernigra_29825860_1.jpg",
+  "_score": 1
+}

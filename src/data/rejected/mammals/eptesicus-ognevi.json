@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-ognevi",
+  "name": "Eptesicus ognevi",
+  "scientificName": "Eptesicus ognevi",
+  "wikibase_item": "Q41083076",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083076",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ognev's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ognev's serotine is a species of vesper bat found in western and central Asia.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "praomys-daltoni",
+  "name": "Dalton's mouse",
+  "scientificName": "Praomys daltoni",
+  "wikibase_item": "Q1763189",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763189",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dalton's_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dalton's mouse or Dalton's praomys is a species of rodent in the family Muridae.\nIt is found in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Ivory Coast, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Sudan, and Togo.\nIts natural habitats are dry savanna, rocky areas, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Praomys_daltoni.jpeg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-sclateri",
+  "name": "Sclater's Mouse Shrew",
+  "scientificName": "Myosorex sclateri",
+  "wikibase_item": "Q1770042",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770042",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sclater's_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sclater's mouse shrew is a species of mammal in the family Soricidae endemic to South Africa. Its natural habitats are subtropical or tropical moist lowland forests and swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sclater%27s_Mouse_Shrew_area.png",
+  "_score": 2
+}

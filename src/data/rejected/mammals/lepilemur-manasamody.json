@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-manasamody",
+  "name": "Lepilemur manasamody",
+  "scientificName": "Lepilemur manasamody",
+  "wikibase_item": "Q5572366",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5572366",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grewcock's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grewcock's sportive lemur, or the Anjiamangirana sportive lemur, is a sportive lemur endemic to Madagascar. It is a medium-sized sportive lemurs with a total length of about 55 to 63 cm, of which 26–30 cm (10–12 in) are tail. Grewcock's sportive lemur is found in northwestern Madagascar, living in dry deciduous forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lepilemur_grewcockorum_range_map.svg/960px-Lepilemur_grewcockorum_range_map.svg.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-dicei",
+  "name": "Dice's cottontail",
+  "scientificName": "Sylvilagus dicei",
+  "wikibase_item": "Q1209386",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1209386",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dice's_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dice's cottontail is a species of cottontail rabbit that is native to the Cordillera de Talamanca mountain range in Costa Rica and Panama. It is a large cottontail rabbit with black and brown fur, dull white undersides, a brown patch of fur on its throat and a small, barely visible black tail. It is found at elevations up to 3,800 metres (12,500 ft) and resides in páramo grasslands and cloud forest habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sylvilagus_dicei_range.svg/500px-Sylvilagus_dicei_range.svg.png",
+  "_score": 3
+}

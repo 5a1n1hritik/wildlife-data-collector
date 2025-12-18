@@ -1,0 +1,25 @@
+{
+  "id": "rheomys-raptor",
+  "name": "Goldman's water mouse",
+  "scientificName": "Rheomys raptor",
+  "wikibase_item": "Q1767324",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766211,
+      "id": "Q766211"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767324",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldman's_water_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rheomys raptor, also known as the Goldman's water mouse or Goldman's Ichthyomyine, is a species of rodent in the family Cricetidae. This mouse is semiaquatic and its carnivorous diet includes invertebrates. The conservation status of the species is rated as \"least concern\" because of its sizable population and the presence of several protected areas within its range. However, deforestation and water pollution represent potential threats.",
+  "image": null
+}

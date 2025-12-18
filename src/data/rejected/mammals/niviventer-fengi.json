@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-fengi",
+  "name": "Niviventer fengi",
+  "scientificName": "Niviventer fengi",
+  "wikibase_item": "Q106394580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106394580"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

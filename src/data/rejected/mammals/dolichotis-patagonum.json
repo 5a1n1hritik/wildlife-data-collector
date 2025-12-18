@@ -1,0 +1,26 @@
+{
+  "id": "dolichotis-patagonum",
+  "name": "Patagonian mara",
+  "scientificName": "Dolichotis patagonum",
+  "wikibase_item": "Q194313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 838738,
+      "id": "Q838738"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194313",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patagonian_mara"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Patagonian mara is a relatively large rodent in the mara genus Dolichotis. It is also known as the Patagonian cavy or Patagonian hare. This herbivorous, somewhat rabbit-like animal is found in open and semiopen habitats in Argentina, including large parts of Patagonia. It is monogamous, but often breeds in warrens shared by several pairs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dolichotis_patagonum_99386074.jpg",
+  "_score": 2
+}

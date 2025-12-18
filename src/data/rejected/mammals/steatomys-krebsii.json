@@ -1,0 +1,26 @@
+{
+  "id": "steatomys-krebsii",
+  "name": "Steatomys krebsii",
+  "scientificName": "Steatomys krebsii",
+  "wikibase_item": "Q1767105",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 513141,
+      "id": "Q513141"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767105",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krebs's_fat_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Krebs's fat mouse is a species of rodent in the family Nesomyidae.\nIt is found in Angola, Botswana, Lesotho, Namibia, South Africa, and Zambia.\nIts natural habitats are Mediterranean-type shrubby vegetation and subtropical or tropical high-altitude grassland. Its name honours Georg Ludwig Engelhard Krebs (1792–1844), a German natural history collector in South Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Steatomys_krebsii_krebsii_15204345.jpg",
+  "_score": 2
+}

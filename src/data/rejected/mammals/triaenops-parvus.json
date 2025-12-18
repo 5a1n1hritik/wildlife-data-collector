@@ -1,0 +1,26 @@
+{
+  "id": "triaenops-parvus",
+  "name": "Triaenops parvus",
+  "scientificName": "Triaenops parvus",
+  "wikibase_item": "Q10384545",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 649924,
+      "id": "Q649924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10384545",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yemeni_trident_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yemeni trident leaf-nosed bat is a species of bat found in the Middle East.",
+  "image": null,
+  "_score": 0
+}

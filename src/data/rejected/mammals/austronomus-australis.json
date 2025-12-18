@@ -1,0 +1,26 @@
+{
+  "id": "austronomus-australis",
+  "name": "Austronomus australis",
+  "scientificName": "Austronomus australis",
+  "wikibase_item": "Q28154994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28154971,
+      "id": "Q28154971"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28154994",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-striped_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-striped free-tailed bat is a species of bat in the family Molossidae. Its echolocation calls are audible to humans, which is a characteristic found in only a few microbat species.\nThe species was formerly classified as Tadarida australis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/A._australis.jpg",
+  "_score": 2
+}

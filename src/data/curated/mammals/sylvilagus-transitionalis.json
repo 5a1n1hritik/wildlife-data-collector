@@ -1,0 +1,25 @@
+{
+  "id": "sylvilagus-transitionalis",
+  "name": "New England cottontail",
+  "scientificName": "Sylvilagus transitionalis",
+  "wikibase_item": "Q404566",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875386,
+      "id": "Q20875386"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q404566",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_England_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New England cottontail, also known as the gray rabbit, brush rabbit, wood hare, wood rabbit, or cooney, is a species of cottontail rabbit that appears in fragmented populations across New England and the state of New York, specifically from southern Maine to southern New York. This species bears a close resemblance to the eastern cottontail, which has been introduced in much of the New England cottontail home range. The eastern cottontail is now more common in it.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sylvilagus_transitionalis_%2821315229532%29.jpg"
+}

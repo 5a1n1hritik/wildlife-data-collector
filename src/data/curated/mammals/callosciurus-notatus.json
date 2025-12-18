@@ -1,0 +1,25 @@
+{
+  "id": "callosciurus-notatus",
+  "name": "plantain squirrel",
+  "scientificName": "Callosciurus notatus",
+  "wikibase_item": "Q860705",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q860705",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plantain_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plantain squirrel, oriental squirrel or tricoloured squirrel is a species of rodent in the family Sciuridae found in Indonesia, Malaysia, Singapore, and Thailand in a wide range of habitats: forests, mangroves, parks, gardens, and agricultural areas. Fruit farmers consider them to be pests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Squirrel--Bukit-Timah.jpg"
+}

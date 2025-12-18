@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-lynni",
+  "name": "Eptesicus lynni",
+  "scientificName": "Eptesicus lynni",
+  "wikibase_item": "Q2235886",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2235886",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big brown bat is a species of vesper bat distributed widely throughout North America, the Caribbean, and the northern portion of South America. It was first described as a species in 1796. Compared to other microbats, the big brown bat is relatively large, weighing 15–26 g (0.53–0.92 oz) and possessing a wingspan of 32.5–35 cm (12.8–13.8 in).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Big_brown_bat_crawl.png",
+  "_score": 1
+}

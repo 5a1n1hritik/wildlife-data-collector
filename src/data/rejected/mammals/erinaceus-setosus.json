@@ -1,0 +1,26 @@
+{
+  "id": "erinaceus-setosus",
+  "name": "Erinaceus setosus",
+  "scientificName": "Erinaceus setosus",
+  "wikibase_item": "Q109647285",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498993,
+      "id": "Q498993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647285"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

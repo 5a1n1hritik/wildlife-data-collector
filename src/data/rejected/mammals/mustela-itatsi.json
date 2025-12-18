@@ -1,0 +1,26 @@
+{
+  "id": "mustela-itatsi",
+  "name": "Mustela itatsi",
+  "scientificName": "Mustela itatsi",
+  "wikibase_item": "Q628006",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q628006",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese weasel is a carnivorous mammal belonging to the genus Mustela in the family Mustelidae. The most closely related Mustela species is the Siberian weasel. Its taxonomic species name, itatsi, is based on the Japanese word for weasel, itachi (イタチ). It is native to Japan where it occurs on the islands of Honshū, Kyūshū and Shikoku. It has been introduced to Hokkaidō and the Ryukyu Islands to control rodents and has also been introduced to Sakhalin Island in Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mustela_itatsi_on_tree.JPG",
+  "_score": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lepus-melainus",
+  "name": "Lepus melainus",
+  "scientificName": "Lepus melainus",
+  "wikibase_item": "Q10869652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10869652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manchurian_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Manchurian hare is a species of mammal in the family Leporidae found in northeastern China and Russia, the Amur River basin, and possibly the mountains of northern North Korea. In contrast to other hares, it lives in forests and takes to closed shelters to rest and escape predators. It is similar in appearance to and was once considered a subspecies of the Japanese hare, but its closest genetic relatives are the Korean and Cape hares.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lepus_mandshuricus_392996439.jpg"
+}

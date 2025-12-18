@@ -1,0 +1,25 @@
+{
+  "id": "phascogale-pirata",
+  "name": "Phascogale pirata",
+  "scientificName": "Phascogale pirata",
+  "wikibase_item": "Q5461839",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754387,
+      "id": "Q1754387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5461839",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_brush-tailed_phascogale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern brush-tailed phascogale, also known as the northern brush-tailed wambenger or northern brush-tailed mousesack is a species of marsupial in the family Dasyuridae. It is endemic to northern Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Common_Wambenger_area.png"
+}

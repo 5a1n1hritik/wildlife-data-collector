@@ -1,0 +1,26 @@
+{
+  "id": "sorex-daphaenodon",
+  "name": "Siberian Large-toothed Shrew",
+  "scientificName": "Sorex daphaenodon",
+  "wikibase_item": "Q1762750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siberian_large-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Siberian large-toothed shrew is a species of shrew. An adult Siberian large-toothed shrew has a weight of 4.6–6.0 g (0.16–0.21 oz) and a body length of 5.5–6.4 cm (2.2–2.5 in), with a tail of 2.4–3.8 cm (0.94–1.50 in). This species is found across Northeast Asia, from Mongolia through northeastern China to the Russian Far East and the Paektusan region of North Korea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Siberian_Large-toothed_Shrew_area.png",
+  "_score": 1
+}

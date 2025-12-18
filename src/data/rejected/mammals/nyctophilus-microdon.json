@@ -1,0 +1,26 @@
+{
+  "id": "nyctophilus-microdon",
+  "name": "Nyctophilus microdon",
+  "scientificName": "Nyctophilus microdon",
+  "wikibase_item": "Q139391",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139391",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small-toothed_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small-toothed long-eared bat is a species of vespertilionid bat found only in Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Distribution_of_Nyctophilus_microdon.png",
+  "_score": 1
+}

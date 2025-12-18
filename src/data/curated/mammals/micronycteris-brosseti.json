@@ -1,0 +1,25 @@
+{
+  "id": "micronycteris-brosseti",
+  "name": "Brosset's big-eared bat",
+  "scientificName": "Micronycteris brosseti",
+  "wikibase_item": "Q1814604",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703183,
+      "id": "Q2703183"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1814604",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brosset's_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brosset's big-eared bat is a bat species found in Brazil, French Guiana, Guyana and Peru. It feeds on insects and sometimes fruit and the exact population is unknown. The only listed threat is deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Distribution_of_Micronycteris_brosseti.png"
+}

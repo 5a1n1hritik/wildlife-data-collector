@@ -1,0 +1,26 @@
+{
+  "id": "melomys-mayeri",
+  "name": "Melomys mayeri",
+  "scientificName": "Melomys mayeri",
+  "wikibase_item": "Q41005299",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41005299"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

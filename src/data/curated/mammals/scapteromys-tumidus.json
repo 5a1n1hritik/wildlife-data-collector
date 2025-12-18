@@ -1,0 +1,25 @@
+{
+  "id": "scapteromys-tumidus",
+  "name": "Waterhouse's swamp rat",
+  "scientificName": "Scapteromys tumidus",
+  "wikibase_item": "Q1764196",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139896,
+      "id": "Q139896"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764196",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waterhouse's_swamp_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Waterhouse's swamp rat is a semiaquatic rodent species from South America. It is found in southern Brazil, Uruguay and northern Argentina, where it lives in freshwater and salt marshes, as well as open grassland of the pampas. Its karyotype has 2n = 24, substantially lower than its closest relative S. aquaticus with 2n = 32.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/The_zoology_of_the_voyage_of_H.M.S._Beagle_%28Pl._18%29_BHL40299907_%28cropped%29.jpg"
+}

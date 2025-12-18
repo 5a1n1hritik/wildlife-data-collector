@@ -1,0 +1,26 @@
+{
+  "id": "microgale-drouhardi",
+  "name": "Drouhard's shrew tenrec",
+  "scientificName": "Microgale drouhardi",
+  "wikibase_item": "Q2252437",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2252437",
+    "wikipedia": "https://en.wikipedia.org/wiki/Drouhard's_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Drouhard's shrew tenrec, also known as the striped shrew tenrec, is a species of mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitats are subtropical and tropical moist lowland and montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Microgale_drouhardi_range_map.svg/2324px-Microgale_drouhardi_range_map.svg.png",
+  "_score": 2
+}

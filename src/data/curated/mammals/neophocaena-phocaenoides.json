@@ -1,0 +1,25 @@
+{
+  "id": "neophocaena-phocaenoides",
+  "name": "finless porpoise",
+  "scientificName": "Neophocaena phocaenoides",
+  "wikibase_item": "Q322138",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10798086,
+      "id": "Q10798086"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q322138",
+    "wikipedia": "https://en.wikipedia.org/wiki/Finless_porpoise"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neophocaena is a genus of porpoise native to the Indian and Pacific oceans, as well as the freshwater habitats of the Yangtze River basin in China. They are commonly known as finless porpoises. Genetic studies indicate that Neophocaena is the most basal living member of the porpoise family.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Neophocaena_phocaenoides_-Miyajima_Aquarium_-Japan-8a.jpg"
+}

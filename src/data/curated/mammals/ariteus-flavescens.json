@@ -1,0 +1,25 @@
+{
+  "id": "ariteus-flavescens",
+  "name": "Jamaican fig-eating bat",
+  "scientificName": "Ariteus flavescens",
+  "wikibase_item": "Q136103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10735218,
+      "id": "Q10735218"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamaican_fig-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Jamaican fig-eating bat is a species of bat in the family Phyllostomidae. It is the only living species in the genus Ariteus. The scientific name translates as \"yellowish and warlike\". There are no recognised subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jamaican_fig-eating_bat_imported_from_iNaturalist_photo_176988156_on_14_February_2024.jpg"
+}

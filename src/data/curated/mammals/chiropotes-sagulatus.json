@@ -1,0 +1,25 @@
+{
+  "id": "chiropotes-sagulatus",
+  "name": "Chiropotes sagulatus",
+  "scientificName": "Chiropotes sagulatus",
+  "wikibase_item": "Q20721793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 809594,
+      "id": "Q809594"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reddish-brown_bearded_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The reddish-brown bearded saki is a species of bearded saki, a type of New World monkey, endemic to Brazil, French Guiana, Guyana, and Suriname. The IUCN notes that this is possibly a synonym for Chiropotes israelita, though the two populations of sakis may be distinct species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chiropotes_sagulatus_%28Chiropotes_chiropotes%29.jpg"
+}

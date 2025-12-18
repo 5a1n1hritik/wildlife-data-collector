@@ -1,0 +1,26 @@
+{
+  "id": "myoprocta-pratti",
+  "name": "Myoprocta pratti",
+  "scientificName": "Myoprocta pratti",
+  "wikibase_item": "Q9047564",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 342190,
+      "id": "Q342190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9047564",
+    "wikipedia": "https://en.wikipedia.org/wiki/Green_acouchi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The green acouchi is a species of rodent in the acouchi genus, part of the family Dasyproctidae. It is found in western Amazonia, west of the Rios Negro and Madeira, in northwestern Brazil, northeastern Peru, eastern Ecuador, southeastern Colombia, and southern Venezuela. There is substantial variation within this range, and the Green Acouchi, as currently recognized, may contain more than one species. Because the application of the scientific name acouchy, currently in use for the Red Acouchi, has historically been disputed, the name Myoprocta acouchy has sometimes been used for this species instead of Myoprocta pratti. The species is named for Antwerp Edgar Pratt who was a British naturalist.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/2019-03-03_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Myoprocta_pratti_%2851586282875%29.jpg",
+  "_score": 3
+}

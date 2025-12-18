@@ -1,0 +1,26 @@
+{
+  "id": "murina-balaensis",
+  "name": "Murina balaensis",
+  "scientificName": "Murina balaensis",
+  "wikibase_item": "Q17343316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17343316",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bala_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bala tube-nosed bat is a critically endangered species of bat found in Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Distribution_of_Murina_balaensis.png",
+  "_score": 1
+}

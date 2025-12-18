@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-nigrofusca",
+  "name": "African black shrew",
+  "scientificName": "Crocidura nigrofusca",
+  "wikibase_item": "Q1768346",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768346",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_black_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African black shrew is a species of shrew. It is native to Africa, where it is widespread. Other common names include tenebrous shrew. This shrew can be found in several types of lower-elevation moist tropical forest habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/African_Black_Shrew_area.png",
+  "_score": 2
+}

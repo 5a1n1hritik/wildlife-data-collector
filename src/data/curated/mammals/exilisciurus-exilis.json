@@ -1,0 +1,25 @@
+{
+  "id": "exilisciurus-exilis",
+  "name": "Least pygmy squirrel",
+  "scientificName": "Exilisciurus exilis",
+  "wikibase_item": "Q308780",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 728429,
+      "id": "Q728429"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308780",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_pygmy_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least pygmy squirrel, also known as the plain pygmy squirrel, is a species of rodent in the family Sciuridae. This plain olive-brown squirrel is endemic to forests, mostly below an altitude of 750 m (2,500 ft) but locally significantly higher, on the Southeast Asian islands of Borneo, Sumatra and Banggi. Together with the African pygmy squirrel, the least pygmy squirrel is the smallest squirrel in the world, having a total length of 10–14 cm (3.9–5.5 in) and a weight of 12–26 g (0.42–0.92 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Plain_pygmy-squirrel_%28Exilisciurus_exilis%29%2C_Sabah%2C_Borneo%2C_Malaysia.jpg"
+}

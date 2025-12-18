@@ -1,0 +1,26 @@
+{
+  "id": "micronycteris-microtis",
+  "name": "Micronycteris microtis",
+  "scientificName": "Micronycteris microtis",
+  "wikibase_item": "Q727367",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703183,
+      "id": "Q2703183"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q727367",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common big-eared bat is a bat species from South and Central America. It is a member of the family Phyllostomidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Micronycteris_microtis.png",
+  "_score": 1
+}

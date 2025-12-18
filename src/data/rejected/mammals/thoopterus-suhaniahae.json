@@ -1,0 +1,26 @@
+{
+  "id": "thoopterus-suhaniahae",
+  "name": "Thoopterus suhaniahae",
+  "scientificName": "Thoopterus suhaniahae",
+  "wikibase_item": "Q3990765",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10825311,
+      "id": "Q10825311"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3990765",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suhaniah_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Suhaniah fruit bat is a species of megabat in the family Pteropodidae. It is native to Indonesia and was described in 2012.",
+  "image": null,
+  "_score": 0
+}

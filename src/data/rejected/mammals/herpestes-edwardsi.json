@@ -1,0 +1,26 @@
+{
+  "id": "herpestes-edwardsi",
+  "name": "Indian grey mongoose",
+  "scientificName": "Herpestes edwardsii",
+  "wikibase_item": "Q613760",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q613760",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_grey_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian grey mongoose or Asian grey mongoose is a mongoose species native to the Indian subcontinent and West Asia. It is listed as least concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Herpestes_edwardsii_at_Hyderaba.jpg",
+  "_score": 1
+}

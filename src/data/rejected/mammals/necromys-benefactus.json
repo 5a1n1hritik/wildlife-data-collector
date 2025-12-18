@@ -1,0 +1,26 @@
+{
+  "id": "necromys-benefactus",
+  "name": "Argentine bolo mouse",
+  "scientificName": "Necromys benefactus",
+  "wikibase_item": "Q1768428",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768428",
+    "wikipedia": "https://en.wikipedia.org/wiki/Argentine_bolo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Argentine bolo mouse is a species of rodent in the family Cricetidae. It is endemic to central Argentina, where it is found in the pampas and the drier espinal.",
+  "image": null,
+  "_score": 0
+}

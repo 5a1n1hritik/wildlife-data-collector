@@ -1,0 +1,26 @@
+{
+  "id": "casinycteris-argynnis",
+  "name": "Casinycteris argynnis",
+  "scientificName": "Casinycteris argynnis",
+  "wikibase_item": "Q2140268",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 301847,
+      "id": "Q301847"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2140268",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-palated_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-palated fruit bat is a species of frugivorous megabat in the family Pteropodidae. It is found in Cameroon, Central African Republic, and Democratic Republic of the Congo. Its natural habitat is subtropical or tropical moist lowland forests. Births occur in May.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Short-palated_Fruit_Bat_area.png",
+  "_score": 2
+}

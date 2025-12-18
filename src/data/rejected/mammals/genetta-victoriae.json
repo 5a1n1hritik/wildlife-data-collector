@@ -1,0 +1,26 @@
+{
+  "id": "genetta-victoriae",
+  "name": "giant forest genet",
+  "scientificName": "Genetta victoriae",
+  "wikibase_item": "Q41133",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41133",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_forest_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant forest genet, also known as the giant genet, is a genet species endemic to the Congo Basin. As it is considered as widely distributed and common, it is listed as Least Concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/GenettaVictoriaeSmit.jpg",
+  "_score": 1
+}

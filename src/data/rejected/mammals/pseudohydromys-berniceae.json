@@ -1,0 +1,26 @@
+{
+  "id": "pseudohydromys-berniceae",
+  "name": "Pseudohydromys berniceae",
+  "scientificName": "Pseudohydromys berniceae",
+  "wikibase_item": "Q3924890",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311292,
+      "id": "Q311292"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924890",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bishop's_moss_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bishop's moss mouse is a species of mouse belonging to the family Muridae that is endemic to Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

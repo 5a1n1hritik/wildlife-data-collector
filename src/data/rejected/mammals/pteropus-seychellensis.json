@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-seychellensis",
+  "name": "Pteropus seychellensis",
+  "scientificName": "Pteropus seychellensis",
+  "wikibase_item": "Q18928",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18928",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seychelles_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Seychelles fruit bat or Seychelles flying fox is a megabat found on the granitic islands of Seychelles, and on the Comoros and Mafia Island. It is a significant component of the ecosystems for the islands, dispersing the seeds of many tree species. Although it is hunted for meat on some islands, it remains abundant. It is particularly common on Silhouette Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pteropus_seychellensis.jpg",
+  "_score": 1
+}

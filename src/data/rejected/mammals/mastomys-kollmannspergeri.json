@@ -1,0 +1,26 @@
+{
+  "id": "mastomys-kollmannspergeri",
+  "name": "Verheyen's Multimammate Mouse",
+  "scientificName": "Mastomys kollmannspergeri",
+  "wikibase_item": "Q1765146",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765146",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verheyen's_multimammate_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Verheyen's multimammate mouse is a species of rodent in the family Muridae found in Cameroon, Chad, Niger, Nigeria, and Sudan.\nIts natural habitats are dry savanna, intermittent rivers, intermittent freshwater lakes, and urban areas.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "otolicnus-apicalis",
+  "name": "Otolicnus apicalis",
+  "scientificName": "Otolicnus apicalis",
+  "wikibase_item": "Q41166574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156378,
+      "id": "Q41156378"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166574"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

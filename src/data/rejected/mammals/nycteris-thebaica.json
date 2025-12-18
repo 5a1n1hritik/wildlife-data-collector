@@ -1,0 +1,26 @@
+{
+  "id": "nycteris-thebaica",
+  "name": "Egyptian slit-faced bat",
+  "scientificName": "Nycteris thebaica",
+  "wikibase_item": "Q1830648",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830648",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egyptian_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Egyptian slit-faced bat is a species of slit-faced bat broadly distributed throughout Africa and the Middle East. It is a species of microbat in the family Nycteridae. Six subspecies are known.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nycteris_thebaica.jpg",
+  "_score": 1
+}

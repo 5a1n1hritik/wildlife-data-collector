@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-magellanicus",
+  "name": "Magellanic tuco-tuco",
+  "scientificName": "Ctenomys magellanicus",
+  "wikibase_item": "Q1769457",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769457",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magellanic_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Magellanic tuco-tuco is a species of rodent in the family Ctenomyidae. It is found in Argentina and Chile. Its natural habitat is subtropical or tropical dry lowland grassland. It is also known as the cururo by the Selkʼnam culture of Tierra del Fuego.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ctenomys_magellanicus_%28Brehms%29.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-sydandersoni",
+  "name": "Oecomys sydandersoni",
+  "scientificName": "Oecomys sydandersoni",
+  "wikibase_item": "Q7078464",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7078464",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_sydandersoni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys sydandersoni is an arboreal species of rodent in the genus Oecomys. It lives in forest patches in a small area in eastern Bolivia. It is a medium-sized species, weighing about 45 g (1.6 oz), with mostly grayish and brownish fur and short and broad hindfeet with well-developed pads.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Oecomys_concolor_group_distribution.png",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ateles-fusciceps",
+  "name": "Ateles fusciceps",
+  "scientificName": "Ateles fusciceps",
+  "wikibase_item": "Q653650",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q653650",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-headed_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-headed spider monkey is a type of New World monkey from Central and South America, specifically Colombia, Ecuador, and Panama. Although primatologists such as Colin Groves (1989) follow Kellogg and Goldman (1944) in treating A. fusciceps as a separate species, other authors, including Froelich (1991), Collins and Dubach (2001) and Nieves (2005) treat it as a subspecies of Geoffroy's spider monkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ateles_fusciceps_Colombia.JPG"
+}

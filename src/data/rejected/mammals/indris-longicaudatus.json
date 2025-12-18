@@ -1,0 +1,26 @@
+{
+  "id": "indris-longicaudatus",
+  "name": "Indris longicaudatus",
+  "scientificName": "Indris longicaudatus",
+  "wikibase_item": "Q125217185",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125217192,
+      "id": "Q125217192"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125217185"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "steatomys-bocagei",
+  "name": "Bocage's African fat mouse",
+  "scientificName": "Steatomys bocagei",
+  "wikibase_item": "Q1768191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 513141,
+      "id": "Q513141"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bocage's_African_fat_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bocage's African fat mouse is an extant species of rodent indigenous to Angola, the Republic of the Congo, and the Democratic Republic of the Congo (DRC). Given the distribution of the species across the Angolan Plateau and south-west of the DRC throughout central Africa, the probability of a 'large population', and the security of its habitat, the International Union for Conservation of Nature (IUCN) recognises S. bocagei as stable. Whereas taxonomies early in the twentieth century posit S. bocagei as a species, more contemporary records from 1977 onwards identify it as indistinguishable from S. pratensis. In 1998, however, Crawford-Cabral proposed that the additional pair of teats in S. bocagei required separation from S. pratensis. Subsequent to Crawford-Cabral's publication, Wilson and Reader maintain in Mammal Species of the World that the size of these species also requires differentiation, where S. bocagei is significantly larger than S. pratensis and is unique or otherwise corresponds to S. opimus.",
+  "image": null,
+  "_score": 3
+}

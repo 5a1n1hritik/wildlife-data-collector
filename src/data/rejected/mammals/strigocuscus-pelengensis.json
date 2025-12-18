@@ -1,0 +1,26 @@
+{
+  "id": "strigocuscus-pelengensis",
+  "name": "Banggai cuscus",
+  "scientificName": "Strigocuscus pelengensis",
+  "wikibase_item": "Q209674",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 889585,
+      "id": "Q889585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209674",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banggai_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Banggai cuscus is a species of cuscus, a type of possum. Also known as the Peleng cuscus, Menden's cuscus or Peleng phalanger, it is found in the Peleng and Sula Islands to the east of Sulawesi in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bunges-Strigocuscus_pelingensis.jpg",
+  "_score": 1
+}

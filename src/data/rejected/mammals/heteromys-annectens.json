@@ -1,0 +1,26 @@
+{
+  "id": "heteromys-annectens",
+  "name": "Heteromys annectens",
+  "scientificName": "Heteromys annectens",
+  "wikibase_item": "Q60028116",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1035905,
+      "id": "Q1035905"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60028116"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

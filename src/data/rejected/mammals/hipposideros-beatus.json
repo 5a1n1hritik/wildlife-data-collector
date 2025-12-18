@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-beatus",
+  "name": "Hipposideros beatus",
+  "scientificName": "Hipposideros beatus",
+  "wikibase_item": "Q1760873",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1760873",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benito_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Benito roundleaf bat is a species of bat in the family Hipposideridae found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, South Sudan, and Togo. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Hipposideros_beatus.jpg",
+  "_score": 2
+}

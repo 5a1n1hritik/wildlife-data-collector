@@ -1,0 +1,26 @@
+{
+  "id": "otomys-simiensis",
+  "name": "Otomys simiensis",
+  "scientificName": "Otomys simiensis",
+  "wikibase_item": "Q26234915",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26234915",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simien_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Simien vlei rat is a species of rodent in the family Muridae. It is found in northern Ethiopia.",
+  "image": null,
+  "_score": 0
+}

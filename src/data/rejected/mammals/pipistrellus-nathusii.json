@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-nathusii",
+  "name": "Nathusius's pipistrelle",
+  "scientificName": "Pipistrellus nathusii",
+  "wikibase_item": "Q520425",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q520425",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathusius's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nathusius' pipistrelle is a small bat in the genus Pipistrellus. It is very similar to the common pipistrelle and has been overlooked in many areas until recently but it is widely distributed across Europe. It was described by two German naturalists, Alexander Keyserling and Johann Heinrich Blasius, and named by them after Hermann von Nathusius, in gratitude for his support of their research.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pipistrellus_nathusii.jpg",
+  "_score": 1
+}

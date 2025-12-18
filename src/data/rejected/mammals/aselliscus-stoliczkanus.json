@@ -1,0 +1,26 @@
+{
+  "id": "aselliscus-stoliczkanus",
+  "name": "Aselliscus stoliczkanus",
+  "scientificName": "Aselliscus stoliczkanus",
+  "wikibase_item": "Q307762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 778715,
+      "id": "Q778715"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stoliczka's_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stoliczka's trident bat is a species of bat in the family Hipposideridae. It is found in China, Laos, Malaysia, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Stoliczka%27s_trident_bat.png",
+  "_score": 1
+}

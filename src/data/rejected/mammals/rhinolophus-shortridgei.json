@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-shortridgei",
+  "name": "Rhinolophus shortridgei",
+  "scientificName": "Rhinolophus shortridgei",
+  "wikibase_item": "Q5113671",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5113671",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shortridge's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shortridge's horseshoe bat is a species of Horseshoe bat native to Northeast India, northern Myanmar, and southern China. It was first described in 1918 by Knud Andersen, and was considered a subspecies of Blyth's horseshoe bat until 2003 when the two species were collected in sympatry.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rhinolophus_shortridgei_area.png",
+  "_score": 1
+}

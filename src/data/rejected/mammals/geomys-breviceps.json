@@ -1,0 +1,26 @@
+{
+  "id": "geomys-breviceps",
+  "name": "Baird's pocket gopher",
+  "scientificName": "Geomys breviceps",
+  "wikibase_item": "Q1770201",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770201",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baird's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Baird's pocket gopher or the Louisiana pocket gopher is a species of pocket gopher that is native to the southern United States. In total, there are three almost identical species of eastern pocket gopher; Geomys attwateri, G. bursarius, and G. breviceps. G. breviceps is larger in size, G. attwateri is medium-sized and G. bursarius is a bit smaller. Other than by size variation they are not identifiable by external features. Baird's pocket gophers are small rodents with most of their weight on the top half of their bodies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/GeomysBreviceps.png",
+  "_score": 2
+}

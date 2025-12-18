@@ -1,0 +1,26 @@
+{
+  "id": "muscardinus-avellanarius",
+  "name": "Hazel dormouse",
+  "scientificName": "Muscardinus avellanarius",
+  "wikibase_item": "Q207148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12263932,
+      "id": "Q12263932"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q207148",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hazel_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hazel dormouse or common dormouse is a small dormouse species native to Europe and the only living species in the genus Muscardinus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Haselmaus.jpg",
+  "_score": 1
+}

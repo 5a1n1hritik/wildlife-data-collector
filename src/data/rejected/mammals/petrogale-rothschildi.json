@@ -1,0 +1,26 @@
+{
+  "id": "petrogale-rothschildi",
+  "name": "Rothschild's rock-wallaby",
+  "scientificName": "Petrogale rothschildi",
+  "wikibase_item": "Q209117",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209117",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rothschild's_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rothschild's rock-wallaby – sometimes known as the Roebourne rock-wallaby, is a species of macropod found in Western Australia, in the Pilbara district and the Dampier Archipelago. It is not currently considered to be threatened, but is at risk from the red fox.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Petrogale_rothschildi.jpg",
+  "_score": 2
+}

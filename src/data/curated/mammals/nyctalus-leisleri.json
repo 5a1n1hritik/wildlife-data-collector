@@ -1,0 +1,25 @@
+{
+  "id": "nyctalus-leisleri",
+  "name": "Lesser noctule",
+  "scientificName": "Nyctalus leisleri",
+  "wikibase_item": "Q287105",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q287105",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_noctule"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser noctule or the Leisler's bat, is a species of insectivorous bat belonging to the vesper bat family, Vespertilionidae. The species was named to honour the naturalist Johann Philipp Achilles Leisler.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nyctalus_leisleri.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mustela-lutreolina",
+  "name": "Mustela lutreolina",
+  "scientificName": "Mustela lutreolina",
+  "wikibase_item": "Q240167",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q240167",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indonesian_mountain_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indonesian mountain weasel is a species of weasel that lives on the islands of Java and Sumatra in Indonesia at montane elevations over 1,000 m (3,300 ft) in tropical rainforests. It is reddish-brown and has a body length of 280–300 mm (11–12 in) and a tail length of 130–150 mm (5–6 in).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Indonesian_Mountain_Weasel_area.png",
+  "_score": 1
+}

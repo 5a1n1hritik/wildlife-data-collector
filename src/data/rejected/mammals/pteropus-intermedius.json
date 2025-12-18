@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-intermedius",
+  "name": "Pteropus intermedius",
+  "scientificName": "Pteropus intermedius",
+  "wikibase_item": "Q621748",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q621748",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andersen's_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andersen's flying fox is a species of flying fox in the family Pteropodidae found in south Burma and west Thailand. Although it is hunted for both food and as a pest, it is not known if this has a significant impact on the species. It has been seen roosting in tall, well-established trees in urban areas and will fly several kilometres to eat wild and cultivated fruits. The species was named after Knud Christian Andersen. It was last recorded in Thailand in 1970 and, presumably, there is still a small viable population in Myanmar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Andersen%27s_Flying_Fox_area.png",
+  "_score": 2
+}

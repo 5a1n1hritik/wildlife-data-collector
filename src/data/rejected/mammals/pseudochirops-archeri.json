@@ -1,0 +1,26 @@
+{
+  "id": "pseudochirops-archeri",
+  "name": "Green ringtail possum",
+  "scientificName": "Pseudochirops archeri",
+  "wikibase_item": "Q209830",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1551997,
+      "id": "Q1551997"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209830",
+    "wikipedia": "https://en.wikipedia.org/wiki/Green_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The green ringtail possum is a species of ringtail possum found only in northern Australia. This makes it unique in its genus, all other members of which are found in New Guinea or nearby islands. The green ringtail possum is found in a tiny area of northeastern Queensland, between Paluma and Mount Windsor Tableland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Green_ringtail_possum_on_August_2023.jpg",
+  "_score": 1
+}

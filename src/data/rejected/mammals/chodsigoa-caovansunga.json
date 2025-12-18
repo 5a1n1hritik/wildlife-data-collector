@@ -1,0 +1,26 @@
+{
+  "id": "chodsigoa-caovansunga",
+  "name": "Van Sung's shrew",
+  "scientificName": "Chodsigoa caovansunga",
+  "wikibase_item": "Q1762212",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135091,
+      "id": "Q135091"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762212",
+    "wikipedia": "https://en.wikipedia.org/wiki/Van_Sung's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Van Sung's shrew, also known as Cao Van Sung mountain shrew is a species of shrew in the Soricomorpha order. Specimens of Chodsigoa caovansunga have been found in Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Van_Sung%27s_Shrew_area.png",
+  "_score": 1
+}

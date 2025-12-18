@@ -1,0 +1,26 @@
+{
+  "id": "proechimys-guairae",
+  "name": "Guaira spiny rat",
+  "scientificName": "Proechimys guairae",
+  "wikibase_item": "Q1765891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guaira_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guaira spiny-rat is a species of rodent in the family Echimyidae. It is endemic to Venezuela. It is commonly referred to as 'casiragua' to avoid confusion with true rats (Muroidea)",
+  "image": null,
+  "_score": 0
+}

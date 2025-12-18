@@ -1,0 +1,26 @@
+{
+  "id": "suncus-aequatorius",
+  "name": "Taita shrew",
+  "scientificName": "Suncus aequatorius",
+  "wikibase_item": "Q1761290",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761290",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taita_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Taita shrew is an extant species of white-toothed shrew from two localities in the Taita Hills mountain range in the Taita-Taveta District of southwestern Kenya. Given the continuing decline in the quality of this habitat, and the limitations in its range, the IUCN recognises the shrew as an endangered species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Taita_Shrew_area.png",
+  "_score": 2
+}

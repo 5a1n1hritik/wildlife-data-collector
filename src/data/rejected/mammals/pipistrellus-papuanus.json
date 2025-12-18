@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-papuanus",
+  "name": "Lesser Papuan pipistrelle",
+  "scientificName": "Pipistrellus papuanus",
+  "wikibase_item": "Q558031",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558031",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_Papuan_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser Papuan pipistrelle is a species of vesper bat. It can be found in Indonesia and Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

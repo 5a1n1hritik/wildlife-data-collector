@@ -1,0 +1,26 @@
+{
+  "id": "phoca-fasciata",
+  "name": "Phoca fasciata",
+  "scientificName": "Phoca fasciata",
+  "wikibase_item": "Q109647417",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 878742,
+      "id": "Q878742"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647417",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ribbon_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ribbon seal is a medium-sized pinniped from the true seal family (Phocidae). A seasonally ice-bound species, it is found in the Arctic and Subarctic regions of the North Pacific Ocean, notably in the Bering Sea and Sea of Okhotsk. It is distinguished by its striking coloration, with two wide white strips and two white circles against dark brown or black fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ribbon-seal-male_Josh_London_NOAAedit_%2816086029928%29_%28cropped%29.jpg",
+  "_score": 1
+}

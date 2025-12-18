@@ -1,0 +1,26 @@
+{
+  "id": "plerotes-anchietai",
+  "name": "Plerotes anchietai",
+  "scientificName": "Plerotes anchietai",
+  "wikibase_item": "Q10634290",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10807520,
+      "id": "Q10807520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10634290"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

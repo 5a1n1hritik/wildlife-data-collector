@@ -1,0 +1,26 @@
+{
+  "id": "myotis-atacamensis",
+  "name": "Myotis atacamensis",
+  "scientificName": "Myotis atacamensis",
+  "wikibase_item": "Q9047568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9047568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Atacama_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Atacama myotis is a species of vesper bat in the family Vespertilionidae. It is found in Chile and Peru, specifically throughout the Atacama Desert in the Chilean matorral. It is one of the smallest Myotis species, with a height of around 4–5 cm (1.6–2.0 in). The species was first discovered in the Atacama Desert, which is where its name comes from.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Distribution_of_Myotis_atacamensis.png",
+  "_score": 1
+}

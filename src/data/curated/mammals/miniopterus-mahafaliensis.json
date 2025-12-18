@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-mahafaliensis",
+  "name": "Miniopterus mahafaliensis",
+  "scientificName": "Miniopterus mahafaliensis",
+  "wikibase_item": "Q6865669",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6865669",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_mahafaliensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus mahafaliensis is a bat in the genus Miniopterus that occurs in southwestern Madagascar. Populations of this species have historically been included in Miniopterus manavi, but molecular data published in 2008 and 2009 indicate that this supposed species in fact consists of five separate species, including the newly described M. mahafaliensis. The species has been found in dry, spiny, and gallery forest, as well as more open habitats, in southwestern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Miniopterus_mahafaliensis_range.svg/500px-Miniopterus_mahafaliensis_range.svg.png",
+  "_score": 3
+}

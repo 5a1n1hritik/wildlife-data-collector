@@ -1,0 +1,26 @@
+{
+  "id": "sorex-emarginatus",
+  "name": "Zacatecas shrew",
+  "scientificName": "Sorex emarginatus",
+  "wikibase_item": "Q1765211",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765211",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zacatecas_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zacatecas shrew is a species of mammal in the family Soricidae. It is endemic to Mexico. It inhabits the southeastern Sierra Madre Occidental in the states of Durango, Zacatecas, and Jalisco, from 1,830 to 3,660 m elevation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zacatecas_Shrew_area.png",
+  "_score": 1
+}

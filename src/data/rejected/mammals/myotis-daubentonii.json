@@ -1,0 +1,26 @@
+{
+  "id": "myotis-daubentonii",
+  "name": "Daubenton's bat",
+  "scientificName": "Myotis daubentonii",
+  "wikibase_item": "Q504488",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q504488",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daubenton's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Daubenton's bat or Daubenton's myotis is a Eurasian bat with rather short ears. It occurs across Eurasia, from Ireland in the west to Hokkaido in the east, and is believed to be increasing its numbers in many areas of its range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Myotis_daubentoni01.jpg",
+  "_score": 1
+}

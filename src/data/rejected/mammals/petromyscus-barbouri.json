@@ -1,0 +1,26 @@
+{
+  "id": "petromyscus-barbouri",
+  "name": "Barbour's rock mouse",
+  "scientificName": "Petromyscus barbouri",
+  "wikibase_item": "Q1764234",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386068,
+      "id": "Q386068"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764234",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbour's_rock_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Barbour's rock mouse is a species of rodent in the family Nesomyidae.\nIt is found only in South Africa.\nIts natural habitats are subtropical or tropical dry shrubland and rocky areas.\nIt is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

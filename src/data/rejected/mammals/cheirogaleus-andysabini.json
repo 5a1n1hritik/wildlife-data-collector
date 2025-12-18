@@ -1,0 +1,26 @@
+{
+  "id": "cheirogaleus-andysabini",
+  "name": "Montagne d'Ambre dwarf lemur",
+  "scientificName": "Cheirogaleus andysabini",
+  "wikibase_item": "Q20965799",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20965799",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montagne_d'Ambre_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Montagne d'Ambre dwarf lemur or Andy Sabin's dwarf lemur is a species of dwarf lemur known only from Amber Mountain National Park and the surrounding area in northern Madagascar. It was identified in 2005, but not formally described until 2015. It is an endangered species, at risk from deforestation and possibly hunting from nearby human populations.",
+  "image": null,
+  "_score": 1
+}

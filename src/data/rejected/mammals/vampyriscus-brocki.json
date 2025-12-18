@@ -1,0 +1,26 @@
+{
+  "id": "vampyriscus-brocki",
+  "name": "Brock's Yellow-eared Bat",
+  "scientificName": "Vampyriscus brocki",
+  "wikibase_item": "Q21377483",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28154898,
+      "id": "Q28154898"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21377483",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brock's_yellow-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brock's yellow-eared bat is a species of bat in the family Phyllostomidae, the leaf-nosed bats. It is native to Brazil, Colombia, Guyana, Suriname, French Guiana, and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vampyriscus_brocki_map.svg/500px-Vampyriscus_brocki_map.svg.png",
+  "_score": 1
+}

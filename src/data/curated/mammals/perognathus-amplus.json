@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-amplus",
+  "name": "Arizona pocket mouse",
+  "scientificName": "Perognathus amplus",
+  "wikibase_item": "Q1766129",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766129",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arizona_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arizona pocket mouse is a rodent native to the Sonoran Desert. It is a small mouse with a thinly furred tail that is smooth from base to tip. In color it ranges from tan to orange. It is a nocturnal, burrowing animal. It eats seeds, which it carries back to its burrow in its cheek pouches.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Arizona_pocket_mouse.jpg"
+}

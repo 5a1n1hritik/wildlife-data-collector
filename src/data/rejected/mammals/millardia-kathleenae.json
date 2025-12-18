@@ -1,0 +1,26 @@
+{
+  "id": "millardia-kathleenae",
+  "name": "Miss Ryley's Soft-furred Rat",
+  "scientificName": "Millardia kathleenae",
+  "wikibase_item": "Q1762488",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 472755,
+      "id": "Q472755"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762488",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miss_Ryley's_soft-furred_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miss Ryley's soft-furred rat is a species of rodent in the family Muridae.\nIt is found only in central Myanmar, and was also recorded on Mount Popa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Range_Millardia_kathleenae.png",
+  "_score": 1
+}

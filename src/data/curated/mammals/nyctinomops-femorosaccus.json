@@ -1,0 +1,25 @@
+{
+  "id": "nyctinomops-femorosaccus",
+  "name": "pocketed free-tailed bat",
+  "scientificName": "Nyctinomops femorosaccus",
+  "wikibase_item": "Q1832705",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2717017,
+      "id": "Q2717017"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832705",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pocketed_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pocketed free-tailed bat is a species of bat in the family Molossidae found in Mexico and in Arizona, California, New Mexico, and Texas in the United States. They resemble the Brazilian free-tailed bat .They are recognized as \"least concern\" by the IUCN and as \"apparently secure\" by Natureserve.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pocketed_free-tailed_bat_%28Nyctinomops_femorosaccus%29.jpg"
+}

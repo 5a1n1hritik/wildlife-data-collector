@@ -1,0 +1,26 @@
+{
+  "id": "philander-andersoni",
+  "name": "Anderson's four-eyed opossum",
+  "scientificName": "Philander andersoni",
+  "wikibase_item": "Q194660",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194660",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anderson's_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anderson's four-eyed opossum is an opossum species from South America. It is found in Brazil, Colombia, Ecuador, Peru and Venezuela. Its dorsal fur is dark, with a black stripe, about 3–4 cm wide, going vertically down the midline of its back. Its dorsal fur is short, about 10 mm long. Its ventral fur is dark gray, but still distinctly lighter than the sides and dorsum. Its tail is furred for the first (approximately) 18% of its length, going from the base to the tip.\nIts species name \"andersoni\" was chosen to honor American scientific collector Malcolm Playfair Anderson.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Philander_andersoni_115107840.jpg",
+  "_score": 2
+}

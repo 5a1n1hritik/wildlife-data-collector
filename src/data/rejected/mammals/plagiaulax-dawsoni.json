@@ -1,0 +1,26 @@
+{
+  "id": "plagiaulax-dawsoni",
+  "name": "Plagiaulax dawsoni",
+  "scientificName": "Plagiaulax dawsoni",
+  "wikibase_item": "Q41218445",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 974335,
+      "id": "Q974335"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41218445",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dawson"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Charles Dawson was a British amateur archaeologist who claimed to have made a number of archaeological and palaeontological discoveries that were later exposed as frauds. These forgeries included the Piltdown Man, a unique set of bones that he claimed to have found in 1912 in Sussex. Many technological methods such as fluorine testing indicate that this discovery was a hoax, and Dawson, the only one with the skill and knowledge to generate this forgery, was a major suspect.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Charles_dawson_portrait.jpg",
+  "_score": 2
+}

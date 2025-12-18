@@ -1,0 +1,26 @@
+{
+  "id": "trinomys-iheringi",
+  "name": "Ihering's Atlantic spiny rat",
+  "scientificName": "Trinomys iheringi",
+  "wikibase_item": "Q1763994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763994",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ihering's_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ihering's Atlantic spiny-rat or Ihering's spiny rat is a spiny rat species from Brazil.",
+  "image": null,
+  "_score": 0
+}

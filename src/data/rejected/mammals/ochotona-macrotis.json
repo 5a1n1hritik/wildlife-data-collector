@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-macrotis",
+  "name": "Large-eared pika",
+  "scientificName": "Ochotona macrotis",
+  "wikibase_item": "Q1769345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769345",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-eared_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-eared pika is a species of small mammal in the family Ochotonidae. It is found in mountainous regions of Afghanistan, Tibet, Bhutan, India, Kazakhstan, Kyrgyzstan, Nepal, Pakistan and Tajikistan where it nests among boulders and scree.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Pika.jpg",
+  "_score": 1
+}

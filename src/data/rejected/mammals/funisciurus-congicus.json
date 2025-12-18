@@ -1,0 +1,26 @@
+{
+  "id": "funisciurus-congicus",
+  "name": "Congo rope squirrel",
+  "scientificName": "Funisciurus congicus",
+  "wikibase_item": "Q308478",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278459,
+      "id": "Q278459"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308478",
+    "wikipedia": "https://en.wikipedia.org/wiki/Congo_rope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Congo rope squirrel is a species of rodent in the family Sciuridae. It is found in the Democratic Republic of the Congo south of the Congo River, western Angola, and northern Namibia. It is mainly associated with dense woodland, but in Namibia also with vegetation on granite outcrops. It is diurnal and arboreal, but also forages on the ground.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Congo_rope_squirrel_%28Funisciurus_congicus%29.jpg",
+  "_score": 1
+}

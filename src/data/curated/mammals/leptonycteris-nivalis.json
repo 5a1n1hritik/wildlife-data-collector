@@ -1,0 +1,26 @@
+{
+  "id": "leptonycteris-nivalis",
+  "name": "Leptonycteris nivalis",
+  "scientificName": "Leptonycteris nivalis",
+  "wikibase_item": "Q302110",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2636803,
+      "id": "Q2636803"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302110",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_long-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater long-nosed bat or Mexican long-nosed bat is a species of bat in the family Phyllostomidae. It is found in Mexico and the United States. It chiefly consumes pollen and nectar, particularly from agave plants and cacti. Its habitat includes desert scrub and open woodlands, however, it is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Leptonycteris_nivalis.jpg",
+  "_score": 3
+}

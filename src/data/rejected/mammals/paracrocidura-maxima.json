@@ -1,0 +1,26 @@
+{
+  "id": "paracrocidura-maxima",
+  "name": "Greater Large-headed Shrew",
+  "scientificName": "Paracrocidura maxima",
+  "wikibase_item": "Q1762370",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1781563,
+      "id": "Q1781563"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762370",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_large-headed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater large-headed shrew is a species of mammal in the family Soricidae. It is found in Burundi, Democratic Republic of the Congo, Rwanda, and Uganda. Its natural habitats are subtropical or tropical moist lowland and montane forests, and swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Greater_Large-headed_Shrew_area.png",
+  "_score": 2
+}

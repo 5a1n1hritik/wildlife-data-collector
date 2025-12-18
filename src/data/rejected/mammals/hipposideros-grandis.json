@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-grandis",
+  "name": "Hipposideros grandis",
+  "scientificName": "Hipposideros grandis",
+  "wikibase_item": "Q2497699",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2497699",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grand_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grand roundleaf bat, also known as the grand leaf-nosed bat, is a species of bat in the genus Hipposideros. It can be found in China, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hipposideros_grandis_344472421.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bubalus-bubalis",
+  "name": "water buffalo",
+  "scientificName": "Bubalus bubalis",
+  "wikibase_item": "Q42710",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83521,
+      "id": "Q83521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42710",
+    "wikipedia": "https://en.wikipedia.org/wiki/Water_buffalo"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The water buffalo, also called domestic water buffalo, Asian water buffalo and Asiatic water buffalo, is a large bovine originating in the Indian subcontinent and Southeast Asia. Today, it is also kept in Italy, the Balkans, Australia, the Americas, and some African countries. Two extant types of water buffalo are recognized, based on morphological and behavioural criteria: the river buffalo of the Indian subcontinent and further west to the Balkans, Egypt, and Italy; and the swamp buffalo from Assam in the west through Southeast Asia to the Yangtze Valley of China in the east.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Water_buffalo_at_Rinca.jpg",
+  "_score": 2
+}

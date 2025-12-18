@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-nayaritensis",
+  "name": "Mexican fox squirrel",
+  "scientificName": "Sciurus nayaritensis",
+  "wikibase_item": "Q1765556",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765556",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_fox_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican fox squirrel is a species of tree squirrel found throughout the Sierra Madre Occidental of Mexico as far south as Jalisco — and northward into the Chiricahua Mountains of southeastern Arizona, U.S.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Chiricahua_fox_squirrel.jpg"
+}

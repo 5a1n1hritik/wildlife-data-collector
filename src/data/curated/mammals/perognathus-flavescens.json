@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-flavescens",
+  "name": "Plains pocket mouse",
+  "scientificName": "Perognathus flavescens",
+  "wikibase_item": "Q1767602",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767602",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plains_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plains pocket mouse is a heteromyid rodent of North America. It ranges from southwestern Minnesota and southeastern North Dakota to northern Texas east of the Rockies, and from northern Utah and Colorado to northern Chihuahua west of the Rockies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Apache_pocket_mouse_%28Perognathus_flavescens_apache%29_crop.jpg"
+}

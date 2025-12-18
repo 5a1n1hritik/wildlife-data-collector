@@ -1,0 +1,26 @@
+{
+  "id": "pteronotus-personatus",
+  "name": "Pteronotus personatus",
+  "scientificName": "Pteronotus personatus",
+  "wikibase_item": "Q661153",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 916924,
+      "id": "Q916924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q661153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wagner's_mustached_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wagner's mustached bat is a bat species from South and Central America. It is one of the few New World bats species known to perform Doppler shift compensation behavior.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Wagner%27s_Mustached_Bat_%28Pteronotus_personatus%29_%2838053341645%29.jpg",
+  "_score": 2
+}

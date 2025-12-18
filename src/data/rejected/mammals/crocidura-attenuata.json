@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-attenuata",
+  "name": "Asian gray shrew",
+  "scientificName": "Crocidura attenuata",
+  "wikibase_item": "Q3594363",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3594363",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_gray_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian gray shrew is a species of mammal in the family Soricidae. It is found in Bhutan, Cambodia, China, India, Laos, Malaysia, Myanmar, Nepal, Pakistan, the Philippines, Thailand, and Vietnam. It is one of the commonest species within its range and the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Asian_Gray_Shrew_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-heniacamiare",
+  "name": "Ctenomys heniacamiare",
+  "scientificName": "Ctenomys heniacamiare",
+  "wikibase_item": "Q125253390",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125253390"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

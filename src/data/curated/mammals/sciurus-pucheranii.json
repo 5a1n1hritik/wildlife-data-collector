@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-pucheranii",
+  "name": "Andean squirrel",
+  "scientificName": "Sciurus pucheranii",
+  "wikibase_item": "Q1769574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769574",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andean squirrel is a tree squirrel endemic to Colombia where it inhabits montane rain forest and cloud forests of the Cordillera Occidental and Cordillera Central ranges of the Colombian Andes, at elevations between 2,000 and 3,300 metres. It is a small species with a body length of about 14 cm (6 in) and a similar length tail. It has soft, silky, reddish-brown fur, a darker tail and yellowish-grey underparts. It is thought to be diurnal but has been little studied, and the International Union for Conservation of Nature has rated its conservation status as being data deficient.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Andean_Squirrel_Cartagena_Colombia_-_12-23-15.JPG"
+}

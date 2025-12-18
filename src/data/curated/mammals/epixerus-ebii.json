@@ -1,0 +1,26 @@
+{
+  "id": "epixerus-ebii",
+  "name": "Epixerus ebii",
+  "scientificName": "Epixerus ebii",
+  "wikibase_item": "Q1765595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 441320,
+      "id": "Q441320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ebian's_palm_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Epixerus ebii, also known as Ebian's palm squirrel, Temminck's giant squirrel, or the western palm squirrel, is a species of rodent in the family Sciuridae. It is the only species in the genus Epixerus, although eastern populations were previously regarded as a separate species, E. wilsoni. It is found in West and Central Africa. Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Westafrikanisches_Palmenh%C3%B6rnchen_2014_crop.jpg",
+  "_score": 4
+}

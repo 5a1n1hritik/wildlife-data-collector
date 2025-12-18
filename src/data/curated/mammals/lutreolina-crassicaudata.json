@@ -1,0 +1,25 @@
+{
+  "id": "lutreolina-crassicaudata",
+  "name": "lutrine opossum",
+  "scientificName": "Lutreolina",
+  "wikibase_item": "Q1210170",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16335775,
+      "id": "Q16335775"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1210170",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lutreolina"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lutreolina is a genus of opossum found in South America. Both extant species in this genus are known as lutrine opossums. They have an otter-like body plan and occasionally semiaquatic tendencies, hence the genus name Lutreolina, which is Latin for \"otter-like\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/The_zoology_of_the_voyage_of_H.M.S._Beagle_%28Pl._30%29_%288386027817%29.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tamiops-barbei",
+  "name": "Tamiops barbei",
+  "scientificName": "Tamiops barbei",
+  "wikibase_item": "Q130775383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 811634,
+      "id": "Q811634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130775383"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

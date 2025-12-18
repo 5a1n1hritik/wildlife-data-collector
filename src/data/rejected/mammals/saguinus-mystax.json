@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-mystax",
+  "name": "moustached tamarin",
+  "scientificName": "Saguinus mystax",
+  "wikibase_item": "Q592510",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q592510",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moustached_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The moustached tamarin is a New World monkey and a species of tamarin. The moustached tamarin is named for the lack of coloring in the facial hair surrounding their mouth, appearing similar to a moustache. As with most New World monkeys, the moustached tamarin is found only in areas of South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Saguinus_mystax_at_the_Bronx_Zoo_01.jpg",
+  "_score": 1
+}

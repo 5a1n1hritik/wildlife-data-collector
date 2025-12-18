@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-kelloggi",
+  "name": "Oryzomys kelloggi",
+  "scientificName": "Oryzomys kelloggi",
+  "wikibase_item": "Q18199015",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18199015",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euryoryzomys_russatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Euryoryzomys russatus, also known as the russet oryzomys, russet rice rat, or big-headed rice rat, is a species of rodent in the family Cricetidae. It is a member of the genus Euryoryzomys, which was split off from Oryzomys in 2006. It was first described by Johann Andreas Wagner in 1848. It is found in southern Brazil, eastern Paraguay and northeastern Argentina. It is considered a large species in its genus, with a reddish-brown coat, long tail length, and large skull. It is a terrestrial rodent, spending its time foraging for seeds, fruits, and insects. It is listed by the IUCN as least concern, although studies have shown it to be influenced by anthropogenic disturbances. Predators consist of small members of the order Carnivora.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Calomys_coronatus_type.png",
+  "_score": 3
+}

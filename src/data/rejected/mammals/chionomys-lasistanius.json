@@ -1,0 +1,26 @@
+{
+  "id": "chionomys-lasistanius",
+  "name": "Chionomys lasistanius",
+  "scientificName": "Chionomys lasistanius",
+  "wikibase_item": "Q125868183",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 602763,
+      "id": "Q602763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125868183",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lazistan_snow_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lazistan snow vole is a subspecies of rodent in the family Cricetidae.",
+  "image": null,
+  "_score": 0
+}

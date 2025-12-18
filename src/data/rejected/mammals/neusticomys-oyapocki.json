@@ -1,0 +1,26 @@
+{
+  "id": "neusticomys-oyapocki",
+  "name": "Oyapock's fish-eating rat",
+  "scientificName": "Neusticomys oyapocki",
+  "wikibase_item": "Q1767010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 137725,
+      "id": "Q137725"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oyapock's_fish-eating_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oyapock's fish-eating rat is a species of rodent in the family Cricetidae. It is found in French Guiana and Brazil. For a time, this species was assigned to the genus Neusticomys, but it has since been returned to its original genus.",
+  "image": null,
+  "_score": 0
+}

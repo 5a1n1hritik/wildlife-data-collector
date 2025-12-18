@@ -1,0 +1,26 @@
+{
+  "id": "sorex-monticolus",
+  "name": "montane shrew",
+  "scientificName": "Sorex monticolus",
+  "wikibase_item": "Q1266060",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1266060",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane shrew is a species of mammal in the family Soricidae commonly known as the dusky shrew. Monticolus is derived from the Latin root word mons meaning mountain. It is found in Alaska, western Canada, the western United States in Washington, Idaho, Montana, Utah, Colorado, New Mexico, Arizona, Oregon, Nevada, and California, as well as in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dusky_Shrew%2C_Sorex_monticolus_-_Flickr_-_GregTheBusker.jpg",
+  "_score": 1
+}

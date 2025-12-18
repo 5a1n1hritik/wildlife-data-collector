@@ -1,0 +1,26 @@
+{
+  "id": "nycticebus-pygmaeus",
+  "name": "pygmy slow loris",
+  "scientificName": "Nycticebus pygmaeus",
+  "wikibase_item": "Q244239",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 74941,
+      "id": "Q74941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244239",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_slow_loris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy slow loris is a species of slow loris found east of the Mekong River in Vietnam, Laos, eastern Cambodia, and China. It occurs in a variety of forest habitats, including tropical dry forests, semi-evergreen, and evergreen forests. It was originally classified within Nycticebus until it was transferred to the genus Xanthonycticebus in 2022. Two species are recognised, the northern pygmy loris X. intermedius from northern Vietnam, Laos and China and the southern pygmy loris X. pygmaeus from southern Vietnam, Laos and Cambodia. The animal is nocturnal and arboreal, crawling along branches using slow movements in search of prey. Unlike other primates, it does not leap. It lives together in small groups usually with one or two offspring. An adult can grow to around 19 to 23 cm long and has a very short tail. It weighs about 450 g (1.0 lb). Its diet consists of fruits, insects, small fauna, tree sap, and floral nectar. The animal has a toxic bite, which it gets by licking a toxic secretion from glands on the inside of its elbows. The teeth in its lower jaw form a comb-like structure called a toothcomb that is used for scraping resin from tree bark.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nycticebus_pygmaeus_004.jpg",
+  "_score": 5
+}

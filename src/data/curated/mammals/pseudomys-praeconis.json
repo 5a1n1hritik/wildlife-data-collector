@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-praeconis",
+  "name": "Pseudomys praeconis",
+  "scientificName": "Pseudomys praeconis",
+  "wikibase_item": "Q14543081",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14543081",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gould's_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gould's mouse, also known as the Shark Bay mouse and djoongari in the Pintupi and Luritja languages, is a species of rodent in the murid family. Once ranging throughout Australia from Western Australia to New South Wales, its range has since been reduced to five islands off the coast of Western Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pseudomys_gouldii_-_Gould.jpg"
+}

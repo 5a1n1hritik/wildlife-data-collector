@@ -1,0 +1,26 @@
+{
+  "id": "santamartamys-rufodorsalis",
+  "name": "Santamartamys rufodorsalis",
+  "scientificName": "Santamartamys rufodorsalis",
+  "wikibase_item": "Q301130",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 14427402,
+      "id": "Q14427402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301130",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-crested_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-crested tree-rat or Santa Marta toro is a species of tree-rat found in the monotypic genus Santamartamys in the family Echimyidae. It is nocturnal and is believed to feed on plant matter, and is mainly rufous, with young specimens having a grey coat. IUCN list the species as critically endangered: it is affected by feral cats, climate change, and the clearing of forest in its potential range in coastal Colombia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Santamartamys_rufodorsalis.jpg",
+  "_score": 2
+}

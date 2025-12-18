@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-crossei",
+  "name": "Crosse's Shrew",
+  "scientificName": "Crocidura crossei",
+  "wikibase_item": "Q512324",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q512324",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crosse's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crosse's shrew is a species of mammal in the family Soricidae. It is found in Benin, Cameroon, Ivory Coast, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, and Togo. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Crosse%27s_Shrew_area.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "propithecus-coronatus",
+  "name": "Crowned sifaka",
+  "scientificName": "Propithecus coronatus",
+  "wikibase_item": "Q179384",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q179384",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crowned_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crowned sifaka is a sifaka endemic to western Madagascar, a part of the world where nature and its biological diversity faces enormous and devastating consequences resulting from anthropogenic activities. It is a species of lemur belonging to the Indriidae family, it is of comparable size to the Golden-crowned sifaka and up to a meter in length, of which 47-57 centimeters are tail. The species is an arboreal vertical climber and leaper whose diet consists of leaves, fruits and flowers. It is threatened by habitat destruction caused by human activities and is currently classified as critically endangered by the IUCN. Conservation planning needs to take local people needs and views into account in order to be successful over the long term.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Propithecus_coronatus_2.jpg",
+  "_score": 7
+}

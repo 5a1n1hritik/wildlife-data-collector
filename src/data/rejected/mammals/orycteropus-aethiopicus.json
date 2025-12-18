@@ -1,0 +1,26 @@
+{
+  "id": "orycteropus-aethiopicus",
+  "name": "Orycteropus aethiopicus",
+  "scientificName": "Orycteropus aethiopicus",
+  "wikibase_item": "Q40548362",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1975774,
+      "id": "Q1975774"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40548362"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

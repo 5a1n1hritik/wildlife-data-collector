@@ -1,0 +1,25 @@
+{
+  "id": "tupaia-salatana",
+  "name": "Tupaia salatana",
+  "scientificName": "Tupaia salatana",
+  "wikibase_item": "Q81850164",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81850164",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalimantan_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kalimantan treeshrew or southern large-footed treeshrew is a treeshrew species within the Tupaiidae family. It was originally described as a subspecies of Tupaia longipes and later listed as a junior synonym of Tupaia glis, before being returned to its subspecies status. It was raised up to species status in 2013. It is found on southern portion of the island of Borneo in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tupaia_salatana.jpg"
+}

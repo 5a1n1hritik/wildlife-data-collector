@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-ornatus",
+  "name": "Ornate Flying Fox",
+  "scientificName": "Pteropus ornatus",
+  "wikibase_item": "Q581239",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q581239",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ornate_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ornate flying fox is a species of flying fox in the family Pteropodidae. It is endemic to New Caledonia. Its natural habitat is subtropical or tropical dry forests. It is threatened due to habitat destruction and hunting, the former exacerbated by high roost-site fidelity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ornate_Flying_Fox_area.png",
+  "_score": 3
+}

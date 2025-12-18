@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-fulvus",
+  "name": "Hipposideros fulvus",
+  "scientificName": "Hipposideros fulvus",
+  "wikibase_item": "Q309020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fulvus_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fulvus roundleaf bat or fulvus leaf-nosed bat is a species of bat in the family Hipposideridae. It is found in Afghanistan, Bangladesh, China, India, Myanmar, Pakistan, and Sri Lanka.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fulvous_Roundleaf_Bat_%28Hipposideros_fulvus%29.jpg",
+  "_score": 1
+}

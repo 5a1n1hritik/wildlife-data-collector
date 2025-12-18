@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-nux",
+  "name": "Nut-colored Yellow Bat",
+  "scientificName": "Scotophilus nux",
+  "wikibase_item": "Q1830975",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830975",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nut-colored_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The nut-colored yellow bat is a species of vesper bat. It can be found in Cameroon, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Ghana, Guinea, Kenya, Liberia, Nigeria, Rwanda, Sierra Leone, and Uganda. It is found in subtropical or tropical moist lowland forests.",
+  "image": null,
+  "_score": 0
+}

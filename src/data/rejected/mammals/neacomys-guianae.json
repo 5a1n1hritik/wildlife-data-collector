@@ -1,0 +1,26 @@
+{
+  "id": "neacomys-guianae",
+  "name": "Neacomys guianae",
+  "scientificName": "Neacomys guianae",
+  "wikibase_item": "Q1761449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593339,
+      "id": "Q593339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neacomys_guianae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neacomys guianae, also known as the Guianan neacomys or Guiana bristly mouse, is a nocturnal rodent species from South America. It is found in lowland tropical rainforests in northeastern Brazil, French Guiana, Guyana, Suriname and Venezuela. Its diet consists of insects, seeds and fruit.",
+  "image": null,
+  "_score": 1
+}

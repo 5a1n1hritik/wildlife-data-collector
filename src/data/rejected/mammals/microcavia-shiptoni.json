@@ -1,0 +1,26 @@
+{
+  "id": "microcavia-shiptoni",
+  "name": "Shipton's mountain cavy",
+  "scientificName": "Microcavia shiptoni",
+  "wikibase_item": "Q1766490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244242,
+      "id": "Q244242"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shipton's_mountain_cavy"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shipton's mountain cavy is a species of rodent in the family Caviidae. It is endemic to Argentina.",
+  "image": null,
+  "_score": 0
+}

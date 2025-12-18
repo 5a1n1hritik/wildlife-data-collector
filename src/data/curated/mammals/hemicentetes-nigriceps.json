@@ -1,0 +1,25 @@
+{
+  "id": "hemicentetes-nigriceps",
+  "name": "Highland streaked tenrec",
+  "scientificName": "Hemicentetes nigriceps",
+  "wikibase_item": "Q1762455",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 794713,
+      "id": "Q794713"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762455",
+    "wikipedia": "https://en.wikipedia.org/wiki/Highland_streaked_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The highland streaked tenrec is an insectivore which lives in the central upland regions of Madagascar. Its black-and-white-striped body is covered with quills, which it raises when agitated. The spines detach and remain in the body of an inquisitive predator. The function of the black-and-white pattern may be to mimic juveniles of Tenrec ecaudatus, since the parents of this species are known to be aggressively protective, and the stripes may have developed as a type of camouflage while foraging. The highland streaked tenrec uses its long snout to burrow under leaves and bark, searching for earthworms, its primary food.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hemicentetes_nigriceps.jpg"
+}

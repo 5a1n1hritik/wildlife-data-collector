@@ -1,0 +1,25 @@
+{
+  "id": "genetta-genetta",
+  "name": "common genet",
+  "scientificName": "Genetta genetta",
+  "wikibase_item": "Q261574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q261574",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common genet is a small viverrid indigenous to Africa that was introduced to southwestern Europe. It is widely distributed north of the Sahara, in savanna zones south of the Sahara to southern Africa and along the coast of Arabia, Yemen and Oman. It is listed as Least Concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Genetta_genetta_felina_%28Wroclaw_zoo%29.JPG"
+}

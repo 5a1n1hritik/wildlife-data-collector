@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-creightoni",
+  "name": "Creighton's slender opossum",
+  "scientificName": "Marmosops creightoni",
+  "wikibase_item": "Q2738879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2738879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Creighton's_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Creighton's slender opossum, also known commonly as Voss' slender opossum is a species of South American opossum of the family Didelphidae. It is known only from the valley of the Rio Zongo in La Paz Department, Bolivia, where it lives in Andean cloud forests at elevations between 1800 and 3000 m. It was named after G. Ken Creighton by fellow American zoologist Robert S. Voss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Marmosops_creightoni_area.png",
+  "_score": 1
+}

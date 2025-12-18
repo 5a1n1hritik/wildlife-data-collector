@@ -1,0 +1,26 @@
+{
+  "id": "aotus-vociferans",
+  "name": "Spix's night monkey",
+  "scientificName": "Aotus vociferans",
+  "wikibase_item": "Q508509",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q508509",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spix's_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spix's night monkey, also known as the Colombian gray night monkey, noisy night monkey and Spix's owl monkey, is a night monkey species from South America. It is found in Brazil, Colombia, Ecuador and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Night_Monkey.jpg",
+  "_score": 1
+}

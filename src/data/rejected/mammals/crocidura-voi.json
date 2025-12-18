@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-voi",
+  "name": "Voi Shrew",
+  "scientificName": "Crocidura voi",
+  "wikibase_item": "Q1769485",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769485",
+    "wikipedia": "https://en.wikipedia.org/wiki/Voi_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Voi shrew is a species of mammal in the family Soricidae. It is found in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Ethiopia, Ghana, Kenya, Mali, Niger, Nigeria, Somalia, Sudan, and Togo. Its natural habitat is dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Voi_Shrew_area.png",
+  "_score": 2
+}

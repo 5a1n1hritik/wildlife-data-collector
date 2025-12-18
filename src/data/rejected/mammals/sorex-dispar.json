@@ -1,0 +1,26 @@
+{
+  "id": "sorex-dispar",
+  "name": "long-tailed shrew",
+  "scientificName": "Sorex dispar",
+  "wikibase_item": "Q1770338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed shrew or rock shrew is a small shrew found in Atlantic Canada and the Northeastern United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Long-Tailed_Shrew_02.png",
+  "_score": 1
+}

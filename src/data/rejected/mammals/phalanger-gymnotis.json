@@ -1,0 +1,26 @@
+{
+  "id": "phalanger-gymnotis",
+  "name": "Ground cuscus",
+  "scientificName": "Phalanger gymnotis",
+  "wikibase_item": "Q209134",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209134",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ground_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ground cuscus is a marsupial from the order Diprotodontia and belongs within the family Phalangeridae, a diverse family consisting of the other cuscus species and the brushtail possums and the scaly-tailed possum.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ground_Cuscus_cotswoldwildlifepark.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tamias-striatus",
+  "name": "Tamias striatus",
+  "scientificName": "Tamias striatus",
+  "wikibase_item": "Q692664",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q692664",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern chipmunk is a chipmunk species found in eastern North America. It is the only living member of the genus Tamias.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sorex-lyelli",
+  "name": "Mount Lyell Shrew",
+  "scientificName": "Sorex lyelli",
+  "wikibase_item": "Q1766571",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766571",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Lyell_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Lyell shrew is a shrew endemic to California and found in the central Sierra Nevada and Mono County at altitudes up to 3630 meters. It is named for Mount Lyell in Yosemite National Park, where a specimen was first collected in 1901. Observations of the Mount Lyell shrew have been rare, and a specimen was only first photographed live in 2024. The Mount Lyell shrew was the last known mammal in California to be photographed live. An adult Mount Lyell shrew grows to about 8.9 to 10cm in length, including its long tail. The Mount Lyell shrew is grey-brown and externally similar to other Sierran shrews, but is distinguishable because of the shape and coloration of its teeth. The Mount Lyell shrew has been found in varied habitats which are usually near a water source in high-elevation areas in the central Sierra Nevada and parts of the eastern Sierra, and as it has not been frequently observed, its behaviors, habitat, and range are still a topic of study.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Sorex_lyelli.jpg",
+  "_score": 5
+}

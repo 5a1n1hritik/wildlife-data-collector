@@ -1,0 +1,26 @@
+{
+  "id": "trinomys-gratiosus",
+  "name": "Gracile Atlantic Spiny-rat",
+  "scientificName": "Trinomys gratiosus",
+  "wikibase_item": "Q1761430",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gracile_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Trinomys gratiosus is a species in the mainly South American family Echimyidae, the spiny rats; it occurs in southeast Brazil from the south bank of the River Doce, Espirito Sante, southward to Teresopolis, Rio de Janeiro.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Trinomys_gratiosus_distribution_%28colored%29.png",
+  "_score": 1
+}

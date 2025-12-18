@@ -1,0 +1,26 @@
+{
+  "id": "nyctimene-masalai",
+  "name": "Nyctimene masalai",
+  "scientificName": "Nyctimene masalai",
+  "wikibase_item": "Q1767865",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767865",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demonic_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The demonic tube-nosed fruit bat is a species of bat in the family Pteropodidae. It is endemic to Papua New Guinea. The holotype specimen was collected in 1979 on New Ireland, in the Bismarck Archipelago. It was described as a new species in 1983. The range of the species may extend to other islands, however the extent of the range is not presently known.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Demonic_Tube-nosed_Fruit_Bat_area.png",
+  "_score": 1
+}

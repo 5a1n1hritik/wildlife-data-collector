@@ -1,0 +1,25 @@
+{
+  "id": "zaglossus-bartoni",
+  "name": "Zaglossus bartoni",
+  "scientificName": "Zaglossus bartoni",
+  "wikibase_item": "Q809557",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 784836,
+      "id": "Q784836"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q809557",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_long-beaked_echidna"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern long-beaked echidna, also called Barton's long-beaked echidna, is one of three species from the genus Zaglossus to occur in New Guinea. It is found mainly in the eastern half at elevations between 2,000 and 3,000 metres.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zaglossus_bartoni_-_MUSE.JPG"
+}

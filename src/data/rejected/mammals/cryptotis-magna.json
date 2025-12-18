@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-magna",
+  "name": "Big Mexican small-eared shrew",
+  "scientificName": "Cryptotis magna",
+  "wikibase_item": "Q307292",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307292",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_Mexican_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big Mexican small-eared shrew is a species of mammal in the family Soricidae. It is endemic to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Big_Mexican_Small-eared_Shrew_area.png",
+  "_score": 1
+}

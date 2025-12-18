@@ -1,0 +1,25 @@
+{
+  "id": "cerdocyon-thous",
+  "name": "crab-eating fox",
+  "scientificName": "Cerdocyon thous",
+  "wikibase_item": "Q321376",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2946611,
+      "id": "Q2946611"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q321376",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crab-eating_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crab-eating fox, also known as the forest dog, wood fox, bushfox or maikong, is an extant species of medium-sized canid endemic to the central part of South America since at least the Pleistocene epoch. Like South American foxes, which are in the genus Lycalopex, it is not closely related to true foxes. Cerdocyon comes from the Greek words kerdo and kyon (dog) referring to the dog- and fox-like characteristics of this animal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Crab-eating_Fox_%28cropped%29.JPG"
+}

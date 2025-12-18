@@ -1,0 +1,26 @@
+{
+  "id": "tamias-quadrivittatus",
+  "name": "Tamias quadrivittatus",
+  "scientificName": "Tamias quadrivittatus",
+  "wikibase_item": "Q1769110",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769110",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colorado_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Colorado chipmunk is a species of chipmunk in the squirrel family Sciuridae. It is endemic to Colorado, Utah, Arizona and New Mexico in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CHIPMUNK%2C_COLORADO_%28Tamas_quadrivittatu%29_%288-25-12%29_dunton_meadow%2C_near_lizard_head%2C_dolores_co%2C_co_-01_%287903975866%29.jpg",
+  "_score": 1
+}

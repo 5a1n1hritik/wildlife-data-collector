@@ -1,0 +1,25 @@
+{
+  "id": "pseudantechinus-macdonnellensis",
+  "name": "Fat-tailed False Antechinus",
+  "scientificName": "Pseudantechinus macdonnellensis",
+  "wikibase_item": "Q133197",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409297,
+      "id": "Q1409297"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133197",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fat-tailed_false_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fat-tailed false antechinus, also called the fat-tailed pseudantechinus and red-eared antechinus, is a member of the order Dasyuromorphia. It is an inhabitant of western and central Australia. Its species name, macdonnellensis, refers to the MacDonnell Ranges near Alice Springs, where it was first discovered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fat-tailed_False_Antechinus_area.png"
+}

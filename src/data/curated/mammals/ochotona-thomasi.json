@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-thomasi",
+  "name": "Thomas's pika",
+  "scientificName": "Ochotona thomasi",
+  "wikibase_item": "Q311595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q311595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's pika, also known as the Thomas-pika, is a species of small mammal in the pika family, Ochotonidae. The fur on its upper body is reddish brown in summer, and mouse grey in winter. It is a generalist herbivore threatened by habitat loss, being found on isolated peaks of the eastern Qilian Mountains in Qinghai, Gansu, and northwestern Sichuan, in China. The International Union for Conservation of Nature Red List of Endangered Species assessed the animal as insufficiently known in 1994, as near threatened in 1996, and as a species of least concern in 2008.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Thomas%27s_Pika_area.png",
+  "_score": 4
+}

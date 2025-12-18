@@ -1,0 +1,26 @@
+{
+  "id": "philander-vossi",
+  "name": "Philander vossi",
+  "scientificName": "Philander vossi",
+  "wikibase_item": "Q125492674",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125492674",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern four-eyed opossum is a species of opossum from Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Philander_vossi_58242502.jpg",
+  "_score": 1
+}

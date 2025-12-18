@@ -1,0 +1,25 @@
+{
+  "id": "artibeus-phaeotis",
+  "name": "Pygmy Fruit-eating Bat",
+  "scientificName": "Artibeus phaeotis",
+  "wikibase_item": "Q244135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy fruit-eating bat is a bat of the family Phyllostomidae. The specific name phaeotis is of Greek derivation, coming from the word phaios meaning dusky, referring to their dusky gray coloration.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Artibeus_phaeotis.jpg"
+}

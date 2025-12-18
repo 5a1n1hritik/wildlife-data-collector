@@ -1,0 +1,26 @@
+{
+  "id": "nephelomys-pectoralis",
+  "name": "Nephelomys pectoralis",
+  "scientificName": "Nephelomys pectoralis",
+  "wikibase_item": "Q16756171",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16756171",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_pectoralis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys pectoralis is a species of rodent in the genus Nephelomys of family Cricetidae. Its type locality is 40 miles (64 km) west of the city of Popayán, Cauca Department, Colombia, at an altitude of 10,340 feet (3,150 m). American zoologist Joel Asaph Allen first described it in 1912 on the basis of 112 specimens from several locations in the Cordillera Occidental. He classified it as a species of Oryzomys, Oryzomys pectoralis, but later subsumed into the species Oryzomys albigularis. When that species was transferred to the new genus Nephelomys in 2006, N. pectoralis was recognized as a separate species.",
+  "image": null,
+  "_score": 1
+}

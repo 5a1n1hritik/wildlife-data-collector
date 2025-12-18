@@ -1,0 +1,26 @@
+{
+  "id": "melonomys-robustulus",
+  "name": "Melonomys robustulus",
+  "scientificName": "Melonomys robustulus",
+  "wikibase_item": "Q41165967",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155474,
+      "id": "Q41155474"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165967"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

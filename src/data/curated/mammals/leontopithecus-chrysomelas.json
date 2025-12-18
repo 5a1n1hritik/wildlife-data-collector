@@ -1,0 +1,26 @@
+{
+  "id": "leontopithecus-chrysomelas",
+  "name": "golden-headed lion tamarin",
+  "scientificName": "Leontopithecus chrysomelas",
+  "wikibase_item": "Q775442",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857486,
+      "id": "Q857486"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q775442",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-headed_lion_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-headed lion tamarin, also the golden-headed tamarin, is a lion tamarin endemic to Brazil. It is found only in the lowland and premontane tropical forest fragments in the state of Bahia, and therefore is considered to be an endangered species. It lives at heights of 3–10 metres (9.8–32.8 ft). Its preferred habitat is within mature forest, but with habitat destruction this is not always the case. Several sources seem to have different information on the number of individuals within a group, and the type of social system that may be apparent. The golden-headed lion tamarin lives within group sizes ranging from 2 to 11 individuals, with the average size ranging from 4 to 7. According to various sources, the group may consist of two adult males, one adult female, and any immature individuals, one male and one female and any immature individuals, or there may be one producing pair and a varying number of other group members, usually offspring from previous generations. There is not much known on its mating system, but according to different sources, and information on the possible social groups, it can be assumed that some may practice monogamous mating systems, and some may practice polyandrous mating systems. Both males and females invest energy in caring for the young, and all members of the group also help with juvenile care.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Golden-headed_Lion_Tamarin_095.jpg",
+  "_score": 4
+}

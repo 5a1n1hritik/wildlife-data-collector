@@ -1,0 +1,26 @@
+{
+  "id": "hapalemur-gilberti",
+  "name": "Hapalemur gilberti",
+  "scientificName": "Hapalemur gilberti",
+  "wikibase_item": "Q1523903",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544028,
+      "id": "Q544028"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1523903",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_lesser_bamboo_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern lesser bamboo lemur, also known as the gray bamboo lemur, the gray gentle lemur, and the Mahajanga lemur is a small lemur endemic to Madagascar, with three known subspecies. As its name suggests, the eastern lesser bamboo lemur feeds mainly on bamboo. The lemurs of the genus Hapalemur have more manual dexterity and hand–eye coordination than most lemurs. They are vertical climbers and jump from stalk to stalk in thick bamboo forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eastern_lesser_bamboo_lemur.jpg",
+  "_score": 2
+}

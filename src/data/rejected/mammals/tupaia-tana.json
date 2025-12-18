@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-tana",
+  "name": "Large treeshrew",
+  "scientificName": "Tupaia tana",
+  "wikibase_item": "Q657384",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q657384",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large treeshrew is a treeshrew species within the Tupaiidae. It is native to Sumatra and adjacent small islands, as well as in the lowlands and hills of Borneo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tupaia_tana_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02515.JPG",
+  "_score": 1
+}

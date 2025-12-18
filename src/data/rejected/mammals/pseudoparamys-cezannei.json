@@ -1,0 +1,28 @@
+{
+  "id": "pseudoparamys-cezannei",
+  "name": "Pseudoparamys cezannei",
+  "scientificName": "Pseudoparamys cezannei",
+  "wikibase_item": "Q7255229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21078783,
+      "id": "Q21078783"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7255229",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corbarimys_cezannei"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Corbarimys cezannei, formerly Pseudoparamys cezannei, is a species of extinct rodent in family Ischyromyidae. It is named after French Post-Impressionist painter Paul Cézanne.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

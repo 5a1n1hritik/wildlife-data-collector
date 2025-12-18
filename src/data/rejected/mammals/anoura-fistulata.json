@@ -1,0 +1,26 @@
+{
+  "id": "anoura-fistulata",
+  "name": "tube-lipped nectar bat",
+  "scientificName": "Anoura fistulata",
+  "wikibase_item": "Q760581",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q760581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tube-lipped_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tube-lipped nectar bat is a bat from Ecuador. It was described in 2005. It has a remarkably long tongue, which it uses to drink nectar. It additionally consumes pollen and insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Anoura_fistulata_map.svg/500px-Anoura_fistulata_map.svg.png",
+  "_score": 1
+}

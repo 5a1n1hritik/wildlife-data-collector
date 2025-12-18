@@ -1,0 +1,28 @@
+{
+  "id": "otocyon-megalotis",
+  "name": "Otocyon megalotis",
+  "scientificName": "Otocyon megalotis",
+  "wikibase_item": "Q200400",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10803425,
+      "id": "Q10803425"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q200400",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bat-eared_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bat-eared fox is a species of fox found on the African savanna. It is the only extant species of the genus Otocyon, and is the sister species to all other members of the tribe Vulpini. Fossil records indicate this canid first appeared during the middle Pleistocene. There are two separate populations of the bat-eared fox, each of which makes up a subspecies. The bat referred to in its colloquial name is possibly the Egyptian slit-faced bat, which is abundant in the region and has very large ears. Other vernacular names include big-eared fox, black-eared fox, long-eared fox, Delalande's fox, cape fox, and motlosi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Otocyon_megalotis_-_Etosha_2014.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sorex-roboratus",
+  "name": "Flat-skulled shrew",
+  "scientificName": "Sorex roboratus",
+  "wikibase_item": "Q1766534",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766534",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flat-skulled_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The flat-skulled shrew is a species of mammal in the family Soricidae. It is found in Mongolia, China and Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flat-skulled_Shrew_area.png",
+  "_score": 1
+}

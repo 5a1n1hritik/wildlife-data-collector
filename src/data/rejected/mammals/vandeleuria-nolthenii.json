@@ -1,0 +1,26 @@
+{
+  "id": "vandeleuria-nolthenii",
+  "name": "Nolthenius's Long-tailed Climbing Mouse",
+  "scientificName": "Vandeleuria nolthenii",
+  "wikibase_item": "Q1768897",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767773,
+      "id": "Q767773"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768897",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nolthenius's_long-tailed_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nolthenius's long-tailed climbing mouse, also known as Sri Lanka highland tree mouse or Podi-gas-miya, is a species of rodent in the family Muridae. The species is endemic to the highlands of Sri Lanka. It is a nocturnal arboreal mouse, which is named after A. C. Tutein-Nolthenius, an amateur zoologist who collected the first specimens in 1929.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Vandeleuria_nolthenii_Range_Map.png",
+  "_score": 1
+}

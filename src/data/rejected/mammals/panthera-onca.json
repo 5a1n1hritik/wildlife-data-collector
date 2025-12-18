@@ -1,0 +1,26 @@
+{
+  "id": "panthera-onca",
+  "name": "jaguar",
+  "scientificName": "Onca",
+  "wikibase_item": "Q35694",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 127960,
+      "id": "Q127960"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q35694",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaguar"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The jaguar is a large cat species and the only living member of the genus Panthera that is native to the Americas. With a body length of up to 1.85 m and a weight of up to 158 kg (348 lb), it is the biggest cat species in the Americas and the third largest in the world. Its distinctively marked coat features pale yellow to tan colored fur covered by spots that transition to rosettes on the sides, although a melanistic black coat appears in some individuals. The jaguar's powerful bite allows it to pierce the carapaces of turtles and tortoises, and to employ an unusual killing method: it bites directly through the skull of mammalian prey between the ears to deliver a fatal blow to the brain.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg",
+  "_score": 2
+}

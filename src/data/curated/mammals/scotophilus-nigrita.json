@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-nigrita",
+  "name": "Schreber's Yellow Bat",
+  "scientificName": "Scotophilus nigrita",
+  "wikibase_item": "Q1831989",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831989",
+    "wikipedia": "https://en.wikipedia.org/wiki/Schreber's_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Schreber's yellow bat or the giant house bat, is a species of vesper bat. It is found in Benin, Democratic Republic of the Congo, Ivory Coast, Ghana, Kenya, Malawi, Mozambique, Nigeria, Senegal, Tanzania, Togo, and Zimbabwe. Its natural habitats are subtropical or tropical moist lowland forests, dry savanna, and moist savanna. It is an uncommon species and its biology is poorly known. It was first described in 1774 by the German naturalist Johann Christian Daniel von Schreber, who named it Vespertilio nigrita. It was later transferred to the genus Scotophilus, making it Scotophilus nigrita.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vespertilio_nigrita.jpg",
+  "_score": 3
+}

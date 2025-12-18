@@ -1,0 +1,25 @@
+{
+  "id": "chaetodipus-baileyi",
+  "name": "Bailey's pocket mouse",
+  "scientificName": "Chaetodipus baileyi",
+  "wikibase_item": "Q153608",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153608",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bailey's_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bailey's pocket mouse is a species of rodent of the subfamily Perognathinae, family Heteromyidae. It is found in Baja California, Sinaloa and Sonora in Mexico and in California, Arizona and New Mexico in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Chaetodipus_baileyi.jpg"
+}

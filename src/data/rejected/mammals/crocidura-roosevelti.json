@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-roosevelti",
+  "name": "Roosevelt's Shrew",
+  "scientificName": "Crocidura roosevelti",
+  "wikibase_item": "Q1101775",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1101775",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roosevelt's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Roosevelt's shrew is a species of mammal in the family Soricidae. It is found in Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Rwanda, Tanzania, and Uganda. Its natural habitat is moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Roosevelt%27s_Shrew_area.png",
+  "_score": 2
+}

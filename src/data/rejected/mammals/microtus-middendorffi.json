@@ -1,0 +1,26 @@
+{
+  "id": "microtus-middendorffi",
+  "name": "Microtus middendorffi",
+  "scientificName": "Microtus middendorffi",
+  "wikibase_item": "Q50407596",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50407596",
+    "wikipedia": "https://en.wikipedia.org/wiki/Middendorff's_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Middendorff's vole is a species of rodent in the family Cricetidae. It is found only in Russia, most commonly north Siberia.",
+  "image": null,
+  "_score": 0
+}

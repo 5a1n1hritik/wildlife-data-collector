@@ -1,0 +1,26 @@
+{
+  "id": "musonycteris-harrisoni",
+  "name": "Banana bat",
+  "scientificName": "Musonycteris harrisoni",
+  "wikibase_item": "Q209203",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10795558,
+      "id": "Q10795558"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209203",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banana_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banana bat is an endangered species of bat in the family Phyllostomidae. It is also commonly known as the trumpet-nosed bat or the Colima long-nosed bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Distribution_of_Musonycteris_harrisoni.png",
+  "_score": 1
+}

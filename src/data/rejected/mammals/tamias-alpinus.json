@@ -1,0 +1,26 @@
+{
+  "id": "tamias-alpinus",
+  "name": "Tamias alpinus",
+  "scientificName": "Tamias alpinus",
+  "wikibase_item": "Q1766259",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766259",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpine_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The alpine chipmunk is a species of chipmunk native to the high elevations of the Sierra Nevada of California. No significant threats to the species are known.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Alpine_chipmunk_%28Tamias_alpinus%29.jpg",
+  "_score": 2
+}

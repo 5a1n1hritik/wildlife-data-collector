@@ -1,0 +1,25 @@
+{
+  "id": "bassariscus-sumichrasti",
+  "name": "Bassariscus sumichrasti",
+  "scientificName": "Bassariscus sumichrasti",
+  "wikibase_item": "Q838840",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791240,
+      "id": "Q791240"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q838840",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cacomistle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cacomistle, also spelled cacomixtle, is a primarily nocturnal, arboreal, omnivorous member of the carnivoran family Procyonidae. Depending on the location, its preferred habitats are humid and tropical evergreen jungle and montane cloud forests; seasonally, it may venture into drier, deciduous forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bassariscus_sumichrasti.jpg"
+}

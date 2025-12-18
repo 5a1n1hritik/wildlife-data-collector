@@ -1,0 +1,26 @@
+{
+  "id": "echymipera-kalubu",
+  "name": "Echymipera kalubu",
+  "scientificName": "Echymipera kalubu",
+  "wikibase_item": "Q194229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668149,
+      "id": "Q668149"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194229",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_echymipera"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common echymipera, or common spiny bandicoot, is a bandicoot. It is long-snouted even by bandicoot standards. The upper parts are a coarse reddish-brown, flecked with spiny buff and black hairs. The tail is short and almost hairless. Length varies between 30 and 40 cm, with the tail accounting for an additional 8 to 10 cm ; the weight is from 0.6 to 2 kg.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Common_Spiny_Bandicoot_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-apollinaris",
+  "name": "Sylvilagus apollinaris",
+  "scientificName": "Sylvilagus apollinaris",
+  "wikibase_item": "Q40697669",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40697669",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bogota_tapeti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bogota tapeti is a species of cottontail rabbit related to the common tapeti. It is endemic to a region south of the Isthmus of Panama, generally described as \"northern Colombia\". Previously a subspecies of either the common tapeti or Andean tapeti, it was split and considered a separate species in 2017. Later morphological evidence was examined that supported its separation from S. brasilensis.",
+  "image": null,
+  "_score": 1
+}

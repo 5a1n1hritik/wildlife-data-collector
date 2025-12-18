@@ -1,0 +1,26 @@
+{
+  "id": "phyllotis-gerbillus",
+  "name": "Phyllotis gerbillus",
+  "scientificName": "Phyllotis gerbillus",
+  "wikibase_item": "Q28174502",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28174502",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerbil_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gerbil leaf-eared mouse is a species of rodent in the family Cricetidae.\nIt is found only in Peru.",
+  "image": null,
+  "_score": 0
+}

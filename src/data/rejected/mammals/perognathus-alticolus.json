@@ -1,0 +1,26 @@
+{
+  "id": "perognathus-alticolus",
+  "name": "Perognathus alticola",
+  "scientificName": "Perognathus alticolus",
+  "wikibase_item": "Q246177",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q246177",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-eared_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-eared pocket mouse is a species of rodent in the family Heteromyidae. It is endemic to the San Bernardino Mountains and the Tehachapi Mountains of southern California in the United States. There are two subspecies of P. alticola in California, P. a. alticola and P. a. inexpectatus, both of which are considered species of special concern by the California Department of Fish and Wildlife.",
+  "image": null,
+  "_score": 0
+}

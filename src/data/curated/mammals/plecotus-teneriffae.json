@@ -1,0 +1,25 @@
+{
+  "id": "plecotus-teneriffae",
+  "name": "Canary big-eared bat",
+  "scientificName": "Plecotus teneriffae",
+  "wikibase_item": "Q123100",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123100",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canary_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Canary long-eared bat, also known as the Canary big-eared bat or Tenerife long-eared bat, is a species of vesper bat endemic to the Canary Islands. According to the IUCN, it is critically endangered. It feeds mainly on moths. Roosting sites include caves, lava tubes and abandoned buildings.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Murci%C3%A9lago_Orejudo_Canario_-_Aar%C3%B3n_Rodr%C3%ADguez_D%C3%ADaz.jpg"
+}

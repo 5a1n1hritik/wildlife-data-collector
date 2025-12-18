@@ -1,0 +1,25 @@
+{
+  "id": "thomomys-umbrinus",
+  "name": "Southern pocket gopher",
+  "scientificName": "Thomomys umbrinus",
+  "wikibase_item": "Q45589",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1094704,
+      "id": "Q1094704"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45589",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern pocket gopher is a species of rodent in the family Geomyidae. It is found in Mexico and the United States, usually in high altitude grassland and shrubland. It feeds on plant material and has an extensive burrow above which is a large heap of earth on the surface of the ground.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Thomomys_umbrinus_imported_from_iNaturalist_photo_7206141_on_28_January_2020.jpg"
+}

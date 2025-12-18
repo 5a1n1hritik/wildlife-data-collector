@@ -1,0 +1,26 @@
+{
+  "id": "gymnobelideus-leadbeateri",
+  "name": "Leadbeater's possum",
+  "scientificName": "Gymnobelideus leadbeateri",
+  "wikibase_item": "Q301042",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10763367,
+      "id": "Q10763367"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301042",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leadbeater's_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Leadbeater's possum is a critically endangered possum largely restricted to small pockets of alpine ash, mountain ash, and snow gum forests in the Central Highlands of Victoria, Australia, north-east of Melbourne. In June 2025 it was reported that an image of a sole possum was recorded on a camera trap in October 2024 near Yarrangobilly Caves, Southern NSW, within the Kosciuszko National Park. It is primitive, relict, and non-gliding, and, as the only species in the petaurid genus Gymnobelideus, represents an ancestral form. Formerly, Leadbeater's possums were moderately common within the very small areas they inhabited; their requirement for year-round food supplies and tree-holes to take refuge in during the day restricts them to mixed-age wet sclerophyll forest with a dense mid-story of Acacia. The species was named in 1867 after John Leadbeater, the then taxidermist at the Museum Victoria. They also go by the common name of fairy possum. On 2 March 1971, the State of Victoria made the Leadbeater's possum its faunal emblem.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Leadbeater%27s_Possum_02_Pengo.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-guadeloupensis",
+  "name": "Guadeloupe big brown bat",
+  "scientificName": "Eptesicus guadeloupensis",
+  "wikibase_item": "Q303189",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303189",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guadeloupe_big_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guadeloupe big brown bat is a species of vesper bat. It is found only on the island of Guadeloupe. It is one of the eleven species of bat found on Guadeloupe, and one of three that are endemic.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "abrothrix-jelskii",
+  "name": "Ornate Akodont",
+  "scientificName": "Abrothrix jelskii",
+  "wikibase_item": "Q305851",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305851",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrothrix_jelskii"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix jelskii, also known as Jelski's Altiplano mouse, Jelski's grass mouse, or the ornate akodont, is a species of rodent in the genus Abrothrix of family Cricetidae. It is found in the altiplano habitat of the Andes from central Peru through Bolivia into northwestern Argentina. Populations classified under A. jelskii include more than one species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Abrothrix_jelskii_186917554_%28cropped%29.jpg",
+  "_score": 2
+}

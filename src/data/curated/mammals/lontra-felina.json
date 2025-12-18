@@ -1,0 +1,26 @@
+{
+  "id": "lontra-felina",
+  "name": "Marine otter",
+  "scientificName": "Lontra felina",
+  "wikibase_item": "Q644224",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1777275,
+      "id": "Q1777275"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q644224",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marine_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The marine otter is a rare and relatively unknown South American mammal of the weasel family (Mustelidae). The scientific name means \"feline otter\", and in Spanish, the marine otter is also often referred to as gato marino: \"marine cat\". The marine otter only lives in saltwater, coastal environments and rarely ventures into fresh water or estuarine habitats. This saltwater exclusivity is unlike most other otter species, except for the almost fully aquatic sea otter of the North Pacific.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Marine_otter_%28Lontra_felina%29_Chiloe.jpg",
+  "_score": 3
+}

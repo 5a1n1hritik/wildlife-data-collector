@@ -1,0 +1,26 @@
+{
+  "id": "galago-matschiei",
+  "name": "Dusky bushbaby",
+  "scientificName": "Galago matschiei",
+  "wikibase_item": "Q917099",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q917099",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky bushbaby is a species of primate in the family Galagidae. It is also known as Matschie's galago, in honour of the German zoologist Paul Matschie, curator of mammals at the Museum für Naturkunde in Berlin. Native to tropical Central Africa, it is found in forests in Burundi, Rwanda, Democratic Republic of the Congo and Uganda. The species is small with a long tail, and has an arboreal, nocturnal and omnivorous lifestyle.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Galago_matschiei_distribution.svg/960px-Galago_matschiei_distribution.svg.png",
+  "_score": 2
+}

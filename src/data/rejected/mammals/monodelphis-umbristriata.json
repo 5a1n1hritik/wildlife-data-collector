@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-umbristriata",
+  "name": "Red three-striped opossum",
+  "scientificName": "Monodelphis umbristriata",
+  "wikibase_item": "Q194463",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194463",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_three-striped_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern three-striped opossum is an opossum species from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cu%C3%ADca_de_tr%C3%AAs_listras_-_Monodelphis_americana.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "murexia-longicaudata",
+  "name": "Short-furred dasyure",
+  "scientificName": "Murexia longicaudata",
+  "wikibase_item": "Q1353998",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1980545,
+      "id": "Q1980545"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1353998",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-furred_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-furred dasyure, also known as the short-haired marsupial mouse, is a member of the order Dasyuromorphia. It was once recognised as the only species in the genus Murexia, but now five species are recognised. It lives in Papua, Indonesia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Murexia_longicaudata.jpg",
+  "_score": 1
+}

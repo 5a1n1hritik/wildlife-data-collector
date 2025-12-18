@@ -1,0 +1,26 @@
+{
+  "id": "fukomys-hanangensis",
+  "name": "Fukomys hanangensis",
+  "scientificName": "Fukomys hanangensis",
+  "wikibase_item": "Q29650861",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29650861",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fukomys_hanangensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hanang mole-rat  is a species of mole rat. It was discovered in 2017 in Tanzania.",
+  "image": null,
+  "_score": 0
+}

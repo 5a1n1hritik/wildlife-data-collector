@@ -1,0 +1,26 @@
+{
+  "id": "phalanger-vestitus",
+  "name": "Stein's cuscus",
+  "scientificName": "Phalanger vestitus",
+  "wikibase_item": "Q209780",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209780",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stein's_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stein's cuscus is a species of marsupial in the family Phalangeridae. It is found in Indonesia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Stein%27s_Cuscus_imported_from_iNaturalist_photo_13554259_on_1_January_2023.jpg",
+  "_score": 1
+}

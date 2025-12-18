@@ -1,0 +1,25 @@
+{
+  "id": "arctocephalus-forsteri",
+  "name": "Arctocephalus forsteri",
+  "scientificName": "Arctocephalus forsteri",
+  "wikibase_item": "Q832379",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q832379",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arctocephalus_forsteri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Arctocephalus forsteri is a species of fur seal found mainly around southern Australia and New Zealand. The name New Zealand fur seal is used by English speakers in New Zealand; kekeno is used in the Māori language. As of 2014, the common name long-nosed fur seal has been proposed for the population of seals inhabiting Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/New_Zealand_fur_seal_%28Arctocephalus_forsteri%29_male_Kangaroo_Island.jpg"
+}

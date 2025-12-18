@@ -1,0 +1,26 @@
+{
+  "id": "mormopterus-loriae",
+  "name": "Mormopterus loriae",
+  "scientificName": "Mormopterus loriae",
+  "wikibase_item": "Q2144109",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2144109",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_loriae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ozimops loriae is a species of bat found in Australia and Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

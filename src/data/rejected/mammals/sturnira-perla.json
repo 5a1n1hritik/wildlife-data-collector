@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-perla",
+  "name": "Sturnira perla",
+  "scientificName": "Sturnira perla",
+  "wikibase_item": "Q16611010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16611010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturnira_perla"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sturnira perla is a species of yellow-shouldered bat found in Ecuador.",
+  "image": null,
+  "_score": 0
+}

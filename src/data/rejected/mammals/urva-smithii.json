@@ -1,0 +1,26 @@
+{
+  "id": "urva-smithii",
+  "name": "Urva smithii",
+  "scientificName": "Urva smithii",
+  "wikibase_item": "Q99217640",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99217654,
+      "id": "Q99217654"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99217640",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruddy_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ruddy mongoose is a species of mongoose native to the forests of India and Sri Lanka. It is classified as least concern in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ruddy-mongoose.jpg",
+  "_score": 1
+}

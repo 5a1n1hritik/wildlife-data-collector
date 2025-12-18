@@ -1,0 +1,28 @@
+{
+  "id": "bettongia-gaimardi",
+  "name": "Bettongia gaimardi",
+  "scientificName": "Bettongia gaimardi",
+  "wikibase_item": "Q209652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 945387,
+      "id": "Q945387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_bettong"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern bettong, also known as the southern or Tasmanian bettong, is a small, hopping, rat-like mammal native to grassy forests of southeastern Australia and Tasmania. A member of the rat-kangaroo family (Potoroidae), it is active at night and feeds on fungi and plant roots. Like most marsupials, it carries its young in a pouch. The eastern bettong is under pressure by introduced predators and habitat loss. The subspecies on mainland Australia is extinct, but populations of the Tasmanian subspecies have been reintroduced there.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bettongia_gaimardi.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

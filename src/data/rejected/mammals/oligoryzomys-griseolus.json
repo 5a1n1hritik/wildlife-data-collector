@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-griseolus",
+  "name": "Oligoryzomys griseolus",
+  "scientificName": "Oligoryzomys griseolus",
+  "wikibase_item": "Q1767793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_griseolus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys griseolus, also known as the grizzled colilargo or the grayish pygmy rice rat, is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is found in the Andes of Venezuela and nearby Colombia. Its karyotype has 2n = 62 and FNa = 74–76.",
+  "image": null,
+  "_score": 0
+}

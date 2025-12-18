@@ -1,0 +1,25 @@
+{
+  "id": "macroscelides-micus",
+  "name": "Macroscelides micus",
+  "scientificName": "Macroscelides micus",
+  "wikibase_item": "Q17281339",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10789403,
+      "id": "Q10789403"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17281339",
+    "wikipedia": "https://en.wikipedia.org/wiki/Macroscelides_micus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Macroscelides micus is a species of elephant shrew in the family Macroscelididae. It is only found in gravel plains in the Etendeka formation of north-west Namibia. Measuring about 7.3 inches (19 cm) long and weighing less than an ounce, the species is the smallest in the elephant shrew family.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ear-tagged_and_radio-collared_Macroscelides_micus.png"
+}

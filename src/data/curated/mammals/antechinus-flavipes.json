@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-flavipes",
+  "name": "Yellow-footed antechinus",
+  "scientificName": "Antechinus flavipes",
+  "wikibase_item": "Q194981",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194981",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-footed_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-footed antechinus, also known as the mardo, is a shrew-like marsupial found in Australia. One notable feature of the species is its sexual behavior. The male yellow-footed antechinus engages in such frenzied mating that its immune system becomes compromised, resulting in stress-related death before it is one year old.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Yellow-Footed-Antiechinus--antechinus-Flavipes.jpg"
+}

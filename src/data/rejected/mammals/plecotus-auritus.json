@@ -1,0 +1,26 @@
+{
+  "id": "plecotus-auritus",
+  "name": "Plecotus auritus",
+  "scientificName": "Plecotus auritus",
+  "wikibase_item": "Q210708",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210708",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown long-eared bat or common long-eared bat is a small Eurasian insectivorous bat. It has distinctive ears, long and with a distinctive fold. It is extremely similar to the much rarer grey long-eared bat, which was only validated as a distinct species in the 1960s. An adult brown long-eared bat has a body length of 4.5–4.8 cm, a tail of 4.1–4.6 cm, and a forearm length of 4–4.2 cm. The ears are 3.3–3.9 cm in length, and readily distinguish the long-eared bats from most other bat species. They are relatively slow flyers compared to other bat species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Plecotus_auritus_2013-2_%28cropped%29.jpg",
+  "_score": 2
+}

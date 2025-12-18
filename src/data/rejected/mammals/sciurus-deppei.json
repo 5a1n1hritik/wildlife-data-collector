@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-deppei",
+  "name": "Deppe's squirrel",
+  "scientificName": "Sciurus deppei",
+  "wikibase_item": "Q1768414",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deppe's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Deppe's squirrel is a species of tree squirrel in the genus Sciurus native to Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, and Nicaragua.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sciurus_deppei.jpg",
+  "_score": 1
+}

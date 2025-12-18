@@ -1,0 +1,26 @@
+{
+  "id": "diaemus-youngi",
+  "name": "White-winged Vampire Bat",
+  "scientificName": "Diaemus youngi",
+  "wikibase_item": "Q639785",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10755072,
+      "id": "Q10755072"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q639785",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-winged_vampire_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-winged vampire bat, a species of vampire bat, is the only member of the genus Diaemus. They are found from Mexico to northern Argentina and are present on the islands of Trinidad and Margarita Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dyoungi.jpg",
+  "_score": 1
+}

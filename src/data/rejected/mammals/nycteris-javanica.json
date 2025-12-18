@@ -1,0 +1,26 @@
+{
+  "id": "nycteris-javanica",
+  "name": "Javan slit-faced bat",
+  "scientificName": "Nycteris javanica",
+  "wikibase_item": "Q1829712",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829712",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan slit-faced bat is a species of slit-faced bat found on the Kangean Islands of Indonesia, Nusa Penida, Java, and West Timor. The species' population is decreasing.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Naturalis_Biodiversity_Center_-_RMNH.MAM.35299_ven_-_Nycteris_javanica_javanica_-_skin.jpeg",
+  "_score": 1
+}

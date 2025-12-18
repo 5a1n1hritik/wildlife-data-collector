@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-forresti",
+  "name": "Forrest's pika",
+  "scientificName": "Ochotona forresti",
+  "wikibase_item": "Q287788",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q287788",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forrest's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Forrest's pika is a species of mammal in the pika family, Ochotonidae. It is found in Bhutan, China, India, and Myanmar. The summer dorsal pelage and ventral pelage are dark rufous or blackish brown, and the winter dorsal pelage is a grayish brown, slightly lighter in tone than the ventral pelage. It is a generalist herbivore. It was assessed by the IUCN Red List of Endangered Species as insufficiently known in 1994, as near threatened in 1996, and re-assessed in 2008 as a species of least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ochotona_forresti.png",
+  "_score": 3
+}

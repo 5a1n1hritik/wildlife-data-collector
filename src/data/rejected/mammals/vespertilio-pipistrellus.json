@@ -1,0 +1,26 @@
+{
+  "id": "vespertilio-pipistrellus",
+  "name": "Vespertilio pipistrellus",
+  "scientificName": "Vespertilio pipistrellus",
+  "wikibase_item": "Q106448043",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106448043"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

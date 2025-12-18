@@ -1,0 +1,26 @@
+{
+  "id": "echymipera-clara",
+  "name": "Echymipera clara",
+  "scientificName": "Echymipera clara",
+  "wikibase_item": "Q194904",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668149,
+      "id": "Q668149"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194904",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clara's_echymipera"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Clara's echymipera, or Clara's spiny bandicoot or white-lipped bandicoot, is a species of marsupial in the family Peramelidae. It is found in West Papua, Indonesia and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Clara%27s_Spiny_Bandicoot_area.png",
+  "_score": 2
+}

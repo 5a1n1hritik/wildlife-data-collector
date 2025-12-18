@@ -1,0 +1,25 @@
+{
+  "id": "indopacetus-pacificus",
+  "name": "Indopacetus pacificus",
+  "scientificName": "Indopacetus pacificus",
+  "wikibase_item": "Q910093",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10772945,
+      "id": "Q10772945"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q910093",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tropical_bottlenose_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tropical bottlenose whale, also known as the Indo-Pacific beaked whale or Longman's beaked whale, was considered to be the world's rarest cetacean until recently, but the spade-toothed whale now holds that position. As of 2010, the species is now known from nearly a dozen strandings and over 65 sightings. This is the only species in the genus Indopacetus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Indopacetus_pacificus_2.jpg"
+}

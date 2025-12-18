@@ -1,0 +1,26 @@
+{
+  "id": "rhynchocyon-udzungwensis",
+  "name": "Grey-faced sengi",
+  "scientificName": "Rhynchocyon udzungwensis",
+  "wikibase_item": "Q1122641",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1122641",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey-faced_sengi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grey-faced sengi is a species of elephant shrew that is endemic to the Udzungwa Mountains of south-central Tanzania. The discovery of the species was announced in January 2008; only 15 species of elephant shrew were known until then, and the last discovery was made more than 120 years ago. As the name implies, the species is characterised by a distinctive grey face and a black rump, as well as being larger than the other species of elephant shrews.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rhynchocyon_udzungwensis_Tanzania_F._Rovero_1.jpg",
+  "_score": 2
+}

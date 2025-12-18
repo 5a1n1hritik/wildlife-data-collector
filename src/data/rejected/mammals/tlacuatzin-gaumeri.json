@@ -1,0 +1,26 @@
+{
+  "id": "tlacuatzin-gaumeri",
+  "name": "Tlacuatzin gaumeri",
+  "scientificName": "Tlacuatzin gaumeri",
+  "wikibase_item": "Q125492700",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816273,
+      "id": "Q19816273"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125492700"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

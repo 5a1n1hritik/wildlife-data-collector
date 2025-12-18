@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-dimissus",
+  "name": "Eptesicus dimissus",
+  "scientificName": "Eptesicus dimissus",
+  "wikibase_item": "Q302000",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302000",
+    "wikipedia": "https://en.wikipedia.org/wiki/Surat_helmeted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Surat helmeted bat is a species of vesper bat. It ranges from Thailand and Laos west to Nepal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Distribution_of_Eptesicus_dimissus.png",
+  "_score": 1
+}

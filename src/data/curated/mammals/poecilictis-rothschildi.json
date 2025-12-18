@@ -1,0 +1,26 @@
+{
+  "id": "poecilictis-rothschildi",
+  "name": "Poecilictis rothschildi",
+  "scientificName": "Poecilictis rothschildi",
+  "wikibase_item": "Q41167271",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157347,
+      "id": "Q41157347"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167271",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saharan_striped_polecat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Saharan striped polecat, also known as the Saharan striped weasel and Libyan striped weasel, is a species of mammal native to northern Africa. It belongs in the family Mustelidae, and debate exists among experts over what genus it belongs to; it is either placed in Ictonyx along with the striped polecat, or as the lone member of a separate genus called Poecilictis. Genetic analysis has shown that its closest living relatives are the striped polecat and African striped weasel. It mainly inhabits dry, steppe-like environments with sparse bush cover along the edges of the Sahara desert and on its mountains, avoiding the most arid regions in its center. Occasionally, it is found in oases, woodlands and cultivated land. As a secretive animal, it has likely been overlooked in parts of its range, and sightings of it are still made in recent years in locations where it has not been recorded before.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Zoology_of_Egypt_Ictonyx_libyca_cropped.jpg",
+  "_score": 3
+}

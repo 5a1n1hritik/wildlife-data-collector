@@ -1,0 +1,26 @@
+{
+  "id": "myotis-dominicensis",
+  "name": "Dominican myotis",
+  "scientificName": "Myotis dominicensis",
+  "wikibase_item": "Q1830238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830238",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominican_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dominican myotis is a species of vesper bat. It is found in Dominica and Guadeloupe.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Distribution_of_Myotis_dominicensis.png",
+  "_score": 1
+}

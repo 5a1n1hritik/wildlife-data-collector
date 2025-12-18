@@ -1,0 +1,26 @@
+{
+  "id": "xerus-rutilus",
+  "name": "Unstriped ground squirrel",
+  "scientificName": "Xerus rutilus",
+  "wikibase_item": "Q1763595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284816,
+      "id": "Q284816"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unstriped_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The unstriped ground squirrel is a species of rodent in the family Sciuridae. It is the only member of the genus Xerus. It is found in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania, and Uganda. Its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Xerus_rutilus.jpg",
+  "_score": 2
+}

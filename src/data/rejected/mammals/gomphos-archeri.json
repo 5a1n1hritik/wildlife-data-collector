@@ -1,0 +1,26 @@
+{
+  "id": "gomphos-archeri",
+  "name": "Gomphos archeri",
+  "scientificName": "Gomphos archeri",
+  "wikibase_item": "Q105054958",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311597,
+      "id": "Q311597"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105054958"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

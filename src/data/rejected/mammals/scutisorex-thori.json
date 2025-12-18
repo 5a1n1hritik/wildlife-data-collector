@@ -1,0 +1,26 @@
+{
+  "id": "scutisorex-thori",
+  "name": "Thor's hero shrew",
+  "scientificName": "Scutisorex thori",
+  "wikibase_item": "Q14283406",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10819100,
+      "id": "Q10819100"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14283406",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thor's_hero_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thor's hero shrew is an extant species of shrew native to the Democratic Republic of the Congo. It and its sister species, the hero shrew, are the only mammal species known to have interlocking vertebrae.",
+  "image": null,
+  "_score": 0
+}

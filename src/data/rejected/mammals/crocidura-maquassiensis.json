@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-maquassiensis",
+  "name": "Makwassie Musk Shrew",
+  "scientificName": "Crocidura maquassiensis",
+  "wikibase_item": "Q306003",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306003",
+    "wikipedia": "https://en.wikipedia.org/wiki/Makwassie_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Makwassie musk shrew is a species of mammal in the family Soricidae. It is found in South Africa, Eswatini, and Zimbabwe. Its natural habitat is rocky areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Makwassie_Musk_Shrew_area.png",
+  "_score": 2
+}

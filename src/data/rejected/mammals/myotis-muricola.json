@@ -1,0 +1,26 @@
+{
+  "id": "myotis-muricola",
+  "name": "Wall-roosting mouse-eared bat",
+  "scientificName": "Myotis muricola",
+  "wikibase_item": "Q1830703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wall-roosting_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The wall-roosting mouse-eared bat, or Nepalese whiskered myotis is a species of vesper bat whose type locality is Nepal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Myoti_murico_060615_7419_cklpa.jpg",
+  "_score": 1
+}

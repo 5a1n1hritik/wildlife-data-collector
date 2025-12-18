@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-geata",
+  "name": "Geata mouse shrew",
+  "scientificName": "Myosorex geata",
+  "wikibase_item": "Q1767427",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767427",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geata_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Geata mouse shrew is a species of mammal in the family Soricidae endemic to Tanzania. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Geata_Mouse_Shrew_area.png",
+  "_score": 2
+}

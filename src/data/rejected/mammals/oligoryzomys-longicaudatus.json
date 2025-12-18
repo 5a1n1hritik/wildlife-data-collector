@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-longicaudatus",
+  "name": "Oligoryzomys longicaudatus",
+  "scientificName": "Oligoryzomys longicaudatus",
+  "wikibase_item": "Q596595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q596595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_longicaudatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys longicaudatus, also known as the long-tailed colilargo or long-tailed pygmy rice rat, is a species of rodent in the genus Oligoryzomys of the family Cricetidae. It is found in the southern Andes of Chile and Argentina, with an outlying population in eastern Argentina. As a common species with a wide range and a stable population, the International Union for Conservation of Nature has rated this rodent as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Raton_colilarga.jpg",
+  "_score": 2
+}

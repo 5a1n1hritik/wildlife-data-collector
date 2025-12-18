@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-belligerator",
+  "name": "Rhinolophus belligerator",
+  "scientificName": "Rhinolophus belligerator",
+  "wikibase_item": "Q48796110",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48796110",
+    "wikipedia": "https://en.wikipedia.org/wiki/Poso_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Poso horseshoe bat or belligerent horseshoe bat is an endangered species of horseshoe bat found only on Sulawesi Island, which is part of Indonesia.",
+  "image": null,
+  "_score": 0
+}

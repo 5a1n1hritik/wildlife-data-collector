@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-maxi",
+  "name": "Javanese shrew",
+  "scientificName": "Crocidura maxi",
+  "wikibase_item": "Q671813",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q671813",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javanese_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javanese shrew is a species of mammal in the family Soricidae. It is native to Indonesia and Timor-Leste. It ranges throughout Java and the Lesser Sunda Islands. It has also been introduced to Ambon Island and the Aru Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Javanese_Shrew_area.png",
+  "_score": 1
+}

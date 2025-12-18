@@ -1,0 +1,26 @@
+{
+  "id": "nephelomys-albigularis",
+  "name": "Nephelomys albigularis",
+  "scientificName": "Nephelomys albigularis",
+  "wikibase_item": "Q24278919",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24278919",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_albigularis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys albigularis, also known as the white-throated oryzomys or Tomes's rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. Described in 1860, it was the first Nephelomys species to be discovered. It was originally described in the defunct genus Hesperomys as Hesperomys albigularis and considered related to the much smaller H. longicaudatus. By 1894, it was placed in Oryzomys, as Oryzomys albigularis, and associated with what is now Nephelomys meridensis. In the early 1960s, the scope of the species was considerably expanded to include most of the species that are now in Nephelomys, as well as a single name, boliviae, that is currently a synonym of Euryoryzomys nitidus. From 1976 on, several of these were reinstated as separate species.",
+  "image": null,
+  "_score": 2
+}

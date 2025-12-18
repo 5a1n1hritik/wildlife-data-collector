@@ -1,0 +1,26 @@
+{
+  "id": "otomops-secundus",
+  "name": "Mantled Mastiff Bat",
+  "scientificName": "Otomops secundus",
+  "wikibase_item": "Q1829403",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829403",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mantled_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mantled mastiff bat is a species of bat in the Molossidae family endemic to Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

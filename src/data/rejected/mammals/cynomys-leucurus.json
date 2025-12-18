@@ -1,0 +1,26 @@
+{
+  "id": "cynomys-leucurus",
+  "name": "White-tailed prairie dog",
+  "scientificName": "Cynomys leucurus",
+  "wikibase_item": "Q585213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 30359,
+      "id": "Q30359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q585213",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-tailed_prairie_dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-tailed prairie dog is found in western Wyoming and western Colorado with small areas in eastern Utah and southern Montana. The largest populations are in Wyoming where they are known colloquially as \"chiselers\". This prairie dog species lives at an elevation between 5,000 and 10,000 feet, generally a higher elevation than other prairie dog species. Its predators include black-footed ferrets, badgers, and golden eagles.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Whitetailedprairiedoghi.jpg",
+  "_score": 2
+}

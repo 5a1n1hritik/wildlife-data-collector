@@ -1,0 +1,26 @@
+{
+  "id": "anourosorex-yamashii",
+  "name": "Anourosorex yamashii",
+  "scientificName": "Anourosorex yamashii",
+  "wikibase_item": "Q112613868",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2300900,
+      "id": "Q2300900"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112613868"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

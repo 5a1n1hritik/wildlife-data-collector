@@ -1,0 +1,26 @@
+{
+  "id": "nyctalus-noctula",
+  "name": "Common noctule",
+  "scientificName": "Nyctalus noctula",
+  "wikibase_item": "Q214846",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q214846",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_noctule"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common noctule is a species of insectivorous bat common throughout Europe, Asia, and North Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Nyctalus_noctula.jpg",
+  "_score": 1
+}

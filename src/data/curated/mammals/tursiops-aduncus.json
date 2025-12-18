@@ -1,0 +1,25 @@
+{
+  "id": "tursiops-aduncus",
+  "name": "Indo-Pacific bottlenose dolphin",
+  "scientificName": "Tursiops aduncus",
+  "wikibase_item": "Q370597",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149069,
+      "id": "Q149069"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q370597",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indo-Pacific_bottlenose_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indo-Pacific bottlenose dolphin is a species of bottlenose dolphin. This dolphin grows to 2.6 m (8.5 ft) long, and weighs up to 230 kg (510 lb). It lives in the waters around India, northern Australia, South China, the Red Sea, and the eastern coast of Africa. Its back is dark grey and its belly is lighter grey or nearly white with grey spots.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Tursiops_aduncus%2C_Port_River%2C_Adelaide%2C_Australia_-_2003.jpg"
+}

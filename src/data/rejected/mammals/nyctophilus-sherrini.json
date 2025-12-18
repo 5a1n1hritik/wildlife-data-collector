@@ -1,0 +1,26 @@
+{
+  "id": "nyctophilus-sherrini",
+  "name": "Tasmanian long-eared bat",
+  "scientificName": "Nyctophilus sherrini",
+  "wikibase_item": "Q2352029",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2352029",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tasmanian_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tasmanian long-eared bat is a species of vesper bat endemic to Tasmania.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Distribution_of_Nyctophilus_sherrini.png",
+  "_score": 1
+}

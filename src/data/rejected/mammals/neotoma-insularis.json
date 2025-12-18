@@ -1,0 +1,26 @@
+{
+  "id": "neotoma-insularis",
+  "name": "Neotoma insularis",
+  "scientificName": "Neotoma insularis",
+  "wikibase_item": "Q47086798",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468544,
+      "id": "Q468544"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47086798",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neotoma_insularis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neotoma insularis, the Angel de la Guarda woodrat, is a species of rodent in the family Cricetidae. It is found in the Mexican state of Baja California on Angel de la Guarda Island.",
+  "image": null,
+  "_score": 0
+}

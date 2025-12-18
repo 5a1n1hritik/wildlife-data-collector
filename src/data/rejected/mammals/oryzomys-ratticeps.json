@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-ratticeps",
+  "name": "Oryzomys ratticeps",
+  "scientificName": "Oryzomys ratticeps",
+  "wikibase_item": "Q18199020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18199020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sooretamys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sooretamys angouya, also known as the rat-headed rice rat, and Paraguayan rice rat, is a rodent species from South America. It is found in northeastern Argentina, southern Brazil and Paraguay in forested areas within the Atlantic Forest and cerrado. Since 2006, it has been classified as the only species in the genus Sooretamys; previously, it was included in the genus Oryzomys. Its taxonomic history has been complex, with the names Oryzomys angouya, Oryzomys buccinatus, and Oryzomys ratticeps in use for various parts of the species at different times. Some variation in its karyotype has been reported, with 2n = 80 to 82 and FN = 88 to 90.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sooretamys_angouya_2_%282%29.png",
+  "_score": 2
+}

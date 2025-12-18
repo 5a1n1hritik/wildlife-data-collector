@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-emmonsae",
+  "name": "Oryzomys emmonsae",
+  "scientificName": "Oryzomys emmonsae",
+  "wikibase_item": "Q27334322",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27334322",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euryoryzomys_emmonsae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Euryoryzomys emmonsae, also known as Emmons' rice rat or Emmons' oryzomys, is a rodent from the Amazon rainforest of Brazil in the genus Euryoryzomys of the family Cricetidae. Initially misidentified as E. macconnelli or E. nitidus, it was formally described in 1998. A rainforest species, it may be scansorial, climbing but also spending time on the ground. It lives only in a limited area south of the Amazon River in the state of Pará, a distribution that is apparently unique among the muroid rodents of the region.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Euryoryzomys_emmonsae_distribution.png",
+  "_score": 2
+}

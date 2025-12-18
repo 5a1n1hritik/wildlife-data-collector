@@ -1,0 +1,26 @@
+{
+  "id": "ursus-malayanus",
+  "name": "Ursus malayanus",
+  "scientificName": "Ursus malayanus",
+  "wikibase_item": "Q109647610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647610",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sun_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sun bear is a bear species in the family Ursidae found in the tropical forests of Southeast Asia. It is the only species in the genus Helarctos and the smallest bear species, standing nearly 70 cm (28 in) at the shoulder and weighing 25–65 kg (55–143 lb). It is stockily built, with large paws, strongly curved claws, small, rounded ears and a short snout. The fur is generally short and jet black, but can vary from grey to red. The sun bear gets its name from its characteristic orange to cream-coloured chest patch.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sun-bear.jpg",
+  "_score": 2
+}

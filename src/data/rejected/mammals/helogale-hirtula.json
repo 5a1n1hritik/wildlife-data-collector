@@ -1,0 +1,26 @@
+{
+  "id": "helogale-hirtula",
+  "name": "Helogale hirtula",
+  "scientificName": "Helogale hirtula",
+  "wikibase_item": "Q307068",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244233,
+      "id": "Q244233"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307068",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_dwarf_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ethiopian dwarf mongoose, also known as the desert dwarf mongoose or Somali dwarf mongoose, is a mongoose native to East Africa, particularly Ethiopia, Kenya, and Somalia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Helogale_hirtula_230649079.jpg",
+  "_score": 1
+}

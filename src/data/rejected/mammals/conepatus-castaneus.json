@@ -1,0 +1,26 @@
+{
+  "id": "conepatus-castaneus",
+  "name": "Conepatus castaneus",
+  "scientificName": "Conepatus castaneus",
+  "wikibase_item": "Q2895311",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1145450,
+      "id": "Q1145450"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2895311"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-tamensis",
+  "name": "Tamá small-eared shrew",
+  "scientificName": "Cryptotis tamensis",
+  "wikibase_item": "Q1769700",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769700",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tam%C3%A1_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tamá small-eared shrew is a species of mammal in the family Soricidae. It is known from the Cordillera Oriental of Colombia and the Páramo de Tamá of western Venezuela, where it has been found primarily in cloud forest at elevations between 2,380 and 3,330 m. Its range includes Venezuela's El Tamá National Park. The closest relatives of the species are C. meridensis and C. thomasi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tama_Small-eared_Shrew_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "talpa-caucasica",
+  "name": "Caucasian mole",
+  "scientificName": "Talpa caucasica",
+  "wikibase_item": "Q736603",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q736603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caucasian_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caucasian mole is a mammal in the family Talpidae that is endemic to the Caucasus Mountains of Russia and Georgia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Talpa_caucasica.jpg",
+  "_score": 1
+}

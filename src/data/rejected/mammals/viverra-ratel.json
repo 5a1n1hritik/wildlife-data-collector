@@ -1,0 +1,26 @@
+{
+  "id": "viverra-ratel",
+  "name": "Viverra ratel",
+  "scientificName": "Viverra ratel",
+  "wikibase_item": "Q122465584",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762710,
+      "id": "Q1762710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122465584",
+    "wikipedia": "https://en.wikipedia.org/wiki/Honey_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The honey badger, also known as the ratel, is a mammal widely distributed across Africa, Southwest Asia, and the Indian subcontinent. It is the only living species in both the genus Mellivora and the subfamily Mellivorinae. It has a fairly long body, with a distinctly thick-set and broad back, and remarkably loose skin, allowing the badger to turn and twist freely within it. The largest terrestrial mustelid in Africa, the honey badger measures 55 to 77 cm long and weighs up to 16 kg (35 lb). Sexual dimorphism has been recorded in this species, with males being larger and heavier than females. It has two pairs of mammae, and an eversible anal pouch.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Honey_Badger.jpg",
+  "_score": 2
+}

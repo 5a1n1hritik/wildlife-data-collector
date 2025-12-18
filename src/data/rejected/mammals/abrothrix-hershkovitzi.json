@@ -1,0 +1,26 @@
+{
+  "id": "abrothrix-hershkovitzi",
+  "name": "Gray Akodont",
+  "scientificName": "Abrothrix hershkovitzi",
+  "wikibase_item": "Q309340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrothrix_illuteus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix illuteus, also known as the gray akodont, gray grass mouse, or gray soft-haired mouse, is a species of small rodent in the genus Abrothrix of family Cricetidae. It is found only in northwestern Argentina.",
+  "image": null,
+  "_score": 0
+}

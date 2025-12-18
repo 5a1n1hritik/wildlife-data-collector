@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-dekeyseri",
+  "name": "Dekeyser's nectar bat",
+  "scientificName": "Lonchophylla dekeyseri",
+  "wikibase_item": "Q1832889",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832889",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dekeyser's_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dekeyser's nectar bat is a bat species found in Brazil and Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lonchophylla_dekeyseri_..JPG",
+  "_score": 1
+}

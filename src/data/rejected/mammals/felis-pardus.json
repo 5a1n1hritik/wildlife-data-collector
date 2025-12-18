@@ -1,0 +1,26 @@
+{
+  "id": "felis-pardus",
+  "name": "Felis pardus",
+  "scientificName": "Felis pardus",
+  "wikibase_item": "Q47450956",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47450956",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopard"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The leopard is one of the five extant cat species in the genus Panthera. It has a pale yellowish to dark golden fur with dark spots grouped in rosettes. Its body is slender and muscular, reaching a length of 92–183 cm (36–72 in) with a 66–102 cm (26–40 in) long tail and a shoulder height of 60–70 cm (24–28 in). Males typically weigh 30.9–72 kg (68–159 lb), and females 20.5–43 kg (45–95 lb).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/African_leopard_male_%28cropped%29.jpg",
+  "_score": 1
+}

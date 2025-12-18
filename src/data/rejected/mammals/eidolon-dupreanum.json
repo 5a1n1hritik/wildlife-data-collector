@@ -1,0 +1,26 @@
+{
+  "id": "eidolon-dupreanum",
+  "name": "Madagascan fruit bat",
+  "scientificName": "Eidolon dupreanum",
+  "wikibase_item": "Q31255",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26347,
+      "id": "Q26347"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31255",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madagascan_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Madagascan fruit bat is a species of bat in the family Pteropodidae. It is endemic to Madagascar and is listed as \"Vulnerable\" by the IUCN because it is hunted as bushmeat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Eidolon_dupreanum%2C_Peyrieras.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "otaria-minor",
+  "name": "Otaria minor",
+  "scientificName": "Otaria minor",
+  "wikibase_item": "Q40550490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817140,
+      "id": "Q19817140"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40550490"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

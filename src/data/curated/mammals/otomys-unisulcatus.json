@@ -1,0 +1,26 @@
+{
+  "id": "otomys-unisulcatus",
+  "name": "Otomys unisulcatus",
+  "scientificName": "Otomys unisulcatus",
+  "wikibase_item": "Q125916466",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125916466",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bush_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bush vlei rat or Karoo bush rat is a species of rodent in the family Muridae. It is found in Namibia and South Africa. Its natural habitat is temperate shrubland. The Karoo rat uses behavioral adaptations to cope with the dry arid climate. It is a medium-sized rodent with a dark pelage on top and lighter underneath. It has light colored feet and a dark tail. The rat may have light colored fur around its eyes and the back of its ears.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bush_Vlei_Rat_%28Myotomys_unisulcatus%29_%2829671525063%29.jpg",
+  "_score": 4
+}

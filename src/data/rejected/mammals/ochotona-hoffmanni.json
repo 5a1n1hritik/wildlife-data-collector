@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-hoffmanni",
+  "name": "Hoffmann's pika",
+  "scientificName": "Ochotona hoffmanni",
+  "wikibase_item": "Q1768523",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768523",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hoffmann's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hoffmann's pika is a species of mammal in the pika family, Ochotonidae, that is endemic to Mongolia. It is currently listed as endangered by the International Union for Conservation of Nature (IUCN).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Hoffmann%27s_Pika_area.png",
+  "_score": 1
+}

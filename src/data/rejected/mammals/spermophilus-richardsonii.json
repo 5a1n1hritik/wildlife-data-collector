@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-richardsonii",
+  "name": "Spermophilus richardsonii",
+  "scientificName": "Spermophilus richardsonii",
+  "wikibase_item": "Q1078572",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1078572",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richardson's_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Richardson's ground squirrel, also known as the dakrat or flickertail, is a North American ground squirrel in the genus Urocitellus. Like a number of other ground squirrels, they are sometimes called prairie dogs or gophers, though the latter name belongs more strictly to the pocket gophers of family Geomyidae, and the former to members of the genus Cynomys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Richardson%27s-Szmurlo.jpg",
+  "_score": 1
+}

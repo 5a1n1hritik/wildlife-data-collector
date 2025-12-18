@@ -1,0 +1,25 @@
+{
+  "id": "tarsius-tumpara",
+  "name": "Siau Island tarsier",
+  "scientificName": "Tarsius tumpara",
+  "wikibase_item": "Q1133505",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133505",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siau_Island_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Siau Island tarsier is a species of tarsier from the tiny volcanic island of Siau in Indonesia. The T. tumpara species is one of 14 species and 7 subspecies in the tarsier family called \"Tarsiidae\". They belong to the Haplorrhini suborder, known as the \"dry-nosed\" primates. The tarsier's eyes are so big that they do not move in its socket and they are almost as big as its brain. Locally in the Siau dialect of Sangir language, the tarsiers are called Tumpara. The name differs from the Sangihe dialect which called tarsiers, Senggasi or Higo, these names are used for the Sangihe tarsier instead.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Siau_Island_Tarsier_-_Tarsius_tumpara_01.jpg"
+}

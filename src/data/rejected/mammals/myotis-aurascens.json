@@ -1,0 +1,26 @@
+{
+  "id": "myotis-aurascens",
+  "name": "Myotis aurascens",
+  "scientificName": "Myotis aurascens",
+  "wikibase_item": "Q2385648",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2385648",
+    "wikipedia": "https://en.wikipedia.org/wiki/David's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "David's myotis is a species of microbat in the Vespertilionidae family native to China, Mongolia, Kazakhstan, and Russia. First identified in 1869 by Wilhelm Peters, it is similar in morphology to species like M. mystacinus, M. ikonnikovi, M. brandtii, and M. sibiricus. It was previously considered to be a subspecies of the whiskered bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Distribution_of_Myotis_davidii.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-cadenai",
+  "name": "Lonchophylla cadenai",
+  "scientificName": "Lonchophylla cadenai",
+  "wikibase_item": "Q2434053",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2434053",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cadena's_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cadena's long-tongued bat is a bat species from Colombia and Ecuador. It was originally described in the genus Lonchophylla, but was moved to Hsunycteris when the latter was erected in 2014.",
+  "image": null,
+  "_score": 0
+}

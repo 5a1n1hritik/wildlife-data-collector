@@ -1,0 +1,26 @@
+{
+  "id": "citellus-fulvus",
+  "name": "Citellus fulvus",
+  "scientificName": "Citellus fulvus",
+  "wikibase_item": "Q40336862",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26156044,
+      "id": "Q26156044"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40336862"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "isoodon-obesulus",
+  "name": "Southern brown bandicoot",
+  "scientificName": "Isoodon obesulus",
+  "wikibase_item": "Q194151",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475031,
+      "id": "Q1475031"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194151",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_brown_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern brown bandicoot is a short-nosed bandicoot, a type of marsupial, found mostly in southern Australia. A subspecies in Western Australia is also known as the quenda in South Western Australia. This subspecies was elevated to species in 2018.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Southern_Brown_Bandicoot_%28Isoodon_obesulus%29_2%2C_Vic%2C_jjron%2C_09.01.2013.jpg",
+  "_score": 1
+}

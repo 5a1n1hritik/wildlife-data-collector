@@ -1,0 +1,26 @@
+{
+  "id": "sorex-caecutiens",
+  "name": "Laxmann's Shrew",
+  "scientificName": "Sorex caecutiens",
+  "wikibase_item": "Q873603",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q873603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laxmann's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Laxmann's shrew, or the masked shrew, is a species of shrew. Its range extends from northern Scandinavia and the Baltic to the Sea of Japan, including Hokkaidō, Sakhalin, and the Korean Peninsula. It favours mountain forests but is sometimes found in tundra and moorland, and also in lowland areas as well. It avoids cultivated land.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lappn%C3%A4bbmus_140621.jpg",
+  "_score": 1
+}

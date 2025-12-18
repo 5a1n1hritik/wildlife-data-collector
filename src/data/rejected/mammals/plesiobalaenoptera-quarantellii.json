@@ -1,0 +1,28 @@
+{
+  "id": "plesiobalaenoptera-quarantellii",
+  "name": "Plesiobalaenoptera quarantellii",
+  "scientificName": "Plesiobalaenoptera quarantellii",
+  "wikibase_item": "Q124605154",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3906651,
+      "id": "Q3906651"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124605154",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plesiobalaenoptera"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Plesiobalaenoptera is a genus of extinct rorqual which existed in Italy during the late Miocene epoch. The type species is P. quarantellii. It is the oldest known rorqual from the Mediterranean basin. Fossils have been found from sediments of the Stirone River in Northern Italy that were deposited during the Tortonian age, around 11 to 7 million years ago.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Plesiobalaenoptera_quarantellii_holotype.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "monophyllus-redmani",
+  "name": "Leach's single leaf bat",
+  "scientificName": "Monophyllus redmani",
+  "wikibase_item": "Q1829768",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1572763,
+      "id": "Q1572763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829768",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leach's_single_leaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Leach's single leaf bat, also known as Greater Antillean long-tongued bat, is a species of bat in the family Phyllostomidae. It is found in the southern Bahamas and in all the Greater Antilles. It forms large colonies, with up to a few hundred thousand individuals, and feeds on a relatively wide variety of food items including pollen, nectar, fruit and insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/MonophyllusRedmaniiFord.jpg",
+  "_score": 1
+}

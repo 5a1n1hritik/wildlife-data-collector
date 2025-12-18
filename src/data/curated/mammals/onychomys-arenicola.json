@@ -1,0 +1,25 @@
+{
+  "id": "onychomys-arenicola",
+  "name": "Chihuahuan Grasshopper Mouse",
+  "scientificName": "Onychomys arenicola",
+  "wikibase_item": "Q943069",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 369761,
+      "id": "Q369761"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q943069",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mearns's_grasshopper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mearns's grasshopper mouse or the Chihuahuan grasshopper mouse is a grasshopper mouse found in southwestern New Mexico, West Texas, and north-central Mexico. They are similar to Onychomys torridus, but differ in karyotype and size. This mouse is smaller in every regard except for the nasal length of the skull.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chihuahuan_grasshopper_mouse.jpg"
+}

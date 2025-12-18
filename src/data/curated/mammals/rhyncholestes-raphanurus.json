@@ -1,0 +1,26 @@
+{
+  "id": "rhyncholestes-raphanurus",
+  "name": "Long-nosed caenolestid",
+  "scientificName": "Rhyncholestes",
+  "wikibase_item": "Q1072880",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18510855,
+      "id": "Q18510855"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1072880",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed caenolestid, also known as the Chilean shrew opossum or long-nosed shrew opossum, is a shrew opossum that occurs in temperate forests of Argentina and southern Chile. It was first described by American zoologist Wilfred Hudson Osgood in 1924. The long-nosed caenolestid resembles Caenolestes species in morphology. It is characterized by a long, pointed snout, small eyes and ears, and one claw on a digit of each of the thin limbs. Little is known of its behavior; it appears to be terrestrial, nocturnal and omnivorous. It prefers cool, moist areas, and has a small distribution. It is classified as near threatened by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Chilean_Caenolestid_area.png",
+  "_score": 4
+}

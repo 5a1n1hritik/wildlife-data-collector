@@ -1,0 +1,26 @@
+{
+  "id": "dremomys-everetti",
+  "name": "Bornean mountain ground squirrel",
+  "scientificName": "Dremomys everetti",
+  "wikibase_item": "Q308784",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909825,
+      "id": "Q909825"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308784",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornean_mountain_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bornean mountain ground squirrel is a species of rodent in the family Sciuridae. The scientific name commemorates British colonial administrator and zoological collector Alfred Hart Everett.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bornean_Mountain_Ground_Squirrel_%28Dremomys_everetti%29_%287113326479%29.jpg",
+  "_score": 1
+}

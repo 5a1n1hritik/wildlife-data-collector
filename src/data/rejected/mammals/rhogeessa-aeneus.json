@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-aeneus",
+  "name": "Yucatan Yellow Bat",
+  "scientificName": "Rhogeessa aeneus",
+  "wikibase_item": "Q618582",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618582",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yucatan_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yucatan yellow bat is a species of bat found in the Yucatán Peninsula in Mexico, and possibly also in Belize and Guatemala. These small insectivorous bats forage on flying insects at dawn and dusk.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Rhogeessa_aeneus.jpg",
+  "_score": 1
+}

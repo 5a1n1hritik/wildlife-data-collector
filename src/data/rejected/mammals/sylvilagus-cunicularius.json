@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-cunicularius",
+  "name": "Mexican cottontail",
+  "scientificName": "Sylvilagus cunicularius",
+  "wikibase_item": "Q1575984",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875386,
+      "id": "Q20875386"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1575984",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexicаn cottontail is a species of cottontail rabbit that is endemic to southern Mexico. Its natural habitats are temperate forests, subtropical or tropical dry forests and pastureland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sylvilagus_cunicularius_287761725.jpg",
+  "_score": 2
+}

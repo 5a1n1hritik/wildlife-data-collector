@@ -1,0 +1,25 @@
+{
+  "id": "catagonus-wagneri",
+  "name": "Chacoan peccary",
+  "scientificName": "Catagonus wagneri",
+  "wikibase_item": "Q1058516",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 836112,
+      "id": "Q836112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1058516",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chacoan_peccary"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chacoan peccary, also called the taguá, is a peccary found in the Gran Chaco of Paraguay, Bolivia, and Argentina. It is the only extant species of genus Catagonus. With a total estimated population of approximately 3,000, it is considered to be an endangered species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catagonus_wagneri_1_-_Phoenix_Zoo.jpg"
+}

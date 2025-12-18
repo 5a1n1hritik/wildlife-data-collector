@@ -1,0 +1,26 @@
+{
+  "id": "plecotus-balensis",
+  "name": "Ethiopian big-eared rat",
+  "scientificName": "Plecotus balensis",
+  "wikibase_item": "Q1831720",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831720",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ethiopian long-eared bat or Ethiopian big-eared bat is a species of long-eared bat in the family Vespertilionidae.",
+  "image": null,
+  "_score": 0
+}

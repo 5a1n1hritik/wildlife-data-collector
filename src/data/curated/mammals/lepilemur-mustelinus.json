@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-mustelinus",
+  "name": "Lepilemur mustelinus",
+  "scientificName": "Lepilemur mustelinus",
+  "wikibase_item": "Q956345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q956345",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weasel_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The weasel sportive lemur, also known as the greater sportive lemur, weasel lemur, or greater weasel lemur, is a species of lemur endemic to Madagascar. Like all members of its genus, it is nocturnal and largely folivorous. Described by Isidore Geoffroy Saint-Hilaire in 1851, it is the type species of genus Lepilemur. It is threatened by habitat loss, climate change and hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lepilemur_mustelinus.jpg",
+  "_score": 3
+}

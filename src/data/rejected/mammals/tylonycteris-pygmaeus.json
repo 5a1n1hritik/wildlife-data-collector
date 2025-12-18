@@ -1,0 +1,26 @@
+{
+  "id": "tylonycteris-pygmaeus",
+  "name": "Pygmy bamboo bat",
+  "scientificName": "Tylonycteris pygmaeus",
+  "wikibase_item": "Q278086",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1065036,
+      "id": "Q1065036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q278086",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_bamboo_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy bamboo bat is a species of vesper bat in the family Vespertilionidae. It is found in Southwest China and was discovered in 2007. The species is around 4 cm (1.6 in) long and weighs between 2.6 and 3.5 g.",
+  "image": null,
+  "_score": 0
+}

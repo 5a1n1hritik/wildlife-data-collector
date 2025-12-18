@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-bergi",
+  "name": "Berg's tuco-tuco",
+  "scientificName": "Ctenomys bergi",
+  "wikibase_item": "Q10750977",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10750977",
+    "wikipedia": "https://en.wikipedia.org/wiki/Berg's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Berg's tuco-tuco is a species of rodent in the family Ctenomyidae, named after the Latvian-Argentine biologist Frederico Guillermo Carlos Berg. It is endemic to northwestern Córdoba Province in central Argentina. Its habitat is grassy areas overlying sand dunes. The species is threatened by the degradation and severe fragmentation of its small habitat.",
+  "image": null,
+  "_score": 2
+}

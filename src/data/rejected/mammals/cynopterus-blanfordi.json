@@ -1,0 +1,26 @@
+{
+  "id": "cynopterus-blanfordi",
+  "name": "Cynopterus blanfordi",
+  "scientificName": "Cynopterus blanfordi",
+  "wikibase_item": "Q50809159",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311701,
+      "id": "Q311701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50809159"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

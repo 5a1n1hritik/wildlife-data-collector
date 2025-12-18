@@ -1,0 +1,26 @@
+{
+  "id": "scotorepens-balstoni",
+  "name": "Western Broad-nosed Bat",
+  "scientificName": "Scotorepens balstoni",
+  "wikibase_item": "Q1832048",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753706,
+      "id": "Q753706"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832048",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inland_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The inland broad-nosed bat is a species of vesper bat. They are endemic to Australia and widespread throughout the inland, especially in arid and semi-arid regions. This insectivorous microbat, measuring 12 centimetres (4.7 in) in length, roosts in tree hollows during the day and forages over woodland and water at night.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Scotorepens_balstoni.JPG",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "urocricetus-kamensis",
+  "name": "Urocricetus kamensis",
+  "scientificName": "Urocricetus kamensis",
+  "wikibase_item": "Q125916357",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125916104,
+      "id": "Q125916104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125916357",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kam_dwarf_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kam dwarf hamster is a species of rodent in the family Cricetidae. It is found only in the mountains of western China where it inhabits grassland, shrubby marshes and steppes. Although it has a limited range, the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\". It was recently moved from the genus Cricetulus to Urocricetus.",
+  "image": null,
+  "_score": 0
+}

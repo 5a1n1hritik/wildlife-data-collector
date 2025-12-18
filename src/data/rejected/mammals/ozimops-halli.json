@@ -1,0 +1,26 @@
+{
+  "id": "ozimops-halli",
+  "name": "Ozimops halli",
+  "scientificName": "Ozimops halli",
+  "wikibase_item": "Q61702674",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 61629169,
+      "id": "Q61629169"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61702674",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_halli"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ozimops halli, also referred to as the Cape York free-tailed bat, is a species of molossid bat found at the Cape York Peninsula in Australia.",
+  "image": null,
+  "_score": 0
+}

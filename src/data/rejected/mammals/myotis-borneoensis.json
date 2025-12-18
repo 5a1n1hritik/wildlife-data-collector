@@ -1,0 +1,26 @@
+{
+  "id": "myotis-borneoensis",
+  "name": "Myotis borneoensis",
+  "scientificName": "Myotis borneoensis",
+  "wikibase_item": "Q81849711",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81849711",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornean_whiskered_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bornean whiskered myotis is a species of vesper bat endemic to Borneo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Distribution_of_Myotis_montivagus.png",
+  "_score": 1
+}

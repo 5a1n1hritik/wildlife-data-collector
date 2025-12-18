@@ -1,0 +1,25 @@
+{
+  "id": "cystophora-cristata",
+  "name": "Cystophora cristata",
+  "scientificName": "Cystophora cristata",
+  "wikibase_item": "Q214287",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817156,
+      "id": "Q19817156"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q214287",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hooded_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hooded seal or bladdernose seal is a large phocid found only in the central and western North Atlantic, ranging from Svalbard in the east to the Gulf of St. Lawrence in the west. The seals are typically silver-grey or white in color, with black spots that vary in size covering most of the body. Hooded seal pups are known as \"blue-backs\" because their coats are blue-grey on the back with whitish bellies. This coat is shed after 14 months of age when the pups molt. It is the only species in the genus Cystophora.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/2016-klappm%C3%BCtzemuseumkoenig.jpg"
+}

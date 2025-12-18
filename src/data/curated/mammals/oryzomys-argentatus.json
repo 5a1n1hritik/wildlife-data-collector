@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-argentatus",
+  "name": "Oryzomys argentatus",
+  "scientificName": "Oryzomys argentatus",
+  "wikibase_item": "Q110266179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110266179",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marsh_rice_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The marsh rice rat is a semiaquatic North American rodent in the family Cricetidae. It usually occurs in wetland habitats, such as swamps and salt marshes. It is found mostly in the eastern and southern United States, from New Jersey and Kansas south to Florida and northeasternmost Tamaulipas, Mexico; its range previously extended further west and north, where it may have been a commensal in corn-cultivating communities. Weighing about 40 to 80 g, the marsh rice rat is a medium-sized rodent that resembles the common black and brown rat. The upperparts are generally gray-brown, but are reddish in many Florida populations. The feet show several specializations for life in the water. The skull is large and flattened, and is short at the front.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Oryzomys_palustris_in_vegetation.jpg",
+  "_score": 4
+}

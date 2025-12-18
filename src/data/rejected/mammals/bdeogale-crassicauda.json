@@ -1,0 +1,26 @@
+{
+  "id": "bdeogale-crassicauda",
+  "name": "Bushy-tailed mongoose",
+  "scientificName": "Bdeogale crassicauda",
+  "wikibase_item": "Q1017414",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1546563,
+      "id": "Q1546563"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1017414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bushy-tailed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bushy-tailed mongoose is a mammal in the family Herpestidae found in central Africa, from southern Kenya to central Mozambique.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bushy-tailed_mongoose_-_Snapshot_Safari_Ruaha1.jpg",
+  "_score": 1
+}

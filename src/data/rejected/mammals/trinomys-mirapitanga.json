@@ -1,0 +1,26 @@
+{
+  "id": "trinomys-mirapitanga",
+  "name": "Dark-caped Atlantic Spiny Rat",
+  "scientificName": "Trinomys mirapitanga",
+  "wikibase_item": "Q1762946",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762946",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark-caped_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark-caped Atlantic spiny rat or Mirapitanga spiny rat, is a spiny rat species from South America. It is found in Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Trinomys_mirapitanga_distribution_%28colored%29.png",
+  "_score": 1
+}

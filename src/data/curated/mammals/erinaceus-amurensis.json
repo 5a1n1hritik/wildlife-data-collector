@@ -1,0 +1,25 @@
+{
+  "id": "erinaceus-amurensis",
+  "name": "Erinaceus amurensis",
+  "scientificName": "Erinaceus amurensis",
+  "wikibase_item": "Q1070063",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498993,
+      "id": "Q498993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1070063",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amur_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amur hedgehog, also called the Manchurian hedgehog, is a hedgehog similar to the European hedgehog in appearance and behaviour, although it is more lightly coloured. It is native to Amur Oblast and Primorye in Russia, Manchuria in China, and the Korean Peninsula. Like other hedgehogs, it uses scent and hearing while looking for prey, and the name \"hedgehog\" refers to the pig-like grunts it makes as it forages.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erinaceus_amurensis.jpg"
+}

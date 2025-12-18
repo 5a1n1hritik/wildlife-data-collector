@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-sahamalazensis",
+  "name": "Lepilemur sahamalazensis",
+  "scientificName": "Lepilemur sahamalazensis",
+  "wikibase_item": "Q388733",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q388733",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sahamalaza_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sahamalaza sportive lemur is a species of sportive lemur endemic to northern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lepilemur_sahamalazensis_c.png",
+  "_score": 1
+}

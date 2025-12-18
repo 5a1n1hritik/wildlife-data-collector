@@ -1,0 +1,25 @@
+{
+  "id": "alouatta-ululata",
+  "name": "Maranhão red-handed howler",
+  "scientificName": "Alouatta ululata",
+  "wikibase_item": "Q1353729",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1353729",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maranh%C3%A3o_red-handed_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Maranhão red-handed howler is an endangered species of howler monkey endemic to forests in the northeastern Brazilian states of Ceará, Maranhão and Piauí. It was previously thought to be a subspecies of the red-handed howler, but unlike that species, the Maranhão red-handed howler is strongly sexually dichromatic.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Maranhao_Red-handed_Howler_area.png"
+}

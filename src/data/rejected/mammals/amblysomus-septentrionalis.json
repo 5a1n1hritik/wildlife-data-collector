@@ -1,0 +1,26 @@
+{
+  "id": "amblysomus-septentrionalis",
+  "name": "Highveld golden mole",
+  "scientificName": "Amblysomus septentrionalis",
+  "wikibase_item": "Q1766583",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 886906,
+      "id": "Q886906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766583",
+    "wikipedia": "https://en.wikipedia.org/wiki/Highveld_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The highveld golden mole is a species of mammal in the golden mole family, Chrysochloridae. It is found in South Africa and Eswatini. Its natural habitats are forests, moist savanna, temperate shrubland and grassland, subtropical or tropical dry lowland grassland, arable land, pastureland, plantations, rural gardens, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Highveld_Golden_Mole_area.png",
+  "_score": 2
+}

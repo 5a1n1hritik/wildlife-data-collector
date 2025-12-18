@@ -1,0 +1,26 @@
+{
+  "id": "marmosa-xerophila",
+  "name": "Guajira mouse opossum",
+  "scientificName": "Marmosa xerophila",
+  "wikibase_item": "Q194392",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194392",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guajira_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guajira mouse opossum is a species of opossum in the family Didelphidae. It is found in Colombia and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dryland_Mouse_Opossum_area.png",
+  "_score": 1
+}

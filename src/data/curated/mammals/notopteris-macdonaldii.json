@@ -1,0 +1,26 @@
+{
+  "id": "notopteris-macdonaldii",
+  "name": "Notopteris macdonaldi",
+  "scientificName": "Notopteris macdonaldi",
+  "wikibase_item": "Q11527401",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1770787,
+      "id": "Q1770787"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11527401",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed fruit bat, long-tailed blossom bat, or Fijian blossom bat is a species of megabat in the family Pteropodidae. It is found in Fiji and Vanuatu. They roost as large colonies in caves and forage in a range of lowland and montane habitats. They are threatened by exploitation and disturbance of roosting caves, hunting, and tourism.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/N142_w1150_%287630007128%29.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "planigale-kendricki",
+  "name": "Planigale kendricki",
+  "scientificName": "Planigale kendricki",
+  "wikibase_item": "Q121494291",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541538,
+      "id": "Q541538"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121494291",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orange-headed_Pilbara_planigale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The orange-headed Pilbara planigale, formerly known as Planigale 1, is a species of planigale first described in 2023, and is one of the smallest of all mammals. The orange-headed Pilbara planigale lives in the Pilbara region of Western Australia, where it co-occurs with the similar and also newly recognised cracking-clay Pilbara planigale. Both species had historically been mistaken for either the common planigale, or long-tailed planigale, neither of which are now known to occur in the Pilbara.",
+  "image": null,
+  "_score": 1
+}

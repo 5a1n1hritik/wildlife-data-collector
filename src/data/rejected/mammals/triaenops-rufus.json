@@ -1,0 +1,26 @@
+{
+  "id": "triaenops-rufus",
+  "name": "Triaenops rufus",
+  "scientificName": "Triaenops rufus",
+  "wikibase_item": "Q19819858",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 649924,
+      "id": "Q649924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19819858",
+    "wikipedia": "https://en.wikipedia.org/wiki/Triaenops_rufus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "\nTriaenops rufus can refer to:Triaenops menamena, the bat species from Madagascar to which the name was long, but incorrectly, applied\nTriaenops persicus, the Middle Eastern species of which it is in fact a synonym",
+  "image": null,
+  "_score": 0
+}

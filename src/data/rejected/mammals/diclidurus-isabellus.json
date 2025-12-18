@@ -1,0 +1,26 @@
+{
+  "id": "diclidurus-isabellus",
+  "name": "Isabelle's ghost bat",
+  "scientificName": "Diclidurus isabellus",
+  "wikibase_item": "Q302557",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20878923,
+      "id": "Q20878923"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302557",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabelle's_ghost_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Isabelle's ghost bat is a bat species found in northwestern Brazil, Guyana, and Venezuela, and possibly Colombia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Isabelle%27s_Ghost_Bat_area.png",
+  "_score": 1
+}

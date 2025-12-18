@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-parryii",
+  "name": "Arctic ground squirrel",
+  "scientificName": "Spermophilus parryii",
+  "wikibase_item": "Q674275",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q674275",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arctic_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arctic ground squirrel is a species of ground squirrel in the squirrel family Sciuridae that is native to the Arctic and Subarctic regions of the Northern Hemisphere, mainly in North America and Asia. For some people in Alaska, particularly around the Aleutian Islands, the rodents are known as \"parka\" squirrels, likely due to their pelts being used for the ruff on parkas and other cold-weather clothing.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spermophilus_parryii_%28eating_mushroom%29.jpg"
+}

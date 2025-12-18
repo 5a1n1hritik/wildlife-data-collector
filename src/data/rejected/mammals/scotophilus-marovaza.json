@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-marovaza",
+  "name": "Scotophilus marovaza",
+  "scientificName": "Scotophilus marovaza",
+  "wikibase_item": "Q2561104",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2561104",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marovaza_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Marovaza yellow bat or Marovaza house bat is a species of bat found in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Scotophilus_marovaza_range_map.svg/2324px-Scotophilus_marovaza_range_map.svg.png",
+  "_score": 1
+}

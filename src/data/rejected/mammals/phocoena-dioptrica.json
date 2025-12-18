@@ -1,0 +1,26 @@
+{
+  "id": "phocoena-dioptrica",
+  "name": "spectacled porpoise",
+  "scientificName": "Phocoena dioptrica",
+  "wikibase_item": "Q749548",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135955,
+      "id": "Q135955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q749548",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spectacled_porpoise"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spectacled porpoise is a small to midsize porpoise indigenous to the Southern Ocean. It is one of the most poorly studied cetaceans, partly due to its remote range in the Southern Ocean. What little is known about this porpoise species has been gathered mainly from stranded individuals, and a few observations of living animals made at sea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Spectacled_porpoise_size.svg/960px-Spectacled_porpoise_size.svg.png",
+  "_score": 1
+}

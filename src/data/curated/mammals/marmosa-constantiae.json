@@ -1,0 +1,25 @@
+{
+  "id": "marmosa-constantiae",
+  "name": "Marmosa constantiae",
+  "scientificName": "Marmosa constantiae",
+  "wikibase_item": "Q20752449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20752449",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-bellied_woolly_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-bellied woolly mouse opossum is a small pouchless marsupial of the family Didelphidae. It was formerly assigned to the genus Micoureus, which was made a subgenus of Marmosa in 2009. The specific epithet was given in honour of Constance Sladen, wife of the naturalist Percy Sladen. She funded the 1902 expedition which collected the type specimen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bay-colored_Mouse_Opossum_area.png"
+}

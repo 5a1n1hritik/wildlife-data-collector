@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-alleni",
+  "name": "Baeodon alleni",
+  "scientificName": "Rhogeessa alleni",
+  "wikibase_item": "Q618579",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19819878,
+      "id": "Q19819878"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618579",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen's_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Allen's yellow bat is a species of vesper bat. There is some taxonomic debate surrounding this species, with some authors considering Baeodon a genus rather than a subgenus. It is endemic to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rhogeessa_alleni_map.svg/1000px-Rhogeessa_alleni_map.svg.png",
+  "_score": 1
+}

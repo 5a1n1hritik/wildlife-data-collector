@@ -1,0 +1,26 @@
+{
+  "id": "mesocetus-agrami",
+  "name": "Mesocetus agrami",
+  "scientificName": "Mesocetus agrami",
+  "wikibase_item": "Q110472822",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6821424,
+      "id": "Q6821424"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110472822"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

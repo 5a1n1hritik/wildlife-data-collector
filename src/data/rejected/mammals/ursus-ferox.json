@@ -1,0 +1,26 @@
+{
+  "id": "ursus-ferox",
+  "name": "Ursus ferox Temminck, 1834",
+  "scientificName": "Ursus ferox",
+  "wikibase_item": "Q122735229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122735229"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "chaerephon-atsinanana",
+  "name": "Chaerephon atsinanana",
+  "scientificName": "Chaerephon atsinanana",
+  "wikibase_item": "Q17992663",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17992663",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mops_atsinanana"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mops atsinanana is a free-tailed bat found on Madagascar. It was considered a subspecies of the little free-tailed bat until 2010.\nDuring the day, they are known to roost in man-made structures such as the roofs or attics of buildings.",
+  "image": null,
+  "_score": 0
+}

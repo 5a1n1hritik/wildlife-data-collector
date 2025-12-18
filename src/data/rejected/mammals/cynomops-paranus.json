@@ -1,0 +1,26 @@
+{
+  "id": "cynomops-paranus",
+  "name": "Para dog-faced bat",
+  "scientificName": "Cynomops paranus",
+  "wikibase_item": "Q1829457",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2729634,
+      "id": "Q2729634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829457",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_dog-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern dog-faced bat, is a bat species of the family Molossidae. It is found in northern Argentina, Bolivia, Brazil, Colombia, French Guiana, Guyana, Panama, Peru, Paraguay, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cynomops_planirostris_skull.jpg",
+  "_score": 1
+}

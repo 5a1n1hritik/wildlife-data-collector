@@ -1,0 +1,26 @@
+{
+  "id": "submyotodon-moupinensis",
+  "name": "Submyotodon moupinensis",
+  "scientificName": "Submyotodon moupinensis",
+  "wikibase_item": "Q19521373",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19521380,
+      "id": "Q19521380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19521373",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moupin_broad-muzzled_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Moupin broad-muzzled bat (Submyotodon moupinensis) is a bat in the family Vespertilionidae endemic to southern China.",
+  "image": null,
+  "_score": 0
+}

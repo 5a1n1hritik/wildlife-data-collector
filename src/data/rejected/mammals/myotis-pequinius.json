@@ -1,0 +1,26 @@
+{
+  "id": "myotis-pequinius",
+  "name": "Beijing mouse-eared bat",
+  "scientificName": "Myotis pequinius",
+  "wikibase_item": "Q1830689",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830689",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beijing_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Beijing mouse-eared bat or Peking myotis is a species of vesper bat. It is found only in China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Distribution_of_Myotis_pequinius.png",
+  "_score": 1
+}

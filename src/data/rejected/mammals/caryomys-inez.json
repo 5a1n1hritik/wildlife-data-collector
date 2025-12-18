@@ -1,0 +1,26 @@
+{
+  "id": "caryomys-inez",
+  "name": "Kolan vole",
+  "scientificName": "Caryomys inez",
+  "wikibase_item": "Q305844",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858812,
+      "id": "Q858812"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305844",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kolan_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kolan vole, Inez's red-backed vole or Inez's vole is a species of rodent in the family Cricetidae. It is found only in China. Two subspecies have been recognized, Caryomys inez inez from the northern part of its range and Caryomys inez nux from the southern part.",
+  "image": null,
+  "_score": 0
+}

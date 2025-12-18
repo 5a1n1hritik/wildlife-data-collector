@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-sikimaria",
+  "name": "Sikkim pika",
+  "scientificName": "Ochotona sikimaria",
+  "wikibase_item": "Q28185220",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 184067,
+      "id": "Q184067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28185220",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sikkim_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sikkim pika, or Sijin pika, is a species of pika known from the state of Sikkim in northeastern India. It was first described by Oldfield Thomas in 1922, but was classified as a subspecies of the Moupin pika, O. t. sikimaria, until 2016, at which point it was determined to be a distinct species based on the size of its auditory bullae and DNA analysis. The species' separation was supported by later analyses of mitochondrial DNA in cytochrome b. It is closely related to the Nubra pika.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mirza-zaza",
+  "name": "Northern giant mouse lemur",
+  "scientificName": "Mirza zaza",
+  "wikibase_item": "Q1270064",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 166416,
+      "id": "Q166416"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1270064",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_giant_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern giant mouse lemur, or northern dwarf lemur, is a species of lemur discovered in 2005. They are part of the primate order, and classified in the family Cheirogaleidae. Previously, both populations of giant mouse lemurs were believed to belong to one species. The northern giant mouse lemurs are small nocturnal lemurs endemic to Madagascar. They weigh about 300 grams (11 oz), and have long, bushy tails and relatively small ears. Their large testicles are an indication of their promiscuous copulation system. These lemurs have been found to use communal sleeping nests including multiple males, which is an uncommon behaviour in lemurs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mirza_zaza%2C_Madagascar%2C_April_2006.jpg"
+}

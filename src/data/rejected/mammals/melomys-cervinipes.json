@@ -1,0 +1,26 @@
+{
+  "id": "melomys-cervinipes",
+  "name": "Fawn-footed melomys",
+  "scientificName": "Melomys cervinipes",
+  "wikibase_item": "Q1761964",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761964",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fawn-footed_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fawn-footed mosaic-tailed rat, or fawn-footed melomys is a species of rodent in the family Muridae. It is found along eastern coastal regions of Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Melomys_cervinipes1.jpg",
+  "_score": 1
+}

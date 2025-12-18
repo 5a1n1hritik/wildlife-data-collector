@@ -1,0 +1,26 @@
+{
+  "id": "mirzamys-norahae",
+  "name": "Mirza's eastern moss rat",
+  "scientificName": "Mirzamys norahae",
+  "wikibase_item": "Q3858959",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384455,
+      "id": "Q384455"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3858959",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirza's_eastern_moss_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mirza's eastern moss rat is a species of rodent endemic to New Guinea.",
+  "image": null,
+  "_score": 0
+}

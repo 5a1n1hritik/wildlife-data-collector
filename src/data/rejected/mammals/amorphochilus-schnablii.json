@@ -1,0 +1,26 @@
+{
+  "id": "amorphochilus-schnablii",
+  "name": "Amorphochilus schnablii",
+  "scientificName": "Amorphochilus schnablii",
+  "wikibase_item": "Q301499",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10925015,
+      "id": "Q10925015"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301499",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smoky_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The smoky bat is a species of bat in the family Furipteridae. It is the only species within the genus Amorphochilus. Its natural habitat is rocky shores.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Amorphochilus_schnablii.jpg",
+  "_score": 2
+}

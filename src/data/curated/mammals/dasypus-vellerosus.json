@@ -1,0 +1,25 @@
+{
+  "id": "dasypus-vellerosus",
+  "name": "Dasypus vellerosus",
+  "scientificName": "Dasypus vellerosus",
+  "wikibase_item": "Q41082780",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082780",
+    "wikipedia": "https://en.wikipedia.org/wiki/Screaming_hairy_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The screaming hairy armadillo is a species of armadillo also known as the small screaming armadillo, crying armadillo or the small hairy armadillo. It is a burrowing armadillo found in the central and southern parts of South America. The adjective \"screaming\" derives from its habit of squealing when handled.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chaetophractus_vellerosus3.jpg"
+}

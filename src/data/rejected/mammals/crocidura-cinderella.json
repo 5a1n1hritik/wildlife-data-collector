@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-cinderella",
+  "name": "Cinderella shrew",
+  "scientificName": "Crocidura cinderella",
+  "wikibase_item": "Q1763762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinderella_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cinderella shrew is a species of mammal in the family Soricidae. It is found in Burkina Faso, Gambia, Guinea-Bissau, Mali, Mauritania, Niger, and Senegal. Its natural habitat is dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cinderella_Shrew_area.png",
+  "_score": 2
+}

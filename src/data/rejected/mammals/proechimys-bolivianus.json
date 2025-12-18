@@ -1,0 +1,26 @@
+{
+  "id": "proechimys-bolivianus",
+  "name": "Proechimys bolivianus",
+  "scientificName": "Proechimys bolivianus",
+  "wikibase_item": "Q14158891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14158891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed spiny-rat or Huallaga spiny rat, is a spiny rat species found in Bolivia, Brazil, Colombia, Ecuador and Peru.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "scapanus-townsendii",
+  "name": "Townsend's mole",
+  "scientificName": "Scapanus townsendii",
+  "wikibase_item": "Q1767406",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2091646,
+      "id": "Q2091646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767406",
+    "wikipedia": "https://en.wikipedia.org/wiki/Townsend's_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Townsend's mole is a fossorial mammal in the family Talpidae, and is the largest North American mole. It was named after the American naturalist John Kirk Townsend. The name was selected at the request of Thomas Nuttall as a patronym to honor Townsend's contribution.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Scapanus_townsendii.jpg",
+  "_score": 1
+}

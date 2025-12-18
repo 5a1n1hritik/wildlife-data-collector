@@ -1,0 +1,26 @@
+{
+  "id": "suncus-mertensi",
+  "name": "Flores shrew",
+  "scientificName": "Suncus mertensi",
+  "wikibase_item": "Q372789",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q372789",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flores_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Flores shrew is a white-toothed shrew found only on Flores Island, Indonesia. It is listed as an endangered species due to habitat loss and a restricted range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Flores_Shrew_area.png",
+  "_score": 2
+}

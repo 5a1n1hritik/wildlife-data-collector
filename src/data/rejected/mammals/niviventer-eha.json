@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-eha",
+  "name": "Smoke-bellied Rat",
+  "scientificName": "Niviventer eha",
+  "wikibase_item": "Q1765839",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765839",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smoke-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The smoke-bellied rat is a species of rodent in the family Muridae.\nIt is found in China, India, Myanmar, and Nepal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Range_Niviventer_eha.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-cameroni",
+  "name": "Cameron Highlands white-bellied rat",
+  "scientificName": "Niviventer cameroni",
+  "wikibase_item": "Q1983953",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1983953",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Highlands_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cameron Highlands white-bellied rat, also known as the Cameron Highlands niviventer, is a species of rodent in the family Muridae. It has only been found in the mountain forests of the Cameron Highlands on the Malay Peninsula at an altitude of 1,500–2,000 metres (5,000–6,600 ft).",
+  "image": null,
+  "_score": 0
+}

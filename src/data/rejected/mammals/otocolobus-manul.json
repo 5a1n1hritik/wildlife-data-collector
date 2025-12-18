@@ -1,0 +1,26 @@
+{
+  "id": "otocolobus-manul",
+  "name": "Otocolobus manul",
+  "scientificName": "Otocolobus",
+  "wikibase_item": "Q166794",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19819898,
+      "id": "Q19819898"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q166794",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pallas's_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pallas's cat, also known as the manul, is a small wild cat with long and dense light grey fur, and rounded ears set low on the sides of the head. Its head-and-body length ranges from 46 to 65 cm with a 21 to 31 cm long bushy tail. It is well camouflaged and adapted to the cold continental climate in its native range, which receives little rainfall and experiences a wide range of temperatures.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Manoel.jpg",
+  "_score": 1
+}

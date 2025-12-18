@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-dutertreus",
+  "name": "Eptesicus dutertreus",
+  "scientificName": "Eptesicus dutertreus",
+  "wikibase_item": "Q128043427",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 736473,
+      "id": "Q736473"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128043427"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

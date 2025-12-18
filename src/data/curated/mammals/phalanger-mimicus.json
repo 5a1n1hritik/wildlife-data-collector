@@ -1,0 +1,25 @@
+{
+  "id": "phalanger-mimicus",
+  "name": "Southern common cuscus",
+  "scientificName": "Phalanger mimicus",
+  "wikibase_item": "Q135148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135148",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_common_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern common cuscus, also known as Australian cuscus, gray phalanger, and to-ili, is an arboreal marsupial endemic to Australia, southern New Guinea and possibly the Aru Islands. Until recently, it was considered conspecific with P. intercastellanus, and before that also with P. orientalis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Southern_Brown_Cuscus%2C_photo_by_CNZdenek_%26_AJBurnett.jpg"
+}

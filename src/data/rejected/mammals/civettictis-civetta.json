@@ -1,0 +1,26 @@
+{
+  "id": "civettictis-civetta",
+  "name": "Civet",
+  "scientificName": "Civettictis civetta",
+  "wikibase_item": "Q241256",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17355875,
+      "id": "Q17355875"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q241256",
+    "wikipedia": "https://en.wikipedia.org/wiki/Civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "A civet is a small, lean, mostly nocturnal mammal native to tropical Asia and Africa, especially the tropical forests. The term civet applies to over a dozen different species, mostly from the family Viverridae. Most of the species's diversity is found in southeast Asia. Civets do not form a monophyletic group, as they consist only of certain members of the Viverridae and Eupleridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Civettictis_civetta_12.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "amblyotus-velox",
+  "name": "Amblyotus velox",
+  "scientificName": "Amblyotus velox",
+  "wikibase_item": "Q125294538",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125294405,
+      "id": "Q125294405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125294538"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

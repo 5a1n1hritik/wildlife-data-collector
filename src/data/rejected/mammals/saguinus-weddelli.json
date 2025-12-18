@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-weddelli",
+  "name": "Saguinus weddelli",
+  "scientificName": "Saguinus weddelli",
+  "wikibase_item": "Q125613159",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125613159",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weddell's_saddle-back_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Weddell's saddle-back tamarin is a species of saddle-back tamarin, a type of small monkey from South America. Weddell's saddle-back tamarin was formerly considered to be a subspecies of the brown-mantled tamarin, L. fuscicollis. It lives in Brazil, Bolivia and Peru, with the type locality being in Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Saguinus_fuscicoliis_weddelli.jpg",
+  "_score": 1
+}

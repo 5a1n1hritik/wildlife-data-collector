@@ -1,0 +1,26 @@
+{
+  "id": "chiropotes-israelita",
+  "name": "Chiropotes israelita",
+  "scientificName": "Chiropotes israelita",
+  "wikibase_item": "Q901749",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 809594,
+      "id": "Q809594"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q901749",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown-backed_bearded_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown-backed bearded saki is one of five species of bearded saki, a type of New World monkey. It is endemic to the Amazon in north-western Brazil and southern Venezuela. It is possible the correct scientific name for this species is C. chiropotes, in which case the more easterly red-backed bearded saki would be named C. sagulatus. The IUCN lists the reddish-brown bearded saki as a valid species, with C. israelita as a synonym, but also notes they might both be valid.",
+  "image": null,
+  "_score": 1
+}

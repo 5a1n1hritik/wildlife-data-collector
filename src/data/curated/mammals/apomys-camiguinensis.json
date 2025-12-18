@@ -1,0 +1,25 @@
+{
+  "id": "apomys-camiguinensis",
+  "name": "Apomys camiguinensis",
+  "scientificName": "Apomys camiguinensis",
+  "wikibase_item": "Q1971209",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1971209",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camiguin_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Camiguin forest mouse is a forest mouse endemic to the island of Camiguin in the southern Philippines. It has large ears and eyes, a long tail and rusty-brown fur, and it feeds mostly on insects and seeds. This description is based on mice captured during a biological survey conducted in 1994 and 1995 high on the steep slopes of one of the island's volcanoes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Range_Apomys_camiguinensis.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-impavidus",
+  "name": "Tschudi's slender opossum",
+  "scientificName": "Marmosops impavidus",
+  "wikibase_item": "Q194889",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194889",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tschudi's_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tschudi's slender opossum is an opossum species from South America, named after Swiss naturalist Johann Jakob von Tschudi. It is found in Bolivia, Brazil, Colombia, Ecuador, Paraguay, Peru and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Andean_Slender_Mouse_Opossum_area.png",
+  "_score": 1
+}

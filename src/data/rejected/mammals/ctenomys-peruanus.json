@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-peruanus",
+  "name": "Peruvian tuco-tuco",
+  "scientificName": "Ctenomys peruanus",
+  "wikibase_item": "Q1761376",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761376",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peruvian tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Peru and Bolivia.",
+  "image": null,
+  "_score": 0
+}

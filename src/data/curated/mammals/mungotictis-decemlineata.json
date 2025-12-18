@@ -1,0 +1,25 @@
+{
+  "id": "mungotictis-decemlineata",
+  "name": "Narrow-striped mongoose",
+  "scientificName": "Mungotictis decemlineata",
+  "wikibase_item": "Q185677",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817094,
+      "id": "Q19817094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q185677",
+    "wikipedia": "https://en.wikipedia.org/wiki/Narrow-striped_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The narrow-striped mongoose, also known as the boky-boky in Malagasy, is a member of the family Eupleridae endemic to Madagascar. It inhabits the western Madagascar succulent woodlands and northern Madagascar spiny thickets in western and southwestern Madagascar, where it lives from sea level to about 125 m (410 ft) between the Tsiribihina and Mangoky Rivers. It is the only species in genus Mungotictis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Smalstreepmangoest.JPG"
+}

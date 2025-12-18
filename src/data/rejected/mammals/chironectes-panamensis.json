@@ -1,0 +1,26 @@
+{
+  "id": "chironectes-panamensis",
+  "name": "Chironectes panamensis",
+  "scientificName": "Chironectes panamensis",
+  "wikibase_item": "Q125830346",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816199,
+      "id": "Q19816199"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125830346"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

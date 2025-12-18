@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-vegetus",
+  "name": "Oligoryzomys vegetus",
+  "scientificName": "Oligoryzomys vegetus",
+  "wikibase_item": "Q1764348",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764348",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_vegetus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys vegetus, also known as the sprightly colilargo or sprightly pygmy rice rat, is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is found only in the mountains of Costa Rica and western Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Oligoryzomys_vegetus_skull_Bangs.png",
+  "_score": 1
+}

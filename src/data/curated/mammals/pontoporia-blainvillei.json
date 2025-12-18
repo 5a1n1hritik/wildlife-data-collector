@@ -1,0 +1,26 @@
+{
+  "id": "pontoporia-blainvillei",
+  "name": "La Plata dolphin",
+  "scientificName": "Pontoporia blainvillei",
+  "wikibase_item": "Q622597",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18520929,
+      "id": "Q18520929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q622597",
+    "wikipedia": "https://en.wikipedia.org/wiki/La_Plata_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The La Plata dolphin, franciscana or toninha is a species of river dolphin found in coastal Atlantic waters of southeastern South America. It is a member of the Inioidea group and the only one that lives in the ocean and saltwater estuaries, rather than inhabiting exclusively freshwater systems. Commercialized areas that create agricultural runoffs and industrialized zones can affect the health of the La Plata dolphin, especially in regards to their contributions of waste and pollution, which can lead to habitat degradation and poisoned food among other concerns.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pontoporia_blainvillei_296896096.jpg",
+  "_score": 3
+}

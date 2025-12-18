@@ -1,0 +1,26 @@
+{
+  "id": "cynicitis-maccarthiae",
+  "name": "Cynicitis maccarthiae",
+  "scientificName": "Cynicitis maccarthiae",
+  "wikibase_item": "Q41164138",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41152984,
+      "id": "Q41152984"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164138"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "balaena-mysticetus",
+  "name": "bowhead whale",
+  "scientificName": "Balaena mysticetus",
+  "wikibase_item": "Q174652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4820658,
+      "id": "Q4820658"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q174652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bowhead_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bowhead whale, sometimes called the Greenland right whale, Arctic whale, and polar whale, is a species of baleen whale belonging to the family Balaenidae and is the only living representative of the genus Balaena. It is the only baleen whale endemic to the Arctic and subarctic waters, and is named after its characteristic massive triangular skull, which it uses to break through Arctic ice.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bowhead_Whale_NOAA.jpg",
+  "_score": 1
+}

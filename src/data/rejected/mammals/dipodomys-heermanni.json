@@ -1,0 +1,26 @@
+{
+  "id": "dipodomys-heermanni",
+  "name": "Heermann's kangaroo rat",
+  "scientificName": "Dipodomys heermanni",
+  "wikibase_item": "Q1770172",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770172",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heermann's_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Heermann's kangaroo rat is a species of kangaroo rat, a rodent in the family Heteromyidae. Their long smooth pelage resembles typical kangaroo rats, with their dorsal side showing a mixed range of olive, black and orange colors. Nine different sub-species of Dipodomys heermanni had been proposed:Dipodomys heermanni arenae\nDipodomys heermanni berkeleyensis \nDipodomys heermanni dixoni \nDipodomys heermanni goldmani\nDipodomys heermanni heermanni \nDipodomys heermanni jolonensis\nDipodomys heermanni morroensis, \nDipodomys heermanni swarthi\nDipodomys heermanni tularensis",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Heermannskangaroorat.png",
+  "_score": 2
+}

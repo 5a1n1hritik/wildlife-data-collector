@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-hikmiya",
+  "name": "Crocidura hikmiya",
+  "scientificName": "Crocidura hikmiya",
+  "wikibase_item": "Q2416815",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2416815",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocidura_hikmiya"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crocidura hikmiya is a species of shrew described from the rainforests of Sri Lanka, based on both morphological and molecular data. Its closest sister species is the Sri Lankan long-tailed shrew, another Sri Lankan crocidurine shrew restricted to the high-elevation habitats of the Central Highlands. C. hikmiya has a shorter tail than the Sri Lankan long-tailed shrew. Most of the other characteristics that distinguish the two species are osteological natured .",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Crocidura_hikmiya_Range_Map.png",
+  "_score": 3
+}

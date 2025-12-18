@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-aquaticus",
+  "name": "Swamp rabbit",
+  "scientificName": "Sylvilagus aquaticus",
+  "wikibase_item": "Q583901",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875577,
+      "id": "Q20875577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q583901",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swamp_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The swamp rabbit, also known as the cane cutter, swamper, or cane jake, is a species of cottontail rabbit found in the swamps and wetlands of the southern United States. It is herbivorous, territorial, and nocturnal. The largest of the cottontail rabbits, it is similar in appearance to the eastern cottontail, but has distinctly smaller ears and orange-colored hind legs. Swamp rabbits are closely related to the marsh rabbit. The two species likely separated during the Pleistocene epoch.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sylvilagus_aquaticus_365336366.jpg",
+  "_score": 2
+}

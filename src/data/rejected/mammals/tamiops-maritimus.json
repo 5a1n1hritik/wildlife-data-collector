@@ -1,0 +1,26 @@
+{
+  "id": "tamiops-maritimus",
+  "name": "Maritime striped squirrel",
+  "scientificName": "Tamiops maritimus",
+  "wikibase_item": "Q949120",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 811634,
+      "id": "Q811634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q949120",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maritime_striped_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The maritime striped squirrel, also known as eastern striped squirrel, is a species of rodent in the family Sciuridae. It is found in southern and eastern China, Taiwan, and Laos and Vietnam east of the Mekong River. It is diurnal, highly arboreal and feeds on fruits, seeds, insects; in addition its diet includes nectar of ginger.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tamiops_maritimus_Sanqingshan.jpg",
+  "_score": 2
+}

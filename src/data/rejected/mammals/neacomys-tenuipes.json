@@ -1,0 +1,26 @@
+{
+  "id": "neacomys-tenuipes",
+  "name": "Neacomys tenuipes",
+  "scientificName": "Neacomys tenuipes",
+  "wikibase_item": "Q1767725",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593339,
+      "id": "Q593339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767725",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neacomys_tenuipes"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neacomys tenuipes, also known as the narrow-footed neacomys or narrow-footed bristly mouse, is found along the northern Andes from northwestern Venezuela through Colombia into Ecuador, in rainforest at elevations from 400 to 1750 m. Populations of small Neacomys in the lowland Amazon basin, previously assigned to this species, are now recognized as belonging to separate species.",
+  "image": null,
+  "_score": 0
+}

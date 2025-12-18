@@ -1,0 +1,26 @@
+{
+  "id": "thrichomys-laurentius",
+  "name": "Thrichomys laurentius",
+  "scientificName": "Thrichomys laurentius",
+  "wikibase_item": "Q21075085",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846023,
+      "id": "Q846023"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21075085",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thrichomys_laurentius"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thrichomys laurentius, the Sao Lourenço punaré, is a South American caviomorph rodent of the spiny rat family. It was formerly considered a subspecies of T apereoides. It is endemic to the northern Caatinga ecoregion of northeastern Brazil, a region of dry tropical forest and scrub, at elevations from 15 to 800 m. Little is known about its population trends and threats.",
+  "image": null,
+  "_score": 1
+}

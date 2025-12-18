@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-arlindoi",
+  "name": "Monodelphis arlindoi",
+  "scientificName": "Monodelphis arlindoi",
+  "wikibase_item": "Q21314204",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21314204"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

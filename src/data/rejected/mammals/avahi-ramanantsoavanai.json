@@ -1,0 +1,26 @@
+{
+  "id": "avahi-ramanantsoavanai",
+  "name": "Ramanantsoavana's woolly lemur",
+  "scientificName": "Avahi ramanantsoavani",
+  "wikibase_item": "Q1210789",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1210789",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramanantsoavana's_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ramanantsoavana's woolly lemur, also known as Ramanantsoavana's avahi or the Manombo woolly lemur, is a species of woolly lemur native to southeastern Madagascar. It weighs about 1 kg. It was originally considered a subspecies of the southern woolly lemur, A. m. ramanantsoavana, but was elevated to a separate species in 2006 based on molecular, phenotypic and morphological data.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Avahi_ramanantsoavanai_range_map.svg/960px-Avahi_ramanantsoavanai_range_map.svg.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lutra-leptonyx",
+  "name": "Lutra leptonyx",
+  "scientificName": "Lutra leptonyx",
+  "wikibase_item": "Q41084330",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 446882,
+      "id": "Q446882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084330"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

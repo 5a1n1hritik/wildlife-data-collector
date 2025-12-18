@@ -1,0 +1,26 @@
+{
+  "id": "cercartetus-nanus",
+  "name": "Eastern pygmy possum",
+  "scientificName": "Cercartetus nanus",
+  "wikibase_item": "Q1764140",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 576870,
+      "id": "Q576870"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764140",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_pygmy_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern pygmy possum is a diprotodont marsupial of south-eastern Australia. Occurring from southern Queensland to eastern South Australia and also Tasmania, it is found in a range of habitats, including rainforest, sclerophyll forest, woodland and heath.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cercartetus_nanus.jpg",
+  "_score": 2
+}

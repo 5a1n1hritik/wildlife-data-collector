@@ -1,0 +1,26 @@
+{
+  "id": "taphozous-longimanus",
+  "name": "Long-winged Tomb Bat",
+  "scientificName": "Taphozous longimanus",
+  "wikibase_item": "Q1832628",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832628",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-winged_tomb_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-winged tomb bat is a species of sac-winged bat in the family Emballonuridae. It is found in Bangladesh, Cambodia, India, Indonesia, Malaysia, Myanmar, Singapore, Sri Lanka, and Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Taphozous_longimanus_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02550.JPG",
+  "_score": 1
+}

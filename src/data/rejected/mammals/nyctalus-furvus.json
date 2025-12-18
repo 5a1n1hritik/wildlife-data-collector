@@ -1,0 +1,26 @@
+{
+  "id": "nyctalus-furvus",
+  "name": "Japanese Noctule",
+  "scientificName": "Nyctalus furvus",
+  "wikibase_item": "Q1830021",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830021",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_noctule"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese noctule is a species of bat belonging to the family Vespertilionidae. It is endemic to Japan.",
+  "image": null,
+  "_score": 0
+}

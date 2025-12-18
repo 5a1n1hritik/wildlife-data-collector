@@ -1,0 +1,26 @@
+{
+  "id": "tamiops-mcclellandii",
+  "name": "Tamiops mcclellandii",
+  "scientificName": "Tamiops mcclellandii",
+  "wikibase_item": "Q860585",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 811634,
+      "id": "Q811634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q860585",
+    "wikipedia": "https://en.wikipedia.org/wiki/Himalayan_striped_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Himalayan striped squirrel, also known as western striped squirrel or Burmese striped squirrel, is a species of rodent in the family Sciuridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Himalayan_Striped_Squirrel_Khangchendzonga_Biosphere_Reserve_West_Sikkim_India_25.10.2015.jpg",
+  "_score": 1
+}

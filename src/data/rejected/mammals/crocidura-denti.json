@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-denti",
+  "name": "Dent's Shrew",
+  "scientificName": "Crocidura denti",
+  "wikibase_item": "Q1762868",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762868",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dent's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dent's shrew is a species of mammal in the family Soricidae. It is found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Liberia, Nigeria, Sierra Leone, and Uganda. Its natural habitats are subtropical or tropical moist lowland forest and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Crocidura_jacksoni_denti_Dollman.jpg",
+  "_score": 2
+}

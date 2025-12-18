@@ -1,0 +1,28 @@
+{
+  "id": "microgale-macpheei",
+  "name": "Microgale macpheei",
+  "scientificName": "Microgale macpheei",
+  "wikibase_item": "Q6839540",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6839540",
+    "wikipedia": "https://en.wikipedia.org/wiki/Microgale_macpheei"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Microgale macpheei is an extinct shrew tenrec from southeastern Madagascar. It is known only from two partial skulls found in Andrahomana cave, which radiocarbon dating of associated rodent remains suggests are about 3000 years old. It is the only known recently extinct tenrec. First described in 2007, it is most similar to the smaller Microgale brevicaudata of northern and western Madagascar. M. macpheei has a broad rostrum and, like M. brevicaudata, lacks a diastema (gap) between the premolars. A number of details of tooth morphology are characteristic of M. macpheei.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Microgale_macpheei_range.svg/500px-Microgale_macpheei_range.svg.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

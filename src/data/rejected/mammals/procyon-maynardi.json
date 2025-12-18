@@ -1,0 +1,26 @@
+{
+  "id": "procyon-maynardi",
+  "name": "Bahaman raccoon",
+  "scientificName": "Procyon maynardi",
+  "wikibase_item": "Q754413",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahamian_raccoon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bahamian raccoon, also called the Bahama raccoon or Bahamas raccoon, is a population of the common raccoon found on several islands in The Bahamas. It was long thought to be an endemic raccoon subspecies limited to New Providence island, described scientifically as Procyon lotor maynardi, named after Charles Johnson Maynard, an American naturalist. However, modern research has shown that raccoons were introduced to the Bahamas from Florida and are not a genetically distinct subspecies. Consequently, the Bahamian raccoon is now considered an invasive species in the archipelago rather than a native endemic.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Raccoons_of_North_%26_Middle_America_%281950%29_P._l._insularis.png",
+  "_score": 2
+}

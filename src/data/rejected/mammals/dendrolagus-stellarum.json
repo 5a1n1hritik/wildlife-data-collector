@@ -1,0 +1,26 @@
+{
+  "id": "dendrolagus-stellarum",
+  "name": "Seri's tree-kangaroo",
+  "scientificName": "Dendrolagus stellarum",
+  "wikibase_item": "Q209150",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209150",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seri's_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Seri's tree-kangaroo is a species of tree-kangaroo native and endemic to montane forests of west-central New Guinea. Seri's tree-kangaroo was originally considered to be a subspecies of Dendrolagus dorianus, but was elevated to species in 2005 by Groves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Seri%27s_Tree_Kangaroo_area.png",
+  "_score": 1
+}

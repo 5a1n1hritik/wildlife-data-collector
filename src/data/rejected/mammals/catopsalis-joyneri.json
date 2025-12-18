@@ -1,0 +1,28 @@
+{
+  "id": "catopsalis-joyneri",
+  "name": "Catopsalis joyneri",
+  "scientificName": "Catopsalis joyneri",
+  "wikibase_item": "Q41214356",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 640821,
+      "id": "Q640821"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41214356",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valenopsalis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Valenopsalis is an extinct mammal from the Paleocene of North America (more specifically, Puercan-aged deposits in Wyoming, Montana and Saskatchewan. Originally referred to the genus Catopsalis, it has more recently been moved to its own genus as the former was understood to be a wastebasket taxon. It is currently considered to be the most basal representative of Taeniolabidoidea.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

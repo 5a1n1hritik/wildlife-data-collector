@@ -1,0 +1,28 @@
+{
+  "id": "glis-glis",
+  "name": "edible dormouse",
+  "scientificName": "Glis glis",
+  "wikibase_item": "Q147128",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15102590,
+      "id": "Q15102590"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q147128",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glis_(genus)"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Glis is a genus of rodent that contains two extant species, both known as edible dormice or fat dormice: the European edible dormouse (Glis glis) and the Iranian edible dormouse. It also contains a number of fossil species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Siebenschl%C3%A4fer_Haselnuss.JPG",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nycticeius-rueppellii",
+  "name": "Nycticeius rueppellii",
+  "scientificName": "Nycticeius rueppellii",
+  "wikibase_item": "Q24278745",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753703,
+      "id": "Q753703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24278745",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCppell's_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rüppell's or the greater broad-nosed bat is a species of vespertilionid microbat found in eastern Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Scoteanax_rueppellii.jpg",
+  "_score": 1
+}

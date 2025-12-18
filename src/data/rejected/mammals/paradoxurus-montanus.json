@@ -1,0 +1,26 @@
+{
+  "id": "paradoxurus-montanus",
+  "name": "Paradoxurus montanus",
+  "scientificName": "Paradoxurus montanus",
+  "wikibase_item": "Q16987383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 887918,
+      "id": "Q887918"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16987383",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_palm_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden palm civet is a viverrid endemic to Sri Lanka. It is listed as Least Concern on the IUCN Red List since 2016.The extent and quality of its habitat in Sri Lanka's hill regions are declining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Paradoxurus_zeylonensis.jpg",
+  "_score": 2
+}

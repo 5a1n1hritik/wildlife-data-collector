@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-tulduco",
+  "name": "Sierra Tontal tuco-tuco",
+  "scientificName": "Ctenomys tulduco",
+  "wikibase_item": "Q1770419",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770419",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Tontal_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sierra Tontal tuco-tuco is a species of rodent in the family Ctenomyidae. It is known only from a small locality in the Sierra del Tontal, San Juan Province, west central Argentina.",
+  "image": null,
+  "_score": 0
+}

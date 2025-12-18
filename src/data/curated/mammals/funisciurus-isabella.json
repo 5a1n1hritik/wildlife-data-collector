@@ -1,0 +1,26 @@
+{
+  "id": "funisciurus-isabella",
+  "name": "Lady Burton's rope squirrel",
+  "scientificName": "Funisciurus isabella",
+  "wikibase_item": "Q308777",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278459,
+      "id": "Q278459"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308777",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Burton's_rope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lady Burton's rope squirrel is a species of rodent in the family Sciuridae. It is found in Cameroon, Central African Republic, Republic of the Congo, Equatorial Guinea, and Gabon. Its natural habitats are tropical and subtropical moist broadleaf forests and subtropical or tropical moist montane forest. It is a common species with a wide range, and the International Union for Conservation of Nature has rated it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/SciurusIsabellaWolf.jpg",
+  "_score": 3
+}

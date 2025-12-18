@@ -1,0 +1,26 @@
+{
+  "id": "cryptomys-foxi",
+  "name": "Cryptomys foxi",
+  "scientificName": "Cryptomys foxi",
+  "wikibase_item": "Q20745864",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136488,
+      "id": "Q136488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20745864",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigerian_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nigerian mole-rat is a species of rodent in the family Bathyergidae. It is found in northern Nigeria and Cameroon. A colonial, subterranean species, its natural habitats are tropical dry lowland grassland, riverside woodland and rocky places.",
+  "image": null,
+  "_score": 1
+}

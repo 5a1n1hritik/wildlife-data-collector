@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-phillipsii",
+  "name": "Phillips' small-eared shrew",
+  "scientificName": "Cryptotis phillipsii",
+  "wikibase_item": "Q1768214",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768214",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phillips's_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Phillips' small-eared shrew or Phillips' short-eared shrew is a species of mammal in the family Soricidae found in Mexico.",
+  "image": null,
+  "_score": 0
+}

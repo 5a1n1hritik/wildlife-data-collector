@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-mistratensis",
+  "name": "Mistratoan yellow-shouldered bat",
+  "scientificName": "Sturnira mistratensis",
+  "wikibase_item": "Q1833108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mistratoan_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mistratoan yellow-shouldered bat, is a species of leaf-nosed bat indigenous to the Cordillera Occidental, in the Mistrato municipality in Risaralda, Colombia. Since existing information derives exclusively from the holotype, the status of the species, its environmental requirements, and the trend of the population are unknown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Distribution_of_Sturnira_mistratensis.png"
+}

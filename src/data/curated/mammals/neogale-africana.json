@@ -1,0 +1,25 @@
+{
+  "id": "neogale-africana",
+  "name": "Neogale africana",
+  "scientificName": "Neogale africana",
+  "wikibase_item": "Q116894337",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 107548263,
+      "id": "Q107548263"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116894337",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amazon_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amazon weasel, also known as the tropical weasel, is a species of New World weasel native to South America. It was first identified from a museum specimen mislabelled as coming from Africa, hence the scientific name.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Neogale_africana.jpg"
+}

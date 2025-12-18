@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-undulatus",
+  "name": "Long-tailed ground squirrel",
+  "scientificName": "Spermophilus undulatus",
+  "wikibase_item": "Q1763717",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763717",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed ground squirrel or Eversmann's souslik is a species of rodent in the squirrel family Sciuridae. It is found in China, Kazakhstan, Mongolia, and Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ground_squirrel_stealing_our_food_%2831617998822%29.jpg",
+  "_score": 1
+}

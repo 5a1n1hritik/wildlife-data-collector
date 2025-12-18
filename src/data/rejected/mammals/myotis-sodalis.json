@@ -1,0 +1,26 @@
+{
+  "id": "myotis-sodalis",
+  "name": "Indiana bat",
+  "scientificName": "Myotis sodalis",
+  "wikibase_item": "Q281343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q281343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indiana_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indiana bat is a medium-sized mouse-eared bat native to North America. It lives primarily in Southern and Midwestern U.S. states and is listed as an endangered species. The Indiana bat is grey, black, or chestnut in color and is 1.2–2.0 in long and weighs 4.5–9.5 g (0.16–0.34 oz). It is similar in appearance to the more common little brown bat, but is distinguished by its feet size, toe hair length, pink lips, and a keel on the calcar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Indiana_Bat_FWS.jpg",
+  "_score": 2
+}

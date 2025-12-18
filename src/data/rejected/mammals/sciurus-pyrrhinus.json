@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-pyrrhinus",
+  "name": "Junín red squirrel",
+  "scientificName": "Sciurus pyrrhinus",
+  "wikibase_item": "Q1767906",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767906",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jun%C3%ADn_red_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Junín red squirrel is a species of squirrel from Peru and Ecuador.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Sciurus_pyrrhinus-JMM-Pozuzo-20.06.2015.jpg",
+  "_score": 1
+}

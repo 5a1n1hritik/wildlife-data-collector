@@ -1,0 +1,26 @@
+{
+  "id": "ichthyomys-stolzmanni",
+  "name": "Stolzmann's crab-eating rat",
+  "scientificName": "Ichthyomys stolzmanni",
+  "wikibase_item": "Q305890",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 640944,
+      "id": "Q640944"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305890",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stolzmann's_crab-eating_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stolzmann's crab-eating rat is a species of rodent in the family Cricetidae. It is found in Ecuador and Peru. The species is believed to be nocturnal and semiaquatic, and has been found at an elevation range of 900 to 1700 m. A survey in 2010 indicates that it is becoming a nuisance at local trout farms in the Peruvian puna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/IcthyomysStolzmanniSmit.jpg",
+  "_score": 1
+}

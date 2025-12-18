@@ -1,0 +1,26 @@
+{
+  "id": "mastomys-sp.",
+  "name": "Mastomys sp.",
+  "scientificName": "Mastomys sp.",
+  "wikibase_item": "Q41084801",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084801"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "makalata-rhipidura",
+  "name": "Peruvian tree-rat",
+  "scientificName": "Makalata rhipidura",
+  "wikibase_item": "Q302740",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846012,
+      "id": "Q846012"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302740",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peruvian tree rat is a species of rodent in the family Echimyidae. It is found in northeastern Peru and adjacent Ecuador, where it is found in the Amazon rainforest. It is nocturnal and arboreal.",
+  "image": null,
+  "_score": 0
+}

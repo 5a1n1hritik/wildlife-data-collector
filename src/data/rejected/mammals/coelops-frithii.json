@@ -1,0 +1,26 @@
+{
+  "id": "coelops-frithii",
+  "name": "East Asian tailless leaf-nosed bat",
+  "scientificName": "Coelops frithii",
+  "wikibase_item": "Q1766290",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 868187,
+      "id": "Q868187"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766290",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_Asian_tailless_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East Asian tailless leaf-nosed bat or tail-less leaf-nosed bat is a species of bat in the family Hipposideridae. It is found in Bangladesh, China, India, Indonesia, Laos, Malaysia, Myanmar, Taiwan, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Coelops_frithii_2.jpg",
+  "_score": 1
+}

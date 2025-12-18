@@ -1,0 +1,26 @@
+{
+  "id": "vulpes-velox",
+  "name": "swift fox",
+  "scientificName": "Vulpes Velox",
+  "wikibase_item": "Q263706",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263706",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swift_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The swift fox is a small light orange-tan fox around the size of a domestic cat found in the western grasslands of North America, such as Montana, Colorado, New Mexico, Kansas, Oklahoma and Texas. It also lives in southern Manitoba, Saskatchewan and Alberta in Canada, where it was previously extirpated. It is closely related to the kit fox and some mammalogists classify them as conspecific. However, molecular systematics imply that the two species are distinct. Interbreeding between the two species does occur where their ranges overlap, but this hybridization is quite restricted in scope.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Swift_Fox_Colorado_Wolf_and_Wildlife_cropped.jpg",
+  "_score": 2
+}

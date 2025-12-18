@@ -1,0 +1,26 @@
+{
+  "id": "bunolagus-monticularis",
+  "name": "Riverine rabbit",
+  "scientificName": "Bunolagus monticularis",
+  "wikibase_item": "Q300964",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10741687,
+      "id": "Q10741687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q300964",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riverine_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The riverine rabbit, also known as the bushman rabbit or bushman hare, is a species of rabbit that lives among patches of thick vegetation in the Karoo of South Africa's Western and Northern Cape provinces. It is the only member of the genus Bunolagus. It is classified a critically endangered species by the International Union for Conservation of Nature (IUCN); the most recent estimates of the species' population range from 157 to 207 mature individuals, and 224 to 380 total.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bunolagus_monticularis_imported_from_iNaturalist_photo_15093370_on_5_February_2020_%28cropped%29.jpg",
+  "_score": 2
+}

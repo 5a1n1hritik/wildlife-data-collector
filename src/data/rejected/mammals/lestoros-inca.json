@@ -1,0 +1,26 @@
+{
+  "id": "lestoros-inca",
+  "name": "Incan caenolestid",
+  "scientificName": "Lestoros",
+  "wikibase_item": "Q1343993",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816274,
+      "id": "Q19816274"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1343993",
+    "wikipedia": "https://en.wikipedia.org/wiki/Incan_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Incan caenolestid, also known as the Incan shrew opossum or Peruvian caenolestid, is a caenolestid found in the southern Peruvian Andes. It was first described by English zoologist Oldfield Thomas in 1917. The head-and-body length ranges from 9 to 11.5 centimetres, and the weight is between 25 and 32 grams. It is brown on the back, and lighter on the underside. Little is known about the behaviour of the Incan caenolestid; it appears to be terrestrial and nocturnal. It feeds on small invertebrates and insects. This caenolestid inhabits elfin and secondary forests. The IUCN classifies it as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Incan_Shrew_Opossum_area.png",
+  "_score": 2
+}

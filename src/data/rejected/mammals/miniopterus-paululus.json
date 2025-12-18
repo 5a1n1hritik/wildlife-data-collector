@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-paululus",
+  "name": "Philippine long-fingered bat",
+  "scientificName": "Miniopterus paululus",
+  "wikibase_item": "Q2052993",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2052993",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine long-fingered bat is a species of bat from the family Miniopteridae. It is native to Indonesia, the Philippines, Malaysia, and Timor-Leste. Due to the dubious taxonomic status of the species, it has been suggested that it remain classified as a subspecies of the little bent-wing bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Distribution_of_Miniopterus_paululus.png",
+  "_score": 1
+}

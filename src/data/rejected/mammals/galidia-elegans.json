@@ -1,0 +1,26 @@
+{
+  "id": "galidia-elegans",
+  "name": "Ring-tailed mongoose",
+  "scientificName": "Galidia elegans",
+  "wikibase_item": "Q518580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10760579,
+      "id": "Q10760579"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q518580",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ring-tailed_vontsira"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ring-tailed vontsira, locally still known as the ring-tailed mongoose, is a euplerid in the subfamily Galidiinae, a carnivoran native to Madagascar. It is the only species in the genus Galidia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ring-tailed_vontsira_%28Galidia_elegans%29.jpg",
+  "_score": 1
+}

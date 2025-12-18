@@ -1,0 +1,26 @@
+{
+  "id": "myotis-alcathoe",
+  "name": "Myotis alcathoe",
+  "scientificName": "Myotis alcathoe",
+  "wikibase_item": "Q1065510",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1065510",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alcathoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alcathoe bat is a European bat in the genus Myotis. Known only from Greece and Hungary when it was first described in 2001, its known distribution has since expanded as far as Portugal, England, Sweden, and Russia. It is similar to the whiskered bat and other species and is difficult to distinguish from them. However, its brown fur is distinctive and it is clearly different in characters of its karyotype and DNA sequences. It is most closely related to Myotis hyrcanicus from Iran, but otherwise has no close relatives.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Myotis_alcathoe_-_Manuel_Ruedi_-_1_-_cropped.JPG",
+  "_score": 2
+}

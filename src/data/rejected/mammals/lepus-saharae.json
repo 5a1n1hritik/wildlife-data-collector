@@ -1,0 +1,26 @@
+{
+  "id": "lepus-saharae",
+  "name": "West Sahara hare",
+  "scientificName": "Lepus saharae",
+  "wikibase_item": "Q124293793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124293793",
+    "wikipedia": "https://en.wikipedia.org/wiki/West_Sahara_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The west Sahara hare is a species of hare native to Morocco, Mauritania, Mali, and Senegal, as well as possibly Niger, and Burkina Faso. It was first described in 2019 and was noted as having different fur markings and a narrower, longer body than other African hares, with notably long hind legs in relation to the rest of its body. The underside of its body has more white fur than the cape hare, and the black spot on the tip of its ears is less prominent. It may be preyed upon by the Pharaoh eagle-owl. Specimens that are now considered to be part of L. saharae were once assigned to L. capensis, a widely distributed species that likely represents a species complex.",
+  "image": null,
+  "_score": 1
+}

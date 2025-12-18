@@ -1,0 +1,26 @@
+{
+  "id": "lophuromys-cinereus",
+  "name": "Lophuromys cinereus",
+  "scientificName": "Lophuromys cinereus",
+  "wikibase_item": "Q24055162",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 518880,
+      "id": "Q518880"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24055162",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_brush-furred_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray brush-furred rat is a species of rodent in the family Muridae. It is found only in Democratic Republic of the Congo. Its natural habitats are subtropical or tropical swamps, subtropical or tropical moist montane forests, and subtropical or tropical high-altitude grassland. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "chacodelphys-formosa",
+  "name": "Chacoan pygmy opossum",
+  "scientificName": "Chacodelphys",
+  "wikibase_item": "Q1058476",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18325039,
+      "id": "Q18325039"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1058476",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chacoan_pygmy_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chacoan pygmy opossum is a recently described genus and species of didelphimorph marsupial. The only species in Chacodelphys, C. formosa, was known until 2004 from only one specimen collected in 1920 in the Chaco of Formosa Province, Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chacodelphys_formosa_area.png",
+  "_score": 1
+}

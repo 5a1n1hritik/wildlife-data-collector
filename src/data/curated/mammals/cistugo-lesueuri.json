@@ -1,0 +1,25 @@
+{
+  "id": "cistugo-lesueuri",
+  "name": "Lesueur's hairy bat",
+  "scientificName": "Cistugo lesueuri",
+  "wikibase_item": "Q426219",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845867,
+      "id": "Q845867"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q426219",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesueur's_hairy_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lesueur's hairy bat also known as Lesueur's wing-gland bat is a species of bat in the family Cistugidae. It is found in dry savanna, Mediterranean-type shrubby vegetation, and hot deserts in Lesotho and South Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cistugo_lesueuri.jpg"
+}

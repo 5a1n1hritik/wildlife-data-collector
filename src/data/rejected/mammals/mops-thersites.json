@@ -1,0 +1,26 @@
+{
+  "id": "mops-thersites",
+  "name": "Railer Bat",
+  "scientificName": "Mops thersites",
+  "wikibase_item": "Q1834802",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19717467,
+      "id": "Q19717467"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834802",
+    "wikipedia": "https://en.wikipedia.org/wiki/Railer_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Railer bat is a species of bat in the family Molossidae. It is found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Kenya, Liberia, Nigeria, Rwanda, Sierra Leone, and Uganda. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mops_thersites.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "simia-hamadryas-ursinus",
+  "name": "Simia hamadryas ursinus",
+  "scientificName": "Simia hamadryas ursinus",
+  "wikibase_item": "Q125421050",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122189069,
+      "id": "Q122189069"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125421050"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

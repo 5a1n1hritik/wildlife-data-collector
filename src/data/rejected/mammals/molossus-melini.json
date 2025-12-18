@@ -1,0 +1,26 @@
+{
+  "id": "molossus-melini",
+  "name": "Molossus melini",
+  "scientificName": "Molossus melini",
+  "wikibase_item": "Q108675382",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1723019,
+      "id": "Q1723019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108675382"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

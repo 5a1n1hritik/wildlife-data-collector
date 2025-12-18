@@ -1,0 +1,26 @@
+{
+  "id": "grammomys-buntingi",
+  "name": "Bunting's thicket rat",
+  "scientificName": "Grammomys buntingi",
+  "wikibase_item": "Q304028",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304028",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bunting's_thicket_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bunting's thicket rat is a species of rodent in the family Muridae.\nIt is found in Ivory Coast, Guinea, Liberia, Senegal, and Sierra Leone.\nIts natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist shrubland.",
+  "image": null,
+  "_score": 1
+}

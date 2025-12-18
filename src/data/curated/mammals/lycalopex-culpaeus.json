@@ -1,0 +1,25 @@
+{
+  "id": "lycalopex-culpaeus",
+  "name": "Culpeo",
+  "scientificName": "Lycalopex culpaeus",
+  "wikibase_item": "Q373558",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132687,
+      "id": "Q132687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q373558",
+    "wikipedia": "https://en.wikipedia.org/wiki/Culpeo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The culpeo, also known as Culpeo zorro, Andean zorro, Andean fox, Paramo wolf, Andean wolf, and colpeo fox, is a species of South American fox. Despite the name, it is not a true fox, but more closely related to wolves and jackals. Its appearance resembles that of foxes due to convergent evolution.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Culpeo_%28Lycalopex_culpaeus_culpaeus%29_Lo_Barnechea_2.jpg"
+}

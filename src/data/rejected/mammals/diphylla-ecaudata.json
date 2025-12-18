@@ -1,0 +1,26 @@
+{
+  "id": "diphylla-ecaudata",
+  "name": "Hairy-legged vampire bat",
+  "scientificName": "Diphylla ecaudata",
+  "wikibase_item": "Q717028",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10755826,
+      "id": "Q10755826"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q717028",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-legged_vampire_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-legged vampire bat is one of three extant species of vampire bats. It mainly feeds on the blood of wild birds, but can also feed both on domestic birds and humans. This vampire bat lives mainly in tropical and subtropical forestlands of South America, Central America, and southern Mexico. It is the sole member of the genus Diphylla.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Hairy-legged_vampire_bat%2C_Diphylla_ecaudata_%28closeup%29.jpg",
+  "_score": 2
+}

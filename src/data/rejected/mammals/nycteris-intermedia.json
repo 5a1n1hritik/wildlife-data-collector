@@ -1,0 +1,26 @@
+{
+  "id": "nycteris-intermedia",
+  "name": "Nycteris intermedia",
+  "scientificName": "Nycteris intermedia",
+  "wikibase_item": "Q1832600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832600",
+    "wikipedia": "https://en.wikipedia.org/wiki/Intermediate_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The intermediate slit-faced bat is a species of slit-faced bat living in forest and savanna regions of west and central Africa. It is easily confused with Nycteris arge and Nycteris nana. It is broadly distributed, but is classified as near-threatened because of the threat of predicted habitat loss. It is much more restricted to true rainforest than is N. arge.",
+  "image": null,
+  "_score": 2
+}

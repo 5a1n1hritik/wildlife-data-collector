@@ -1,0 +1,25 @@
+{
+  "id": "kerivoula-intermedia",
+  "name": "Small Woolly Bat",
+  "scientificName": "Kerivoula intermedia",
+  "wikibase_item": "Q302783",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302783",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small woolly bat is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Malaysia and is little known. It is only slightly larger than the Kitti's hog-nosed bat, one of the smallest mammals in the world. The small woolly bat weighs 2.5 to 4 g.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kerivoula_intermedia.jpg"
+}

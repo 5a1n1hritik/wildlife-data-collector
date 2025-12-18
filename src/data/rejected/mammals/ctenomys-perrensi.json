@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-perrensi",
+  "name": "Goya tuco-tuco",
+  "scientificName": "Ctenomys perrensi",
+  "wikibase_item": "Q1767892",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767892",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goya_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Goya tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Argentina.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-negrina",
+  "name": "Negros Shrew",
+  "scientificName": "Crocidura negrina",
+  "wikibase_item": "Q304185",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304185",
+    "wikipedia": "https://en.wikipedia.org/wiki/Negros_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Negros shrew is a white-toothed shrew found only on the island of Negros in the Philippines. It is locally called the katsurí and is listed as an endangered species due to habitat loss and a restricted range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Negros_Shrew_area.png",
+  "_score": 2
+}

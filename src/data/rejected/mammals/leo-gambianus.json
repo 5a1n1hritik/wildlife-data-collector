@@ -1,0 +1,26 @@
+{
+  "id": "leo-gambianus",
+  "name": "Leo gambianus",
+  "scientificName": "Leo gambianus",
+  "wikibase_item": "Q41165615",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41154920,
+      "id": "Q41154920"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165615"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

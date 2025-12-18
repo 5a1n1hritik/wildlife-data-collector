@@ -1,0 +1,26 @@
+{
+  "id": "lemmus-portenkoi",
+  "name": "Wrangel Island lemming",
+  "scientificName": "Lemmus portenkoi",
+  "wikibase_item": "Q1762854",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 525589,
+      "id": "Q525589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762854",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_Siberian_lemming"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East Siberian lemming, Eastern Siberian brown lemming, or Ognev's lemming is a species of lemming endemic to Russia, where it has a disjunct distribution throughout parts of Siberia east of the Verkhoyansk Range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Somnitelnaya_4_2014-08-19_%28cropped%29.jpg",
+  "_score": 1
+}

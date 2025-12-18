@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-hypochrysa",
+  "name": "Tupaia hypochrysa",
+  "scientificName": "Tupaia hypochrysa",
+  "wikibase_item": "Q62600838",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62600838",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan treeshrew or large Javan treeshrew is a treeshrew species within the Tupaiidae family. It was originally described as a subspecies of Tupaia ferruginea and later listed as a junior synonym of Tupaia glis, but was raised up to species status in 2013. It is found on the island of Java in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Javan_treeshrew_range.jpg",
+  "_score": 1
+}

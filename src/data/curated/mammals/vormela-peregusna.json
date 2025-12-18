@@ -1,0 +1,25 @@
+{
+  "id": "vormela-peregusna",
+  "name": "Marbled polecat",
+  "scientificName": "Vormela peregusna",
+  "wikibase_item": "Q70529",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12139554,
+      "id": "Q12139554"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70529",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marbled_polecat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The marbled polecat is a small mustelid belonging to the subfamily Ictonychinae. It is the only living member of the genus Vormela. Marbled polecats are generally found in the drier areas and grasslands of southeastern Europe to western China. Like other members of the Ictonychinae, it can emit a strong-smelling secretion from anal sacs under the tail when threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Marbled_polecat.jpg"
+}

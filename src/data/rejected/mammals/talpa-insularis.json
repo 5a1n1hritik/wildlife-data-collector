@@ -1,0 +1,26 @@
+{
+  "id": "talpa-insularis",
+  "name": "Talpa insularis",
+  "scientificName": "Talpa insularis",
+  "wikibase_item": "Q41168252",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168252",
+    "wikipedia": "https://en.wikipedia.org/wiki/Insular_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The insular mole is a species of mammal in the family Talpidae. It is restricted to Hainan Island and Taiwan, where it is also known as the Formosan blind mole. The species was first described by Robert Swinhoe in 1863.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mogera_insularis_ssp._insularis.jpg",
+  "_score": 1
+}

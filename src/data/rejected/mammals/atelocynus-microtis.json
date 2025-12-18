@@ -1,0 +1,26 @@
+{
+  "id": "atelocynus-microtis",
+  "name": "short-eared dog",
+  "scientificName": "Atelocynus microtis",
+  "wikibase_item": "Q331850",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4184819,
+      "id": "Q4184819"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q331850",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-eared_dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-eared dog, also known as the small-eared dog, short-eared fox or small eared zorro is a unique and elusive canid species endemic to the Amazonian basin. This is the only species assigned to the genus Atelocynus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Atelocynus_microtis_en_Amazonie_p%C3%A9ruvienne.jpg",
+  "_score": 1
+}

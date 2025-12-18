@@ -1,0 +1,26 @@
+{
+  "id": "murina-beelzebub",
+  "name": "Beelzebub's tube-nosed bat",
+  "scientificName": "Murina beelzebub",
+  "wikibase_item": "Q14538546",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14538546",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beelzebub's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Beelzebub's tube-nosed bat, also Beelzebub bat or demon bat, is a species in the vesper bat family Vespertilionidae, found in the Greater Mekong region of Southeast Asia, specifically the Quảng Trị and Gia Lai provinces of Vietnam. They have tube-shaped nostrils which assist them with their feeding.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Beelzebub_bat_1.jpg",
+  "_score": 1
+}

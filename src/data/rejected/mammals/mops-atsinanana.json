@@ -1,0 +1,26 @@
+{
+  "id": "mops-atsinanana",
+  "name": "Mops atsinanana",
+  "scientificName": "Mops atsinanana",
+  "wikibase_item": "Q125459835",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131457380,
+      "id": "Q131457380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125459835",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mops_atsinanana"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mops atsinanana is a free-tailed bat found on Madagascar. It was considered a subspecies of the little free-tailed bat until 2010.\nDuring the day, they are known to roost in man-made structures such as the roofs or attics of buildings.",
+  "image": null,
+  "_score": 0
+}

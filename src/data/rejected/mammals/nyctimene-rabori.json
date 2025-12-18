@@ -1,0 +1,26 @@
+{
+  "id": "nyctimene-rabori",
+  "name": "Nyctimene rabori",
+  "scientificName": "Nyctimene rabori",
+  "wikibase_item": "Q1766880",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766880",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine tube-nosed fruit bat locally known in Tagalog as Bayakan is a species of bat in the family Pteropodidae. It is endemic to the Philippines and known from the islands of Cebu, Negros and Sibuyan. It occurs in and near primary and secondary subtropical or tropical dry forests. It is often found near water. The species is named for Dioscoro S. Rabor who, with several others, first collected the species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Philippine_Tube-nosed_Fruit_Bat_area.png",
+  "_score": 2
+}

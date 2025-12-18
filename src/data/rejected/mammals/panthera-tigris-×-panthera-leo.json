@@ -1,0 +1,26 @@
+{
+  "id": "panthera-tigris-×-panthera-leo",
+  "name": "tigon",
+  "scientificName": "tigón",
+  "wikibase_item": "Q1383362",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 127960,
+      "id": "Q127960"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1383362",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tigon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tigon is a hybrid offspring of a male tiger and a female lion, or lioness. They exhibit visible characteristics from both parents: they can have both spots from the mother and stripes from the father. Any mane that a male tigon may have will appear shorter and less noticeable than a lion's mane and is closer in type to the ruff of a male tiger.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tigon4.jpg",
+  "_score": 1
+}

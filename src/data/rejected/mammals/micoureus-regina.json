@@ -1,0 +1,26 @@
+{
+  "id": "micoureus-regina",
+  "name": "Micoureus regina",
+  "scientificName": "Micoureus regina",
+  "wikibase_item": "Q20751489",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2592705,
+      "id": "Q2592705"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20751489",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bare-tailed_woolly_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bare-tailed woolly mouse opossum or short-furred woolly mouse opossum is a South American marsupial of the family Didelphidae. Its range includes Brazil, Colombia, Ecuador, Peru, and Bolivia. It is found in tropical rainforest in the westernmost portion of the Amazon Basin and the eastern foothills of the Andes, at elevations up to 1634 m. It was formerly assigned to the genus Micoureus, which was made a subgenus of Marmosa in 2009. Some sources, such as the American Society of Mammalogists, believe this species is a synonym of the Isthmian mouse opossum.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Short-furred_Woolly_Mouse_Opossum_area.png",
+  "_score": 2
+}

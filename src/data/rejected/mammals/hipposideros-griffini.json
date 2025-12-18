@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-griffini",
+  "name": "Hipposideros griffini",
+  "scientificName": "Hipposideros griffini",
+  "wikibase_item": "Q3014851",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3014851",
+    "wikipedia": "https://en.wikipedia.org/wiki/Griffin's_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Griffin's leaf-nosed bat is a species of roundleaf bats. First seen in 2008, it was formally described in 2012. It is found only in Vietnam, and only at two places, Cát Bà Island in northern Vietnam, and Chư Mom Ray National Park. It is generally similar to the species complex of the great roundleaf bat, with which it shares the habitat, but has distinguishing characters. It is relatively smaller and its sound navigation, echolocation, is different.",
+  "image": null,
+  "_score": 2
+}

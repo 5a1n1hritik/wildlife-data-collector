@@ -1,0 +1,25 @@
+{
+  "id": "eudiscopus-denticulus",
+  "name": "Disk-footed bat",
+  "scientificName": "Eudiscopus denticulus",
+  "wikibase_item": "Q305489",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10759458,
+      "id": "Q10759458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305489",
+    "wikipedia": "https://en.wikipedia.org/wiki/Disk-footed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The disk-footed bat is a species of vesper bat in the Vespertilionidae family found in Laos and Myanmar. The disc-footed bat was recorded in 2021 in the Lailad area of the northeastern Indian state of Meghalaya, near the Nongkhyllem Wildlife Sanctuary. It is about 1000 km west of the bat's nearest known habitat, Myanmar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Range_Eudiscopus_denticulus.png"
+}

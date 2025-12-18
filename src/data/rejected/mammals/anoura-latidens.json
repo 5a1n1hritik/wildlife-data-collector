@@ -1,0 +1,26 @@
+{
+  "id": "anoura-latidens",
+  "name": "Broad-toothed Tailless Bat",
+  "scientificName": "Anoura latidens",
+  "wikibase_item": "Q306468",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306468",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-toothed_tailless_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-toothed tailless bat is a species of bats in the family Phyllostomidae. It is found in Colombia, Peru, and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Anoura_latidens_map.svg/500px-Anoura_latidens_map.svg.png",
+  "_score": 1
+}

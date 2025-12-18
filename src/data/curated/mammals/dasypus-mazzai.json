@@ -1,0 +1,25 @@
+{
+  "id": "dasypus-mazzai",
+  "name": "Dasypus mazzai",
+  "scientificName": "Dasypus mazzai",
+  "wikibase_item": "Q21252221",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21252221",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yepes's_mulita"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Yepes's mulita or the Yungas lesser long-nosed armadillo is a species of armadillo in the family Dasypodidae. It is endemic to Argentina and Bolivia. Its natural habitat is subtropical dry forests. The species was renamed D. yepesi because the type of D. mazzai was suspected to correspond of other species of Dasypus, which it was later proved wrong, becoming D. yepesi a synonym of D. mazzai.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dasypus_mazzai_-_Feijo_et_al_2018_holotype.tif/lossy-page1-1734px-Dasypus_mazzai_-_Feijo_et_al_2018_holotype.tif.jpg"
+}

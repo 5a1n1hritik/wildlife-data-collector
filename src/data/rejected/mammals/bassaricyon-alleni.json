@@ -1,0 +1,26 @@
+{
+  "id": "bassaricyon-alleni",
+  "name": "Allen's olingo",
+  "scientificName": "Bassaricyon alleni",
+  "wikibase_item": "Q688655",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425180,
+      "id": "Q1425180"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q688655",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_lowland_olingo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern lowland olingo is a species of olingo from South America. The species is named after Joel Asaph Allen, the American zoologist who first described the genus. It is classified as Least Concern in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bassaricyon_alleni.jpg",
+  "_score": 1
+}

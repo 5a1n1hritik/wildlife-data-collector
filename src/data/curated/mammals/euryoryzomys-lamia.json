@@ -1,0 +1,26 @@
+{
+  "id": "euryoryzomys-lamia",
+  "name": "Euryoryzomys lamia",
+  "scientificName": "Euryoryzomys lamia",
+  "wikibase_item": "Q1765807",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 752973,
+      "id": "Q752973"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765807",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euryoryzomys_lamia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Euryoryzomys lamia, also known as the buffy-sided oryzomys or monster rice rat, is a species of rodent in the family Cricetidae. It is found only in central Brazil, where it lives in forest enclaves within the cerrado. The species' known altitudinal range is from 700 to 900 m. The main threats to its survival are the destruction and fragmentation of its forest habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Euryoryzomys_distribution.png",
+  "_score": 3
+}

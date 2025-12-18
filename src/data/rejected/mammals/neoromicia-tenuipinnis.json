@@ -1,0 +1,26 @@
+{
+  "id": "neoromicia-tenuipinnis",
+  "name": "Neoromicia tenuipinnis",
+  "scientificName": "Neoromicia tenuipinnis",
+  "wikibase_item": "Q1831047",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831047",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-winged_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-winged serotine is a species of vesper bat.",
+  "image": null,
+  "_score": 0
+}

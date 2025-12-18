@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-hollandorum",
+  "name": "Lepilemur hollandorum",
+  "scientificName": "Lepilemur hollandorum",
+  "wikibase_item": "Q1134086",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1134086",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holland's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Holland's sportive lemur, or the Mananara-Nord sportive lemur, is a sportive lemur that is endemic to Madagascar. It is one of 26 species in the genus Lepilemur. This lemur is found specifically in the Mananara-Nord Biosphere Reserve, but the limits of its habitat have yet to be determined. It lives in primary and secondary rainforests. Holland's sportive lemur was described in 2009.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lepilemur_hollandorum_range_map.svg/960px-Lepilemur_hollandorum_range_map.svg.png",
+  "_score": 2
+}

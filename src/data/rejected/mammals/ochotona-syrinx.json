@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-syrinx",
+  "name": "Ochotona syrinx",
+  "scientificName": "Ochotona syrinx",
+  "wikibase_item": "Q40543104",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 184067,
+      "id": "Q184067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40543104",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsing-ling_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tsing-ling pika is a species of pika endemic to the mountains in Central China. It inhabits mountainous forests and shrublands. It is a poorly known species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tsing-ling_Pika_area.png",
+  "_score": 1
+}

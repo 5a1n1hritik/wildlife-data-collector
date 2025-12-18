@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-geoffroyi",
+  "name": "Geoffroy's tamarin",
+  "scientificName": "Saguinus geoffroyi",
+  "wikibase_item": "Q934586",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q934586",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffroy's_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Geoffroy's tamarin, also known as the Panamanian, red-crested or rufous-naped tamarin, is a tamarin, a type of small monkey, found in Panama and Colombia. It is predominantly black and white, with a reddish nape. Diurnal, Geoffroy's tamarin spends most of its time in trees, but does come down to the ground occasionally. It lives in groups that most often number between three and five individuals, and generally include one or more adults of each sex. It eats a variety of foods, including insects, plant exudates, fruits and other plant parts. Insects and fruits account for the majority of its diet, but exudates are also important. But since its teeth are not adapted for gouging trees to get to the sap, it can only eat exudates when they are easily available.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Geoffroy%27s_tamarin_%28Saguinus_geoffroyi%29_2.jpg",
+  "_score": 4
+}

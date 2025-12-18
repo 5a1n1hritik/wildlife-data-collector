@@ -1,0 +1,26 @@
+{
+  "id": "cynomops-mastivus",
+  "name": "Cynomops mastivus",
+  "scientificName": "Cynomops mastivus",
+  "wikibase_item": "Q106349664",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2729634,
+      "id": "Q2729634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106349664"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

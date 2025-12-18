@@ -1,0 +1,28 @@
+{
+  "id": "canis-dingo",
+  "name": "Canis dingo",
+  "scientificName": "Canis dingo",
+  "wikibase_item": "Q117011854",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117011854",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canis_lupus_dingo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "In the taxonomic treatment presented in the third (2005) edition of Mammal Species of the World, Canis lupus dingo is a taxonomic rank that includes both the dingo that is native to Australia and the New Guinea singing dog that is native to the New Guinea Highlands. It also includes some extinct dogs that were once found in coastal Papua New Guinea and the island of Java in the Indonesian Archipelago. In this treatment it is a subspecies of Canis lupus, the wolf, although other treatments consider the dog as a full species, with the dingo and its relatives either as a subspecies of the dog, a species in its own right, or simply as an unnamed variant or genetic clade within the larger population of dogs. The genetic evidence indicates that the dingo clade originated from East Asian domestic dogs and was introduced through the Malay Archipelago into Australia, with a common ancestry between the Australian dingo and the New Guinea singing dog. The New Guinea singing dog is genetically closer to those dingoes that live in southeastern Australia than to those that live in the northwest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Dingo_on_the_road.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

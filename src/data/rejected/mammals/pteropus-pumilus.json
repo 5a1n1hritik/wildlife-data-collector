@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-pumilus",
+  "name": "Pteropus pumilus",
+  "scientificName": "Pteropus pumilus",
+  "wikibase_item": "Q596205",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q596205",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_golden-mantled_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little golden-mantled flying fox is a species of bat in the family Pteropodidae. It is found in Indonesia and the Philippines. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Little_Golden-mantled_Flying_Fox_area.png",
+  "_score": 2
+}

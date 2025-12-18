@@ -1,0 +1,26 @@
+{
+  "id": "canis-latrans-var.",
+  "name": "coywolf",
+  "scientificName": "Canis latrans × Canis lupus",
+  "wikibase_item": "Q3696387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3696387",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coywolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "A coywolf is a canid hybrid descended from coyotes, eastern wolves, gray wolves, and dogs. All of these species are members of the genus Canis with 78 chromosomes; they therefore can interbreed. One genetic study indicates that these species genetically diverged relatively recently. Genomic studies indicate that nearly all North American gray wolf populations possess some degree of admixture with coyotes following a geographic cline, with the lowest levels occurring in Alaska, and the highest in Ontario and Quebec, as well as Atlantic Canada. Another term for these hybrids is sometimes wolfote.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coywolf_hybrids.jpg",
+  "_score": 2
+}

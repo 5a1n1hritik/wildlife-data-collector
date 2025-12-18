@@ -1,0 +1,26 @@
+{
+  "id": "graphiurus-nagtglasii",
+  "name": "Nagtglas's African Dormouse",
+  "scientificName": "Graphiurus nagtglasii",
+  "wikibase_item": "Q1766269",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871635,
+      "id": "Q20871635"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766269",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nagtglas's_African_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nagtglas's African dormouse is a species of rodent in the family Gliridae. It is found in Cameroon, Central African Republic, Ghana, Liberia, Nigeria, Sierra Leone, and possibly Gabon. Its natural habitat is subtropical or tropical, moist, lowland forests. The rodent is named after Cornelis Nagtglas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Graphiurus_nagtglasii_Map.jpg",
+  "_score": 2
+}

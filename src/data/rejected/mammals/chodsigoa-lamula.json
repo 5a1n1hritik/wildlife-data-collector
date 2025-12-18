@@ -1,0 +1,26 @@
+{
+  "id": "chodsigoa-lamula",
+  "name": "Lamulate shrew",
+  "scientificName": "Chodsigoa lamula",
+  "wikibase_item": "Q1770057",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135091,
+      "id": "Q135091"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770057",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamulate_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lamulate shrew is a species of mammal in the family Soricidae. It is endemic to China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lamulate_Shrew_area.png",
+  "_score": 1
+}

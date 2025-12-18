@@ -1,0 +1,28 @@
+{
+  "id": "llullataruca-shockeyi",
+  "name": "Llullataruca shockeyi",
+  "scientificName": "Llullataruca shockeyi",
+  "wikibase_item": "Q56248878",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 56254468,
+      "id": "Q56254468"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56248878",
+    "wikipedia": "https://en.wikipedia.org/wiki/Llullataruca"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Llullataruca is an extinct genus of macraucheniid litoptern. It lived during the Middle Miocene of what is now Bolivia.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

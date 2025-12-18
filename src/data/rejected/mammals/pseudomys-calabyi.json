@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-calabyi",
+  "name": "Kakadu pebble-mound mouse",
+  "scientificName": "Pseudomys calabyi",
+  "wikibase_item": "Q146539",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146539",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kakadu_pebble-mound_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kakadu pebble-mound mouse is a rodent native to Australia. It is one of the pebble-mound mice.",
+  "image": null,
+  "_score": 0
+}

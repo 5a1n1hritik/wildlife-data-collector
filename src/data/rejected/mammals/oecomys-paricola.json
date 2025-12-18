@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-paricola",
+  "name": "Oecomys paricola",
+  "scientificName": "Oecomys paricola",
+  "wikibase_item": "Q1770088",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770088",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_paricola"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys paricola, also known as the Brazilian oecomys, Brazilian arboreal rice rat, or South Amazonian arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It is found in northeastern Peru as well as central Brazil south of the Amazon, where it lives in lowland tropical rainforests.",
+  "image": null,
+  "_score": 0
+}

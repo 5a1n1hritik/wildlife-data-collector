@@ -1,0 +1,26 @@
+{
+  "id": "xenurus-squamicaudis",
+  "name": "Xenurus squamicaudis",
+  "scientificName": "Xenurus squamicaudis",
+  "wikibase_item": "Q125621909",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41159212,
+      "id": "Q41159212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125621909"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

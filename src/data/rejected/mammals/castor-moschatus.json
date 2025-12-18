@@ -1,0 +1,26 @@
+{
+  "id": "castor-moschatus",
+  "name": "Castor moschatus",
+  "scientificName": "Castor moschatus",
+  "wikibase_item": "Q122176748",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 47542,
+      "id": "Q47542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122176748"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

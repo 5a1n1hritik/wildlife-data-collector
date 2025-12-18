@@ -1,0 +1,26 @@
+{
+  "id": "murina-chrysochaetes",
+  "name": "Murina chrysochaetes",
+  "scientificName": "Murina chrysochaetes",
+  "wikibase_item": "Q17343569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17343569",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-haired_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-haired tube-nosed bat is a species of vesper bat in the family Vespertilionidae. it is native to southern China and northern Vietnam, where it is thought to be restricted to evergreen forests on the highlands.",
+  "image": null,
+  "_score": 0
+}

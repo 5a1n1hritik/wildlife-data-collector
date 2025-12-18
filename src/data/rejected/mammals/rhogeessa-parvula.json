@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-parvula",
+  "name": "Little yellow bat",
+  "scientificName": "Rhogeessa parvula",
+  "wikibase_item": "Q611092",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q611092",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little yellow bat is a species of vesper bat found only in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rhogeessa_parvula.jpg",
+  "_score": 1
+}

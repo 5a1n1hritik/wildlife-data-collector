@@ -1,0 +1,26 @@
+{
+  "id": "sorex-vagrans",
+  "name": "vagrant shrew",
+  "scientificName": "Sorex vagrans",
+  "wikibase_item": "Q1769720",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769720",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vagrant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The vagrant shrew, also known as the wandering shrew, is a medium-sized North American shrew. At one time, the montane shrew and the Orizaba long-tailed shrew were considered to belong to the same species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sorex_vagrans.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aethomys-hindei",
+  "name": "Hinde's rock rat",
+  "scientificName": "Aethomys hindei",
+  "wikibase_item": "Q306793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385933,
+      "id": "Q385933"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hinde's_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hinde's rock rat is a species of rodent in the family Muridae\nfound in Burundi, Cameroon, the Central African Republic, the Democratic Republic of the Congo, Ethiopia, Kenya, Rwanda, Sudan, Tanzania, and Uganda.\nIts natural habitats are subtropical or tropical moist lowland forest, moist savanna, and subtropical or tropical seasonally wet or flooded lowland grassland. Oldfield Thomas named it in honor of Sidney Langford Hinde, a British officer and recreational naturalist.",
+  "image": null,
+  "_score": 2
+}

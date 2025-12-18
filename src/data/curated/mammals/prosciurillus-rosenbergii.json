@@ -1,0 +1,25 @@
+{
+  "id": "prosciurillus-rosenbergii",
+  "name": "Sanghir squirrel",
+  "scientificName": "Prosciurillus rosenbergii",
+  "wikibase_item": "Q1766927",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 389197,
+      "id": "Q389197"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766927",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanghir_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sanghir squirrel is a species of rodent in the family Sciuridae. It is endemic to the volcanic Sangir Islands in Indonesia, located just north of the equator in the Celebes Sea, between the Indonesian island of Sulawesi and the island of Mindanao in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Prosciurillus_rosenbergii_-_Siau_Island.JPG"
+}

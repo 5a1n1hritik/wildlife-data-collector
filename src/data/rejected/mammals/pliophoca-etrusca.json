@@ -1,0 +1,28 @@
+{
+  "id": "pliophoca-etrusca",
+  "name": "Pliophoca etrusca",
+  "scientificName": "Pliophoca etrusca",
+  "wikibase_item": "Q110390918",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3906722,
+      "id": "Q3906722"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110390918",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pliophoca"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pliophoca is an extinct genus of seal in the family Phocidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pliophoca_etrusca_Natural_History_Museum_University_of_Pisa_I-13993.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

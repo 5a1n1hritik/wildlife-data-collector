@@ -1,0 +1,26 @@
+{
+  "id": "ictonyx-capensis",
+  "name": "Ictonyx capensis",
+  "scientificName": "Ictonyx capensis",
+  "wikibase_item": "Q126690236",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 921373,
+      "id": "Q921373"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126690236",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_polecat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped polecat, also called the African polecat, zoril, zorille, zorilla, African muishond, striped muishond, Cape polecat, and African skunk, is a species of mammal native to sub-Saharan Africa. Despite bearing some resemblance to a skunk, it belongs in a separate family known as the Mustelidae, and genetic analysis suggests that its closest living relative is the African striped weasel. It is adaptable and lives in a wide range of habitats and elevations, preferring open environments with lower levels of shrubs. This species measures 30–38 cm (12–15 in) in length excluding the tail, with males growing larger than females. Its fur is mostly black, with distinctive white stripes running down its back and white patches on its face and tail, though the exact patterning is highly variable.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/African_polecat_walking_in_leaves_-_DPLA_-_fa39b9e9bcf1097e237ba8b92922c4eb.jpg",
+  "_score": 4
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pseudosoriculus-fumidus",
+  "name": "Pseudosoriculus fumidus",
+  "scientificName": "Pseudosoriculus fumidus",
+  "wikibase_item": "Q125422810",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125422821,
+      "id": "Q125422821"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125422810"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

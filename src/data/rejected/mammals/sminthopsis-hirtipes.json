@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-hirtipes",
+  "name": "Hairy-footed Dunnart",
+  "scientificName": "Sminthopsis hirtipes",
+  "wikibase_item": "Q135137",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135137",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-footed_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-footed dunnart is a dunnart that has silver hairs on the soles of it hind feet accompanied by long hair on the side of its sole. It is an Australian marsupial similar to the Ooldea dunnart, with its upper body yellow-brown and lower body white in colour. Its total length is 14.7–18 cm (5.8–7.1 in); its average body length is 7.2–8.5 cm (2.8–3.3 in) with a tail of 7.5–9.5 cm (3.0–3.7 in). Its ear length is 15 mm (0.59 in). It weighs between 13 and 19 g. Its tail is thin and pinkish-white and can be thickened at the base.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hairy-footed_Dunnart_area.png",
+  "_score": 2
+}

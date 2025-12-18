@@ -1,0 +1,26 @@
+{
+  "id": "lepus-schlumbergeri",
+  "name": "Moroccan hare",
+  "scientificName": "Lepus schlumbergeri",
+  "wikibase_item": "Q124799985",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124799985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moroccan_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Moroccan hare is a species of mammal in the family Leporidae. It is endemic to central Morocco and was described in 1894 by Remy Saint-Loup. Its specific name refers to the last name of another member of the Zoological Society of France, Mr. Schlumberger, who provided the type specimen. The species was later classified as a subspecies of the Cape hare. In 2019, it was split from the cape hare alongside two other species, the Sardinian or Mediterranean hare from northern Morocco, and the West Sahara hare from southern Morocco. It is differentiated from sympatric species of hare by a white spot on the top of its head.",
+  "image": null,
+  "_score": 1
+}

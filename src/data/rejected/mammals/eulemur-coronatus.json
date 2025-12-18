@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-coronatus",
+  "name": "Eulemur coronatus",
+  "scientificName": "Eulemur coronatus",
+  "wikibase_item": "Q151910",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q151910",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crowned_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crowned lemur is a lemur that is 31–36 cm (12–14 in) long and weighs 2 kg (4.4 lb). Its tail is about 42–51 cm (17–20 in) long.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Crowned_lemur_%28Eulemur_coronatus%29_male.jpg",
+  "_score": 1
+}

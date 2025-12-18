@@ -1,0 +1,26 @@
+{
+  "id": "vulpes-lagopus",
+  "name": "Vulpes lagopus",
+  "scientificName": "Vulpes lagopus",
+  "wikibase_item": "Q82738",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q82738",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arctic_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arctic fox, also known as the white fox, polar fox, or snow fox, is a small species of fox native to the Arctic regions of the Northern Hemisphere and common throughout the Arctic tundra biome. It is well adapted to living in cold environments, and is best known for its thick, warm fur that is also used as camouflage. It has a large and very fluffy tail. In the wild, most individuals do not live past their first year but some exceptional ones survive up to 11 years. Its body length ranges from 46 to 68 cm, with a generally rounded body shape to minimize the escape of body heat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Iceland-1979445_%28cropped_3%29.jpg",
+  "_score": 2
+}

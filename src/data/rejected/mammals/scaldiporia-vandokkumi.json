@@ -1,0 +1,26 @@
+{
+  "id": "scaldiporia-vandokkumi",
+  "name": "Scaldiporia vandokkumi",
+  "scientificName": "Scaldiporia vandokkumi",
+  "wikibase_item": "Q56327450",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 112997092,
+      "id": "Q112997092"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56327450"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

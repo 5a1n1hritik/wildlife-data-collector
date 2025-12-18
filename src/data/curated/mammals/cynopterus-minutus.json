@@ -1,0 +1,26 @@
+{
+  "id": "cynopterus-minutus",
+  "name": "Minute fruit bat",
+  "scientificName": "Cynopterus minutus",
+  "wikibase_item": "Q1764823",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311701,
+      "id": "Q311701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764823",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minute_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The minute fruit bat is a species of megabat within the family Pteropodidae. It is found in Sumatra, Java, Borneo and Sulawesi. C. minutus is a smaller species that lives in rainforests. Continuous bimodal polyoestry has seasonal reproduction. The females of the species reproduce in synchrony, giving birth to offspring 5–7 months apart throughout two separate seasons. Postpartum oestrus occurs after each parturition. In C. minutus, both sexes reach sexual maturity at around 7 months, and females give birth for the first time at around 12 months. Females start having children not long after reaching sexual maturity, and they effectively continue having children indefinitely. Relative to other fruit bats, C. minutus have high rates of reproduction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cynopt_minut_081121-3138_smlu.JPG",
+  "_score": 3
+}

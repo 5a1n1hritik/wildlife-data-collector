@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-luctoides",
+  "name": "Rhinolophus luctoides",
+  "scientificName": "Rhinolophus luctoides",
+  "wikibase_item": "Q21088191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21088191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selangor_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Selangor woolly horseshoe bat or luctus-like horseshoe bat is a bat species of the family Rhinolophidae endemic to Malaysia. Populations of this species were previously classified within the woolly horseshoe bat.",
+  "image": null,
+  "_score": 0
+}

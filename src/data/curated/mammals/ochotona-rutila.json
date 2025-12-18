@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-rutila",
+  "name": "Turkestan red pika",
+  "scientificName": "Ochotona rutila",
+  "wikibase_item": "Q659553",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q659553",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turkestan_red_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Turkestani red pika is a species of mammal in the family Ochotonidae. The summer fur at its back is bright rufous and the ventral fur is white or ochraceous. The winter dorsal fur is pale brown and the ventral fur is white or light ochraceous in colour. It is found in the mountains of western Xinjiang in China, and sporadically also in the central Asian mountains in Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan. The female has a low fertility rate, and gives birth to offspring during the breeding season from spring to summer. She generally produces two litters each year, with two to six young. It is rated as a species of least concern on the International Union for Conservation of Nature Red List of Endangered Species, but it is considered to be near-threatened within the China part of its range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ochotona_rutila.JPG",
+  "_score": 4
+}

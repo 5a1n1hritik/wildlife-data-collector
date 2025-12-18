@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-maendeleo",
+  "name": "Maendeleo Horseshoe Bat",
+  "scientificName": "Rhinolophus maendeleo",
+  "wikibase_item": "Q1768365",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768365",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maendeleo_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Maendeleo horseshoe bat is a species of Tanzanian bats in the family Rhinolophidae. The species was first described in 2000 from specimens living in lowland coastal caves. The species has been evaluated as data deficient for a conservation status by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Maendeleo_Horseshoe_Bat_area.png",
+  "_score": 1
+}

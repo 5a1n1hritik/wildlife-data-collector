@@ -1,0 +1,26 @@
+{
+  "id": "myodes-rutilus",
+  "name": "Northern red-backed vole",
+  "scientificName": "Myodes rutilus",
+  "wikibase_item": "Q608821",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q608821",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_red-backed_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern red-backed vole is a small slender vole found in Alaska, northern Canada, Scandinavia and northern Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Red_backed_vole.jpg",
+  "_score": 1
+}

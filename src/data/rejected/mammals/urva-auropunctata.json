@@ -1,0 +1,26 @@
+{
+  "id": "urva-auropunctata",
+  "name": "Urva auropunctata",
+  "scientificName": "Urva auropunctata",
+  "wikibase_item": "Q123900653",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99217654,
+      "id": "Q99217654"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123900653",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_Indian_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small Indian mongoose is a mongoose species native to Iraq and northern India; it has also been introduced to several Caribbean and Pacific islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Astonished.jpg",
+  "_score": 1
+}

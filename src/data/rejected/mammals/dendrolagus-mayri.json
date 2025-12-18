@@ -1,0 +1,28 @@
+{
+  "id": "dendrolagus-mayri",
+  "name": "Dendrolagus mayri",
+  "scientificName": "Dendrolagus mayri",
+  "wikibase_item": "Q1869203",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1869203",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wondiwoi_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Wondiwoi tree-kangaroo is a critically endangered, bear-like mammal native to tropical mountain forests on the island of New Guinea in Western Papua. Elusive and rare, it was considered extinct until rediscovery in 2018. It is a species of tree-kangaroo, a group of long-tailed, bear-like animals native to Australia and New Guinea that mostly live in trees and feed on plant matter. Tree-kangaroos belong to the macropod family (Macropodidae) with kangaroos, and carry their young in a pouch like most other marsupials. The Wondiwoi tree-kangaroo is likely threatened by hunting, and is known only from remote mountains on the Wondiwoi Peninsula in northwest New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Dendrolagus_mayri_illustration_Rothschild_and_Dollman_1936_ZSL_monograph.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

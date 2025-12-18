@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-thomasi",
+  "name": "Thomas's Horseshoe Bat",
+  "scientificName": "Rhinolophus thomasi",
+  "wikibase_item": "Q1766398",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's horseshoe bat is a species of bat in the family Rhinolophidae. It is found in China, Laos, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Thomas%27s_horseshoe_bat_imported_from_iNaturalist_photo_233070250_on_16_August_2024.jpg",
+  "_score": 1
+}

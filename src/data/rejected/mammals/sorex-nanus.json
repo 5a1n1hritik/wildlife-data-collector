@@ -1,0 +1,26 @@
+{
+  "id": "sorex-nanus",
+  "name": "dwarf shrew",
+  "scientificName": "Sorex nanus",
+  "wikibase_item": "Q1770309",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770309",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf shrew is a species of mammal in the family Soricidae endemic to Arizona, Colorado, Montana, Nebraska, New Mexico, South Dakota, Utah, and Wyoming in the United States. The type locality is Estes Park, Colorado, USA.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dwarf_Shrew_area.png",
+  "_score": 1
+}

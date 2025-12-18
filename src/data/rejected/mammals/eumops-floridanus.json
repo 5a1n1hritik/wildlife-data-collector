@@ -1,0 +1,26 @@
+{
+  "id": "eumops-floridanus",
+  "name": "Florida bonneted bat",
+  "scientificName": "Eumops floridanus",
+  "wikibase_item": "Q5409636",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5409636",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florida_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Florida bonneted bat or Florida mastiff bat is a species of bat in the genus Eumops, the bonneted bats or mastiff bats. Until recently, it was classified as a subspecies of Wagner's bonneted bat. It is endemic to southern Florida in the United States.\nThis species has one of the smallest geographical distributions of any New World bat. It has been called \"one of the most critically endangered mammal species in North America\". It is protected under the Endangered Species Act.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Florida_bonneted_bat_%28Eumops_floridanus%29.jpg",
+  "_score": 2
+}

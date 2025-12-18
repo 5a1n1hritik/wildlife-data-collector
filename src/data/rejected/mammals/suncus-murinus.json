@@ -1,0 +1,26 @@
+{
+  "id": "suncus-murinus",
+  "name": "Asian house shrew",
+  "scientificName": "Suncus murinus",
+  "wikibase_item": "Q1062541",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1062541",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_house_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian house shrew is a shrew species native to South and Southeast Asia that has been listed as Least Concern on the IUCN Red List since 2008 because of its large population and wide distribution. It has been introduced in several West Asian and East African countries. It is considered an invasive species and implicated in the demise of several island lizard species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Suncus_murinus.jpg",
+  "_score": 1
+}

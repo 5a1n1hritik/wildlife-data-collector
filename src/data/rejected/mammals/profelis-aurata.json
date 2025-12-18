@@ -1,0 +1,26 @@
+{
+  "id": "profelis-aurata",
+  "name": "Profelis aurata",
+  "scientificName": "Profelis",
+  "wikibase_item": "Q192231",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2937805,
+      "id": "Q2937805"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q192231",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_golden_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African golden cat is a wild cat endemic to the rainforests of West and Central Africa. It is threatened due to deforestation and bushmeat hunting and listed as Vulnerable on the IUCN Red List. It is a close relative of both the caracal and the serval. Previously, it was placed in the genus Profelis. Its body size ranges from 61 to 101 cm with a 16 to 46 cm long tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Caracal_aurata_2.jpg",
+  "_score": 2
+}

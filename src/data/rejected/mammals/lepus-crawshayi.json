@@ -1,0 +1,26 @@
+{
+  "id": "lepus-crawshayi",
+  "name": "Lepus crawshayi",
+  "scientificName": "Lepus crawshayi",
+  "wikibase_item": "Q41170932",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41170932",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_savanna_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African savanna hare is a mammal species in the family Leporidae, native to Africa. It is listed as \"least concern\" on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/021_African_savanna_hare_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "_score": 1
+}

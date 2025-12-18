@@ -1,0 +1,25 @@
+{
+  "id": "elephantulus-fuscipes",
+  "name": "Dusky-footed elephant shrew",
+  "scientificName": "Elephantulus fuscipes",
+  "wikibase_item": "Q945085",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q945085",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky-footed_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky-footed elephant shrew or dusky-footed sengi is a species of elephant shrew in the family Macroscelididae. It is found in Democratic Republic of the Congo, South Sudan, and Uganda. Its natural habitat is subtropical or tropical dry lowland grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dusky-footed_Elephant_Shrew_area.png"
+}

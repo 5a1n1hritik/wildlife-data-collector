@@ -1,0 +1,26 @@
+{
+  "id": "beamys-major",
+  "name": "Greater hamster-rat",
+  "scientificName": "Beamys major",
+  "wikibase_item": "Q1765568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 597195,
+      "id": "Q597195"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_hamster-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater hamster-rat, greater long-tailed pouched rat, or long-tailed pouched rat is a species of rodent in the family Nesomyidae. It is found in Malawi, Tanzania, and Zambia. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

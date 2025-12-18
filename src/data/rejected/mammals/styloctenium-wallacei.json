@@ -1,0 +1,26 @@
+{
+  "id": "styloctenium-wallacei",
+  "name": "Sulawesi stripe-faced fruit bat",
+  "scientificName": "Styloctenium wallacei",
+  "wikibase_item": "Q576724",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953340,
+      "id": "Q953340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q576724",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sulawesi_stripe-faced_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Wallace's or Sulawesi stripe-faced fruit bat is a species of megabat in the family Pteropodidae. It is endemic to Sulawesi and the nearby Togian Islands of Indonesia. Cave paintings resembling these bats have been found in Australia, where bats of this kind are not otherwise known.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Styloctenium_wallacei_AB_Meyer.jpg",
+  "_score": 1
+}

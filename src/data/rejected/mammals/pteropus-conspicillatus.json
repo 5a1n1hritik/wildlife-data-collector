@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-conspicillatus",
+  "name": "Pteropus conspicillatus",
+  "scientificName": "Pteropus conspicillatus",
+  "wikibase_item": "Q426636",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q426636",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spectacled_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spectacled flying fox, also known as the spectacled fruit bat, is a megabat that lives in Australia's north-eastern regions of Queensland. It is also found in New Guinea and on the offshore islands including Woodlark Island, Alcester Island, Kiriwina, and Halmahera.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pteropus_conspicillatus_family.jpg",
+  "_score": 1
+}

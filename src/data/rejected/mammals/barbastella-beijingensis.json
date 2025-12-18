@@ -1,0 +1,26 @@
+{
+  "id": "barbastella-beijingensis",
+  "name": "Barbastella beijingensis",
+  "scientificName": "Barbastella beijingensis",
+  "wikibase_item": "Q3542462",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 338951,
+      "id": "Q338951"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3542462",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beijing_barbastelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Beijing barbastelle, also known as the Beijing wide-eared bat, is a species of vesper bat endemic to Beijing Municipality, China. The species was discovered by Chinese zoology students in 2001 in caves of Fangshan District in southwestern Beijing and was identified as a distinct species by zoologists Zhang Shuyi, Gareth Jones, Zhang Jingshuo and Han Naijian in 2007.",
+  "image": null,
+  "_score": 0
+}

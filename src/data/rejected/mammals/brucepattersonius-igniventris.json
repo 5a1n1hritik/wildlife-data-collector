@@ -1,0 +1,26 @@
+{
+  "id": "brucepattersonius-igniventris",
+  "name": "Brucepattersonius igniventris",
+  "scientificName": "Brucepattersonius igniventris",
+  "wikibase_item": "Q1768443",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141986,
+      "id": "Q141986"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768443",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brucepattersonius_igniventris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brucepattersonius igniventris, also known as the red-bellied akodont or red-bellied brucie, is a South American rodent in the genus Brucepattersonius. It is known only from a few specimens from the type locality in Iporanga, São Paulo, Brazil. Although it is threatened by habitat loss, it is protected by Alto Ribeira Tourist State Park.",
+  "image": null,
+  "_score": 2
+}

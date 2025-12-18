@@ -1,0 +1,26 @@
+{
+  "id": "asellia-arabica",
+  "name": "Asellia arabica",
+  "scientificName": "Asellia arabica",
+  "wikibase_item": "Q11838953",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225066,
+      "id": "Q225066"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11838953",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arabian_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arabian trident bat is a species of Old World leaf-nosed bat found in the Middle East.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Distribution_of_Asellia_arabica.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "manis-culionensis",
+  "name": "Philippine pangolin",
+  "scientificName": "Manis culionensis",
+  "wikibase_item": "Q1339663",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886658,
+      "id": "Q20886658"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1339663",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine pangolin or Palawan pangolin, also locally known as balintong, is a pangolin species endemic to the Palawan province of the Philippines. Its habitat includes primary and secondary forests, as well as surrounding grasslands. This species is moderately common within its limited range, but is at risk due to heavy hunting because of its valued scales and meat. This species is distinguished from the closely related Sunda pangolin by its smaller body-to-tail ratio, smaller scales, and a shorter head. It is listed as Critically Endangered by the IUCN, and Critically Endangered by the Palawan Council for Sustainable Development (PCSD).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Philippine_Pangolins_by_Gregg_Yan.jpg",
+  "_score": 3
+}

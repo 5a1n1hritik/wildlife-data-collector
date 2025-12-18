@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-concava",
+  "name": "Lonchophylla concava",
+  "scientificName": "Lonchophylla concava",
+  "wikibase_item": "Q1976210",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1976210",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonchophylla_concava"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lonchophylla concava is a species of leaf-nosed bat found in Central and South America. It was long considered a synonym of Goldman's nectar bat, though is now recognized as distinct. It consumes nectar and pollen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lonchophylla_concava_295471094.jpg",
+  "_score": 1
+}

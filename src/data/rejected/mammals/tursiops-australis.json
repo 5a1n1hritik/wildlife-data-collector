@@ -1,0 +1,26 @@
+{
+  "id": "tursiops-australis",
+  "name": "Burrunan dolphin",
+  "scientificName": "Tursiops australis",
+  "wikibase_item": "Q1016955",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149069,
+      "id": "Q149069"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1016955",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burrunan_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Burrunan dolphin is a proposed species of bottlenose dolphin found in parts of Victoria, Australia first described in 2011. Its exact taxonomy is debated: numerous studies support it as being a separate species within the genus Tursiops and occupying a basal position within the genus, with limited phylogenetic studies using different methodologies indicate that it is a subspecies of the Indo-Pacific bottlenose dolphin. The Burrunan dolphin is not currently recognized as a species by the Society for Marine Mammalogy or American Society of Mammalogists, which cites problematic methodology in the original study proposing species status and recommends further research.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Burrunan_Dolphin_%28Tursiops_australis%29-B.png",
+  "_score": 2
+}

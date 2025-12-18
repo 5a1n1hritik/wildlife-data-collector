@@ -1,0 +1,26 @@
+{
+  "id": "dryomys-laniger",
+  "name": "Woolly Dormouse",
+  "scientificName": "Dryomys laniger",
+  "wikibase_item": "Q1766281",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 910126,
+      "id": "Q910126"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766281",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woolly_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The woolly dormouse is a species of rodent in the family Gliridae endemic to Turkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Woolly_Forest_Dormouse.jpg",
+  "_score": 1
+}

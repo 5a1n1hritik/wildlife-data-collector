@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-nigripes",
+  "name": "Black-footed shrew",
+  "scientificName": "Crocidura nigripes",
+  "wikibase_item": "Q1761911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761911",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-footed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-footed shrew is a species of mammal in the family Soricidae. It is endemic to northern and central Sulawesi, Indonesia where it lives on the floor of the tropical forests. The International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Curut_Crocidura_nigripes_Miller_and_Hollister%2C_1921.jpg",
+  "_score": 1
+}

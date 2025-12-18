@@ -1,0 +1,26 @@
+{
+  "id": "euryoryzomys-macconnelli",
+  "name": "Euryoryzomys macconnelli",
+  "scientificName": "Euryoryzomys macconnelli",
+  "wikibase_item": "Q1761093",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 752973,
+      "id": "Q752973"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761093",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euryoryzomys_macconnelli"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Euryoryzomys macconnelli, also known as MacConnell's rice rat or MacConnell's oryzomys, is a rodent species from South America. It is found in Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname and Venezuela, where it lives in lowland tropical rainforest. It was formerly placed in the genus Oryzomys, as Oryzomys macconnelli, but in 2006 it was reclassified as the type species of the new genus Euryoryzomys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Euryoryzomys_distribution.png",
+  "_score": 2
+}

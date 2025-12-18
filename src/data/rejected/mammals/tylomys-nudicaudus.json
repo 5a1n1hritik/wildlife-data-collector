@@ -1,0 +1,26 @@
+{
+  "id": "tylomys-nudicaudus",
+  "name": "Peters's climbing rat",
+  "scientificName": "Tylomys nudicaudus",
+  "wikibase_item": "Q1637499",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 604917,
+      "id": "Q604917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1637499",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_climbing_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's climbing rat is a species of rodent in the family Cricetidae.",
+  "image": null,
+  "_score": 0
+}

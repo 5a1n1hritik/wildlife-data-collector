@@ -1,0 +1,25 @@
+{
+  "id": "nycticebus-borneanus",
+  "name": "Bornean Slow Loris",
+  "scientificName": "Nycticebus borneanus",
+  "wikibase_item": "Q7071010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 74941,
+      "id": "Q74941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7071010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nycticebus_borneanus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nycticebus borneanus, the Bornean slow loris, is a strepsirrhine primate and a species of slow loris that is native to central south Borneo in Indonesia. Formerly considered a subspecies or synonym of N. menagensis, it was promoted to full species status in 2013 when a study of museum specimens and photographs identified distinct facial markings, which helped to differentiate it as a separate species. It is distinguished by its dark, contrasting facial features, as well as the shape and width of the stripes of its facial markings.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nycticebus_borneanus_%28Nycticebus_coucang_borneanus%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02519.JPG"
+}

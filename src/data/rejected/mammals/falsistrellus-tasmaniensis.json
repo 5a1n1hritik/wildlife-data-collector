@@ -1,0 +1,26 @@
+{
+  "id": "falsistrellus-tasmaniensis",
+  "name": "Eastern false pipistrelle",
+  "scientificName": "Falsistrellus tasmaniensis",
+  "wikibase_item": "Q1838314",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 248049,
+      "id": "Q248049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1838314",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_false_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern false pipistrelle is a vesper bat that occurs in eastern and south-eastern Australia, including the island of Tasmania.",
+  "image": null,
+  "_score": 0
+}

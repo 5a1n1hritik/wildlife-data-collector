@@ -1,0 +1,26 @@
+{
+  "id": "herpestes-urva",
+  "name": "crab-eating mongoose",
+  "scientificName": "Herpestes urva",
+  "wikibase_item": "Q938494",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q938494",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crab-eating_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crab-eating mongoose is a species of mongoose found from the north-eastern Indian subcontinent and Southeast Asia to southern China and Taiwan. It is listed as least concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Urva_urva_77938111.jpg",
+  "_score": 1
+}

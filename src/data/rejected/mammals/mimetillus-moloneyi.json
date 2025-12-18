@@ -1,0 +1,26 @@
+{
+  "id": "mimetillus-moloneyi",
+  "name": "Moloney's Mimic Bat",
+  "scientificName": "Mimetillus moloneyi",
+  "wikibase_item": "Q1833407",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10793808,
+      "id": "Q10793808"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833407",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moloney's_mimic_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Moloney's mimic bat is a species of vesper bat. It can be found in Benin, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Ethiopia, Gabon, Ghana, Guinea, Kenya, Liberia, Mozambique, Nigeria, Sierra Leone, South Sudan, Tanzania, Togo, Uganda, and Zambia. It is found in subtropical or tropical dry, moist, montane, or mangrove forests and in savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mimetellus_moloneyi.jpg",
+  "_score": 2
+}

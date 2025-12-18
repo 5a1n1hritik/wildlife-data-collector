@@ -1,0 +1,26 @@
+{
+  "id": "proechimys-hoplomyoides",
+  "name": "Guyanan spiny rat",
+  "scientificName": "Proechimys hoplomyoides",
+  "wikibase_item": "Q1770393",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770393",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guyanan_spiny-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guyanan spiny-rat is a spiny rat species found in Brazil, Guyana and Venezuela. The species was first described by George Henry Hamilton Tate in 1939.",
+  "image": null,
+  "_score": 0
+}

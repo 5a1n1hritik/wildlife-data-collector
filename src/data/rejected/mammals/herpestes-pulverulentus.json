@@ -1,0 +1,26 @@
+{
+  "id": "herpestes-pulverulentus",
+  "name": "Herpestes pulverulentus",
+  "scientificName": "Herpestes pulverulentus",
+  "wikibase_item": "Q27998228",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27998228",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_gray_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape grey mongoose, also called the small grey mongoose, is a small mammal native to South Africa, Lesotho and southern Namibia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MJK_25239_Galerella_pulverulenta.jpg",
+  "_score": 1
+}

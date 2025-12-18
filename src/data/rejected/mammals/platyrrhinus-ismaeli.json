@@ -1,0 +1,26 @@
+{
+  "id": "platyrrhinus-ismaeli",
+  "name": "Platyrrhinus ismaeli",
+  "scientificName": "Platyrrhinus ismaeli",
+  "wikibase_item": "Q2558596",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2558596",
+    "wikipedia": "https://en.wikipedia.org/wiki/Platyrrhinus_ismaeli"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Platyrrhinus ismaeli is a species of bat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Platyrrhinus_ismaeli_map.svg/500px-Platyrrhinus_ismaeli_map.svg.png",
+  "_score": 1
+}

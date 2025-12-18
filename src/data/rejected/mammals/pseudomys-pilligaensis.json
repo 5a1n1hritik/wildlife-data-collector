@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-pilligaensis",
+  "name": "Pilliga Mouse",
+  "scientificName": "Pseudomys pilligaensis",
+  "wikibase_item": "Q1762442",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762442",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pilliga_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pseudomys pilligaensis, commonly known as the Pilliga mouse or poolkoo, is a species of rodent in the family Muridae. Its distribution comprises the Pilliga forest region of New South Wales, Australia, specimens have also been trapped in the Warrumbungle National Park and Weetalibah Nature Reserve. Its conservation status is currently listed as \"Data Deficient\" due to unresolved questions on its taxonomic status.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pilliga_Forest-_Threatened_Pilliga_Mouse.jpg",
+  "_score": 2
+}

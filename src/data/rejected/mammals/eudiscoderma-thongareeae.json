@@ -1,0 +1,26 @@
+{
+  "id": "eudiscoderma-thongareeae",
+  "name": "Eudiscoderma thongareeae",
+  "scientificName": "Eudiscoderma thongareeae",
+  "wikibase_item": "Q30016985",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19707728,
+      "id": "Q19707728"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30016985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thongaree's_disc-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thongaree's disc-nosed bat is a critically endangered species of bat found in Thailand. It is the only member of the genus Eudiscoderma.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Range_Eudiscoderma_thongareeae.png",
+  "_score": 1
+}

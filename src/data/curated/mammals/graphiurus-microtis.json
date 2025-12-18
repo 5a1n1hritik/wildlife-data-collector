@@ -1,0 +1,25 @@
+{
+  "id": "graphiurus-microtis",
+  "name": "Small-eared Dormouse",
+  "scientificName": "Graphiurus microtis",
+  "wikibase_item": "Q1767304",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385877,
+      "id": "Q385877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767304",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small-eared_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small-eared dormouse is a species of rodent in the family Gliridae. It is found in Angola, Botswana, Eritrea, Ethiopia, Kenya, Lesotho, Malawi, Mozambique, Namibia, South Africa, Sudan, Eswatini, Tanzania, Zambia, and Zimbabwe.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Graphiurus_microtis_Map.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eumops-auripendulus",
+  "name": "black bonneted bat",
+  "scientificName": "Eumops auripendulus",
+  "wikibase_item": "Q302070",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302070",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black bonneted bat, also known as Shaw's mastiff bat,, is a species of bat from the Americas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Naturalis_Biodiversity_Center_-_RMNH.MAM.35852.b_dor_-_Eumops_auripendulus_auripendulus_-_skin.jpeg",
+  "_score": 1
+}

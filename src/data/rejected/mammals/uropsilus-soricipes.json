@@ -1,0 +1,26 @@
+{
+  "id": "uropsilus-soricipes",
+  "name": "Chinese shrew mole",
+  "scientificName": "Uropsilus soricipes",
+  "wikibase_item": "Q1767402",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 867212,
+      "id": "Q867212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767402",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese shrew mole is a species of mammal in the family Talpidae. It is endemic to China, Sichuan Province. Its natural habitat is temperate forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chinese_Shrew_Mole_area.png",
+  "_score": 2
+}

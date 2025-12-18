@@ -1,0 +1,25 @@
+{
+  "id": "spilocuscus-kraemeri",
+  "name": "Admiralty Island cuscus",
+  "scientificName": "Spilocuscus kraemeri",
+  "wikibase_item": "Q209670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475049,
+      "id": "Q1475049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209670",
+    "wikipedia": "https://en.wikipedia.org/wiki/Admiralty_Island_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Admiralty Island cuscus or Manus Island spotted cuscus is a species of marsupial in the family Phalangeridae. It is endemic to the Admiralty Islands of Papua New Guinea. It is the smallest member of the genus Spilocuscus, and the female has a black back, while the male has blackish spots on a white background. Both genders have rufous heads.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Admiralty_Island_Cuscus_area.png"
+}

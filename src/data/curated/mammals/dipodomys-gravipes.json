@@ -1,0 +1,25 @@
+{
+  "id": "dipodomys-gravipes",
+  "name": "San Quintin kangaroo rat",
+  "scientificName": "Dipodomys gravipes",
+  "wikibase_item": "Q306148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306148",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Quintin_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The San Quintin kangaroo rat is a species of rodent in the family Heteromyidae. It is endemic to Mexico, where it is known only from western Baja California. Its natural habitat includes arid lowlands with sparse vegetation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dipodomys_gravipes_64346443_%28cropped%29.jpg"
+}

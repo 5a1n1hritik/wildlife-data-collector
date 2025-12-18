@@ -1,0 +1,25 @@
+{
+  "id": "natalus-major",
+  "name": "Hispaniolan greater funnel-eared bat",
+  "scientificName": "Natalus major",
+  "wikibase_item": "Q2415860",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2420687,
+      "id": "Q2420687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2415860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispaniolan_greater_funnel-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hispaniolan greater funnel-eared bat is a funnel-eared bat species endemic to the island of Hispaniola in the Caribbean. First described in 1902, it has a complex taxonomic history, with some authors identifying multiple subspecies, now recognised as the separate species Natalus primus and Natalus jamaicensis, and others considering Natalus major to be itself a subspecies of Natalus stramineus. It lives primarily in caves and feeds on insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Haiti-Dominican_Republic.png"
+}

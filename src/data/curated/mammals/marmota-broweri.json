@@ -1,0 +1,26 @@
+{
+  "id": "marmota-broweri",
+  "name": "Alaska marmot",
+  "scientificName": "Marmota broweri",
+  "wikibase_item": "Q285018",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q285018",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alaska_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alaska marmot, also known as the Brooks Range marmot or the Brower's marmot, is a species of rodent in the family Sciuridae. Once considered to be the same species as the hoary marmot, it is now known to be unique. Alaska marmots are found in the scree slopes of the Brooks Range, Alaska. Specifically, they prefer to dwell on rocky, mountainous terrain, generally near lakes. They eat vegetation found on mountainsides, such as grasses, seeds, and lichen. Their relatively thick bodies are covered in dense, grey fur. They live in large colonies that consist of multiple families. During the winter, they hibernate for long periods of time in burrows. While not well researched, they are not believed to be particularly threatened, by human activity or otherwise. The Alaskan government has designated February 2 as \"Marmot Day,\" a holiday intended to recognize the prevalence of marmots in the state, similar to the more widely celebrated American holiday of Groundhog Day.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Marmota_broweri_71042866_%28cropped%29.jpg",
+  "_score": 5
+}

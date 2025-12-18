@@ -1,0 +1,26 @@
+{
+  "id": "petrogale-lateralis",
+  "name": "Black-flanked rock-wallaby",
+  "scientificName": "Petrogale lateralis",
+  "wikibase_item": "Q209111",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209111",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-flanked_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-flanked rock-wallaby, also known as the black-footed rock-wallaby or warru, is a species of wallaby, one of several rock-wallabies in the genus Petrogale. A shy, nocturnal herbivore, its two main subspecies are found in mostly isolated populations across western and southern Western Australia (WA), the Northern Territory and parts of South Australia (SA). With some subspecies showing a decline in populations in recent years, the whole species is classed as an endangered species under the Commonwealth EPBC Act.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Black-flanked_Rock_Wallaby.jpg",
+  "_score": 2
+}

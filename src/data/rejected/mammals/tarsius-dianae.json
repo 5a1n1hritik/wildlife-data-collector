@@ -1,0 +1,26 @@
+{
+  "id": "tarsius-dianae",
+  "name": "Tarsius dianae",
+  "scientificName": "Tarsius dianae",
+  "wikibase_item": "Q3515813",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3515813",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dian's_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dian's tarsier, also known as the Diana tarsier, is a nocturnal primate endemic to central Sulawesi, Indonesia. Its head-body length is 11.5–12 centimetres (4.5–4.7 in) and it has a tail of 22 centimetres (8.7 in). Dian's tarsier lives in rainforests. It was formerly called T. dianae, but that has been shown to be a junior synonym.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tarsius_dentatus_Morowali.webp/1125px-Tarsius_dentatus_Morowali.webp.png",
+  "_score": 1
+}

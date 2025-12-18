@@ -1,0 +1,26 @@
+{
+  "id": "handleyomys-intectus",
+  "name": "Handleyomys intectus",
+  "scientificName": "Handleyomys intectus",
+  "wikibase_item": "Q1762995",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 142280,
+      "id": "Q142280"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762995",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colombian_rice_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Colombian rice rat, also known as the white-footed Handley's mouse is a species of rodent in the family Cricetidae occurring only in Colombia. It was previously included in Oryzomys, but closely resembles the dusky montane rat, and accordingly both species were placed in the new genus Handleyomys in 2002.",
+  "image": null,
+  "_score": 0
+}

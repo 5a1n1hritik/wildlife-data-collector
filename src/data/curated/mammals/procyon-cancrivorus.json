@@ -1,0 +1,25 @@
+{
+  "id": "procyon-cancrivorus",
+  "name": "Crab-eating raccoon",
+  "scientificName": "Procyon cancrivorus",
+  "wikibase_item": "Q405403",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q405403",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crab-eating_raccoon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crab-eating raccoon, southern raccoon, or South American raccoon is a species of raccoon native to marshy and jungle areas of Central and South America. It is found from Costa Rica south through most areas of South America east of the Andes down to northern Argentina and Uruguay. Despite its name, this species does not feed exclusively on crabs, and the common raccoon also seeks and eats crabs where they are available. In the Tupi–Guarani languages, it is known as aguará or agoará popé.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mano_pelada_%28Procyon_cancrivorus_nigripes%29.JPG"
+}

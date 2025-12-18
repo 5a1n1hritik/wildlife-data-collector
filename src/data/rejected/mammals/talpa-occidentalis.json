@@ -1,0 +1,26 @@
+{
+  "id": "talpa-occidentalis",
+  "name": "Talpa occidentalis",
+  "scientificName": "Talpa occidentalis",
+  "wikibase_item": "Q744751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q744751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iberian_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Iberian mole is a species of mammal in the family Talpidae. The moles live in a variety of moist soil habitats in the Iberian peninsula, including in cultivated areas. The females are hermaphroditic and slightly smaller than the males. Talpa occidentalis is considered of least concern by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Iberian_mole_-_iNaturalist_photo_333160846.jpg",
+  "_score": 2
+}

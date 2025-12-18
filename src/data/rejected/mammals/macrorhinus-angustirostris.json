@@ -1,0 +1,26 @@
+{
+  "id": "macrorhinus-angustirostris",
+  "name": "Macrorhinus angustirostris",
+  "scientificName": "Macrorhinus angustirostris",
+  "wikibase_item": "Q52766190",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 52766339,
+      "id": "Q52766339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q52766190"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

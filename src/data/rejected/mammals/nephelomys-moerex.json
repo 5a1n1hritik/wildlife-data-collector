@@ -1,0 +1,26 @@
+{
+  "id": "nephelomys-moerex",
+  "name": "Nephelomys moerex",
+  "scientificName": "Nephelomys moerex",
+  "wikibase_item": "Q6994999",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6994999",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_moerex"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys moerex is a species of rodent in the genus Nephelomys of family Cricetidae. The type locality is at Mindo in western Ecuador, where it has been recorded together with three other rodents of the oryzomyine group, Sigmodontomys aphrastus, Mindomys hammondi, and Handleyomys alfaroi, as well as three opossums, Chironectes minimus and unidentified species of Didelphis and Marmosa. Mindo is a \"tiny agricultural community\" located at 0°02'S, 78°48'W and 1,264 metres (4,150 ft) above sea level. It was originally described by Oldfield Thomas as a subspecies of Oryzomys albigularis. It remained synonymized under this species until it was recognized as a separate species when the genus Nephelomys was established for Oryzomys albigularis and related species in 2006.",
+  "image": null,
+  "_score": 2
+}

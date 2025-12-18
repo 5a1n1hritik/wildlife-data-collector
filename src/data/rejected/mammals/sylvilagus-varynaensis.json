@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-varynaensis",
+  "name": "Venezuelan lowland rabbit",
+  "scientificName": "Sylvilagus varynaensis",
+  "wikibase_item": "Q219531",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875577,
+      "id": "Q20875577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q219531",
+    "wikipedia": "https://en.wikipedia.org/wiki/Venezuelan_lowland_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Venezuelan lowland rabbit, also known as the Barinas wild rabbit, is a species of cottontail rabbit found in western Venezuela. The largest of the rabbits within its limited distribution, it has buff- and reddish-colored fur and eats plants, mainly from the genera Sida and Malvastrum. It is closely related to the common tapeti, a smaller and more widely distributed cottontail rabbit.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Venezuelan_Lowland_Rabbit_area.png",
+  "_score": 1
+}

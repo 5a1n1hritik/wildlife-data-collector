@@ -1,0 +1,26 @@
+{
+  "id": "dasyprocta-coibae",
+  "name": "Coiban agouti",
+  "scientificName": "Dasyprocta coibae",
+  "wikibase_item": "Q590091",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q590091",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coiban_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Coiban agouti is a species of rodent in the family Dasyproctidae. It is endemic to the island of Coiba (Panama) and resembles the more widespread Central American agouti. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dasyprocta_coibae.jpg",
+  "_score": 3
+}

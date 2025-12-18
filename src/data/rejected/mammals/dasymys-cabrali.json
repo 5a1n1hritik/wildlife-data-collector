@@ -1,0 +1,26 @@
+{
+  "id": "dasymys-cabrali",
+  "name": "Crawford-Cabral's dasymys",
+  "scientificName": "Dasymys cabrali",
+  "wikibase_item": "Q2478107",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2478107",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crawford-Cabral's_shaggy_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crawford-Cabral's shaggy rat or Crawford-Cabral's shaggy marsh rat is a species of shaggy marsh rat endemic to north-eastern Namibia, near the Okavango River.",
+  "image": null,
+  "_score": 0
+}

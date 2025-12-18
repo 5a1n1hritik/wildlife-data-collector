@@ -1,0 +1,26 @@
+{
+  "id": "arctonyx-hoevenii",
+  "name": "Arctonyx hoevenii",
+  "scientificName": "Arctonyx hoevenii",
+  "wikibase_item": "Q19717143",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11906411,
+      "id": "Q11906411"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19717143",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumatran_hog_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sumatran hog badger is a species of mustelid endemic to the island of Sumatra in Indonesia.",
+  "image": null,
+  "_score": 0
+}

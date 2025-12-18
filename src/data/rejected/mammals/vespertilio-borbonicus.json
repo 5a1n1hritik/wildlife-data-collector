@@ -1,0 +1,26 @@
+{
+  "id": "vespertilio-borbonicus",
+  "name": "Vespertilio borbonicus",
+  "scientificName": "Vespertilio borbonicus",
+  "wikibase_item": "Q122871206",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122871206"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

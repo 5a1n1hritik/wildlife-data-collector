@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-caniceps",
+  "name": "Pteropus caniceps",
+  "scientificName": "Pteropus caniceps",
+  "wikibase_item": "Q1761368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761368",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashy-headed_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ashy-headed flying fox or North Moluccan flying fox is a species of bat in the family Pteropodidae. It is endemic to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pteropus_caniceps.jpg",
+  "_score": 1
+}

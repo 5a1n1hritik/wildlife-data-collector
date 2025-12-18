@@ -1,0 +1,26 @@
+{
+  "id": "genetta-johnstoni",
+  "name": "Johnston's genet",
+  "scientificName": "Genetta johnstoni",
+  "wikibase_item": "Q43215",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43215",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnston's_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Johnston's genet is a genet species native to the Upper Guinean forests in West Africa. It was classified as a separate species by Reginald Innes Pocock in 1908. It is listed as Near Threatened on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Genetta_johnstoni_pelts.jpg",
+  "_score": 2
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rhogeessa-genowaysi",
+  "name": "Genoways's yellow bat",
+  "scientificName": "Rhogeessa genowaysi",
+  "wikibase_item": "Q618566",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618566",
+    "wikipedia": "https://en.wikipedia.org/wiki/Genoways's_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Genoways's yellow bat is a species of vesper bat found only in Mexico. It is threatened by habitat loss. Due to its imperiled status, it is identified by the Alliance for Zero Extinction as a species in danger of imminent extinction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Holotype_-_Rhogeessa_genowaysi.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

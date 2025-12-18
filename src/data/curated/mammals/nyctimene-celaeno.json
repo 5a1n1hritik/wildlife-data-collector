@@ -1,0 +1,26 @@
+{
+  "id": "nyctimene-celaeno",
+  "name": "Nyctimene celaeno",
+  "scientificName": "Nyctimene celaeno",
+  "wikibase_item": "Q2043248",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2043248",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-striped_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-striped tube-nosed fruit bat, also known as the greater tube-nosed bat is a species of megabat in the genus Nyctimene. It is found in West Papua, Indonesia, Papua New Guinea, and central Philippines. In 1912, Andersen distinguished it by its very broad dorsal stripe on the center of its back. Although this species is believed to exist at low densities, the IUCN estimates its population to be stable and has no major threats to its continued existence. The IUCN classifies Nyctimene celaeno Thomas, 1922 as a synonym of this species, however as of 2013 the ITIS lists it as a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nyctimene_aello.jpg",
+  "_score": 3
+}

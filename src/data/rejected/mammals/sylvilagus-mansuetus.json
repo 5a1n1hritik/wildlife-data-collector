@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-mansuetus",
+  "name": "San Jose brush rabbit",
+  "scientificName": "Sylvilagus mansuetus",
+  "wikibase_item": "Q1769245",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769245",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Jos%C3%A9_brush_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The San José brush rabbit is a critically endangered subspecies of the brush rabbit, in the family Leporidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/San_Jose_Brush_Rabbit_area.png",
+  "_score": 1
+}

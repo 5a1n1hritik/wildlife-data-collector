@@ -1,0 +1,25 @@
+{
+  "id": "tarsius-sangirensis",
+  "name": "Tarsius sangirensis",
+  "scientificName": "Tarsius sangirensis",
+  "wikibase_item": "Q1365798",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1365798",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sangihe_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sangihe tarsier, also known as Sangihe Island tarsier, is a small primate found on Sangir Island, which is located about 200 kilometers north-east of the island of Sulawesi in Indonesia. In 2008 a population of the Sangihe tarsier was determined to be a distinct species, the Siau Island tarsier. Locally in the Sangihe dialect of Sangir language, tarsiers are called Senggasi or Higo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Tarsius_sangirensis.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-zenatius",
+  "name": "Myotis zenatius",
+  "scientificName": "Myotis zenatius",
+  "wikibase_item": "Q61766478",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61766478",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zenati_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zenati myotis is a rare species of mouse-eared bat that is restricted to North Africa. It is very rare in Morocco, being restricted to just four localities ranging from the Rif to the Atlas Mountains. Aside from Morocco, it is only known from three populations in northern Algeria, although it is possible that populations may exist in Tunisia. There are two genetically distinct haplogroups in the Atlas Mountains that could be further considered distinct subpopulations. It is a member of the Natterer's bat species complex and closely resembles the cryptic myotis, though its closest relative is Escalera's bat .\n300,",
+  "image": null,
+  "_score": 1
+}

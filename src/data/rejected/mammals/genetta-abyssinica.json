@@ -1,0 +1,26 @@
+{
+  "id": "genetta-abyssinica",
+  "name": "Abyssinian genet",
+  "scientificName": "Genetta abyssinica",
+  "wikibase_item": "Q43226",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43226",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abyssinian_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Abyssinian genet, also known as the Ethiopian genet, is a genet species native to Ethiopia, Eritrea, Somalia, Sudan, and Djibouti. It is listed as Data Deficient on the IUCN Red List. It is one of the least-known genet species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Neue_Wirbelthiere_zu_der_Fauna_von_Abyssinien_geh%C3%B6rig_%281835%29_Genetta_abyssinica.png",
+  "_score": 1
+}

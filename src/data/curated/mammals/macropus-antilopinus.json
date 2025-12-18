@@ -1,0 +1,25 @@
+{
+  "id": "macropus-antilopinus",
+  "name": "Osphranter antilopinus",
+  "scientificName": "Macropus antilopinus",
+  "wikibase_item": "Q209578",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3886694,
+      "id": "Q3886694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209578",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antilopine_kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The antilopine kangaroo, also known as the antilopine wallaroo or the antilopine wallaby, is a species of macropod found in northern Australia: in Cape York Peninsula in Queensland, the Top End of the Northern Territory, and the Kimberley region of Western Australia. It is a locally common, gregarious grazer.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AntilopineWallerooLargeMale.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nothocricetulus-migratorius",
+  "name": "Nothocricetulus migratorius",
+  "scientificName": "Nothocricetulus migratorius",
+  "wikibase_item": "Q125869447",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125868218,
+      "id": "Q125868218"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125869447",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey_dwarf_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grey dwarf hamster, grey hamster or migratory hamster is a species of rodent in the family Cricetidae. Its range extends from Eastern Europe through the Middle East, Russia and Central Asia to Mongolia and western China. The grey dwarf hamster has grey fur and a head-body length ranging from 85 to 120 mm. The International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nothocricetulus_migratorius.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "calomys-callosus",
+  "name": "Large vesper mouse",
+  "scientificName": "Calomys callosus",
+  "wikibase_item": "Q309323",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309323",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_vesper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large vesper mouse is a South American rodent species of the family Cricetidae.",
+  "image": null,
+  "_score": 0
+}

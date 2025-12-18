@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-maulinus",
+  "name": "Maule tuco-tuco",
+  "scientificName": "Ctenomys maulinus",
+  "wikibase_item": "Q1761849",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761849",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maule_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Maule tuco-tuco is a species of rodent in the family Ctenomyidae. It is found in Argentina and Chile, where it occupies several different types of habitats. It is a common species, and the IUCN has assessed its conservation status as being of \"least concern\". The common and scientific names refer to a river and region in Chile within its range.",
+  "image": null,
+  "_score": 1
+}

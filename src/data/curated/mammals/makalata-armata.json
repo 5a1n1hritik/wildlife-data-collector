@@ -1,0 +1,25 @@
+{
+  "id": "makalata-armata",
+  "name": "Makalata armata",
+  "scientificName": "Makalata armata",
+  "wikibase_item": "Q11845226",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846012,
+      "id": "Q846012"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11845226",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_spiny_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brazilian spiny tree rat is a species of rodent in the family Echimyidae. It is found in Bolivia, Brazil, French Guiana, Guyana, Suriname and Venezuela, where it lives in lowland tropical rainforest. There is also a population in Ecuador which is referable either to this species or to Makalata macrurus. It is nocturnal and eats seeds.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Makalata_didelphoides.jpg"
+}

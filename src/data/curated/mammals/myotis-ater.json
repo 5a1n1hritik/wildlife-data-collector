@@ -1,0 +1,26 @@
+{
+  "id": "myotis-ater",
+  "name": "Myotis ater",
+  "scientificName": "Myotis ater",
+  "wikibase_item": "Q1830844",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830844",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's myotis or the small black myotis is a species of insectivorous vesper bat. It is found in Indonesia, Malaysia, Thailand, Vietnam, and the Philippines; its exact distribution is uncertain as it is difficult to distinguish from some other Myotis species. It appears adaptable to a variety of habitats, including primary tropical moist lowland forest, secondary forest, agricultural areas and villages.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Range_Myotis_ater.png",
+  "_score": 3
+}

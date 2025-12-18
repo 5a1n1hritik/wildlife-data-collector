@@ -1,0 +1,26 @@
+{
+  "id": "thyroptera-lavali",
+  "name": "LaVal's disk-winged bat",
+  "scientificName": "Thyroptera lavali",
+  "wikibase_item": "Q384110",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468638,
+      "id": "Q468638"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q384110",
+    "wikipedia": "https://en.wikipedia.org/wiki/LaVal's_disk-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "LaVal's disk-winged bat is a species of bat in the family Thyropteridae. It is native to Ecuador, Colombia, Peru, Venezuela, and Brazil where it has been found near streams in tropical rainforest. The bat is insectivorous. It is poorly studied but is believed to be rare. The species was named in honor of American zoologist Richard K. LaVal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thyroptera_lavali_map.svg/500px-Thyroptera_lavali_map.svg.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "thylamys-venustus",
+  "name": "Buff-bellied fat-tailed mouse opossum",
+  "scientificName": "Thylamys venustus",
+  "wikibase_item": "Q194995",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194995",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buff-bellied_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The buff-bellied fat-tailed mouse opossum is a species of opossum in the family Didelphidae. It is found in the transitional and humid forests of northern Argentina and southern Bolivia. Its dorsal fur is cinnamon brown. Most of its ventral fur is gray-based, but its chest, throat, and the thoracic midline are not gray-based. The postorbital ridges are absent in the young and weakly developed in adults.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Buff-bellied_Fat-tailed_Mouse_Opossum_area.png",
+  "_score": 2
+}

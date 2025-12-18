@@ -1,0 +1,26 @@
+{
+  "id": "pseudorhinolophus-weithoferi",
+  "name": "Pseudorhinolophus weithoferi",
+  "scientificName": "Pseudorhinolophus weithoferi",
+  "wikibase_item": "Q70342973",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 63975763,
+      "id": "Q63975763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70342973"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eremitalpa-granti",
+  "name": "Grant's golden mole",
+  "scientificName": "Eremitalpa granti",
+  "wikibase_item": "Q965668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816337,
+      "id": "Q19816337"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q965668",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grant's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grant's golden mole is a golden mole species. It is the only member of the genus Eremitalpa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Grant%27s_golden_mole_%28Eremitalpa_granti%29_1.jpg",
+  "_score": 1
+}

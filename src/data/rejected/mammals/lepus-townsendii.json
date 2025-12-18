@@ -1,0 +1,26 @@
+{
+  "id": "lepus-townsendii",
+  "name": "White-tailed jackrabbit",
+  "scientificName": "Lepus townsendii",
+  "wikibase_item": "Q932186",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q932186",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-tailed_jackrabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-tailed jackrabbit, also known as the prairie hare and the white jack, is a species of hare found in western North America. Like all hares and rabbits, it is a member of the family Leporidae of order Lagomorpha. It is a solitary individual except where several males court a female in the breeding season. Litters of four to five young are born in a form, a shallow depression in the ground, hidden among vegetation. This jackrabbit has two described subspecies: L. townsendii townsendii occurring west of the Rocky Mountains and L. townsendii campanius occurring east of the Rocky Mountains.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/White_tailed_jackrabbit_20140530.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dymecodon-pilirostris",
+  "name": "True's Shrew Mole",
+  "scientificName": "Dymecodon pilirostris",
+  "wikibase_item": "Q1767421",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3041952,
+      "id": "Q3041952"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767421",
+    "wikipedia": "https://en.wikipedia.org/wiki/True's_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "True's shrew mole is a species of mammal in the family Talpidae. It is endemic to Japan and is a common species above 1000 meters in grassland, shrubland and forest. Sometimes this species is called the lesser Japanese shrew mole and another species, Urotrichus talpoides, is called the \"greater Japanese shrew mole\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Dymecodon_pilirostris_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC06749.JPG",
+  "_score": 1
+}

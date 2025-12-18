@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-franklinii",
+  "name": "Franklin's ground squirrel",
+  "scientificName": "Spermophilus franklinii",
+  "wikibase_item": "Q1764796",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764796",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin's_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Franklin's ground squirrel is a species of squirrel native to North America, and the only member of the genus Poliocitellus. Due to the destruction of prairie, the populations of Franklin's ground squirrel have dwindled, approaching levels of concern. Its decline in the eastern portion of its range is mostly attributed to habitat fragmentation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Franklin%27s_Ground_Squirrel.jpg"
+}

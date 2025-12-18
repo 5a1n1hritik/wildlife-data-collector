@@ -1,0 +1,26 @@
+{
+  "id": "microgale-majori",
+  "name": "Major's long-tailed tenrec",
+  "scientificName": "Microgale majori",
+  "wikibase_item": "Q2217343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2217343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Major's_long-tailed_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Major's long-tailed tenrec is a species of mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitat is the eastern humid forest of the island, as well as some western forests, where it has been seen at elevations from 785 to 2000 m. Its habits are not well known, but it is thought to be semiarboreal. The species was formerly viewed as synonymous with M. longicaudata. It was named in honor of zoologist C. I. Forsyth Major.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Microgale_majori_range_map.svg/2324px-Microgale_majori_range_map.svg.png",
+  "_score": 3
+}

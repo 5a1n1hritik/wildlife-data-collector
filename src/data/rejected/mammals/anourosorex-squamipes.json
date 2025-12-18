@@ -1,0 +1,26 @@
+{
+  "id": "anourosorex-squamipes",
+  "name": "Anourosorex squamipes",
+  "scientificName": "Anourosorex squamipes",
+  "wikibase_item": "Q1765260",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2300900,
+      "id": "Q2300900"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765260",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_mole_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese mole shrew is one of four species of Asian mole shrew in the genus Anourosorex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Chinese_Mole_Shrew_area.png",
+  "_score": 1
+}

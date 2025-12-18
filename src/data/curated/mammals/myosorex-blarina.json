@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-blarina",
+  "name": "Montane Mouse Shrew",
+  "scientificName": "Myosorex blarina",
+  "wikibase_item": "Q1761313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761313",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane mouse shrew is a species of mammal in the family Soricidae endemic to Uganda. Its natural habitats are subtropical or tropical moist montane forests and swamps. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Myosorex_blarina.jpg",
+  "_score": 3
+}

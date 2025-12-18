@@ -1,0 +1,26 @@
+{
+  "id": "thyroptera-tricolor",
+  "name": "Spix's Disk-winged Bat",
+  "scientificName": "Thyroptera tricolor",
+  "wikibase_item": "Q1829302",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468638,
+      "id": "Q468638"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829302",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spix's_disk-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spix's disk-winged bat, is a species of bat in the family Thyropteridae. It is native to the Americas from Mexico to Brazil. The most prominent anatomical feature of this bat, which distinguishes it from other species, is the disks on its thumbs and hind feet. These circular disks act as suction cups, allowing the bats to cling onto and move along smooth surfaces.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Naturalis_Biodiversity_Center_-_RMNH.MAM.25037.b_ven_-_Thyroptera_tricolor_tricolor_-_skin.jpeg",
+  "_score": 1
+}

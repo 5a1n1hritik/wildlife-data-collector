@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-argentatus",
+  "name": "Pteropus argentatus",
+  "scientificName": "Pteropus argentatus",
+  "wikibase_item": "Q3774209",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3774209",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moluccan_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Moluccan flying fox, also known as the Ambon flying fox, is a species of megabat in the genus Pteropus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/MoluccanFlyingFox.jpg",
+  "_score": 1
+}

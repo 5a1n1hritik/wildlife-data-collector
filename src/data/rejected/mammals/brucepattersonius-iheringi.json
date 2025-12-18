@@ -1,0 +1,26 @@
+{
+  "id": "brucepattersonius-iheringi",
+  "name": "Brucepattersonius iheringi",
+  "scientificName": "Brucepattersonius iheringi",
+  "wikibase_item": "Q1764313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141986,
+      "id": "Q141986"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764313",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brucepattersonius_iheringi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brucepattersonius iheringi, also known as Ihering's akodont, Ihering's hocicudo, or Ihering's brucie, is a South American rodent in the genus Brucepattersonius. It occurs in Santa Catarina and Rio Grande do Sul, southern Brazil, and nearby Misiones Province, Argentina.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "platyrrhinus-chocoensis",
+  "name": "Choco broad-nosed bat",
+  "scientificName": "Platyrrhinus chocoensis",
+  "wikibase_item": "Q1592501",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1592501",
+    "wikipedia": "https://en.wikipedia.org/wiki/Choco_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Choco broad-nosed bat is a species of bat in the family Phyllostomidae. It is native to Colombia, Panama, and Ecuador, where it is found in the Choco region lowlands. It is threatened by habitat loss. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Platyrrhinus_chocoensis_map.svg/500px-Platyrrhinus_chocoensis_map.svg.png",
+  "_score": 3
+}

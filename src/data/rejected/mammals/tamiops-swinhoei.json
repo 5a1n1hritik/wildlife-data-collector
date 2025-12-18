@@ -1,0 +1,26 @@
+{
+  "id": "tamiops-swinhoei",
+  "name": "Tamiops swinhoei",
+  "scientificName": "Tamiops swinhoei",
+  "wikibase_item": "Q3729909",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 811634,
+      "id": "Q811634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3729909",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swinhoe's_striped_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Swinhoe's striped squirrel is a small species of rodent in the family Sciuridae. This species is found mostly in China and Southeast Asia. Their diet consists of mostly seeds, fruits, nuts and ginger nectar. Like most squirrels they live in forest areas with mountains, usually in groups. They have litters that average in size of 3.25 offspring.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tamiops_swinhoei_LC0386.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "platalina-genovensium",
+  "name": "Long-snouted bat",
+  "scientificName": "Platalina genovensium",
+  "wikibase_item": "Q94609",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10807420,
+      "id": "Q10807420"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94609",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-snouted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-snouted bat is a species of bat in the family Phyllostomidae. It is the only species within the genus Platalina. It is endemic to northern Peru and northern Chile. It feeds almost exclusively on the nectar and fruit of the columnar cactus. The species is rare, but has a wide distribution with at least 25 populations, and is listed as near-threatened due to habitat loss causing the removal of their primary food source.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Platalina_genovensium-JMaloMolina-Acos_Peru-09_10_2010.jpg",
+  "_score": 4
+}

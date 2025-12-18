@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-mamorae",
+  "name": "Oecomys mamorae",
+  "scientificName": "Oecomys mamorae",
+  "wikibase_item": "Q1767720",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767720",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamore_arboreal_rice_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mamore arboreal rice rat,, also known as the Mamore oecomys is an arboreal species of rodent in the genus Oecomys of family Cricetidae. Its distribution extends over much of Bolivia and into nearby Brazil and Paraguay. Although Oecomys has been recorded from Argentina, it is uncertain whether those records represent O. mamorae. It is found in a variety of habitats at elevations from 200 to 2100 m, where it feeds on fruit and green seeds.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Oecomys_mamorae_range_2016.svg/250px-Oecomys_mamorae_range_2016.svg.png",
+  "_score": 3
+}

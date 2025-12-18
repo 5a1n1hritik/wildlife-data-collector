@@ -1,0 +1,26 @@
+{
+  "id": "dorcopsis-hageni",
+  "name": "White-striped dorcopsis",
+  "scientificName": "Dorcopsis hageni",
+  "wikibase_item": "Q209627",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909045,
+      "id": "Q909045"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209627",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-striped_dorcopsis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-striped dorcopsis or greater forest wallaby is a species of marsupial in the family Macropodidae. It is found in the northern part of Western New Guinea, Indonesia and Papua New Guinea. It is a common species in suitable tropical forest habitat and the IUCN lists its conservation status as being of \"Least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Dorcopsis_%C3%A0_raies_blanches_%28Dorcopsis_hageni%29%2C_Pairi_daiza_2.jpg",
+  "_score": 2
+}

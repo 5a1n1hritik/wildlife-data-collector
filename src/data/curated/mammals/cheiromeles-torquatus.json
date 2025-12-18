@@ -1,0 +1,25 @@
+{
+  "id": "cheiromeles-torquatus",
+  "name": "Hairless bat",
+  "scientificName": "Cheiromeles torquatus",
+  "wikibase_item": "Q1832731",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1963129,
+      "id": "Q1963129"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832731",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairless_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairless bat, also called the naked bulldog bat and greater naked bat, is a species of bat in the family Molossidae. The generic name Cheiromeles comes from the Greek word cheir and the species name is derived from the Latin torques.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Naked-bulldog-bat-2_LTM.jpg"
+}

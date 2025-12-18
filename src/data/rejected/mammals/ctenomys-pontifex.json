@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-pontifex",
+  "name": "San Luis tuco-tuco",
+  "scientificName": "Ctenomys pontifex",
+  "wikibase_item": "Q521832",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q521832",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Luis_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The San Luis tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Argentina.",
+  "image": null,
+  "_score": 0
+}

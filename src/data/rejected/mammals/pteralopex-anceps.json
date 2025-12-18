@@ -1,0 +1,26 @@
+{
+  "id": "pteralopex-anceps",
+  "name": "Bougainville monkey-faced bat",
+  "scientificName": "Pteralopex anceps",
+  "wikibase_item": "Q720525",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2479576,
+      "id": "Q2479576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q720525",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bougainville_monkey-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bougainville monkey-faced bat or Bougainville flying monkey is a megabat endemic to Bougainville Island of Papua New Guinea and Choiseul Island of the Solomon Islands in Melanesia. It inhabits mature forests in upland areas, within the Autonomous Region of Bougainville and Bougouriba Province.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pteralopex_anceps.jpg",
+  "_score": 1
+}

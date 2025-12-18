@@ -1,0 +1,26 @@
+{
+  "id": "micronycteris-hirsuta",
+  "name": "Hairy big-eared bat",
+  "scientificName": "Micronycteris hirsuta",
+  "wikibase_item": "Q1830453",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703183,
+      "id": "Q2703183"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830453",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy big-eared bat is a bat species from South and Central America, as well as Trinidad and Tobago in the Caribbean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Hairy_big-eared_bat%2C_centro_mamon%C3%AD_imported_from_iNaturalist_photo_295472824.jpg",
+  "_score": 1
+}

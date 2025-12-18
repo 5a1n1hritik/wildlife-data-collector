@@ -1,0 +1,25 @@
+{
+  "id": "plecotus-alpinus",
+  "name": "Plecotus alpinus",
+  "scientificName": "Plecotus alpinus",
+  "wikibase_item": "Q10807502",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10807502",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpine_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alpine long-eared bat or mountain long-eared bat is a species of long-eared bat. It was originally described from Switzerland and Austria as a species intermediate between the brown long-eared bat and the grey long-eared bat in 1965. It was later described in 2002, from France and Austria, respectively. Despite its name, this species is not restricted to the Alps, being found in Croatia, Bosnia and Herzegovina and elsewhere. It differs from other European long-eared bats, such as the brown long-eared bat, by its white underparts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Plecotus_macrobullaris_-_Ph._Karol_Tabarelli_de_Fatis.jpg"
+}

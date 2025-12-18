@@ -1,0 +1,26 @@
+{
+  "id": "caenolestes-fuliginosus",
+  "name": "Dusky caenolestid",
+  "scientificName": "Caenolestes fuliginosus",
+  "wikibase_item": "Q194426",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303333,
+      "id": "Q1303333"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194426",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky caenolestid, also known as Tate's shrew opossum, is a shrew opossum from South America. The dusky caenolestid is characterized by a dark brown coat with a lighter underbelly, soft and thick fur, and a loosely haired tail. A nocturnal animal, the dusky caenolestid lives on trees and feeds on insects and small invertebrates and vertebrates. It occurs in alpine and páramo forests in northern and western Colombia, Ecuador, and western Venezuela. The IUCN classifies this shrew opossum as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HyracodonFuliginosusWolf.jpg",
+  "_score": 2
+}

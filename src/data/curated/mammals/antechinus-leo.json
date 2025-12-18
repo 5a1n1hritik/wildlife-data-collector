@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-leo",
+  "name": "Cinnamon antechinus",
+  "scientificName": "Antechinus leo",
+  "wikibase_item": "Q135437",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135437",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinnamon_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cinnamon antechinus, also known as the Iron Ranges antechinus and the Cape York antechinus, is a species of small carnivorous marsupial of the family Dasyuridae. It is the only mammal endemic to Cape York Peninsula, being confined to semideciduous forest around the McIlraith and Iron Ranges. Along with the Atherton antechinus, it is the rarest in its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cinnamon_Antechinus_area.png"
+}

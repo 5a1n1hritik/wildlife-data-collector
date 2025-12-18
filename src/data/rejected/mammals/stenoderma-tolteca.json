@@ -1,0 +1,26 @@
+{
+  "id": "stenoderma-tolteca",
+  "name": "Stenoderma tolteca",
+  "scientificName": "Stenoderma tolteca",
+  "wikibase_item": "Q52568806",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10821471,
+      "id": "Q10821471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q52568806"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

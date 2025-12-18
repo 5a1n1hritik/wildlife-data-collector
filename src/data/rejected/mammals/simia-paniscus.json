@@ -1,0 +1,26 @@
+{
+  "id": "simia-paniscus",
+  "name": "Simia paniscus",
+  "scientificName": "Simia paniscus",
+  "wikibase_item": "Q122188852",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1427112,
+      "id": "Q1427112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122188852",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-faced_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-faced spider monkey, also known as the Guiana spider monkey or red-faced black spider monkey, is a species of spider monkey found in the rain forests in northern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ateles_paniscus.jpg",
+  "_score": 1
+}

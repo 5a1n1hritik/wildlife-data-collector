@@ -1,0 +1,26 @@
+{
+  "id": "graomys-griseoflavus",
+  "name": "gray leaf-eared mouse",
+  "scientificName": "Graomys griseoflavus",
+  "wikibase_item": "Q309308",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139823,
+      "id": "Q139823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309308",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray leaf-eared mouse is a rodent species from South America. It is found in Argentina, Bolivia, Brazil and Paraguay; its habitat includes the Gran Chaco.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mus_griseo-flavus_%28BM_1931%2C0213.1351%29.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eumops-nanus",
+  "name": "Eumops nanus",
+  "scientificName": "Eumops nanus",
+  "wikibase_item": "Q48855618",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48855618",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eumops_nanus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eumops nanus is a species of bat found in Central and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eumops_nanus_82260324.jpg",
+  "_score": 1
+}

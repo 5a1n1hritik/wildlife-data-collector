@@ -1,0 +1,25 @@
+{
+  "id": "zaglossus-bruijnii",
+  "name": "western long-beaked echidna",
+  "scientificName": "Zaglossus bruijnii",
+  "wikibase_item": "Q635949",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 784836,
+      "id": "Q784836"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q635949",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_long-beaked_echidna"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western long-beaked echidna, also called Bruijin's long-beaked echidna, is one of the four extant echidnas and one of three species of Zaglossus that occurs in New Guinea. Originally described as Tachyglossus bruijnii, this is the type species of Zaglossus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Long-beakedEchidna.jpg"
+}

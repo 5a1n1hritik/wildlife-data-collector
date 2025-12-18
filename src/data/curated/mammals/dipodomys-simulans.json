@@ -1,0 +1,25 @@
+{
+  "id": "dipodomys-simulans",
+  "name": "Dulzura kangaroo rat",
+  "scientificName": "Dipodomys simulans",
+  "wikibase_item": "Q1767490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dulzura_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dulzura kangaroo rat, or San Diego kangaroo rat is a species of rodent in the family Heteromyidae. It is found in Baja California, Mexico, and in the Colorado Desert and elsewhere in California in the United States. It is a common species and the IUCN has assessed its status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Dulzura_Kangaroo_Rat_imported_from_iNaturalist_photo_42392732_on_13_April_2024.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "acanthoglossus-bruijnii",
+  "name": "Acanthoglossus bruijnii",
+  "scientificName": "Acanthoglossus bruijnii",
+  "wikibase_item": "Q41169202",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41150069,
+      "id": "Q41150069"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41169202"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

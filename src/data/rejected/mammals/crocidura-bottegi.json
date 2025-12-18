@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-bottegi",
+  "name": "Bottego's Shrew",
+  "scientificName": "Crocidura bottegi",
+  "wikibase_item": "Q1762263",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762263",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bottego's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bottego's shrew is a species of mammal in the family Soricidae. It is found 1,750 metres (5,740 ft) above sea level in Ethiopia and possibly Kenya particularly northeast of Lake Turkana and one in Kenya from Marsabit.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bottego%27s_Shrew_area.png",
+  "_score": 1
+}

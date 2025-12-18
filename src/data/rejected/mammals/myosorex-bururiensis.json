@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-bururiensis",
+  "name": "Myosorex bururiensis",
+  "scientificName": "Myosorex bururiensis",
+  "wikibase_item": "Q25432201",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25432201",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bururi_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bururi forest shrew is a species of mouse shrew native to Burundi. It was first described by Peterhans et al. in 2010, and is defined by a broad hexagonal skull, short tail, and long claws.",
+  "image": null,
+  "_score": 0
+}

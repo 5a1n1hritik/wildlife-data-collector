@@ -1,0 +1,26 @@
+{
+  "id": "macroscelides-pulcher",
+  "name": "Macroscelides pulcher",
+  "scientificName": "Macroscelides pulcher",
+  "wikibase_item": "Q41165880",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10789403,
+      "id": "Q10789403"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165880"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "surdisorex-schlitteri",
+  "name": "Surdisorex schlitteri",
+  "scientificName": "Surdisorex schlitteri",
+  "wikibase_item": "Q21318081",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1911147,
+      "id": "Q1911147"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21318081",
+    "wikipedia": "https://en.wikipedia.org/wiki/Surdisorex_schlitteri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Represented by a single specimen, the Mount Elgon mole shrew is a species of African mole shrew known to date only from the ericaceous zone of Mount Elgon in Western Kenya. In 1984, a specimen of the genus Surdisorex was collected on a footpath at 3,150 m (10,330 ft) of the Kenyan slope of Mount Elgon. It was described as the third member of the genus Surdisorex by Kerbis Peterhans in 2009. On the basis of skull length measurements, S. schlitteri is intermediate between S. norae and S. polulus in size. The scientific name honors American mammalogist Duane Schlitter, in recognition of his substantial contributions to the understanding of African small mammals and his longstanding support of Kenyan scientific research. The Mount Elgon mole shrew is listed as \"data deficient\" because it is only known from a single specimen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Skull_of_Surdisorex_schlitteri.jpg",
+  "_score": 3
+}

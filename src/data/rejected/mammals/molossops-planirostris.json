@@ -1,0 +1,26 @@
+{
+  "id": "molossops-planirostris",
+  "name": "Molossops planirostris",
+  "scientificName": "Molossops planirostris",
+  "wikibase_item": "Q10587814",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 581284,
+      "id": "Q581284"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10587814"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

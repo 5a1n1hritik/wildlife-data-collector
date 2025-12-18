@@ -1,0 +1,26 @@
+{
+  "id": "murina-peninsularis",
+  "name": "Murina peninsularis",
+  "scientificName": "Murina peninsularis",
+  "wikibase_item": "Q17636809",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1179958,
+      "id": "Q1179958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17636809"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

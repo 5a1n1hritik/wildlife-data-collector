@@ -1,0 +1,26 @@
+{
+  "id": "myotis-myotis",
+  "name": "Myotis myotis",
+  "scientificName": "Myotis myotis",
+  "wikibase_item": "Q723413",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q723413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater mouse-eared bat is a European species of bat in the family Vespertilionidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Myotis.jpg",
+  "_score": 1
+}

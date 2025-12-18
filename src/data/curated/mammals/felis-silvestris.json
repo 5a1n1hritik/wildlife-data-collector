@@ -1,0 +1,25 @@
+{
+  "id": "felis-silvestris",
+  "name": "wildcat",
+  "scientificName": "Felis silvestris",
+  "wikibase_item": "Q43576",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43576",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wildcat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The wildcat is a species complex comprising two small wild cat species: the European wildcat and the African wildcat. The European wildcat inhabits forests in Europe, Anatolia and the Caucasus, while the African wildcat inhabits semi-arid landscapes and steppes in Africa, the Arabian Peninsula, Central Asia, into western India and western China.\nThe wildcat species differ in fur pattern, tail, and size: the European wildcat has long fur and a bushy tail with a rounded tip; the smaller African wildcat is more faintly striped, has short sandy-gray fur and a tapering tail; the Asiatic wildcat is spotted.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/European_Wildcat_Nationalpark_Bayerischer_Wald_03.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "calomyscus-bailwardi",
+  "name": "Zagros Mountains Mouse-like Hamster",
+  "scientificName": "Calomyscus bailwardi",
+  "wikibase_item": "Q305738",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305738",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zagros_Mountains_mouse-like_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zagros Mountains mouse-like hamster is a relatively little-known rodent which was the first species of mouse-like hamster to be described. The species is distributed throughout much of southern Iran, particularly in the Zagros mountains. It is also known as the Iranian mouse-like hamster, though there are several species of mouse-like hamster found in different parts of Iran.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hamster-bahri.jpg",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ammospermophilus-harrisii",
+  "name": "Harris's antelope squirrel",
+  "scientificName": "Ammospermophilus harrisii",
+  "wikibase_item": "Q1764884",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541036,
+      "id": "Q541036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764884",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harris's_antelope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Harris's antelope squirrel is a species of rodent in the family Sciuridae. It is found in Arizona and New Mexico in the United States, and in Sonora in Mexico. They are adapted to hot weather conditions including a technique called \"heat dumping\". They have a wide-ranging diet, including both vegetation, insects, small rodents and carrion.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ammospermophilus_harrisii2.jpg"
+}

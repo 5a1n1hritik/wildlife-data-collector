@@ -1,0 +1,26 @@
+{
+  "id": "lynx-canadensis",
+  "name": "Canada lynx",
+  "scientificName": "Lynx canadensis",
+  "wikibase_item": "Q146457",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 677014,
+      "id": "Q677014"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146457",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canada_lynx"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Canada lynx or Canadian lynx is one of the four living species in the genus Lynx. It is a medium-sized wild cat characterized by long, dense fur, triangular ears with black tufts at the tips, and broad, snowshoe-like paws. Its hindlimbs are longer than the forelimbs, so its back slopes downward to the front. The Canada lynx stands 48–56 cm (19–22 in) tall at the shoulder and weighs between 5 and 17 kg. It is a good swimmer and an agile climber.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg",
+  "_score": 2
+}

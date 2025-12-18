@@ -1,0 +1,26 @@
+{
+  "id": "paremballonura-tiavato",
+  "name": "Paremballonura tiavato",
+  "scientificName": "Paremballonura tiavato",
+  "wikibase_item": "Q3895793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3895794,
+      "id": "Q3895794"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3895793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western sheath-tailed bat is a species of sac-winged bat found in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Emballonura_tiavato_range_map.svg/2324px-Emballonura_tiavato_range_map.svg.png",
+  "_score": 1
+}

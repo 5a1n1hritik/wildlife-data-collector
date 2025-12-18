@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-merriami",
+  "name": "Merriam's small-eared shrew",
+  "scientificName": "Cryptotis merriami",
+  "wikibase_item": "Q1764777",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764777",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merriam's_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Merriam's small-eared shrew is a species of mammal in the family Soricidae. It is found in Chiapas, Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Merriam%27s_Small-eared_Shrew_area.png",
+  "_score": 1
+}

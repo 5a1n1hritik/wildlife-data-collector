@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-rufescens",
+  "name": "Afghan pika",
+  "scientificName": "Ochotona rufescens",
+  "wikibase_item": "Q1321102",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1321102",
+    "wikipedia": "https://en.wikipedia.org/wiki/Afghan_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Afghan pika is a species of small mammal in the pika family, Ochotonidae. It is found in Iranian Plateau or Afghanistan, Iran, Pakistan and Turkmenistan and the IUCN lists it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ochotona_rufescens_213736083.jpg",
+  "_score": 1
+}

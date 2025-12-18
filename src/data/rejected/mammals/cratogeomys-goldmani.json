@@ -1,0 +1,26 @@
+{
+  "id": "cratogeomys-goldmani",
+  "name": "Goldman's pocket gopher",
+  "scientificName": "Cratogeomys goldmani",
+  "wikibase_item": "Q1768070",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 869542,
+      "id": "Q869542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768070",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldman's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goldman's pocket gopher is a species of rodent in the pocket gopher family. It is distributed throughout northern Mexico. It was formerly considered a subspecies of the yellow-faced pocket gopher. It is named after Edward Alphonso Goldman, who collected the holotype of this species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cratogeomys_goldmani_12671219.jpg",
+  "_score": 1
+}

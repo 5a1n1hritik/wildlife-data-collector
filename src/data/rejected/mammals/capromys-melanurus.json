@@ -1,0 +1,26 @@
+{
+  "id": "capromys-melanurus",
+  "name": "Capromys melanurus",
+  "scientificName": "Capromys melanurus",
+  "wikibase_item": "Q109647107",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858255,
+      "id": "Q858255"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647107"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

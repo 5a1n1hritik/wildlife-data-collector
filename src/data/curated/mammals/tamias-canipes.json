@@ -1,0 +1,26 @@
+{
+  "id": "tamias-canipes",
+  "name": "Tamias canipes",
+  "scientificName": "Tamias canipes",
+  "wikibase_item": "Q1765246",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765246",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-footed_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-footed chipmunk is a terrestrial and forest-dwelling species of chipmunk and rodent in the family Sciuridae. It is endemic to New Mexico and in the Sierra Diablo and Guadalupe Mountains in the Trans-Pecos region of Texas in the United States. Its natural habitat are coniferous forests. First discovered in 1902, they are distinguished by the unique gray dorsal colouring on the hind feet, hence the common name. They demonstrate sexual dimorphism, and the female is larger than the male.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gray-footed_Chipmunk_iNaturalist.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dendromus-pallidus",
+  "name": "Dendromus pallidus",
+  "scientificName": "Dendromus pallidus",
+  "wikibase_item": "Q40991917",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40991917"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

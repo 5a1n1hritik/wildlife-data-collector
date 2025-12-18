@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-poutensis",
+  "name": "Hipposideros poutensis",
+  "scientificName": "Hipposideros poutensis",
+  "wikibase_item": "Q125226181",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125226181"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

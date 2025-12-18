@@ -1,0 +1,26 @@
+{
+  "id": "sphaerias-blanfordi",
+  "name": "Blanford's fruit bat",
+  "scientificName": "Sphaerias blanfordi",
+  "wikibase_item": "Q1764306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10820425,
+      "id": "Q10820425"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764306",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blanford's_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Blanford's fruit bat is a mountain species of megabat. It is found in several countries in South and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sphaerias_blanfordi.jpg",
+  "_score": 1
+}

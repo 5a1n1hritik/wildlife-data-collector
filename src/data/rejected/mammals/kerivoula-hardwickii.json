@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-hardwickii",
+  "name": "Hardwicke's woolly bat",
+  "scientificName": "Kerivoula hardwickii",
+  "wikibase_item": "Q301862",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301862",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hardwicke's_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hardwicke's woolly bat is a species of vesper bat in the family Vespertilionidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kerivoula_hardwickii.png",
+  "_score": 1
+}

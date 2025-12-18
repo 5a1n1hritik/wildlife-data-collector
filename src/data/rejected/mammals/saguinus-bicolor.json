@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-bicolor",
+  "name": "pied tamarin",
+  "scientificName": "Saguinus bicolor",
+  "wikibase_item": "Q232625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q232625",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pied_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pied tamarin, sometimes referred to as the Brazilian bare-faced tamarin, is a critically endangered species of primate found in a restricted area of the Brazilian Amazon rainforest. It was named the mascot of Manaus, Brazil in 2005. The species is endangered due to the increasing size of the city of Manaus, which is encroaching on their native habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Saguinus_bicolor_Parque_do_Mindu.jpg",
+  "_score": 2
+}

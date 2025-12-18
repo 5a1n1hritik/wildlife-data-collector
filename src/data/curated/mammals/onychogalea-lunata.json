@@ -1,0 +1,26 @@
+{
+  "id": "onychogalea-lunata",
+  "name": "crescent nail-tail wallaby",
+  "scientificName": "Onychogalea lunata",
+  "wikibase_item": "Q729430",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 429799,
+      "id": "Q429799"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q729430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crescent_nail-tail_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crescent nail-tail wallaby, also known as the worong, is a small species of marsupial that grazed on grasses in the scrub and woodlands of southwestern and central Australia. They were common in Western Australia before they disappeared in the early 20th century and persisted in the central deserts until at least the 1950s. The pelage was soft and silky and an ashen grey colouring overall, highlighted in part with rufous tones. There were light and dark patches of fur across the body, the moon-like crescents inspiring their names, and had attractive stripes on the face. Like the two remaining species of the genus, the northern Onychogalea unguifera and rare O. fraenata, it had a horny spur at the tip of its tail. The species was compared to a hare or rabbit, in its habits, appearance and taste, and weighed around 3.5 kilograms.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Macropus_lunata_Gould_Mamm_Aust_vol_2_plate_55.jpg",
+  "_score": 3
+}

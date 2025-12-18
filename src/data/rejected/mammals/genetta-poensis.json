@@ -1,0 +1,26 @@
+{
+  "id": "genetta-poensis",
+  "name": "King genet",
+  "scientificName": "Genetta poensis",
+  "wikibase_item": "Q43209",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43209",
+    "wikipedia": "https://en.wikipedia.org/wiki/King_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The king genet is a genet species native to Republic of the Congo, Equatorial Guinea, Liberia, Ghana and Côte d'Ivoire. The species was first described in 1838. As it has not been recorded since 1946, it is listed as Data Deficient on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/King_Genet_area.png",
+  "_score": 1
+}

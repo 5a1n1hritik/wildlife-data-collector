@@ -1,0 +1,26 @@
+{
+  "id": "platyrrhinus-matapalensis",
+  "name": "Platyrrhinus matapalensis",
+  "scientificName": "Platyrrhinus matapalensis",
+  "wikibase_item": "Q2200452",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2200452",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matapalo_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Matapalo broad-nosed bat is a species of leaf-nosed bat described in 2005. It is found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Platyrrhinus_matapalensis_map.svg/500px-Platyrrhinus_matapalensis_map.svg.png",
+  "_score": 1
+}

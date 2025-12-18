@@ -1,0 +1,26 @@
+{
+  "id": "genetta-thierryi",
+  "name": "Haussa genet",
+  "scientificName": "Genetta thierryi",
+  "wikibase_item": "Q43207",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43207",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hausa_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hausa genet is a genet species native to West African savannas. It is listed as Least Concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Genetta_thierryi_Plzen_zoo_02.2011.jpg",
+  "_score": 1
+}

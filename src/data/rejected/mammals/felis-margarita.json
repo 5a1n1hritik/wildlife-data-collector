@@ -1,0 +1,26 @@
+{
+  "id": "felis-margarita",
+  "name": "sand cat",
+  "scientificName": "Felis margarita",
+  "wikibase_item": "Q175329",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q175329",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sand_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sand cat is a small wild cat that inhabits sandy and stony deserts far from water sources. With its sandy to light grey fur, it is well camouflaged in a desert environment. Its head-and-body length ranges from 39–52 cm (15–20 in) with a 23–31 cm (9.1–12.2 in) long tail. Its 5–7 cm (2.0–2.8 in) short ears are set low on the sides of the head, aiding detection of prey moving underground. The long hair covering the soles of its paws insulates its pads against the extreme temperatures found in deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Persian_sand_CAT.jpg",
+  "_score": 2
+}

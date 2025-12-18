@@ -1,0 +1,26 @@
+{
+  "id": "taphozous-mauritianus",
+  "name": "Mauritian Tomb Bat",
+  "scientificName": "Taphozous mauritianus",
+  "wikibase_item": "Q76818",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q76818",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauritian_tomb_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mauritian tomb bat is a species of sac-winged bat in the family Emballonuridae that is found in central and southern Africa and Madagascar. It was discovered in 1818 by Étienne Geoffroy Saint-Hilaire, and is characterized by an all-white ventral surface, grizzled dorsal coloration, and conical face. It has exceptionally good eyesight, a trait which is common in old world bats and enables it to find roosting locations. It has adapted itself to a wide range of habitats including subarid scrub to semi-tropical savanna and can be found throughout much of Africa south of the Sahara, including many of the surrounding islands. They often seek out refuge in cool dry areas. Mauritian tomb bats help control pest populations, including insects that carry human diseases. These bats tend to be nocturnal hunters and their normal prey consists of moths, butterflies, and termites. Not prone to large-scale roosting, T. mauritianus is most often spotted on the sides of buildings or on the trunks of trees in groups of around five individuals. They breed on average once or twice a year and rear usually one pup, though twins are occasionally reported. They usually deposit their hungry offspring in areas where they can feed voraciously, most often in berry bushes. This species is listed as least concern on the IUCN Red List due their wide distribution and stable population.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mauritian_Tomb_Bat.jpg",
+  "_score": 5
+}

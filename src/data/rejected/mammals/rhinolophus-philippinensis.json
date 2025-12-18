@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-philippinensis",
+  "name": "Large-eared horseshoe bat",
+  "scientificName": "Rhinolophus philippinensis",
+  "wikibase_item": "Q1769950",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769950",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-eared_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-eared horseshoe bat is a species of bat in the family Rhinolophidae. It is found in humid caves in Australia, Indonesia, Malaysia, Papua New Guinea, the Philippines, and Timor-Leste. It is an insectivore. Its larger variant is Rhinolophus robertsi, which is sympatric to philippinensis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rhinolophus_philippinensis.jpg",
+  "_score": 1
+}

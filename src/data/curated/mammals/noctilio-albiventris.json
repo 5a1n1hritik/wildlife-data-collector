@@ -1,0 +1,25 @@
+{
+  "id": "noctilio-albiventris",
+  "name": "Noctilio albiventris",
+  "scientificName": "Noctilio albiventris",
+  "wikibase_item": "Q1815581",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20882355,
+      "id": "Q20882355"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1815581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_bulldog_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser bulldog bat is an insectivorous and occasionally carnivorous bat of the (Neotropics), ranging through Central America and northern South America. Some unique characteristics of the bat include, large feet that are used to rake the surface of water to capture prey, and precise echolocation. Occasionally, the larger bats catch and consume small fish.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Noctilio_albiventris.jpg"
+}

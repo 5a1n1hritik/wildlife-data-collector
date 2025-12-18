@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-yunganus",
+  "name": "Oryzomys yunganus",
+  "scientificName": "Oryzomys yunganus",
+  "wikibase_item": "Q27430209",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27430209",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hylaeamys_yunganus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hylaeamys yunganus, also known as the Amazonian oryzomys or Yungas rice rat, is a species of rodent in the genus Hylaeamys of family Cricetidae. It is found in lowland tropical rainforest throughout Amazonia, in northeastern Bolivia, eastern Peru, eastern Ecuador, southeastern Colombia, southern Venezuela, Guyana, Suriname, French Guiana, and northern Brazil. A closely related species, Hylaeamys tatei, occurs only in a small area in eastern Ecuador. Both were previously placed in Oryzomys.",
+  "image": null,
+  "_score": 1
+}

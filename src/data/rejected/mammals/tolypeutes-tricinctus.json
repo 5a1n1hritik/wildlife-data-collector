@@ -1,0 +1,26 @@
+{
+  "id": "tolypeutes-tricinctus",
+  "name": "Brazilian three-banded armadillo",
+  "scientificName": "Tolypeutes tricinctus",
+  "wikibase_item": "Q111846",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1080942,
+      "id": "Q1080942"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111846",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_three-banded_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brazilian three-banded armadillo is an armadillo species endemic to eastern Brazil, where it is known as tatu-bola. It is one of only two species of armadillo that can roll into a ball.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Brazilian_three-banded_armadillo_%28Tolypeutes_tricinctus%29%2C_Natural_History_Museum%2C_London%2C_Mammals_Gallery.JPG",
+  "_score": 1
+}

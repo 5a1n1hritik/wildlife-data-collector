@@ -1,0 +1,26 @@
+{
+  "id": "diclidurus-albus",
+  "name": "Northern Ghost Bat",
+  "scientificName": "Diclidurus albus",
+  "wikibase_item": "Q134340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11917119,
+      "id": "Q11917119"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_ghost_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern ghost bat is a bat species from South America, Trinidad, and Central America. It is a relatively rare, completely white, insectivorous bat, with an unusual sac at the base of its tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/P1070111-Northern-Ghost-Bat-%28diclidurus-albus%29.jpg",
+  "_score": 1
+}

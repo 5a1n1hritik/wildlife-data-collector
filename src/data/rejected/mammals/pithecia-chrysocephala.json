@@ -1,0 +1,26 @@
+{
+  "id": "pithecia-chrysocephala",
+  "name": "Pithecia chrysocephala",
+  "scientificName": "Pithecia chrysocephala",
+  "wikibase_item": "Q20687107",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20687107",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-faced_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-faced saki is a species of saki monkey, a type of New World monkey. It is found in Brazil north of the Amazon, on both sides of the Rio Negro. This species was formerly considered a subspecies of the white-faced saki, but was raised to full species status in 2014. The species is named for the coloration of the male, which has black body hair but orange or red-brown facial hair. The female has lighter body color and more bare skin on the face, with lines of orange hair extending down from below the eyes around the snout, as well as orange ventral fur. The golden-faced saki features a smaller, less prognathic, and less spherical cranial vault than the white-faced saki.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Archives_du_Mus%C3%A9um_d%27Histoire_Naturelle%2C_Paris_BHL25099482.jpg",
+  "_score": 2
+}

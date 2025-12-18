@@ -1,0 +1,26 @@
+{
+  "id": "lepus-yarkandensis",
+  "name": "Lepus yarkandensis",
+  "scientificName": "Lepus yarkandensis",
+  "wikibase_item": "Q510359",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q510359",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yarkand_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yarkand hare is a species of mammal in the family Leporidae. It has soft, straight, sandy brown dorsal pelage which has grayish-black stripes, and completely white ventral pelage. Endemic to China, the Yarkand hare is restricted to the Tarim Basin in Southern Xinjiang, China. It is mainly nocturnal, and forages on grass and crops. The female produces two or three litters annually, each consisting of two to five young. It is rated as near threatened on the International Union for Conservation of Nature Red List of Endangered Species and by the Red List of China's Vertebrates. However, Chinese geneticists have stated the species is \"endangered\" due to limited habitat and its fragmentation, and over-hunting and poaching.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lepus_yarkandensis.jpg",
+  "_score": 5
+}

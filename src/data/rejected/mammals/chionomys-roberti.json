@@ -1,0 +1,26 @@
+{
+  "id": "chionomys-roberti",
+  "name": "Robert's Snow Vole",
+  "scientificName": "Chionomys roberti",
+  "wikibase_item": "Q1770522",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 602763,
+      "id": "Q602763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770522",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert's_snow_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Robert's snow vole is a species of rodent in the family Cricetidae.\nIt is found in Azerbaijan, Georgia, the Russian Federation, and Turkey.\nIts natural habitats are temperate forests and temperate grassland.",
+  "image": null,
+  "_score": 1
+}

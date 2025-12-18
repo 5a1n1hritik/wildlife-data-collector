@@ -1,0 +1,26 @@
+{
+  "id": "geomys-bursarius",
+  "name": "Plains pocket gopher",
+  "scientificName": "Geomys bursarius",
+  "wikibase_item": "Q1426222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1426222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plains_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plains pocket gopher is one of 35 species of pocket gophers, so named in reference to their externally located, fur-lined cheek pouches. They are burrowing animals, found in grasslands and agricultural land across the Great Plains of North America, from Manitoba to Texas. Pocket gophers are the most highly fossorial rodents found in North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Geomys_bursarius.jpg",
+  "_score": 1
+}

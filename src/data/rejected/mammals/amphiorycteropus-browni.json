@@ -1,0 +1,26 @@
+{
+  "id": "amphiorycteropus-browni",
+  "name": "Amphiorycteropus browni",
+  "scientificName": "Amphiorycteropus browni",
+  "wikibase_item": "Q21241994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21344883,
+      "id": "Q21344883"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21241994"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

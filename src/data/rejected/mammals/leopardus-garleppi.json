@@ -1,0 +1,26 @@
+{
+  "id": "leopardus-garleppi",
+  "name": "Leopardus garleppi",
+  "scientificName": "Leopardus garleppi",
+  "wikibase_item": "Q96575311",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96575311",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garlepp's_pampas_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Garlepp's pampas cat, also called the northern pampas cat, is a subspecies of the pampas cat. It has more recently been classified as a full species within a pampas cat species complex. Garlepp's pampas cat is native to the central-western mountainous area of South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Leopardus_garleppi.jpg",
+  "_score": 1
+}

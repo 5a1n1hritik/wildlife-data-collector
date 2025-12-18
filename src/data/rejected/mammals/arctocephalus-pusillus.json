@@ -1,0 +1,26 @@
+{
+  "id": "arctocephalus-pusillus",
+  "name": "Brown Fur Seal",
+  "scientificName": "Arctocephalus pusillus",
+  "wikibase_item": "Q466597",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q466597",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arctocephalus_pusillus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Arctocephalus pusillus, also known as the Cape fur seal and the Afro-Australian fur seal, is a species of fur seal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Arctocephalus_pusillus_-_SE_Tasmania.jpg",
+  "_score": 1
+}

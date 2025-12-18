@@ -1,0 +1,26 @@
+{
+  "id": "leontopithecus-caissara",
+  "name": "Superagui lion tamarin",
+  "scientificName": "Leontopithecus caissara",
+  "wikibase_item": "Q1065007",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857486,
+      "id": "Q857486"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1065007",
+    "wikipedia": "https://en.wikipedia.org/wiki/Superag%C3%BCi_lion_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-faced lion tamarin or Superagüi lion tamarin is a small New World monkey of the family Callitrichidae. It is endangered and endemic to coastal forests in southeastern Brazil. There are several conservation projects and the total populations is unlikely to exceed 400 individuals. It is overall golden-orange with contrasting black head, legs and tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Leontopithecus_caissara.jpg",
+  "_score": 1
+}

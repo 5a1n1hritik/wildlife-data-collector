@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-flavescens",
+  "name": "Greater red musk shrew",
+  "scientificName": "Crocidura flavescens",
+  "wikibase_item": "Q1765945",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765945",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_red_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater red musk shrew is a species of mammal in the family Soricidae. It is found in Lesotho, Mozambique, South Africa, and Eswatini. Its natural habitats are moist savanna, temperate grassland, and rural gardens. Like most shrew species, C. flavenscens is nocturnal. The greater red musk shrew is considered to be asocial and territorial, with males using scent marking to establish their territory. Males appear to be more aggressive than females, and their aggression increases with greater population density.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Crocidura_cinnamomea_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20900119_%28cropped%29.tif/lossy-page1-3109px-Crocidura_cinnamomea_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20900119_%28cropped%29.tif.jpg",
+  "_score": 3
+}

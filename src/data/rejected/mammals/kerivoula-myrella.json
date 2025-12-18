@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-myrella",
+  "name": "Bismarck's trumpet-eared bat",
+  "scientificName": "Kerivoula myrella",
+  "wikibase_item": "Q303760",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303760",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bismarck_trumpet-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bismarck trumpet-eared bat, also known as the Manus Island woolly bat, is a species of vesper bat in the family Vespertilionidae.\nIt is found in subtropical or tropical dry forests.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nyctophilus-nebulosus",
+  "name": "Nyctophilus nebulosus",
+  "scientificName": "Nyctophilus nebulosus",
+  "wikibase_item": "Q2440959",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2440959",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Caledonian_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Caledonian long-eared bat is a vesper bat found in New Caledonia. They are only recorded at Mount Koghis, near Nouméa, and the population is decreasing.",
+  "image": null,
+  "_score": 0
+}

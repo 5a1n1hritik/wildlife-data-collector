@@ -1,0 +1,26 @@
+{
+  "id": "scleronycteris-ega",
+  "name": "Ega Long-tongued Bat",
+  "scientificName": "Scleronycteris ega",
+  "wikibase_item": "Q94860",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10819034,
+      "id": "Q10819034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ega_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ega long-tongued bat is a bat species found in northwestern Brazil and southern Venezuela. It is monotypic within its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scleronycteris_ega_map.svg/500px-Scleronycteris_ega_map.svg.png",
+  "_score": 1
+}

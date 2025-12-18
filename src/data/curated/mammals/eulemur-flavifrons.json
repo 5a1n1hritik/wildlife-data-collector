@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-flavifrons",
+  "name": "Eulemur flavifrons",
+  "scientificName": "Eulemur flavifrons",
+  "wikibase_item": "Q882366",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q882366",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue-eyed_black_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The blue-eyed black lemur, also known as the Sclater's lemur, is a species of true lemur. It can attain a body length of 39–45 cm (15–18 in), a tail length of 51–65 cm (20–26 in), a total length of 90–100 cm (35–39 in), and a weight of 1.8–1.9 kg (4.0–4.2 lb). Being a primate, it has strong hands with palms like a human, which have a rubbery texture to give it a firm grip on branches. Its tail is longer than its body and is non-prehensile.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Blue-Eyed_Black_Lemur.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lagidium-viscacia",
+  "name": "Southern viscacha",
+  "scientificName": "Lagidium viscacia",
+  "wikibase_item": "Q1761602",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1195501,
+      "id": "Q1195501"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761602",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_viscacha"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern viscacha is a species of viscacha, a rodent in the family Chinchillidae found in Argentina, Bolivia, Chile, and Peru. It is a colonial animal living in small groups in rocky mountain areas. It has long ears and hind legs and resembles a rabbit in appearance apart from its long, bushy tail; however, it is not a lagomorph.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bolivian_vizcacha.jpg",
+  "_score": 1
+}

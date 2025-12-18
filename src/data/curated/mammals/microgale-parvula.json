@@ -1,0 +1,26 @@
+{
+  "id": "microgale-parvula",
+  "name": "Pygmy shrew tenrec",
+  "scientificName": "Microgale parvula",
+  "wikibase_item": "Q2606581",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2606581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy shrew tenrec is a species of placental mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitat is subtropical or tropical moist forests. While it is not endangered, its population is slowly declining as it is threatened by habitat loss. This is of concern, though does not yet merit a higher protection level.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Microgale_parvula_range_map.svg/2324px-Microgale_parvula_range_map.svg.png",
+  "_score": 3
+}

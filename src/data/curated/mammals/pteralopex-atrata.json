@@ -1,0 +1,25 @@
+{
+  "id": "pteralopex-atrata",
+  "name": "Guadalcanal monkey-faced bat",
+  "scientificName": "Pteralopex atrata",
+  "wikibase_item": "Q720567",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2479576,
+      "id": "Q2479576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q720567",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guadalcanal_monkey-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guadalcanal monkey-faced bat or Guadalcanal flying monkey is a megabat endemic to Solomon Islands. It is listed as an endangered species. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pteralopex_atrata_Proceedings_Smit_3.jpg"
+}

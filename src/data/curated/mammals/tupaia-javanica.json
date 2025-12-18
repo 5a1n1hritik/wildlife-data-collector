@@ -1,0 +1,25 @@
+{
+  "id": "tupaia-javanica",
+  "name": "Horsfield's treeshrew",
+  "scientificName": "Tupaia javanica",
+  "wikibase_item": "Q572842",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q572842",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horsfield's_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Horsfield's treeshrew, also called Javan treeshrew, is a treeshrew species within the Tupaiidae. It is endemic to the Indonesian islands of Sumatra, Bali, Java and Nias where it inhabits foremost primary forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tupaia_javanica.jpg"
+}

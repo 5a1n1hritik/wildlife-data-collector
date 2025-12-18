@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-robustus",
+  "name": "robust cottontail",
+  "scientificName": "Sylvilagus robustus",
+  "wikibase_item": "Q194815",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875386,
+      "id": "Q20875386"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194815",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robust_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Davis Mountains cottontail, robust cottontail or Holzner's cottontail is a species of cottontail rabbit native to high-altitude regions of the southwestern United States and western Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sylvilagusholzneri_%28cropped%29.jpg",
+  "_score": 1
+}

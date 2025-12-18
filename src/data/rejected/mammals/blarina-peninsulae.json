@@ -1,0 +1,26 @@
+{
+  "id": "blarina-peninsulae",
+  "name": "Everglades short-tailed shrew",
+  "scientificName": "Blarina peninsulae",
+  "wikibase_item": "Q1770183",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468813,
+      "id": "Q468813"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770183",
+    "wikipedia": "https://en.wikipedia.org/wiki/Everglades_short-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Everglades short-tailed shrew is a species of shrew in the genus Blarina. It is endemic to Florida.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-grandidieri",
+  "name": "Lepilemur grandidieri",
+  "scientificName": "Lepilemur grandidieri",
+  "wikibase_item": "Q40490894",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40490894"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

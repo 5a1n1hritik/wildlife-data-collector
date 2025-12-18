@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-pipistrellus",
+  "name": "common pipistrelle",
+  "scientificName": "Pipistrellus pipistrellus",
+  "wikibase_item": "Q176901",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q176901",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common pipistrelle is a small pipistrelle microbat whose very large range extends across most of Europe, North Africa, South-Central Asia, and may extend into Korea. It is one of the most common bat species in the British Isles. In Europe, the northernmost confirmed records are from southern Finland near 60°N.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pipistrellus_female-1.jpg",
+  "_score": 1
+}

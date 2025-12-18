@@ -1,0 +1,25 @@
+{
+  "id": "furipterus-horrens",
+  "name": "Furipterus horrens",
+  "scientificName": "Furipterus horrens",
+  "wikibase_item": "Q301278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15897529,
+      "id": "Q15897529"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301278",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thumbless_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The thumbless bat is a species of insectivorous bat in the family Furipteridae, in the monotypic genus Furipterus. They have a small thumb which is included in the membrane of the wing, causing the 'thumbless' appearance.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Furipterus_horrens_328727700.jpg"
+}

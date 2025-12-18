@@ -1,0 +1,26 @@
+{
+  "id": "balionycteris-seimundi",
+  "name": "Balionycteris seimundi",
+  "scientificName": "Balionycteris maculata seimundi",
+  "wikibase_item": "Q20905623",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10737561,
+      "id": "Q10737561"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20905623",
+    "wikipedia": "https://en.wikipedia.org/wiki/Balionycteris_seimundi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Balionycteris seimundi is a species of megabat found in Malaysia.",
+  "image": null,
+  "_score": 0
+}

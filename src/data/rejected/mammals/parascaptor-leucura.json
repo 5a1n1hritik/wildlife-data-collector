@@ -1,0 +1,26 @@
+{
+  "id": "parascaptor-leucura",
+  "name": "white-tailed mole",
+  "scientificName": "Parascaptor leucura",
+  "wikibase_item": "Q1274350",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18657493,
+      "id": "Q18657493"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1274350",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-tailed_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-tailed mole is a species of mammal in the family Talpidae. It is found in Bangladesh, China, India, and Myanmar. This species are endemic to East Asia and exhibit limited distributions. It is the only species in the genus Parascaptor.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Parascaptor_leucura_32423682.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "geomys-texensis",
+  "name": "Central Texas pocket gopher",
+  "scientificName": "Geomys texensis",
+  "wikibase_item": "Q309321",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309321",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_Texas_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The central Texas pocket gopher or Llano pocket gopher is a species of rodent in the family Geomyidae. It is endemic to central Texas in the United States.",
+  "image": null,
+  "_score": 0
+}

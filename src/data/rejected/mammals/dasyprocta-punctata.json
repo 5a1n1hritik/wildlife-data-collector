@@ -1,0 +1,26 @@
+{
+  "id": "dasyprocta-punctata",
+  "name": "Central American agouti",
+  "scientificName": "Dasyprocta punctata",
+  "wikibase_item": "Q1762247",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762247",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_American_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Central American agouti is a species of agouti from the family Dasyproctidae. The main portion of its range is from Chiapas and the Yucatan Peninsula, through Central America, to northwestern Ecuador, Colombia and far western Venezuela. A highly disjunct population is found in southeastern Peru, far southwestern Brazil, Bolivia, western Paraguay and far northwestern Argentina. The disjunct population has been treated as a separate species, the brown agouti, but a major review of the geographic variation is necessary. The Central American agouti has also been introduced to Cuba and the Cayman Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Central_American_agouti_%28Dasyprocta_punctata%29_Paz_de_las_Aves.jpg",
+  "_score": 2
+}

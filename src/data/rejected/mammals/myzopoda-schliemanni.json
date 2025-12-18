@@ -1,0 +1,26 @@
+{
+  "id": "myzopoda-schliemanni",
+  "name": "Western sucker-footed bat",
+  "scientificName": "Myzopoda schliemanni",
+  "wikibase_item": "Q2468855",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2610306,
+      "id": "Q2610306"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2468855",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_sucker-footed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western sucker-footed bat is a bat endemic to Madagascar. Little is known about its habits, but they are assumed to be similar to those of the Madagascar sucker-footed bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Myzopoda_schliemanni_range_map.svg/2324px-Myzopoda_schliemanni_range_map.svg.png",
+  "_score": 1
+}

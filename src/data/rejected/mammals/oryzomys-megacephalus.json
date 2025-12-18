@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-megacephalus",
+  "name": "Oryzomys megacephalus",
+  "scientificName": "Oryzomys megacephalus",
+  "wikibase_item": "Q27434631",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27434631",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hylaeamys_megacephalus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hylaeamys megacephalus, also known as Azara's broad-headed oryzomys or the large-headed rice rat, is a species of rodent in the genus Hylaeamys of family Cricetidae, of which it is the type species. It is found mainly in lowland tropical rainforest from its type locality in Paraguay north through central Brazil, French Guiana, Guyana, Suriname, and Venezuela onto Trinidad and Tobago. To its west and east, other closely related species of Hylaeamys are found: H. perenensis in western Amazonia, H. acritus in Bolivia, and H. laticeps and H. oniscus in the Atlantic Forest of eastern Brazil.",
+  "image": null,
+  "_score": 1
+}

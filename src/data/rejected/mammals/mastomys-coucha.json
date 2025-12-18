@@ -1,0 +1,26 @@
+{
+  "id": "mastomys-coucha",
+  "name": "Southern multimammate mouse",
+  "scientificName": "Mastomys coucha",
+  "wikibase_item": "Q1971728",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1971728",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_multimammate_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern multimammate mouse or southern African mastomys is a species of rodent in the family Muridae which is endemic to southern Africa. It is called a multimammate mouse because it can have 8 to 12 pairs of mammae, in comparison other mouse species only have 5 pairs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mastomys.jpg",
+  "_score": 1
+}

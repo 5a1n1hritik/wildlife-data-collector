@@ -1,0 +1,26 @@
+{
+  "id": "thallomys-shortridgei",
+  "name": "Shortridge's Rat",
+  "scientificName": "Thallomys shortridgei",
+  "wikibase_item": "Q1767510",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 246927,
+      "id": "Q246927"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767510",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shortridge's_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shortridge's rat is a species of rodent in the family Muridae.\nIt is found only in South Africa.\nIts natural habitat is subtropical or tropical dry shrubland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thallomys_shortridgei_distribution.png",
+  "_score": 2
+}

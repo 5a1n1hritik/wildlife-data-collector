@@ -1,0 +1,26 @@
+{
+  "id": "scotoecus-pallidus",
+  "name": "Desert yellow bat",
+  "scientificName": "Scotoecus pallidus",
+  "wikibase_item": "Q1832034",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845860,
+      "id": "Q845860"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832034",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert yellow bat is a species of vesper bat. It is found in India, Pakistan, and Bangladesh. Its natural habitats are subtropical or tropical dry forests and shrubland, rural gardens, and urban areas.",
+  "image": null,
+  "_score": 1
+}

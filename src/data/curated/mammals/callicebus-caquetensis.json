@@ -1,0 +1,26 @@
+{
+  "id": "callicebus-caquetensis",
+  "name": "Caquetá titi",
+  "scientificName": "Callicebus caquetensis",
+  "wikibase_item": "Q1035244",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203649,
+      "id": "Q203649"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1035244",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caquet%C3%A1_titi_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caquetá titi monkey, also known as the red-bearded titi or the bushy-bearded titi, is a species of titi monkey endemic to Colombia found in the Department of Caquetá region. Taxonomically, it is a member of the \"Callicebus cupreus group\", following Shunsuke Kobayashi's Callicebus grouping. It was first described by Thomas Defler, Marta Bueno and Javier Garcia in 2010. It is highly endangered due to habitat fragmentation and a small population.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Titi_Del_Caqueta.jpg",
+  "_score": 3
+}

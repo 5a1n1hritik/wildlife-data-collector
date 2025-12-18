@@ -1,0 +1,26 @@
+{
+  "id": "eliurus-tsingimbato",
+  "name": "Eliurus tsingimbato",
+  "scientificName": "Eliurus tsingimbato",
+  "wikibase_item": "Q123097737",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123097737"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

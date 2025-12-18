@@ -1,0 +1,26 @@
+{
+  "id": "euderma-maculatum",
+  "name": "spotted bat",
+  "scientificName": "Euderma maculatum",
+  "wikibase_item": "Q301631",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10759438,
+      "id": "Q10759438"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301631",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted bat is a species of vesper bat and the only species of the genus Euderma.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Side_view_of_spotted_bat_-Euderma_maculatum-_by_Paul_Cryan.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "thylamys-karimii",
+  "name": "Karimi's fat-tailed mouse opossum",
+  "scientificName": "Thylamys karimii",
+  "wikibase_item": "Q194985",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karimi's_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Karimi's fat-tailed mouse opossum is a species of opossum in the family Didelphidae. It is endemic to central and northeast Brazil, where it is found in the cerrado and caatinga at elevations from 300 to 1100 m. This opossum is crepuscular and mostly terrestrial; its omnivorous diet includes leaves, insects and small vertebrates. Its head-and-body length is about 95 millimeters, and its tail length is about 72 millimeters. It is very similar to T. pallidor. Its tail may be nonprehensile. The species is named after Iranian epidemiologist Y. Karimi. It is threatened by habitat destruction and fragmentation due to agriculture and ranching.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Karimi%27s_Fat-tailed_Mouse_Opossum_area.png",
+  "_score": 5
+}

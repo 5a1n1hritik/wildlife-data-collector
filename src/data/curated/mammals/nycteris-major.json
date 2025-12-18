@@ -1,0 +1,26 @@
+{
+  "id": "nycteris-major",
+  "name": "Ja slit-faced bat",
+  "scientificName": "Nycteris major",
+  "wikibase_item": "Q1831222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ja_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ja slit-faced bat is a species of slit-faced bat that lives in the tropical and subtropical forests of Africa. Its habitat is fragmented and declining, and the species is therefore very rare. Logging and farming are currently the greatest threats to its habitat. The two known subspecies are N. m. avakubia and N. m. major.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nycteris_major.jpg",
+  "_score": 3
+}

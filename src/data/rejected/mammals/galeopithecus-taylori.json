@@ -1,0 +1,26 @@
+{
+  "id": "galeopithecus-taylori",
+  "name": "Galeopithecus taylori",
+  "scientificName": "Galeopithecus taylori",
+  "wikibase_item": "Q41164906",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41153702,
+      "id": "Q41153702"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164906"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

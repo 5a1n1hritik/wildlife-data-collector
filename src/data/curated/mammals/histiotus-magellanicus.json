@@ -1,0 +1,26 @@
+{
+  "id": "histiotus-magellanicus",
+  "name": "Southern big-eared brown bat",
+  "scientificName": "Histiotus magellanicus",
+  "wikibase_item": "Q1823243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225886,
+      "id": "Q225886"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1823243",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_big-eared_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern big-eared brown bat is a species of bat from the family Vespertilionidae. Although current taxonomy treats the southern big-eared brown bat as a separate species, it is often treated as a subspecies of the small big-eared brown bat. It lives in the forests of southern Argentina and Chile; though the population of the bat in the southern part of its habitat is low, there are no major concerns to justify anything lower than a Least Concern rating in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Histiotus_magellanicus_565915.jpg",
+  "_score": 3
+}

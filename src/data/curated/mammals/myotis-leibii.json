@@ -1,0 +1,26 @@
+{
+  "id": "myotis-leibii",
+  "name": "Eastern small-footed myotis",
+  "scientificName": "Myotis leibii",
+  "wikibase_item": "Q1832366",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832366",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_small-footed_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern small-footed bat is a species of vesper bat. It can be found in southern Ontario and Quebec in Canada and in mountainous portions of the eastern United States from New England to northern Georgia, and westward to northern Arkansas. It is among the smallest bats in eastern North America and is known for its small feet and black face-mask. Until recently, all North American small-footed Myotis were considered to be \"Myotis leibii\". The western population is now considered to be a separate species, Myotis ciliolabrum. The eastern small-footed bat is rare throughout its range, although the species may be locally abundant where suitable habitat exists. Studies suggest white-nose syndrome has caused declines in their populations. However, most occurrences of this species have only been counted within the past decade or two and are not revisited regularly, making their population status difficult to assess. Additionally, most bat populations in the eastern U.S. have been monitored using surveys conducted in caves and mines in the winter, but eastern small-footed bats hibernate in places that make them unlikely to be encountered during these surveys. Perhaps as a result, the numbers of eastern small-footed bats counted in winter tend to be low and they are relatively variable compared to other species of bats. Many biologists believe the species is stable, having declined little in recent times, but that it is vulnerable due to its relatively restricted geographic range and habitat needs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eastern_small-footed_bat.jpg",
+  "_score": 4
+}

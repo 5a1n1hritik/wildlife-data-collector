@@ -1,0 +1,26 @@
+{
+  "id": "oecomys-catherinae",
+  "name": "Oecomys catherinae",
+  "scientificName": "Oecomys catherinae",
+  "wikibase_item": "Q1763442",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763442",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_catherinae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys catherinae, also known as the Atlantic Forest oecomys, is a species of rodent in the genus Oecomys from eastern Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Oecomys_catherinae_416717788_%28cropped%29.jpg",
+  "_score": 1
+}

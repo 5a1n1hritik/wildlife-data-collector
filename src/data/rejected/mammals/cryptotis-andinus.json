@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-andinus",
+  "name": "Cryptotis andinus",
+  "scientificName": "Cryptotis andinus",
+  "wikibase_item": "Q124310508",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124310508",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_Colombian_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern Colombian small-eared shrew is a species of small-eared shrew native to Colombia.",
+  "image": null,
+  "_score": 0
+}

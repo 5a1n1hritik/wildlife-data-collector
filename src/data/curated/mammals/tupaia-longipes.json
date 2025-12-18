@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-longipes",
+  "name": "Long-footed treeshrew",
+  "scientificName": "Tupaia longipes",
+  "wikibase_item": "Q652961",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q652961",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-footed_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-footed treeshrew is a treeshrew species within the Tupaiidae. It is endemic to Borneo and threatened due to deforestation and degradation of habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Tupaia_longipes_%28Tupaia_glis_longipes%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02509.JPG",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "archboldomys-maximus",
+  "name": "Archboldomys maximus",
+  "scientificName": "Archboldomys maximus",
+  "wikibase_item": "Q3621467",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135054,
+      "id": "Q135054"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3621467",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_Cordillera_shrew-mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large Cordillera shrew-mouse is a species of rodent in the family Muridae found only in the Philippines.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "varecia-rubra",
+  "name": "red ruffed lemur",
+  "scientificName": "Varecia rubra",
+  "wikibase_item": "Q516703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 640161,
+      "id": "Q640161"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q516703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_ruffed_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red ruffed lemur is one of two species in the genus Varecia, the ruffed lemurs; the other is the black-and-white ruffed lemur. Like all lemurs, it is native to Madagascar. It occurs only in the rainforests of Masoala, in the northeast of the island. It is one of the largest primates of Madagascar with a body length of 53 cm, a tail length of 60 cm and a weight of 3.3–3.6 kg. Its soft, thick fur is red and black in color and sports a buff or cream colored spot at the nape, but a few are known to have a white or pink patch on the back of the limbs or digits and a ring on the base of the tail in a similar color.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Red_ruffed_lemur_%28Varecia_rubra%29.jpg",
+  "_score": 2
+}

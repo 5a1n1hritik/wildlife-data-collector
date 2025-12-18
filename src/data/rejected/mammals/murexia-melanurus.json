@@ -1,0 +1,26 @@
+{
+  "id": "murexia-melanurus",
+  "name": "Murexia melanurus",
+  "scientificName": "Murexia melanurus",
+  "wikibase_item": "Q49090868",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1980545,
+      "id": "Q1980545"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q49090868",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-tailed_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-tailed dasyure is a species of marsupial in the family Dasyuridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Black-tailed_Dasyure_area.png",
+  "_score": 1
+}

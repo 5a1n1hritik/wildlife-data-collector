@@ -1,0 +1,25 @@
+{
+  "id": "neogale-felipei",
+  "name": "Neogale felipei",
+  "scientificName": "Neogale felipei",
+  "wikibase_item": "Q116894434",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 107548263,
+      "id": "Q107548263"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116894434",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colombian_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Colombian weasel, also known as Don Felipe's weasel, is a very rare species of New World weasel only known with certainty from the departments of Huila and Cauca in Colombia which has spotted 11 instances of the species and nearby northern Ecuador where one instance of the species has been spotted as of 2023. Both its scientific and alternative common name honours the mammalogist Philip \"Don Felipe\" Hershkovitz.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Colombian_Weasel_area.png"
+}

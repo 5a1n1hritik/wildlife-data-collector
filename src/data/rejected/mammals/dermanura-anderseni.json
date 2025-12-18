@@ -1,0 +1,26 @@
+{
+  "id": "dermanura-anderseni",
+  "name": "Dermanura anderseni",
+  "scientificName": "Dermanura anderseni",
+  "wikibase_item": "Q28154652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5262681,
+      "id": "Q5262681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28154652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andersen's_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andersen's fruit-eating bat is a bat species found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Artibeus_anderseni_map.svg/1181px-Artibeus_anderseni_map.svg.png",
+  "_score": 1
+}

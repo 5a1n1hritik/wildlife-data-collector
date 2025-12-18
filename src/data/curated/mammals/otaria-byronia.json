@@ -1,0 +1,25 @@
+{
+  "id": "otaria-byronia",
+  "name": "Otaria byronia",
+  "scientificName": "Otaria byronia",
+  "wikibase_item": "Q28174380",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817140,
+      "id": "Q19817140"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28174380",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_American_sea_lion"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The South American sea lion, also called the southern sea lion and the Patagonian sea lion, is a sea lion found on the western and southeastern coasts of South America. It is the only member of the genus Otaria. The species is highly sexually dimorphic. Males have a large head and prominent mane. They mainly feed on fish and cephalopods and haul out on sand, gravel, rocky, or pebble beaches. In most populations, breeding males are both territorial and harem holding; they establish territories first and then try to herd females into them. The overall population of the species is considered stable, estimated at 265,000 animals.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Southern_Sea_Lions.jpg"
+}

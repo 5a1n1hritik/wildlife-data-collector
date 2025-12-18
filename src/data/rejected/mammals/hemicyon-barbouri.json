@@ -1,0 +1,28 @@
+{
+  "id": "hemicyon-barbouri",
+  "name": "Hemicyon barbouri",
+  "scientificName": "Hemicyon barbouri",
+  "wikibase_item": "Q112863605",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1035243,
+      "id": "Q1035243"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112863605",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hemicyon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hemicyon, also known as the \"dog-bear\", is an extinct genus of hemicyonine bear, which probably originated in Eurasia but was found in Europe, Asia and North America during the Miocene epoch, existing for approximately 16 to 13 mya. Hemicyon is the best-known genus in the Hemicyoninae, a subfamily intermediate between bears and their Caniform ancestors but most often classified as bears. Hemicyonid bears should not be confused with Amphicyonids (bear-dogs), which are their own separate family of carnivores.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hemicyon_sansaniensis.JPG",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mormopterus-petersi",
+  "name": "Mormopterus petersi",
+  "scientificName": "Mormopterus petersi",
+  "wikibase_item": "Q18419330",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18419330",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_petersi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ozimops petersi, the inland free-tailed bat is a species of bat found in Australia.",
+  "image": null,
+  "_score": 0
+}

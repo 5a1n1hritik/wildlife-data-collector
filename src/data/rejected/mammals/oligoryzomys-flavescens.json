@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-flavescens",
+  "name": "Oligoryzomys flavescens",
+  "scientificName": "Oligoryzomys flavescens",
+  "wikibase_item": "Q1766690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_flavescens"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys flavescens, also known as the flavescent colilargo or yellow pygmy rice rat is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is found in southern South America, occurring in southern Brazil, Paraguay, Uruguay, and northeastern Argentina. Its karyotype has 2n = 64-66 and FNa = 66–70.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Colilargo_chico_%28Oligoryzomys_flavescens%29%2C_Uruguay%2C_2022.jpg",
+  "_score": 1
+}

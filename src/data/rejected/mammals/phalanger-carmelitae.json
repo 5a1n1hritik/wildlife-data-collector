@@ -1,0 +1,26 @@
+{
+  "id": "phalanger-carmelitae",
+  "name": "Mountain cuscus",
+  "scientificName": "Phalanger carmelitae",
+  "wikibase_item": "Q209713",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209713",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain cuscus is a species of marsupial in the family Phalangeridae found in West Papua, Indonesia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Specimen_C_2912_Phalanger_carmelitae.jpg",
+  "_score": 1
+}

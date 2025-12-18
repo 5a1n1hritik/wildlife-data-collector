@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-medius",
+  "name": "Intermediate long-fingered bat",
+  "scientificName": "Miniopterus medius",
+  "wikibase_item": "Q2118495",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2118495",
+    "wikipedia": "https://en.wikipedia.org/wiki/Intermediate_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The intermediate long-fingered bat is a species of vesper bat in the family Miniopteridae. It can be found in Indonesia, Malaysia, and Thailand and possibly also in Papua New Guinea and the Solomon Islands,",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Range_Miniopterus_medius.png",
+  "_score": 1
+}

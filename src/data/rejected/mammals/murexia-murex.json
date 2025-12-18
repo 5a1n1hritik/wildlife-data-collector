@@ -1,0 +1,26 @@
+{
+  "id": "murexia-murex",
+  "name": "Murexia murex",
+  "scientificName": "Murexia murex",
+  "wikibase_item": "Q41085070",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1980545,
+      "id": "Q1980545"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085070"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

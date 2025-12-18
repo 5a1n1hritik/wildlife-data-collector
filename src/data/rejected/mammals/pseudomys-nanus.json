@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-nanus",
+  "name": "Western Chestnut Mouse",
+  "scientificName": "Pseudomys nanus",
+  "wikibase_item": "Q1761584",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761584",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_chestnut_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western chestnut mouse is a species of rodent in the family Muridae.\nIt is native to northern Australia and various close islands, with the vast majority found in Queensland and the Northern Territory.",
+  "image": null,
+  "_score": 0
+}

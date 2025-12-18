@@ -1,0 +1,26 @@
+{
+  "id": "latidens-salimalii",
+  "name": "Salim Ali's fruit bat",
+  "scientificName": "Latidens salimalii",
+  "wikibase_item": "Q301489",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10785077,
+      "id": "Q10785077"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301489",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salim_Ali's_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Salim Ali's fruit bat is a rare megabat species in the monotypic genus Latidens. It was first collected by Angus Hutton, a planter and naturalist in the High Wavy Mountains in the Western Ghats of Theni district, Tamil Nadu in South India in 1948. It was initially misidentified as a short-nosed fruit bat (Cynopterus) but later identified by Kitti Thonglongya as a new species and was named after Indian ornithologist Salim Ali in 1972.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Salim_Ali%27s_Fruit_Bat_area.png",
+  "_score": 2
+}

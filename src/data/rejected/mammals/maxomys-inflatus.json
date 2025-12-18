@@ -1,0 +1,26 @@
+{
+  "id": "maxomys-inflatus",
+  "name": "Fat-nosed spiny rat",
+  "scientificName": "Maxomys inflatus",
+  "wikibase_item": "Q1762731",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762731",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fat-nosed_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fat-nosed spiny rat is a species of rodent in the family Muridae.\nIt is found only in Indonesia.",
+  "image": null,
+  "_score": 0
+}

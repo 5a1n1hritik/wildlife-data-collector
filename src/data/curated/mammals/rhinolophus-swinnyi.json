@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-swinnyi",
+  "name": "Swinny's Horseshoe Bat",
+  "scientificName": "Rhinolophus swinnyi",
+  "wikibase_item": "Q1769043",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769043",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swinny's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Swinny's horseshoe bat is a species of bat in the family Rhinolophidae. In English, R. swinnyi is commonly referred to as Swinny's horseshoe bat. In Afrikaans, it is commonly referred to as Swinny se saalneusvlermuis. This species belongs to the African clade. R. swinnyi was discovered by an African collector H. H. Swinny. They have been recorded in Angola, Republic of the Congo, Mozambique, South Africa, Tanzania, Zambia, Zimbabwe, and Malawi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Swinny%27s_Horseshoe_Bat_area.png"
+}

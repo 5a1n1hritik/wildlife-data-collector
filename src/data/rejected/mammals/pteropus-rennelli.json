@@ -1,0 +1,28 @@
+{
+  "id": "pteropus-rennelli",
+  "name": "Pteropus rennelli",
+  "scientificName": "Pteropus rennelli",
+  "wikibase_item": "Q591465",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q591465",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rennell_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Rennell flying fox is a species of flying fox found in the Solomon Islands. It is an endangered species risking extinction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Rennell_Flying_Fox_area.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

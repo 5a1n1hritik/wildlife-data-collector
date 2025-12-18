@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-oceanensis",
+  "name": "Miniopterus oceanensis",
+  "scientificName": "Miniopterus oceanensis",
+  "wikibase_item": "Q12071678",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12071678",
+    "wikipedia": "https://en.wikipedia.org/wiki/Australasian_bent-wing_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Australasian bent-wing bat is a species of vesper bat in the family Miniopteridae. It is found in Australia and in Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Southern_bentwing_bat.jpg",
+  "_score": 1
+}

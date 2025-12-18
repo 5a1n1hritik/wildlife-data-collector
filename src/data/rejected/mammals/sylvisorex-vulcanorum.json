@@ -1,0 +1,26 @@
+{
+  "id": "sylvisorex-vulcanorum",
+  "name": "Volcano Shrew",
+  "scientificName": "Sylvisorex vulcanorum",
+  "wikibase_item": "Q1768358",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768358",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volcano_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The volcano shrew is a species of mammal in the family Soricidae found in the high-altitude rainforest of Burundi, eastern Democratic Republic of the Congo, Rwanda, and Uganda. Its natural habitats are subtropical or tropical moist montane forests and swamps. Its type locality is at Karisoke in Rwanda.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Volcano_Shrew_area.png",
+  "_score": 2
+}

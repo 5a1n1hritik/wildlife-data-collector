@@ -1,0 +1,26 @@
+{
+  "id": "sorex-leucogaster",
+  "name": "Paramushir Shrew",
+  "scientificName": "Sorex leucogaster",
+  "wikibase_item": "Q1767395",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767395",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paramushir_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Paramushir shrew is a species of mammal in the family Soricidae. It is endemic to Russia. Its natural habitat is temperate forests. It is likely named for Paramushir Island, home to several other species of shrew in the genus Sorex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Paramushir_Shrew_area.png",
+  "_score": 2
+}

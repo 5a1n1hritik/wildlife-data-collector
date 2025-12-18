@@ -1,0 +1,26 @@
+{
+  "id": "nyctereutes-viverrinus",
+  "name": "Nyctereutes viverrinus",
+  "scientificName": "Nyctereutes viverrinus",
+  "wikibase_item": "Q122835073",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2900104,
+      "id": "Q2900104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122835073",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_raccoon_dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese raccoon dog, also called the tanuki, is a species of canid that is endemic to Japan. It is one of two species in the genus Nyctereutes, alongside the common raccoon dog (N. procyonoides), of which it is considered to be a subspecies by some taxonomic authorities.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tanuki_in_Higashiyama_Zoo_-_2.jpg",
+  "_score": 1
+}

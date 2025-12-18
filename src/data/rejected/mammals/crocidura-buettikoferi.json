@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-buettikoferi",
+  "name": "Buettikofer's shrew",
+  "scientificName": "Crocidura buettikoferi",
+  "wikibase_item": "Q1763891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buettikofer's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Buettikofer's shrew is a species of mammal in the family Soricidae. It is found in southern Nigeria and scantly present in Ivory Coast, Ghana, Guinea, Liberia and Sierra Leone. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Buettikofer%27s_Shrew_area.png",
+  "_score": 2
+}

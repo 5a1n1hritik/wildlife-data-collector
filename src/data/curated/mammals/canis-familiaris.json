@@ -1,0 +1,26 @@
+{
+  "id": "canis-familiaris",
+  "name": "Canis familiaris",
+  "scientificName": "Canis familiaris",
+  "wikibase_item": "Q20717272",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20717272",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dog is a domesticated descendant of the gray wolf. Also called the domestic dog, it was selectively bred from a population of wolves during the Late Pleistocene by hunter-gatherers. Dogs were the first species to be domesticated over 14,000 years ago, before the development of agriculture. Due to their long association with humans, dogs have gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Huskiesatrest.jpg",
+  "_score": 4
+}

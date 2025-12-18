@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-fuliginosus",
+  "name": "Hipposideros fuliginosus",
+  "scientificName": "Hipposideros fuliginosus",
+  "wikibase_item": "Q308499",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308499",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sooty_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sooty roundleaf bat is a species of bat in the family Hipposideridae. It is found in Cameroon, Democratic Republic of the Congo, Ivory Coast, Gabon, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, and Uganda. Its natural habitats are subtropical or tropical moist lowland forests and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hipposideros_fuliginosus.jpg"
+}

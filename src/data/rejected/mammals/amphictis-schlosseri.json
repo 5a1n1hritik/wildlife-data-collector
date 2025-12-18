@@ -1,0 +1,26 @@
+{
+  "id": "amphictis-schlosseri",
+  "name": "Amphictis schlosseri",
+  "scientificName": "Amphictis schlosseri",
+  "wikibase_item": "Q120416159",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11905381,
+      "id": "Q11905381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120416159"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "loricatus-villosus",
+  "name": "Loricatus villosus",
+  "scientificName": "Loricatus villosus",
+  "wikibase_item": "Q122789723",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122789090,
+      "id": "Q122789090"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122789723"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

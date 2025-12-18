@@ -1,0 +1,26 @@
+{
+  "id": "alpiscaptulus-medogensis",
+  "name": "Alpiscaptulus medogensis",
+  "scientificName": "Alpiscaptulus medogensis",
+  "wikibase_item": "Q105078858",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 110732866,
+      "id": "Q110732866"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105078858",
+    "wikipedia": "https://en.wikipedia.org/wiki/Medog_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Medog mole is a species of mammal in the family Talpidae. It is the only member of the genus Alpiscaptulus. It is endemic to Tibet, where it is only found in the vicinity of Namcha Barwa in Medog County.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alpiscaptulus_medogensis_distribution_map.svg/960px-Alpiscaptulus_medogensis_distribution_map.svg.png",
+  "_score": 1
+}

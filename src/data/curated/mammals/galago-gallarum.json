@@ -1,0 +1,26 @@
+{
+  "id": "galago-gallarum",
+  "name": "Somali bushbaby",
+  "scientificName": "Galago gallarum",
+  "wikibase_item": "Q1206221",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1206221",
+    "wikipedia": "https://en.wikipedia.org/wiki/Somali_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Somali bushbaby, or the Somali lesser galago, as it is also known, is a species of nocturnal, arboreal primate in the family Galagidae. It is found in Ethiopia, Kenya, and Somalia. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Somali_Lesser_Galago.jpg",
+  "_score": 3
+}

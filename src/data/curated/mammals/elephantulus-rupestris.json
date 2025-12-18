@@ -1,0 +1,25 @@
+{
+  "id": "elephantulus-rupestris",
+  "name": "Western rock elephant shrew",
+  "scientificName": "Elephantulus rupestris",
+  "wikibase_item": "Q1761482",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761482",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_rock_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western rock elephant shrew or western rock sengi is a species of elephant shrew in the family Macroscelididae. It is found in Namibia, South Africa, and possibly Angola and Botswana. Its natural habitats are subtropical or tropical dry shrubland and rocky areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Elephantulus_rupestris_Smith_1839.tif/lossy-page1-2776px-Elephantulus_rupestris_Smith_1839.tif.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rubrisciurus-rubriventer",
+  "name": "Red-bellied squirrel",
+  "scientificName": "Rubrisciurus rubriventer",
+  "wikibase_item": "Q750860",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12266694,
+      "id": "Q12266694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q750860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-bellied_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-bellied squirrel or Sulawesi giant squirrel is a species of squirrel. Until recently, it was described as a species in the genus Callosciurus, but since the 1990s it is generally placed in its own genus Rubrisciurus. It is endemic on the Indonesian island of Sulawesi, where it is widespread. It has also been found on Sangir Island to the north of Sulawesi. With a length of 25 cm, it is rather large for a squirrel. It lives in the tree tops of the rainforests of the island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/ID_-_Sulawesi.png"
+}

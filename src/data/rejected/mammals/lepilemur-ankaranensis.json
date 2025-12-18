@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-ankaranensis",
+  "name": "Lepilemur ankaranensis",
+  "scientificName": "Lepilemur ankaranensis",
+  "wikibase_item": "Q556483",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q556483",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ankarana_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ankarana sportive lemur, or Ankarana weasel lemur, is a sportive lemur endemic to Madagascar. It is one of the smaller sportive lemurs with a total length of about 53 cm (21 in), including 25 cm (9.8 in) of tail. Average body weight is approximately 750 grams (1.65 lb). The Ankarana sportive lemur is found in northern Madagascar, living in dry lowland forests in Ankarana, Andrafiamena and Analamerana, and in moist montane forest of Montagne d'Ambre.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ankarana_sportive_lemur_%28Lepilemur_ankaranensis%29.jpg",
+  "_score": 2
+}

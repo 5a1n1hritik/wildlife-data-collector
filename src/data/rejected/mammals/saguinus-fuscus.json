@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-fuscus",
+  "name": "Saguinus fuscus",
+  "scientificName": "Saguinus fuscus",
+  "wikibase_item": "Q6116843",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6116843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesson's_saddle-back_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lesson's saddle-back tamarin is a species of saddle-back tamarin, a type of small monkey from South America. Lesson's saddle-back tamarin was formerly considered to be a subspecies of the brown-mantled tamarin, L. fuscicollis. Genetic analysis showed it to be more closely related to the black-mantled tamarin than to the brown-mantled tamarin. Its type locality is in Colombia, in Plaines de Mocoa, \nPutumayo, between the Rio Putumayo and Rio Caqueta. It also lives in Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saguinus-fuscicollis-Humboldt-Zoologie-T05p74.png",
+  "_score": 2
+}

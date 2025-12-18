@@ -1,0 +1,26 @@
+{
+  "id": "anathana-wroughtoni",
+  "name": "Anathana wroughtoni",
+  "scientificName": "Anathana wroughtoni",
+  "wikibase_item": "Q40316341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10733515,
+      "id": "Q10733515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40316341"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-turuchanensis",
+  "name": "Turuchan pika",
+  "scientificName": "Ochotona turuchanensis",
+  "wikibase_item": "Q922340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q922340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turuchan_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Turuchan pika is a species of pika found in isolated regions in the Central Siberian Plateau. It is a small (16–19 cm) rock dwelling species that is active during the day due to the low temperature at night. It was previously thought to be a subspecies of the Northern pika. Little is known about this species, but is known to be locally abundant.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ochotona_turuchanensis_28418699_%28cropped%29.jpg",
+  "_score": 1
+}

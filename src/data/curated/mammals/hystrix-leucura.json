@@ -1,0 +1,25 @@
+{
+  "id": "hystrix-leucura",
+  "name": "Hystrix leucura",
+  "scientificName": "Hystrix leucura",
+  "wikibase_item": "Q21169814",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650703,
+      "id": "Q650703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21169814",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_crested_porcupine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian crested porcupine is a hystricomorph rodent species native to southern Asia and the Middle East. It is listed as Least Concern on the IUCN Red List. It belongs to the Old World porcupine family, Hystricidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Weissschwanzstachelschwein_Hystrix_indica_Tierpark_Hellabrunn-12_%28cropped%29.jpg"
+}

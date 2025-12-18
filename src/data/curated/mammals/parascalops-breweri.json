@@ -1,0 +1,25 @@
+{
+  "id": "parascalops-breweri",
+  "name": "hairy-tailed mole",
+  "scientificName": "Parascalops breweri",
+  "wikibase_item": "Q1470645",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816787,
+      "id": "Q19816787"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1470645",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-tailed_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-tailed mole, also known as Brewer's mole, is a medium-sized North American mole. It is the only member of the genus Parascalops. The species epithet breweri refers to Thomas Mayo Brewer, an American naturalist.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hairy-tailed_Mole_iNaturalist.jpg"
+}

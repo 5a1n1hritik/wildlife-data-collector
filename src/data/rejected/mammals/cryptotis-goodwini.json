@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-goodwini",
+  "name": "Goodwin's broad-clawed shrew",
+  "scientificName": "Cryptotis goodwini",
+  "wikibase_item": "Q1762818",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762818",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goodwin's_broad-clawed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goodwin's broad-clawed shrew is a species of mammal in the shrew family, Soricidae. Body length and size of adults average 9.49 cm (3.74 in) and 7.0 g (0.25 oz) respectively making it a relatively larger shew. What distinguishes this from other shrews are its long claws.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Goodwin%27s_Broad-clawed_Shrew_area.png",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-danfossi",
+  "name": "Danfoss's mouse lemur",
+  "scientificName": "Microcebus danfossi",
+  "wikibase_item": "Q687598",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q687598",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danfoss's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Danfoss's mouse lemur, or the Ambarijeby mouse lemur, is a species of mouse lemur endemic to Madagascar. It lives in western deciduous forest within a limited range between the Sofia River and the Maevarano River. This species has been found in substantial populations in the Ambarijevy, Anjajavy, and Beanamaolo forests in Madagascar. Their lifespan is about 5 years but can live up to 10 years. They are part of the infraorder called lemuriformes which represents 20% of the entire primates diversity and over 60% of the mammalian genera of Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Microcebus_danfossi_range_map.svg/960px-Microcebus_danfossi_range_map.svg.png"
+}

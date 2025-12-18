@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-rhabdops",
+  "name": "Oryzomys rhabdops",
+  "scientificName": "Oryzomys rhabdops",
+  "wikibase_item": "Q27430100",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27430100",
+    "wikipedia": "https://en.wikipedia.org/wiki/Handleyomys_rhabdops"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Handleyomys rhabdops, also known as the highland oryzomys or striped rice rat, is a species of rodent in the genus Handleyomys of family Cricetidae. It is nocturnal and is found in Guatemala and Mexico in montane forest at elevations from 1250 to 3250 m.",
+  "image": null,
+  "_score": 0
+}

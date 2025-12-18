@@ -1,0 +1,28 @@
+{
+  "id": "notamacropus-parma",
+  "name": "Notamacropus parma",
+  "scientificName": "Notamacropus parma",
+  "wikibase_item": "Q109262322",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 108675804,
+      "id": "Q108675804"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109262322",
+    "wikipedia": "https://en.wikipedia.org/wiki/Parma_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The parma wallaby is a small marsupial macropod mammal native to forests and densely-vegetated areas of northeastern New South Wales, Australia, close to the border with Queensland. An introduced population exists on New Zealand's Kawau Island. About the size of a stout cat, it lives mainly under thick plant cover, and is only active at night when it emerges to feed on grasses and small plants. It is the smallest of the wallabies and carries its young in a pouch, as with other marsupials. Shy and elusive, it was believed extinct until its rediscovery in the 1960s.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Parma_wallaby_crop2.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

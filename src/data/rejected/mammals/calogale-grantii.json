@@ -1,0 +1,26 @@
+{
+  "id": "calogale-grantii",
+  "name": "Calogale grantii",
+  "scientificName": "Calogale grantii",
+  "wikibase_item": "Q41163135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41152050,
+      "id": "Q41152050"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41163135"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

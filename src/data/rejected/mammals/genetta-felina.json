@@ -1,0 +1,26 @@
+{
+  "id": "genetta-felina",
+  "name": "Genetta felina",
+  "scientificName": "Genetta felina",
+  "wikibase_item": "Q41083655",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083655",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_African_small-spotted_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The South African small-spotted genet is a species of genet endemic to Southern Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Southern_Small-spotted_Genet_%28Genetta_felina%29_female_..._-_50049796432.jpg",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-pileatus",
+  "name": "Red-capped tamarin",
+  "scientificName": "Saguinus pileatus",
+  "wikibase_item": "Q1367750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1367750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-capped_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-capped tamarin , is subspecies of moustached tamarin from South America. They are found in Brazil, on the eastern margin of the Tefé and Coari rivers. Previously recognised as a separate species, Saguinus pilatus, the red-capped tamarin was demoted to subspecies status by a taxonomic review by Rylands et al., (2016).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Saguinus_mystax_pileatus_205524045.jpg"
+}

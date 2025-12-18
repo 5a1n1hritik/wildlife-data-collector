@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-megaphyllus",
+  "name": "Smaller horseshoe bat",
+  "scientificName": "Rhinolophus megaphyllus",
+  "wikibase_item": "Q1767355",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767355",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smaller_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The smaller horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Australia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rhinolophus_megaphyllus.jpg",
+  "_score": 1
+}

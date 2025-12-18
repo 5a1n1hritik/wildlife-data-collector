@@ -1,0 +1,26 @@
+{
+  "id": "talpa-wogura",
+  "name": "Talpa wogura",
+  "scientificName": "Talpa wogura",
+  "wikibase_item": "Q41168277",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168277"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

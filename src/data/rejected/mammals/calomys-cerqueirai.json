@@ -1,0 +1,26 @@
+{
+  "id": "calomys-cerqueirai",
+  "name": "Calomys cerqueirai",
+  "scientificName": "Calomys cerqueirai",
+  "wikibase_item": "Q5023152",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5023152",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calomys_cerqueirai"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Calomys cerqueirai is a species of rodent in the genus Calomys from southeastern Brazil. Distinct from other Calomys in its karyotype and characters of the fur, it is known only from two places in Minas Gerais. The karyotype was first described in 1996 and the species was formally named in 2010.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pogonomys-forbesi",
+  "name": "Pogonomys forbesi",
+  "scientificName": "Pogonomys forbesi",
+  "wikibase_item": "Q40657842",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 516305,
+      "id": "Q516305"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40657842"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

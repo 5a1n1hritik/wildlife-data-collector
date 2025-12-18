@@ -1,0 +1,26 @@
+{
+  "id": "leggadina-forresti",
+  "name": "Forrest's mouse",
+  "scientificName": "Leggadina forresti",
+  "wikibase_item": "Q306649",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134849,
+      "id": "Q134849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306649",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forrest's_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Forrest's mouse, or desert short-tailed mouse, is a small species of rodent in the family Muridae. It is a widespread but sparsely distributed species found across arid and semi-arid inland Australia, commonly found in tussock grassland, chenopod shrubland, and mulga or savannah woodlands.",
+  "image": null,
+  "_score": 0
+}

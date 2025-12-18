@@ -1,0 +1,26 @@
+{
+  "id": "chimaerodipus-auritus",
+  "name": "Chimaerodipus auritus",
+  "scientificName": "Chimaerodipus auritus",
+  "wikibase_item": "Q109609900",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 109609843,
+      "id": "Q109609843"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109609900"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

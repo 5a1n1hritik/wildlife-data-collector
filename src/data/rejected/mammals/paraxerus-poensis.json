@@ -1,0 +1,26 @@
+{
+  "id": "paraxerus-poensis",
+  "name": "Green bush squirrel",
+  "scientificName": "Paraxerus poensis",
+  "wikibase_item": "Q1763005",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Green_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The green bush squirrel is a species of rodent in the family Sciuridae. It is found in Benin, Cameroon, the Republic of the Congo, the Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, and Sierra Leone.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Funisciurus_isabella_113775030.jpg",
+  "_score": 1
+}

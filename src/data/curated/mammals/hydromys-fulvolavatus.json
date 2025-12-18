@@ -1,0 +1,25 @@
+{
+  "id": "hydromys-fulvolavatus",
+  "name": "Hydromys fulvolavatus",
+  "scientificName": "Hydromys fulvolavatus",
+  "wikibase_item": "Q41001040",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668884,
+      "id": "Q668884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41001040",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rakali"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rakali, also known as the rabe, the \"Australian otter\" or water-rat, is an Australian native rodent first scientifically described in 1804. Adoption of the Ngarrindjeri name rakali is intended to foster a positive public attitude by Environment Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hydromys_chrysogaster_17072011.jpg"
+}

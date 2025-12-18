@@ -1,0 +1,28 @@
+{
+  "id": "phyllops-haitiensis",
+  "name": "Phyllops haitiensis",
+  "scientificName": "Phyllops haitiensis",
+  "wikibase_item": "Q41087189",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10805617,
+      "id": "Q10805617"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41087189",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuban_fig-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cuban fig-eating bat, or white-shouldered bat, is a species of bat in the family Phyllostomidae, found only in the Caribbean. It is the sole extant species in the genus Phyllops, although two other species, P. vetus and P. silvai, are known from fossils.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Phyllops_falcatum.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

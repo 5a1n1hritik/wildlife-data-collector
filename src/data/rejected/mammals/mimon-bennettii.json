@@ -1,0 +1,26 @@
+{
+  "id": "mimon-bennettii",
+  "name": "golden bat",
+  "scientificName": "Mimon bennettii",
+  "wikibase_item": "Q1830164",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703888,
+      "id": "Q2703888"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830164",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden bat is a bat species found in Brazil, Colombia, French Guiana, Guyana, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mimon_bennettii.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "glauconycteris-poensis",
+  "name": "Abo bat",
+  "scientificName": "Glauconycteris poensis",
+  "wikibase_item": "Q1830422",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830422",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abo_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Abo bat is a species of vesper bat in the family Vespertilionidae. It is found in several countries in West Africa and Central Africa. It is found in subtropical and tropical dry and moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Glauconycteris_cf._poensis_nostril_shape_and_orientation_-_ZooKeys-285-089-g003-top-left.jpeg",
+  "_score": 1
+}

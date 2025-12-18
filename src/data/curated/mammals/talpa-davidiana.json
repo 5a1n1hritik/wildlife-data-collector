@@ -1,0 +1,25 @@
+{
+  "id": "talpa-davidiana",
+  "name": "Père David's mole",
+  "scientificName": "Talpa davidiana",
+  "wikibase_item": "Q1188834",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1188834",
+    "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A8re_David's_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Père David's mole is a mole found in the Middle East, ranging from south-central Turkey east to Kurdistan Province, Iran, although it could also range south into Syria. It is listed as a data deficient species by the IUCN, as little is known about its population or habitat. The species is named after the zoologist Armand David. As T. streeti, a synonym, it is known as the Persian mole.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Talpa_davidiana_distribution_map.svg/960px-Talpa_davidiana_distribution_map.svg.png"
+}

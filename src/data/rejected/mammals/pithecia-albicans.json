@@ -1,0 +1,26 @@
+{
+  "id": "pithecia-albicans",
+  "name": "Pithecia albicans",
+  "scientificName": "Pithecia albicans",
+  "wikibase_item": "Q885029",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q885029",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-footed_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-footed saki, buffy saki or white saki is a species of saki monkey, a type of New World monkey, endemic to western Brazil south of the Amazon.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Captive_Pithecia_albicans.jpg",
+  "_score": 1
+}

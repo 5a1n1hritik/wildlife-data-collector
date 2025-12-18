@@ -1,0 +1,26 @@
+{
+  "id": "glossophaga-longirostris",
+  "name": "Glossophaga longirostris",
+  "scientificName": "Glossophaga longirostris",
+  "wikibase_item": "Q306873",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571718,
+      "id": "Q1571718"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306873",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miller's_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miller's long-tongued bat is a bat species found in northern Brazil, Venezuela, Colombia, Guyana, Trinidad and Tobago, Grenada, the Netherlands Antilles and the U.S. Virgin Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Naturalis_Biodiversity_Center_-_RMNH.MAM.12242.b_dor_-_Glossophaga_longirostris_Major_-_skin.jpeg",
+  "_score": 1
+}

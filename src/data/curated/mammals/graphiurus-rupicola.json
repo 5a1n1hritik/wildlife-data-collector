@@ -1,0 +1,25 @@
+{
+  "id": "graphiurus-rupicola",
+  "name": "Stone dormouse",
+  "scientificName": "Graphiurus rupicola",
+  "wikibase_item": "Q5429786",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385877,
+      "id": "Q385877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5429786",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stone_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The stone dormouse is a species of rodent in the family Gliridae. It is found in Namibia, South Africa, and possibly Angola. Its natural habitat is rocky areas in the Karoo. Though it has a limited range, it is a fairly common species and the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Graphiurus_rupicola_Map.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lonchophylla-hesperia",
+  "name": "Western Nectar Bat",
+  "scientificName": "Lonchophylla hesperia",
+  "wikibase_item": "Q1833654",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833654",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western nectar bat is a species of bat within the Lonchophylla genus of chiroptera. It is a leaf-nosed bat in the family Phyllostomidae, and the subfamily Lonchophyllinae. It is found in Ecuador and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lonchophylla_hesperia_map.svg/500px-Lonchophylla_hesperia_map.svg.png"
+}

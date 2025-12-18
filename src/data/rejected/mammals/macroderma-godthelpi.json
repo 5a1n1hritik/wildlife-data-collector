@@ -1,0 +1,28 @@
+{
+  "id": "macroderma-godthelpi",
+  "name": "Macroderma godthelpi",
+  "scientificName": "Macroderma godthelpi",
+  "wikibase_item": "Q64358809",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17379642,
+      "id": "Q17379642"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64358809",
+    "wikipedia": "https://en.wikipedia.org/wiki/Macroderma_godthelpi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Macroderma godthelpi is a species of bat known from fossil material found in Australia, one of the larger carnivorous megadermatid family of the order Chiroptera. They resembled the modern species Macroderma gigas, known as a false vampire or ghost bat, although significantly smaller than any other species of Macroderma.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

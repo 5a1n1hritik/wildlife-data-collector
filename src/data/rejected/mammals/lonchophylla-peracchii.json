@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-peracchii",
+  "name": "Lonchophylla peracchii",
+  "scientificName": "Lonchophylla peracchii",
+  "wikibase_item": "Q15918673",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15918673",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peracchi's_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peracchi's nectar bat is a species of nectar-feeding bat in the family Phyllostomidae. It was first described from the Atlantic Forest in southeastern Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Distribution_of_Lonchophylla_peracchii.png",
+  "_score": 1
+}

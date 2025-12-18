@@ -1,0 +1,26 @@
+{
+  "id": "funambulus-tristriatus",
+  "name": "Jungle palm squirrel",
+  "scientificName": "Funambulus tristriatus",
+  "wikibase_item": "Q1767641",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1004346,
+      "id": "Q1004346"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767641",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jungle_palm_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The jungle palm squirrel, jungle striped squirrel, or Western Ghats squirrel is a species of rodent in the family Sciuridae which is endemic to India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jungle_satriped_palm_squirrel.jpg",
+  "_score": 1
+}

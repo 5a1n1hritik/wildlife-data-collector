@@ -1,0 +1,26 @@
+{
+  "id": "myotis-nimbaensis",
+  "name": "Myotis nimbaensis",
+  "scientificName": "Myotis nimbaensis",
+  "wikibase_item": "Q104957922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104957922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nimba_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nimba myotis, also known as the orange-furred bat or Nimba Mountain bat, is a species of bat in the family Vespertilionidae. The species is endemic to the Nimba Mountains in Guinea, West Africa. It was discovered in 2018 and officially described in 2021 by a team of scientists from the American Museum of Natural History in partnership with a team from The University of Cameroon, which was led by American mammalogist Nancy Simmons.",
+  "image": null,
+  "_score": 1
+}

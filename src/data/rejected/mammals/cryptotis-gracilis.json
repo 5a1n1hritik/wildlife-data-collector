@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-gracilis",
+  "name": "Talamancan small-eared shrew",
+  "scientificName": "Cryptotis gracilis",
+  "wikibase_item": "Q307099",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307099",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talamancan_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Talamancan small-eared shrew is a species of mammal in the family Soricidae. It is found in Costa Rica and Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Talamancan_Small-eared_Shrew_area.png",
+  "_score": 1
+}

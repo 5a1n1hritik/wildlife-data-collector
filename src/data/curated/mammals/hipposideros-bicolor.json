@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-bicolor",
+  "name": "Hipposideros bicolor",
+  "scientificName": "Hipposideros bicolor",
+  "wikibase_item": "Q307687",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307687",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bicolored_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bicolored roundleaf bat is a species of bat in the family Hipposideridae found in Indonesia, Malaysia, Singapore, the Philippines, Thailand, and Timor-Leste. This bat inhabits caves, rock crevices and tunnels among lowland forests. They roost in large numbers and consume mostly small winged insects. Their navigation and hunting skills come from the use of echolocation. Its leafnose is used to release ultrasonic shouts to distinguish its surroundings. Echolocation is also used to distinguish other species based on their wingbeat and size. The habitat of this bat decides the color of its fur. Bleaching fumes of a cave environment will cause an orange colored fur. Those who inhabit a well-ventilated roost will be a light brown color.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hipposideros_bicolor_I.jpg",
+  "_score": 4
+}

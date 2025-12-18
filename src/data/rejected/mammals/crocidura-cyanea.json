@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-cyanea",
+  "name": "Crocidura cyanea",
+  "scientificName": "Crocidura cyanea",
+  "wikibase_item": "Q1769774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reddish-gray_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The reddish-gray musk shrew is a species of mammal in the family Soricidae. It is found in Angola, Botswana, Democratic Republic of the Congo, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitats are lowland forests, subtropical or tropical high-elevation grassland, and caves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Reddish-gray_Musk_Shrew_area.png",
+  "_score": 2
+}

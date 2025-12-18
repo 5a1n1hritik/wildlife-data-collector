@@ -1,0 +1,26 @@
+{
+  "id": "hydrochoerus-hydrochaeris",
+  "name": "capybara",
+  "scientificName": "Hydrochoerus hydrochaeris",
+  "wikibase_item": "Q131538",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902454,
+      "id": "Q902454"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131538",
+    "wikipedia": "https://en.wikipedia.org/wiki/Capybara"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The capybara or greater capybara is the largest living rodent, native to South America. It is a member of the genus Hydrochoerus. Its close relatives include\nguinea pigs and rock cavies, and it is more distantly related to the agouti, the chinchilla, and the nutria. The capybara inhabits savannas and dense forests, and lives near bodies of water. It is a highly social species and can be found in groups as large as one hundred individuals, but usually live in groups of 10–20 individuals. The capybara is hunted for its meat and hide and also for grease from its thick fatty skin.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg",
+  "_score": 2
+}

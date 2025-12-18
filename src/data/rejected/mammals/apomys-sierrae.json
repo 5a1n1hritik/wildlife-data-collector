@@ -1,0 +1,26 @@
+{
+  "id": "apomys-sierrae",
+  "name": "Apomys sierrae",
+  "scientificName": "Apomys sierrae",
+  "wikibase_item": "Q3620737",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3620737",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Madre_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sierra Madre forest mouse is a forest mouse endemic to the Sierra Madre Range of eastern Luzon, Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Range_Apomys_sierrae.png",
+  "_score": 1
+}

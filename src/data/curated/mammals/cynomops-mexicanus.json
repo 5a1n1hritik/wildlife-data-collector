@@ -1,0 +1,25 @@
+{
+  "id": "cynomops-mexicanus",
+  "name": "Mexican dog-faced bat",
+  "scientificName": "Cynomops mexicanus",
+  "wikibase_item": "Q751313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2729634,
+      "id": "Q2729634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q751313",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_dog-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican dog-faced bat is a bat species of the family Molossidae from Central America. It is found from Nayarit in Mexico to Costa Rica at elevations up to 1500 m. It was formerly considered a subspecies of C. greenhalli. It roosts in deciduous and evergreen forest, and is usually found near small bodies of water.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cynomops_mexicanus_map.svg/1052px-Cynomops_mexicanus_map.svg.png"
+}

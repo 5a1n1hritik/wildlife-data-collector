@@ -1,0 +1,26 @@
+{
+  "id": "cheirogaleus-crossleyi",
+  "name": "Furry-eared dwarf lemur",
+  "scientificName": "Cheirogaleus crossleyi",
+  "wikibase_item": "Q1365590",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1365590",
+    "wikipedia": "https://en.wikipedia.org/wiki/Furry-eared_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The furry-eared dwarf lemur, or Crossley's dwarf lemur, only found on the island of Madagascar, as with all other lemurs. It has a pelage coloration that is red-brown dorsally and gray ventrally. The eye-rings of this species are blackish and the ears are black inside and out. Cheirogaleus crossleyi species are obligated to hibernate during periods of food scarcity on the island of Madagascar. Cheirogaleus crossleyi species specifically undergo drastic fluctuations in temperature during hibernation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Crossley%27s_dwarf_lemur_%28Cheirogaleus_crossleyi%29_Ranomafana.jpg",
+  "_score": 2
+}

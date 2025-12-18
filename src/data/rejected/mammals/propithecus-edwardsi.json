@@ -1,0 +1,26 @@
+{
+  "id": "propithecus-edwardsi",
+  "name": "Milne-Edwards' sifaka",
+  "scientificName": "Propithecus edwardsi",
+  "wikibase_item": "Q1202844",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1202844",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milne-Edwards's_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Milne-Edwards's sifaka, or Milne-Edwards's simpona, is a large arboreal, diurnal lemur endemic to the eastern coastal rainforest of Madagascar. Milne-Edwards's sifaka is characterized by a black body with a light-colored \"saddle\" on the lower part of its back. It is closely related to the diademed sifaka, and was until recently considered a subspecies of it. Like all sifakas, it is a primate in the family Indriidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Milne_Edwards%27s_sifaka_%28Propithecus_edwardsi%29.jpg",
+  "_score": 2
+}

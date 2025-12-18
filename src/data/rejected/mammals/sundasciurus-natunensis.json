@@ -1,0 +1,26 @@
+{
+  "id": "sundasciurus-natunensis",
+  "name": "Sundasciurus natunensis",
+  "scientificName": "Sundasciurus natunensis",
+  "wikibase_item": "Q98000088",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98000088",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natuna_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Natuna squirrel is a species of rodent in the family Sciuridae. It is endemic to the Natuna Islands of Indonesia. This species first described by Oldfield Thomas in 1895 in a paper titled \"Revised determinations of three of the Natuna rodents\", where he described it as a subspecies of Sundasciurus lowii. It was recognized as a distinct species in 2020.",
+  "image": null,
+  "_score": 0
+}

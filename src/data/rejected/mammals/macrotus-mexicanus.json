@@ -1,0 +1,26 @@
+{
+  "id": "macrotus-mexicanus",
+  "name": "Macrotus mexicanus",
+  "scientificName": "Macrotus mexicanus",
+  "wikibase_item": "Q41084572",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 956183,
+      "id": "Q956183"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084572"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

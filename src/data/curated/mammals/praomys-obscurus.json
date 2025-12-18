@@ -1,0 +1,26 @@
+{
+  "id": "praomys-obscurus",
+  "name": "Gotel Mountain soft-furred mouse",
+  "scientificName": "Praomys obscurus",
+  "wikibase_item": "Q1762381",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762381",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gotel_Mountain_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gotel Mountain soft-furred mouse or Gotel Mountain praomys, is a species of rodent in the family Muridae. It is endemic to the Gotel Mountains in southeastern Nigeria. It occurs in fern-grassland, montane forest, along streams in forest, gallery forest, and swamp forest, at elevations of 1,600–2,400 m (5,200–7,900 ft) above sea level. It is threatened by habitat loss (deforestation), presumably caused by logging and the conversion of land to agricultural and other uses.",
+  "image": null,
+  "_score": 3
+}

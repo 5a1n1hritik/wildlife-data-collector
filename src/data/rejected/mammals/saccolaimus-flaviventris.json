@@ -1,0 +1,26 @@
+{
+  "id": "saccolaimus-flaviventris",
+  "name": "Yellow-bellied sheath-tailed bat",
+  "scientificName": "Saccolaimus flaviventris",
+  "wikibase_item": "Q1824549",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2340679,
+      "id": "Q2340679"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1824549",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-bellied_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-bellied sheath-tailed bat, also known as the yellow-bellied sheathtail or yellow-bellied pouched bat, is a microbat species of the family Emballonuridae found extensively in Australia and less commonly in parts of Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Saccolaimus_flaviventris_Museum_Victoria.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hylomys-vorax",
+  "name": "Hylomys vorax",
+  "scientificName": "Hylomys vorax",
+  "wikibase_item": "Q124020306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1392810,
+      "id": "Q1392810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124020306",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leuser_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Leuser gymnure is a gymnure from the island of Sumatra in Indonesia that was described formally for the first time in 2023. The holotype was collected in 1939 by Frederick A. Ulmer in the upper parts of Gunung Leuser, Sumatra. It is only known from 2,073 to 2,835 m above sea level on Gunung Leuser. Its specific name derives from its voracious behavior described by F. Ulmer. Mitochondrial DNA analysis differentiates this species from Hylomys parvus, inhabiting similar mountain forests in Gunung Kerinci, on the same island of Sumatra, and from Hylomys maxi, a congeneric species inhabiting lower areas.",
+  "image": null,
+  "_score": 2
+}

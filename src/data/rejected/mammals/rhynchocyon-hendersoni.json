@@ -1,0 +1,26 @@
+{
+  "id": "rhynchocyon-hendersoni",
+  "name": "Rhynchocyon hendersoni",
+  "scientificName": "Rhynchocyon hendersoni",
+  "wikibase_item": "Q40674369",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40674369"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

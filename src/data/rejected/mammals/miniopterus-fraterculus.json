@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-fraterculus",
+  "name": "Lesser long-fingered bat",
+  "scientificName": "Miniopterus fraterculus",
+  "wikibase_item": "Q2118486",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2118486",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser long-fingered bat, also known as the black clinging bat or lesser bent-winged bat, is a species of vesper bat in the family Miniopteridae. It is found in western Southern Africa, south East Africa, and parts of Central Africa. Its natural habitats are temperate forests, temperate shrubland, and caves and other subterranean habitats.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nyctalus-aviator",
+  "name": "Birdlike noctule",
+  "scientificName": "Nyctalus aviator",
+  "wikibase_item": "Q134338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Birdlike_noctule"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The birdlike noctule is a species of bat. It nests in the holes in old trees and buildings, and sometimes in mineshafts. It is distributed across Northeast Asia, from northeast China and Siberia through the Korean Peninsula to Japan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nyctalus_aviator_distribution_map.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arvicola-jacobaeus",
+  "name": "Arvicola jacobaeus",
+  "scientificName": "Arvicola jacobaeus",
+  "wikibase_item": "Q89039621",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 539670,
+      "id": "Q539670"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89039621"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

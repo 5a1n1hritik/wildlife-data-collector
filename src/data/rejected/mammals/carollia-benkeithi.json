@@ -1,0 +1,26 @@
+{
+  "id": "carollia-benkeithi",
+  "name": "Benkeith's short-tailed bat",
+  "scientificName": "Carollia benkeithi",
+  "wikibase_item": "Q1842691",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1842691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benkeith's_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Benkeith's short-tailed bat is a leaf-nosed bat species found in Peru, Bolivia, and Brazil. It very closely resembles the chestnut short-tailed bat, and the two species are likely often confused.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Carollia_benkeithi_I.jpg",
+  "_score": 1
+}

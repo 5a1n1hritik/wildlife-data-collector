@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-lylei",
+  "name": "Pteropus lylei",
+  "scientificName": "Pteropus lylei",
+  "wikibase_item": "Q635120",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q635120",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyle's_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lyle's flying fox is a species of flying fox in the family Pteropodidae. It is found in Cambodia, Thailand and Vietnam, with an outlying population in Yunnan, China. It faces persecution from farmers and it is killed for bushmeat in parts of its range. The International Union for Conservation of Nature has rated its conservation status as being \"vulnerable\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lyles_flyvende_hund_Pteropus_lylei.jpg",
+  "_score": 1
+}

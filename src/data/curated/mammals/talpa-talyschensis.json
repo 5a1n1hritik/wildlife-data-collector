@@ -1,0 +1,26 @@
+{
+  "id": "talpa-talyschensis",
+  "name": "Talpa talyschensis",
+  "scientificName": "Talpa talyschensis",
+  "wikibase_item": "Q97169560",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97169560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talysch_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Talysch mole is a species of mammal in the family Talpidae. It is a small member of the family, which outwardly resembles the Levant mole, but is genetically closer to Père David's mole. It is common on the southwest coast of the Caspian Sea, from southern of Azerbaijan through most of the north of Iran. The habitat includes temperate rainforests and scrub areas. There is little information about the life history of the Talysch mole. It was described in 1945, but had long been considered a subspecies of various other Eurasian moles, and was only recognized as a distinct species in the mid-2010s. No surveys have been carried out to quantify the status of the species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Talpa_talyschensis.jpg",
+  "_score": 3
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pteralopex-pulchra",
+  "name": "Montane Monkey-faced Bat",
+  "scientificName": "Pteralopex pulchra",
+  "wikibase_item": "Q767430",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2479576,
+      "id": "Q2479576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q767430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_monkey-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane monkey-faced bat or montane flying monkey  is a megabat endemic to the Solomon Islands. It is listed as a critically endangered species. Due to its imperilled status, it is identified by the Alliance for Zero Extinction as a species in danger of imminent extinction. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation. Only one individual has ever been found.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Montane_Monkey-faced_Bat_area.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

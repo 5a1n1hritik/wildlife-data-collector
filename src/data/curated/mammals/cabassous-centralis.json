@@ -1,0 +1,25 @@
+{
+  "id": "cabassous-centralis",
+  "name": "Northern naked-tailed armadillo",
+  "scientificName": "Cabassous centralis",
+  "wikibase_item": "Q1769136",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856879,
+      "id": "Q856879"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769136",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_naked-tailed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern naked-tailed armadillo is a species of armadillo. It is one of only two species of armadillo found outside of South America, the other being the more widely distributed nine-banded armadillo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cabassous-centralis-2.png"
+}

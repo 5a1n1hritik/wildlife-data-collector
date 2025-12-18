@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-vulgaris",
+  "name": "red squirrel",
+  "scientificName": "Sciurus vulgaris",
+  "wikibase_item": "Q4388",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4388",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red squirrel, also called Eurasian red squirrel, is a species of tree squirrel in the genus Sciurus. It is an arboreal and primarily herbivorous rodent and common throughout Eurasia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Squirrel_posing.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mops-midas",
+  "name": "Midas free-tailed bat",
+  "scientificName": "Tadarida midas",
+  "wikibase_item": "Q1832858",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11937568,
+      "id": "Q11937568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832858",
+    "wikipedia": "https://en.wikipedia.org/wiki/Midas_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Midas free-tailed bat is a species of bat scientifically classified in the order Chiroptera and the family Molossidae. It is distributed from western Africa to Saudi Arabia and further south. Its natural habitats are dry savanna, moist savanna, woodlands and hot deserts. The more southern are also known to live around large rivers or the swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Naturalis_Biodiversity_Center_-_RMNH.MAM.16814.b_dor_-_Mops_condylurus_-_skin.jpeg",
+  "_score": 2
+}

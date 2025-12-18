@@ -1,0 +1,26 @@
+{
+  "id": "dipodomys-deserti",
+  "name": "Desert kangaroo rat",
+  "scientificName": "Dipodomys deserti",
+  "wikibase_item": "Q263504",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263504",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert kangaroo rat is a rodent species in the family Heteromyidae that is found in desert areas of southwestern North America. It is one of the large kangaroo rats, with a total length greater than 12 inches (300 mm) and a mass greater than 3.2 ounces (91 g).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dipodomys-deserti.jpg",
+  "_score": 1
+}

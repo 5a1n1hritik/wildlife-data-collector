@@ -1,0 +1,26 @@
+{
+  "id": "nycteris-grandis",
+  "name": "Large slit-faced bat",
+  "scientificName": "Nycteris grandis",
+  "wikibase_item": "Q763535",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q763535",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large slit-faced bat is a species of slit-faced bat with a broad distribution in forest and savanna habitats in West, Central, and East Africa. N. marica, is the available name for the southern savanna species if it is recognized as distinct from this species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Naturalis_Biodiversity_Center_-_ZMA.MAM.28345.b_ven_-_Nycteris_grandis_-_skin.jpeg",
+  "_score": 2
+}

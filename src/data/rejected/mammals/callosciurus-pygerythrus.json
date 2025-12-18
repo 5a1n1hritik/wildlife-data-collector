@@ -1,0 +1,26 @@
+{
+  "id": "callosciurus-pygerythrus",
+  "name": "Callosciurus pygerythrus",
+  "scientificName": "Callosciurus pygerythrus",
+  "wikibase_item": "Q862521",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q862521",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irrawaddy_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Irrawaddy squirrel or hoary-bellied Himalayan squirrel  is a species of rodent in the family Sciuridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hoary-bellied_Himalayan_squirrel_%28Callosciurus_pygerythrus%29_Nagarjun.jpg",
+  "_score": 1
+}

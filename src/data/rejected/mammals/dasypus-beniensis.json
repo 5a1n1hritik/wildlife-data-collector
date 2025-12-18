@@ -1,0 +1,26 @@
+{
+  "id": "dasypus-beniensis",
+  "name": "Dasypus beniensis",
+  "scientificName": "Dasypus beniensis",
+  "wikibase_item": "Q30899295",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30899295",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_Amazonian_long-nosed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East Amazonian long-nosed armadillo is a species of armadillo found in the jungles between the Amazon, Madeira, and Madre de Dios rivers in northern Brazil and Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dasypus_beniensis_holotype_-_Feijo_et_al_2018.tif/lossy-page1-1527px-Dasypus_beniensis_holotype_-_Feijo_et_al_2018.tif.jpg",
+  "_score": 1
+}

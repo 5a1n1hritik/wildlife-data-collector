@@ -1,0 +1,28 @@
+{
+  "id": "laetolia-sadimanensis",
+  "name": "Laetolia sadimanensis",
+  "scientificName": "Laetolia sadimanensis",
+  "wikibase_item": "Q20072295",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21369132,
+      "id": "Q21369132"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20072295",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laetolia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Laetolia is an extinct genus of galagid primates from the Pliocene of Tanzania. It contains one species, L. sadimanensis, which is known from several dentary fragments discovered in the Upper Laetolil Beds of Laetoli. It was originally described in 1987 as a species of Galago, but a separate genus was erected for it in 2011.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

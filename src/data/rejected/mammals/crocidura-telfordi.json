@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-telfordi",
+  "name": "Telford's Shrew",
+  "scientificName": "Crocidura telfordi",
+  "wikibase_item": "Q139395",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139395",
+    "wikipedia": "https://en.wikipedia.org/wiki/Telford's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Telford's shrew is a species of mammal in the family Soricidae. It is endemic to Tanzania. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Telford%27s_Shrew_area.png",
+  "_score": 2
+}

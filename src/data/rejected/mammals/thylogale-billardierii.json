@@ -1,0 +1,26 @@
+{
+  "id": "thylogale-billardierii",
+  "name": "Thylogale billardierii",
+  "scientificName": "Thylogale billardierii",
+  "wikibase_item": "Q209291",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668527,
+      "id": "Q668527"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209291",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tasmanian_pademelon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tasmanian pademelon, also known as the rufous-bellied pademelon or red-bellied pademelon, is the sole species of pademelon found in Tasmania, and was formerly found throughout southeastern Australia. This pademelon has developed heavier and bushier fur than its northern relatives, which inhabit northern Australia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Thylogale_billardierii.jpg",
+  "_score": 1
+}

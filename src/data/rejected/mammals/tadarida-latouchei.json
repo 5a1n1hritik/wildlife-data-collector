@@ -1,0 +1,26 @@
+{
+  "id": "tadarida-latouchei",
+  "name": "Tadarida latouchei",
+  "scientificName": "Tadarida latouchei",
+  "wikibase_item": "Q1830830",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607105,
+      "id": "Q607105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830830",
+    "wikipedia": "https://en.wikipedia.org/wiki/La_Touche's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The La Touche's free-tailed bat is a species of bat in the family Molossidae. It is found in China, Japan, and Thailand. It is named after Irish naturalist John David Digues La Touche.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tadarida_latouchei.jpg/493px-Tadarida_latouchei.jpg",
+  "_score": 1
+}

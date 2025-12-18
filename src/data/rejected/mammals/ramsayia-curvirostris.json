@@ -1,0 +1,28 @@
+{
+  "id": "ramsayia-curvirostris",
+  "name": "Ramasayia",
+  "scientificName": "Ramsayia curvirostris",
+  "wikibase_item": "Q7289082",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12901733,
+      "id": "Q12901733"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7289082",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramsayia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ramsayia is an extinct genus of giant wombat, weighing around 100 kg. Ramsayia is known from two species, Ramsayia lemleyi from the Pliocene of Queensland, and Ramsayia magna from the Pliocene to Late Pleistocene of Queensland and New South Wales. The skull superficially resembles that of the giant beavers Castoroides and Trogontherium. The large premaxillary spine suggests it possessed a large fleshy nose. The shape of the skull of R. magna suggests that it did not engage in burrowing. Cladistic analysis suggests that it is closely related to the other giant wombat genera Phascolonus and Sedophascolomys. Like other giant wombats, its size is thought to have been adaption to feeding on large amounts of low quality vegetation. The only certain date of Ramsayia magna dates to the early Late Pleistocene, around 80,000 years ago, making the timing of its extinction uncertain.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

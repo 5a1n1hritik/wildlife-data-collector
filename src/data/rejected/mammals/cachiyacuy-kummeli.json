@@ -1,0 +1,28 @@
+{
+  "id": "cachiyacuy-kummeli",
+  "name": "Cachiyacuy kummeli",
+  "scientificName": "Cachiyacuy kummeli",
+  "wikibase_item": "Q64849329",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1949631,
+      "id": "Q1949631"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64849329",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cachiyacuy"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cachiyacuy is an extinct genus of caviomorph known from the Loreto of Peru. It contains two species: the type species C. contamanensis and C. kummeli.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

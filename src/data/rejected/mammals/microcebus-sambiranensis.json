@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-sambiranensis",
+  "name": "Sambirano mouse lemur",
+  "scientificName": "Microcebus sambiranensis",
+  "wikibase_item": "Q1202748",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1202748",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sambirano_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sambirano mouse lemur is a small, recently discovered primate and like the other mouse lemurs can only be found on the island of Madagascar. The dorsal side is both cinnamon and rufous-cinnamon and is grey ventrally. It has vibrissae that are dark in color.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Microcebus_sambiranensis_range_map.svg/960px-Microcebus_sambiranensis_range_map.svg.png",
+  "_score": 1
+}

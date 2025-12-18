@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-pirrensis",
+  "name": "Oryzomys pirrensis",
+  "scientificName": "Oryzomys pirrensis",
+  "wikibase_item": "Q109646727",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646727",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_pirrensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys pirrensis, also known as the Mount Pirre rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. Its type locality is at Mount Pirri or Pirre in eastern Panama, at an altitude of 4,500 feet (1,400 m), and it has also been recorded on Mount Tacarcuna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nephelomys_pirrensis_skull_Goldman.png",
+  "_score": 1
+}

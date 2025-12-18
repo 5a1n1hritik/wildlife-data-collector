@@ -1,0 +1,26 @@
+{
+  "id": "myotis-peytoni",
+  "name": "Myotis peytoni",
+  "scientificName": "Myotis peytoni",
+  "wikibase_item": "Q81849714",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81849714",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peyton's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peyton's myotis, also known as Peyton's whiskered bat, is a species of vesper bat endemic to India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Distribution_of_Myotis_montivagus.png",
+  "_score": 1
+}

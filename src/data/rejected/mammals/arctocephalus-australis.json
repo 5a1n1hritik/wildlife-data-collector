@@ -1,0 +1,26 @@
+{
+  "id": "arctocephalus-australis",
+  "name": "South American Fur Seal",
+  "scientificName": "Arctocephalus australis",
+  "wikibase_item": "Q649127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q649127",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_American_fur_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The South American fur seal breeds on the coasts of Peru, Chile, the Falkland Islands, Argentina, Uruguay and Brazil. The total population is around 250,000. However, population counts are sparse and outdated. Although Uruguay has long been considered to be the largest population of South American fur seals, recent census data indicates that the largest breeding population of A. a. australis are at the Falkland Islands followed by Uruguay. The population of South American fur seals in 1999 was estimated at 390,000, a drop from a 1987 estimate of 500,000 - however a paucity of population data, combined with inconsistent census methods, makes it difficult to interpret global population trends.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Seeb%C3%A4r_s%C3%BCdamerikanisch_Zoo_Landau.JPG",
+  "_score": 2
+}

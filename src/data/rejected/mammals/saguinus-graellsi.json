@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-graellsi",
+  "name": "Graells's tamarin",
+  "scientificName": "Saguinus graellsi",
+  "wikibase_item": "Q1156948",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1156948",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graells's_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Graells's tamarin, Leontocebus nigricollis graellsi, is a subspecies of the black-mantled tamarin from the northwestern Amazon in southeastern Colombia, eastern Ecuador and northeastern Peru. It differs from other black-mantled tamarins in having a dull olive-brown lower back, rump and thighs. However, molecular genetic analysis does not support treating Graell's tamarin as a separate species from the black-mantled tamarin.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Black-mantled_tamarin_%28Saguinus_nigricollis_graellsi%29_Sumaco.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eliurus-petteri",
+  "name": "Eliurus petteri",
+  "scientificName": "Eliurus petteri",
+  "wikibase_item": "Q1763266",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763266",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petter's_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Petter's tufted-tailed rat is a rodent in the genus Eliurus found in lowland eastern Madagascar. First described in 1994, it is most closely related to the smaller Eliurus grandidieri. Virtually nothing is known of its natural history, except that it occurs in rainforest and is nocturnal and solitary. It is threatened by destruction and fragmentation of its habitat and is listed as \"Vulnerable\" on the IUCN Red List.",
+  "image": null,
+  "_score": 3
+}

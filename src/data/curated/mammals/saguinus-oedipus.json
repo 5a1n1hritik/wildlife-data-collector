@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-oedipus",
+  "name": "cotton-top tamarin",
+  "scientificName": "Saguinus oedipus",
+  "wikibase_item": "Q137528",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137528",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cotton-top_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cotton-top tamarin is a small New World monkey weighing less than 0.5 kg (1.1 lb). This New World monkey can live up to 24 years, but most of them die by 13 years. One of the smallest primates, the cotton-top tamarin is easily recognized by the long, white sagittal crest extending from its forehead to its shoulders. The species is found in tropical forest edges and secondary forests in northwestern Colombia, where it is arboreal and diurnal. Its diet includes insects and plant exudates, and it is an important seed disperser in the tropical ecosystem.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/1_cotton_top_tamarin.jpg",
+  "_score": 3
+}

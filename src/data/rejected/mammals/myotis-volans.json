@@ -1,0 +1,26 @@
+{
+  "id": "myotis-volans",
+  "name": "Long-legged myotis",
+  "scientificName": "Myotis volans",
+  "wikibase_item": "Q2753100",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2753100",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-legged_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-legged myotis is a species of vesper bat that can be found in western Canada, Mexico, and the western United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Myotis_volans.jpg",
+  "_score": 1
+}

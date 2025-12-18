@@ -1,0 +1,26 @@
+{
+  "id": "hypsugo-imbricatus",
+  "name": "Brown pipistrelle",
+  "scientificName": "Hypsugo imbricatus",
+  "wikibase_item": "Q1829552",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829552",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown pipistrelle is a species of vesper bat in the family Vespertilionidae. It is found in Indonesia and Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Naturalis_Biodiversity_Center_-_RMNH.MAM.52778_ven_-_Hypsugo_imbricatus_-_WholeOrganism.jpeg",
+  "_score": 1
+}

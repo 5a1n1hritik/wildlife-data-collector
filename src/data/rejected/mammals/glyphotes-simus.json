@@ -1,0 +1,26 @@
+{
+  "id": "glyphotes-simus",
+  "name": "sculptor squirrel",
+  "scientificName": "Glyphotes simus",
+  "wikibase_item": "Q893962",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 9268820,
+      "id": "Q9268820"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q893962",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sculptor_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sculptor squirrel or Bornean pygmy squirrel is a species of rodent in the family Sciuridae. It was described by Michael Rogers Oldfield Thomas in 1898. It is monotypic within the genus Glyphotes. It is endemic to northern Borneo in Sabah and Sarawak (Malaysia) and inhabits areas elevated at 285–1,800 metres (935–5,906 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Glyphotes_simus_314588023_%28cropped%29.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "caenolestes-sangay",
+  "name": "Caenolestes sangay",
+  "scientificName": "Caenolestes sangay",
+  "wikibase_item": "Q19277009",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303333,
+      "id": "Q1303333"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19277009",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern caenolestid is a shrew opossum found on the eastern slopes of the Andes in southern Ecuador.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Caenolestes_sangay._Foto_Jorge_Brito.jpg",
+  "_score": 1
+}

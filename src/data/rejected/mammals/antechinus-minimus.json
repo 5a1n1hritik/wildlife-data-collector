@@ -1,0 +1,26 @@
+{
+  "id": "antechinus-minimus",
+  "name": "Swamp antechinus",
+  "scientificName": "Antechinus minimus",
+  "wikibase_item": "Q135416",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135416",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swamp_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The swamp antechinus, also known as the little Tasmanian marsupial mouse, is a species of shrew-like marsupial of the family Dasyuridae and as such is related to dunnarts, quolls and the Tasmanian devil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dasyuridae_-_Antechinus_minimus.JPG",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dactylopsila-megalura",
+  "name": "Great-tailed triok",
+  "scientificName": "Dactylopsila megalura",
+  "wikibase_item": "Q209761",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 368980,
+      "id": "Q368980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209761",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great-tailed_triok"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great-tailed triok is a species of marsupial in the family Petauridae. It is found in West Papua and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Dactylopsila_megalura.jpg",
+  "_score": 2
+}

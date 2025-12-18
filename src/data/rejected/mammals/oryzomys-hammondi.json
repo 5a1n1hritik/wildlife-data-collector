@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-hammondi",
+  "name": "Oryzomys hammondi",
+  "scientificName": "Oryzomys hammondi",
+  "wikibase_item": "Q27429899",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27429899",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hammond's_rice_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mindomys hammondi, also known as Hammond's rice rat or Hammond's oryzomys, is an endangered species of rodent in the tribe Oryzomyini of family Cricetidae. Formerly considered to be related with Nectomys, Sigmodontomys, Megalomys, or Oryzomys, it is now placed in then genus Mindomys, but its relationships remain obscure; some evidence supports a placement near Oecomys or as a basal member of Oryzomyini.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mindomys_skull_Ray.jpg",
+  "_score": 2
+}

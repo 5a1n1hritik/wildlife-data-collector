@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirops-corinnae",
+  "name": "Plush-coated ringtail possum",
+  "scientificName": "Pseudochirops corinnae",
+  "wikibase_item": "Q209595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1551997,
+      "id": "Q1551997"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plush-coated_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plush-coated ringtail possum or golden ringtail possum is a species of marsupial in the family Pseudocheiridae. It is found in Indonesia, Papua New Guinea, and the Solomon Islands. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pseudochirops_corinnae_1897.jpg"
+}

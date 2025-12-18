@@ -1,0 +1,26 @@
+{
+  "id": "idiurus-zenkeri",
+  "name": "Pygmy Scaly-tailed Flying Squirrel",
+  "scientificName": "Idiurus zenkeri",
+  "wikibase_item": "Q307834",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 928256,
+      "id": "Q928256"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307834",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_scaly-tailed_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy scaly-tailed flying squirrel is a species of rodent in the family Anomaluridae. It is found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, and Uganda. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Idiurus_zenkeri_Museum_de_Gen%C3%A8ve.JPG",
+  "_score": 2
+}

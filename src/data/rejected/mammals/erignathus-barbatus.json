@@ -1,0 +1,26 @@
+{
+  "id": "erignathus-barbatus",
+  "name": "Bearded Seal",
+  "scientificName": "Erignathus barbatus",
+  "wikibase_item": "Q149405",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817175,
+      "id": "Q19817175"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q149405",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bearded_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bearded seal, also called the square flipper seal, is a medium-sized pinniped that is found in and near to the Arctic Ocean. It gets its generic name from two Greek words that refer to its heavy jaw. The other part of its Linnaean name means bearded and refers to its most characteristic feature, the conspicuous and very abundant whiskers. When dry, these whiskers curl very elegantly, giving the bearded seal a \"raffish\" look.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bearded_Seal.jpg",
+  "_score": 2
+}

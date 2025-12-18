@@ -1,0 +1,26 @@
+{
+  "id": "neoromicia-guineensis",
+  "name": "Neoromicia guineensis",
+  "scientificName": "Neoromicia guineensis",
+  "wikibase_item": "Q290516",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q290516",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiny_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tiny serotine is a species of vesper bat. It is found in Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Nigeria, Senegal, Sudan, Togo, and Uganda. Its natural habitats are savanna and subtropical or tropical shrubland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Naturalis_Biodiversity_Center_-_ZMA.MAM.19185.b_dor_-_Neoromicia_guineensis_-_skin.jpeg",
+  "_score": 2
+}

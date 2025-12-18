@@ -1,0 +1,26 @@
+{
+  "id": "paramelomys-steini",
+  "name": "Stein's paramelomys",
+  "scientificName": "Paramelomys steini",
+  "wikibase_item": "Q1769156",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 142008,
+      "id": "Q142008"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769156",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stein's_paramelomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stein's paramelomys,, is a species of rodent native to Indonesia. Official observation of this species was only obtained on the Wayland Mountain on the island of New Guinea. It has only been observed on montane (high-altitude) forests. The population of P. steini is not known.",
+  "image": null,
+  "_score": 0
+}

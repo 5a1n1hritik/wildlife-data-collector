@@ -1,0 +1,26 @@
+{
+  "id": "micropotamogale-lamottei",
+  "name": "Nimba otter shrew",
+  "scientificName": "Micropotamogale lamottei",
+  "wikibase_item": "Q243994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 860622,
+      "id": "Q860622"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q243994",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nimba_otter_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nimba otter shrew is a dwarf otter shrew and belongs to the mammal family Potamogalidae. Otter shrews are shrew-like afrotherian mammals found in sub-Saharan Africa. They are most closely related to the tenrecs of Madagascar. This species belongs to the genus Micropotamogale, literally meaning \"tiny river weasel\". It is native to the Mount Nimba area which rests along the border of Liberia, Guinea, and Côte d'Ivoire in West Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nimba_Otter_Shrew_area.png",
+  "_score": 2
+}

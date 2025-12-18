@@ -1,0 +1,26 @@
+{
+  "id": "chaetodipus-eremicus",
+  "name": "Chihuahuan pocket mouse",
+  "scientificName": "Chaetodipus eremicus",
+  "wikibase_item": "Q5097314",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5097314",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chihuahuan_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chihuahuan pocket mouse is a species of heteromyid rodent found in the southwestern United States and Mexico. It was formerly considered a subspecies of the desert pocket mouse, but was determined to be a distinct species in 1996, following analysis of its mitochondrial DNA.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Chaetodipus_eremicus_380821.jpg",
+  "_score": 1
+}

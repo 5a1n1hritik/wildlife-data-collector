@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-bakeri",
+  "name": "Sturnira bakeri",
+  "scientificName": "Sturnira bakeri",
+  "wikibase_item": "Q16610996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16610996",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturnira_bakeri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sturnira bakeri is a species of bat found in South-America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Toothrows_in_Sturnira_bakeri_and_burtonlimi.png",
+  "_score": 1
+}

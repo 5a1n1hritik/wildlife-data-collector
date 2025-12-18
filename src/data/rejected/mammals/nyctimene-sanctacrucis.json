@@ -1,0 +1,26 @@
+{
+  "id": "nyctimene-sanctacrucis",
+  "name": "Nyctimene sanctacrucis",
+  "scientificName": "Nyctimene sanctacrucis",
+  "wikibase_item": "Q557209",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q557209",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nendo_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nendo or Santa Cruz tube-nosed fruit bat is a megabat from the Santa Cruz Group of the Solomon Islands, near the eastern limit of the distribution of tube-nosed fruit bats. It has tube-like nostrils and a wingspan of about 40 centimetres (16 in).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nendo_Tube-nosed_Fruit_Bat_area.png",
+  "_score": 1
+}

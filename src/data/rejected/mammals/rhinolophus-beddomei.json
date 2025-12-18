@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-beddomei",
+  "name": "Lesser woolly horseshoe bat",
+  "scientificName": "Rhinolophus beddomei",
+  "wikibase_item": "Q1762547",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762547",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser woolly horseshoe bat, also called Beddome's horseshoe bat, is a species of bat in the family Rhinolophidae. It is found in India and Sri Lanka. Its natural habitats are subtropical or tropical moist lowland forests, caves, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lesser_Woolly_Horseshoe_Bat_%28Rhinolophus_beddomei%29.jpg",
+  "_score": 2
+}

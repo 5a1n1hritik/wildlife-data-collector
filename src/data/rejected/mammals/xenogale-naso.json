@@ -1,0 +1,26 @@
+{
+  "id": "xenogale-naso",
+  "name": "Xenogale naso",
+  "scientificName": "Xenogale naso",
+  "wikibase_item": "Q27440964",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28309613,
+      "id": "Q28309613"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27440964",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed mongoose is a mongoose native to Central African wetlands and rainforests. It has been listed as Least Concern on the IUCN Red List since 1996. Although formerly classified in Herpestes, more recent studies indicate that it belongs in the monotypic taxon Xenogale.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Long-nosed_mongoose_%28without_bg%29.png",
+  "_score": 1
+}

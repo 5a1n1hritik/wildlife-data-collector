@@ -1,0 +1,26 @@
+{
+  "id": "lonchophylla-inexpectata",
+  "name": "Lonchophylla inexpectata",
+  "scientificName": "Lonchophylla inexpectata",
+  "wikibase_item": "Q20730680",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20730680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonchophylla_inexpectata"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lonchophylla inexpectata is a species of leaf-nosed bat found in Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lonchophylla_inexpectata_types_%28dorsal%29.jpg",
+  "_score": 1
+}

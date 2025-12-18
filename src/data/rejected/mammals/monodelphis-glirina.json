@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-glirina",
+  "name": "Amazonian red-sided opossum",
+  "scientificName": "Monodelphis glirina",
+  "wikibase_item": "Q194488",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194488",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amazonian_red-sided_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amazonian red-sided opossum is a South American opossum species of the family Didelphidae, formerly viewed as part of M. brevicaudata. It is found in Bolivia, Brazil and Peru, where it inhabits the Amazon rainforest. It is omnivorous, nocturnal, and primarily nonarboreal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Amazonian_Red-sided_Opossum_area.png",
+  "_score": 1
+}

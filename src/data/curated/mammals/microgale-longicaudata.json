@@ -1,0 +1,25 @@
+{
+  "id": "microgale-longicaudata",
+  "name": "Lesser long-tailed shrew tenrec",
+  "scientificName": "Microgale longicaudata",
+  "wikibase_item": "Q2330745",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2330745",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_long-tailed_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser long-tailed shrew tenrec is a species of mammal in the family Tenrecidae. It is active at all hours of the day and night, but each individual maintains its own pattern of rest and activity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Microgale_longicaudata_range_map.svg/2324px-Microgale_longicaudata_range_map.svg.png"
+}

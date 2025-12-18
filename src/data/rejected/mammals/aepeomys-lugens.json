@@ -1,0 +1,26 @@
+{
+  "id": "aepeomys-lugens",
+  "name": "Olive Montane Mouse",
+  "scientificName": "Aepeomys lugens",
+  "wikibase_item": "Q306694",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 490428,
+      "id": "Q490428"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306694",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olive_montane_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The olive montane mouse is a species of rodent in the family Cricetidae.\nIt is found in Ecuador and Venezuela.",
+  "image": null,
+  "_score": 0
+}

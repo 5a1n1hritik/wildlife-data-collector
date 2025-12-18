@@ -1,0 +1,26 @@
+{
+  "id": "mirostrellus-joffrei",
+  "name": "Mirostrellus joffrei",
+  "scientificName": "Mirostrellus joffrei",
+  "wikibase_item": "Q88796715",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 88793591,
+      "id": "Q88793591"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q88796715",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joffre's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Joffre's bat, also known as Joffre's pipistrelle, is a species of vesper bat in the family Vespertilionidae. It is the only member of the genus Mirostrellus. It is found in South and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Distribution_of_Hypsugo_joffrei.png",
+  "_score": 1
+}

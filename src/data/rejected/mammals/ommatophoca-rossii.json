@@ -1,0 +1,26 @@
+{
+  "id": "ommatophoca-rossii",
+  "name": "Ross Seal",
+  "scientificName": "Ommatophoca rossii",
+  "wikibase_item": "Q837610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817251,
+      "id": "Q19817251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q837610",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ross_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ross seal is a true seal with a range confined entirely to the pack ice of Antarctica. It is the only species of the genus Ommatophoca. First described during the Ross expedition in 1841, it is the smallest, least abundant and least well known of the Antarctic pinnipeds. Its distinctive features include disproportionately large eyes, whence its scientific name, and complex, trilling and siren-like vocalizations. Ross seals are brachycephalic as they have a short broad muzzle, and also have shorter fur than any other seal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ommatophoca_rossii_%28Ross_Seal%29%2C_off_Wilkes_Land%2C_Antarctica_1.jpg",
+  "_score": 2
+}

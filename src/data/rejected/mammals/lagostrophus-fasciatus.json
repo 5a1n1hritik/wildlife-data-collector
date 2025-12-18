@@ -1,0 +1,26 @@
+{
+  "id": "lagostrophus-fasciatus",
+  "name": "Lagostrophus fasciatus",
+  "scientificName": "Lagostrophus fasciatus",
+  "wikibase_item": "Q670056",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10783996,
+      "id": "Q10783996"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q670056",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banded_hare-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banded hare-wallaby, mernine, or munning is a marsupial currently found on the islands of Bernier and Dorre off western Australia. Reintroduced populations have recently been established on islands and fenced mainland sites, including Faure Island and Wadderin Sanctuary near Narembeen in the central wheatbelt.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lagorchestes_fasciatus_Gould.jpg",
+  "_score": 1
+}

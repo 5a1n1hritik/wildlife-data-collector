@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-mariquensis",
+  "name": "Swamp Musk Shrew",
+  "scientificName": "Crocidura mariquensis",
+  "wikibase_item": "Q611034",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q611034",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swamp_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The swamp musk shrew, or musk shrew, is a species of mammal in the family Soricidae. It occurs in Angola, Botswana, Democratic Republic of the Congo, Mozambique, Namibia, South Africa, Eswatini, Zambia and Zimbabwe. Its natural habitat is swamps, and it is a common species in suitable habitats, with the International Union for Conservation of Nature listing it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Swamp_Musk_Shrew_area.png"
+}

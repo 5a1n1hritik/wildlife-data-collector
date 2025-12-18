@@ -1,0 +1,26 @@
+{
+  "id": "dasyprocta-mexicana",
+  "name": "Dasyprocta mexicana",
+  "scientificName": "Dasyprocta mexicana",
+  "wikibase_item": "Q1763394",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763394",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican agouti,, also known as the Mexican black agouti, is a species of rodent in the genus Dasyprocta. This species was first discovered in 1860 in Veracruz, Mexico and described by Henri Louis Frédéric de Saussure.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Dasyprocta_mexicana.jpg",
+  "_score": 1
+}

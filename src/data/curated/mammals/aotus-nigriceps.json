@@ -1,0 +1,26 @@
+{
+  "id": "aotus-nigriceps",
+  "name": "Black-headed night monkey",
+  "scientificName": "Aotus nigriceps",
+  "wikibase_item": "Q1209810",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1209810",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-headed_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-headed night monkey is a night monkey species from South America. It is found in Brazil, Bolivia and Peru. The A. nigriceps in Peru were notably inhabiting areas that were degraded, and often these areas were disturbed either by human activities or natural occurrences in the ecosystem. A black-headed night monkey is about the same size as a small squirrel. Black-headed night monkeys have small ears that are hidden by their fur. When they become adults they are about 750g and usually are about 14 months old. Black-headed night monkeys have three black stripes that meet on their forehead. These monkeys have white patches by their eyes, cheeks, and under their mouth. Their eyes are very large and brown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Aotus_nigriceps.jpg",
+  "_score": 4
+}

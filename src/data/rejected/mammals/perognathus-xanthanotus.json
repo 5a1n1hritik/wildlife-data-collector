@@ -1,0 +1,26 @@
+{
+  "id": "perognathus-xanthanotus",
+  "name": "Perognathus xanthanotus",
+  "scientificName": "Perognathus xanthanotus",
+  "wikibase_item": "Q12229911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12229911",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Basin_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Great Basin pocket mouse is a species of rodent in the family Heteromyidae. It is found in British Columbia in Canada and the western United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Perognathus_parvus.jpg",
+  "_score": 1
+}

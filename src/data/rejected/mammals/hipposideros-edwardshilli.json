@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-edwardshilli",
+  "name": "Hipposideros edwardshilli",
+  "scientificName": "Hipposideros edwardshilli",
+  "wikibase_item": "Q1760870",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1760870",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hill's_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hill's roundleaf bat is a species of bat in the family Hipposideridae endemic to Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hill%27s_Roundleaf_Bat_area.png",
+  "_score": 1
+}

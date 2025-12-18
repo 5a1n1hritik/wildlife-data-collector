@@ -1,0 +1,28 @@
+{
+  "id": "lutra-nippon",
+  "name": "Japanese otter",
+  "scientificName": "Lutra nippon",
+  "wikibase_item": "Q2122042",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 446882,
+      "id": "Q446882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2122042",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese otter (Japanese: ニホンカワウソ  or Japanese river otter is an extinct species of otter formerly widespread in Japan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lutra_nippon.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

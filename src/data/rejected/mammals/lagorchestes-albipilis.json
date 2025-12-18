@@ -1,0 +1,26 @@
+{
+  "id": "lagorchestes-albipilis",
+  "name": "Lagorchestes albipilis",
+  "scientificName": "Lagorchestes albipilis",
+  "wikibase_item": "Q41083944",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 218873,
+      "id": "Q218873"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083944"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "talpa-caeca",
+  "name": "Blind Mole",
+  "scientificName": "Talpa caeca",
+  "wikibase_item": "Q652526",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q652526",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blind_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The blind mole, also known as the Mediterranean mole, is a mole found in the Mediterranean region. It is similar to the European mole, differing most prominently in having eyes covered with skin. It is found in Albania, France, Greece, Italy, Monaco, Montenegro, San Marino, Serbia, Slovenia, Switzerland, and Turkey. It is typically carnivorous in nature. Individuals can grow up to 12 cm (4.5 in) in length.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Em_-_Talpa_caeca_-_1.jpg",
+  "_score": 2
+}

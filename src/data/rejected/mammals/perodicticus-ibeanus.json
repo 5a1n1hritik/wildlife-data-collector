@@ -1,0 +1,26 @@
+{
+  "id": "perodicticus-ibeanus",
+  "name": "East African potto",
+  "scientificName": "Perodicticus ibeanus",
+  "wikibase_item": "Q27996161",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816393,
+      "id": "Q19816393"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27996161",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_African_potto"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East African potto is a species of nocturnal strepsirrhine primate. It is found in Central and East Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/East_African_Potto.jpg",
+  "_score": 1
+}

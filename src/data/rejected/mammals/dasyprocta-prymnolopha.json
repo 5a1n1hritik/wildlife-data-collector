@@ -1,0 +1,26 @@
+{
+  "id": "dasyprocta-prymnolopha",
+  "name": "Black-rumped agouti",
+  "scientificName": "Dasyprocta prymnolopha",
+  "wikibase_item": "Q1764161",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764161",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-rumped_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-rumped agouti is an agouti species from the family Dasyproctidae. It is endemic to Brazil, and its range roughly equals the Northeast Region. It is named after its black rump which contrasts clearly with the orange body.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dasyprocta_prymnolopha.jpg",
+  "_score": 1
+}

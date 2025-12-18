@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-pearsonii",
+  "name": "Rhinolophus pearsonii",
+  "scientificName": "Rhinolophus pearsonii",
+  "wikibase_item": "Q957645",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q957645",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pearson's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pearson's horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Bangladesh, Bhutan, China, India, Laos, Malaysia, Myanmar, Nepal, Thailand and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Rhinolophus_pearsonii.jpg",
+  "_score": 1
+}

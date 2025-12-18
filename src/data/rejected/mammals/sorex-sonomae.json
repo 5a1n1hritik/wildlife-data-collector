@@ -1,0 +1,26 @@
+{
+  "id": "sorex-sonomae",
+  "name": "Fog shrew",
+  "scientificName": "Sorex sonomae",
+  "wikibase_item": "Q1764683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764683",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fog_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fog shrew is a species of mammal in the family Soricidae. It is endemic to northern California and Oregon in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Fog_Shrew_area.png",
+  "_score": 1
+}

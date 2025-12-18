@@ -1,0 +1,26 @@
+{
+  "id": "callosciurus-quinquestriatus",
+  "name": "Callosciurus quinquestriatus",
+  "scientificName": "Callosciurus quinquestriatus",
+  "wikibase_item": "Q2126409",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2126409",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anderson's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anderson's squirrel is a species of rodent in the family Sciuridae. It is found in forests in China and Myanmar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Callosciurus_quinquestriatus_84711596.jpg",
+  "_score": 1
+}

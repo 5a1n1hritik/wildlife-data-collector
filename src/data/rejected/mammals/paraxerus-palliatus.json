@@ -1,0 +1,26 @@
+{
+  "id": "paraxerus-palliatus",
+  "name": "Red bush squirrel",
+  "scientificName": "Paraxerus palliatus",
+  "wikibase_item": "Q1762179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762179",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red bush squirrel or red-bellied coast squirrel is a species of rodent in the family Sciuridae, which is found in bush and forest along the eastern seaboard of Africa. It is closely related to P. lucifer, P. vexillarius and P. (p.) vincenti.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/H%C3%B6rnchen_2.jpg",
+  "_score": 1
+}

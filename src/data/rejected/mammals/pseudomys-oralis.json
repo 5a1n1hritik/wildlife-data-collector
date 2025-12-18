@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-oralis",
+  "name": "Hastings River mouse",
+  "scientificName": "Pseudomys oralis",
+  "wikibase_item": "Q1763354",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763354",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hastings_River_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hastings River mouse is a species of Australian rodent in the subfamily Murinae of the family Muridae. It is found only in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hastings_River_Mouse.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-lucifugus",
+  "name": "Myotis lucifugus",
+  "scientificName": "Myotis lucifugus",
+  "wikibase_item": "Q746127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q746127",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little brown bat or little brown myotis is an endangered species of mouse-eared microbat found in North America. It has a small body size and glossy brown fur. It is similar in appearance to several other mouse-eared bats, including the Indiana bat, northern long-eared bat, and Arizona myotis, to which it is closely related. Despite its name, the little brown bat is not closely related to the big brown bat, which belongs to a different genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Little_Brown_Myotis_%28cropped%29.JPG",
+  "_score": 2
+}

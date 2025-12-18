@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-roigi",
+  "name": "Roig's tuco-tuco",
+  "scientificName": "Ctenomys roigi",
+  "wikibase_item": "Q1768316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768316",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roig's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Roig's tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to a small region near the Paraná River in Corrientes Province, northeastern Argentina, where lives on sand dunes, and near rivers. Development is degrading and shrinking this habitat, threatening the rodent's survival. The species is named after Argentine zoologist Virgilio G. Roig. Its karyotype has 2n = 48 and FN = 80.",
+  "image": null,
+  "_score": 3
+}

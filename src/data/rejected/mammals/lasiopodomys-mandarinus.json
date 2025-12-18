@@ -1,0 +1,26 @@
+{
+  "id": "lasiopodomys-mandarinus",
+  "name": "Mandarin vole",
+  "scientificName": "Lasiopodomys mandarinus",
+  "wikibase_item": "Q308769",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 256953,
+      "id": "Q256953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308769",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mandarin_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mandarin vole is a species of vole found in central China as well as the southern and central Korean Peninsula. An adult mandarin vole is typically of about 115 millimetres (4.5 in) in length, in addition to about 28 mm (1.1 in) of tail. It is smaller and darker in color than the reed vole, Microtus fortis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lasiopodomys_mandarinus.jpg",
+  "_score": 1
+}

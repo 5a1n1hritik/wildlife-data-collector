@@ -1,0 +1,26 @@
+{
+  "id": "dendromus-oreas",
+  "name": "Cameroon climbing mouse",
+  "scientificName": "Dendromus oreas",
+  "wikibase_item": "Q309311",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309311",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameroon_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cameroon climbing mouse is a species of rodent in the family Nesomyidae which is endemic to the montane grasslands on three mountains in Cameroon.",
+  "image": null,
+  "_score": 0
+}

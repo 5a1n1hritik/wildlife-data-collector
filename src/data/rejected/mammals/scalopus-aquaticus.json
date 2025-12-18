@@ -1,0 +1,26 @@
+{
+  "id": "scalopus-aquaticus",
+  "name": "Eastern mole",
+  "scientificName": "Scalopus aquaticus",
+  "wikibase_item": "Q1353759",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816796,
+      "id": "Q19816796"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1353759",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern mole or common mole is a medium-sized North American mole. It is the only species in the genus Scalopus. It is found in forested and open areas with moist sandy soils in northern Mexico, the eastern United States and the southwestern corner of Ontario in Canada.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ScalopusAquaticus.jpg",
+  "_score": 1
+}

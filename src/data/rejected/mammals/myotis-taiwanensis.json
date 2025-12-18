@@ -1,0 +1,26 @@
+{
+  "id": "myotis-taiwanensis",
+  "name": "Myotis taiwanensis",
+  "scientificName": "Myotis taiwanensis",
+  "wikibase_item": "Q6948059",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6948059",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fringed_long-footed_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fringed long-footed myotis is a species of vesper bat in the family Vespertilionidae. It is found in China, Taiwan and Hong Kong.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Distribution_of_Myotis_fimbriatus.png",
+  "_score": 1
+}

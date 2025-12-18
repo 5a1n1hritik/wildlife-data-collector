@@ -1,0 +1,26 @@
+{
+  "id": "gardnerycteris-crenelatum",
+  "name": "Gardnerycteris crenelatum",
+  "scientificName": "Gardnerycteris crenelatum",
+  "wikibase_item": "Q106240822",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19843828,
+      "id": "Q19843828"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106240822"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

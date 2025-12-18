@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-bilensis",
+  "name": "Gerbillus bilensis",
+  "scientificName": "Gerbillus bilensis",
+  "wikibase_item": "Q15730725",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15730725",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cushioned_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cushioned gerbil is a species of rodent in the subfamily Gerbillinae. It is native to Djibouti, Ethiopia, and Kenya, though it may also occur in south-east Sudan.",
+  "image": null,
+  "_score": 0
+}

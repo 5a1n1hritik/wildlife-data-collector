@@ -1,0 +1,26 @@
+{
+  "id": "gorilla-beringei",
+  "name": "eastern gorilla",
+  "scientificName": "Gorilla beringei",
+  "wikibase_item": "Q307157",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 36611,
+      "id": "Q36611"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307157",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_gorilla"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The eastern gorilla is a critically endangered species of the genus Gorilla and the largest living primate. At present, the species is subdivided into two subspecies. There are 6,800 eastern lowland gorillas or Grauer's gorillas and 1,000 mountain gorillas. Illegal hunting threatens the species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Male_Gorilla_%28181091305%29.jpg",
+  "_score": 2
+}

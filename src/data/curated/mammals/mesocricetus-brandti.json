@@ -1,0 +1,26 @@
+{
+  "id": "mesocricetus-brandti",
+  "name": "Turkish hamster",
+  "scientificName": "Mesocricetus brandti",
+  "wikibase_item": "Q925103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 389919,
+      "id": "Q389919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q925103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turkish_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Turkish hamster, also referred to as Brandt's hamster, Azerbaijani hamster, or avurtlak, is a species of hamster native to Turkey, Azerbaijan and other surrounding nations. The Turkish hamster, first catalogued in 1878, is a fairly close relative of the Syrian or golden hamster, though far less is known about it, and it is rarely kept as a pet. The population of the Turkish hamster is said to be declining in the wild, yet this hamster is often used in laboratory testing. Turkish hamsters have lifespans of about two years and are solitary, nocturnal animals, which hibernate.\nThey are reported to be more aggressive than other members of the family Cricetidae. They are tan and dark, sandy brown in color. Like all hamsters, the Turkish hamster has cheek pouches that allow it to carry large amounts of food at one time.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/%D0%A5%D0%BE%D0%BC%D1%8F%D0%BA_%D0%B1%D1%80%D0%B0%D0%BD%D0%B4%D1%82%D0%B0.jpg",
+  "_score": 3
+}

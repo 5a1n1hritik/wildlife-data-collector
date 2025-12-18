@@ -1,0 +1,26 @@
+{
+  "id": "cephalopachus-bancanus",
+  "name": "Horsfield's tarsier",
+  "scientificName": "Cephalopachus bancanus",
+  "wikibase_item": "Q22113538",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 14518750,
+      "id": "Q14518750"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22113538",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horsfield's_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Horsfield's tarsier is the only species of tarsier in the genus Cephalopachus. Named by American naturalist Thomas Horsfield, it is also referred to as western tarsier. The species occurs on Borneo, Sumatra and nearby islands and is, like other members of the group, entirely nocturnal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Western_Tarsier.jpg",
+  "_score": 1
+}

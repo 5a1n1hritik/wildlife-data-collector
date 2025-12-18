@@ -1,0 +1,26 @@
+{
+  "id": "pygoderma-bilabiatum",
+  "name": "Ipanema Bat",
+  "scientificName": "Pygoderma bilabiatum",
+  "wikibase_item": "Q94808",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10809701,
+      "id": "Q10809701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94808",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ipanema_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ipanema bat is a bat species of order Chiroptera and family Phyllostomidae. It is found in northern Argentina, Bolivia, southeastern Brazil and Paraguay. It is the only species within its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pygoderma_bilabiatum_Bat_species_%2810.3897-zoologia.37.e36514%29_Figures_18%E2%80%9329.jpg",
+  "_score": 1
+}

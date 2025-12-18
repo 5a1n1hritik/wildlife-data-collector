@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-nana",
+  "name": "Lesser yellow-shouldered bat",
+  "scientificName": "Sturnira nana",
+  "wikibase_item": "Q1593338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20879326,
+      "id": "Q20879326"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1593338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser yellow-shouldered bat is a species of bat in the family Phyllostomidae. It is native to Peru and Ecuador. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Distribution_of_Sturnira_nana.png",
+  "_score": 3
+}

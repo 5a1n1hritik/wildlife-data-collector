@@ -1,0 +1,26 @@
+{
+  "id": "lontra-provocax",
+  "name": "Lontra provocax",
+  "scientificName": "Lontra provocax",
+  "wikibase_item": "Q840714",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1777275,
+      "id": "Q1777275"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q840714",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_river_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern river otter, or South American river otter, is an otter species that lives in much of Patagonia. It is listed by the International Union for Conservation of Nature as an endangered species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Southern_River_Otter.jpg",
+  "_score": 1
+}

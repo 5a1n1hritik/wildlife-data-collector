@@ -1,0 +1,26 @@
+{
+  "id": "geomys-attwateri",
+  "name": "Attwater's pocket gopher",
+  "scientificName": "Geomys attwateri",
+  "wikibase_item": "Q1764247",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764247",
+    "wikipedia": "https://en.wikipedia.org/wiki/Attwater's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Attwater's pocket gopher is a species of rodent in the family Geomyidae. It is endemic to the Texas Coastal Bend in the southcentral United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Attwater%E2%80%99s_Pockrt_Gopher_%285A%29_Weishuhn_Rd._Colorado_Co._TX%3B_12_May_2014.jpg",
+  "_score": 1
+}

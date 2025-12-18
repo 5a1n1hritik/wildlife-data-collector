@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-edwardsi",
+  "name": "Lepilemur edwardsi",
+  "scientificName": "Lepilemur edwardsi",
+  "wikibase_item": "Q249579",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q249579",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milne-Edwards'_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Milne-Edwards' sportive lemur, or Milne-Edwards' weasel lemur, is a species of lemur in the family Lepilemuridae. It is endemic to Madagascar. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lepilemur_edwardsi.jpg",
+  "_score": 3
+}

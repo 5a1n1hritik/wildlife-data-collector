@@ -1,0 +1,26 @@
+{
+  "id": "aconaemys-sagei",
+  "name": "Sage's rock rat",
+  "scientificName": "Aconaemys sagei",
+  "wikibase_item": "Q302318",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 481930,
+      "id": "Q481930"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302318",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sage's_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sage's rock rat is a species of rodent in the family Octodontidae. It is found in Argentina and possibly Chile.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aconaemys_sagei_range.svg/250px-Aconaemys_sagei_range.svg.png",
+  "_score": 1
+}

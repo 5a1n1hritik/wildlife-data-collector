@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-steinbachi",
+  "name": "Steinbach's tuco-tuco",
+  "scientificName": "Ctenomys steinbachi",
+  "wikibase_item": "Q305872",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305872",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steinbach's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Steinbach's tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Bolivia. The species is named after zoological collector Dr. José Steinbach (1856–1929).",
+  "image": null,
+  "_score": 0
+}

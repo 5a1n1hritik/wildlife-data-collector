@@ -1,0 +1,26 @@
+{
+  "id": "mylomys-dybowskii",
+  "name": "African groove-toothed rat",
+  "scientificName": "Mylomys dybowskii",
+  "wikibase_item": "Q1763216",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386084,
+      "id": "Q386084"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763216",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_groove-toothed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African groove-toothed rat or mill rat is a species of rodent in the family Muridae found in Angola, Cameroon, the Central African Republic, the Republic of the Congo, the Democratic Republic of the Congo, Ivory Coast, Ghana, Guinea, Kenya, Liberia, Malawi, Rwanda, Tanzania, and Uganda. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical seasonally wet or flooded lowland grassland. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 3
+}

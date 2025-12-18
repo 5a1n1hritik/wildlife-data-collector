@@ -1,0 +1,26 @@
+{
+  "id": "trichechodon-konincki",
+  "name": "Trichechodon konincki",
+  "scientificName": "Trichechodon konincki",
+  "wikibase_item": "Q41168460",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41158900,
+      "id": "Q41158900"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168460"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

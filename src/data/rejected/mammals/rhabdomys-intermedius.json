@@ -1,0 +1,26 @@
+{
+  "id": "rhabdomys-intermedius",
+  "name": "Rhabdomys intermedius",
+  "scientificName": "Rhabdomys intermedius",
+  "wikibase_item": "Q81850171",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386648,
+      "id": "Q386648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81850171"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

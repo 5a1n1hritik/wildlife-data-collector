@@ -1,0 +1,26 @@
+{
+  "id": "octodontomys-gliroides",
+  "name": "mountain degu",
+  "scientificName": "Octodontomys gliroides",
+  "wikibase_item": "Q615863",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10802316,
+      "id": "Q10802316"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q615863",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_degu"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain degu, also known as the Andean degu, is a species of rodent in the family Octodontidae. It is the only species in the genus Octodontomys. It is a medium-sized rodent with long, silky grey-brown fur, large grey ears, and white-furred chin and underparts. It is found in the foothills of the Andes in Argentina, Bolivia and Chile, and closely resembles the mountain viscacha rat and viscacha rats in the genus Tympanoctomys, all of which are found in Argentina. It is an herbivore, and eats grasses, leaves, bark, and cacti. The mountain degu gets most of its water from eating the tissues of prickly pear cactuses and cactuses in the genus Cereus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Octodontomys_gliroides_238516748.jpg",
+  "_score": 2
+}

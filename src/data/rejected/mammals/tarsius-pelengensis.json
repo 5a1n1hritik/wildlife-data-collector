@@ -1,0 +1,26 @@
+{
+  "id": "tarsius-pelengensis",
+  "name": "Tarsius pelengensis",
+  "scientificName": "Tarsius pelengensis",
+  "wikibase_item": "Q205340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q205340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peleng_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peleng tarsier, or the Peleng Island tarsier, is a nocturnal primate found on the island of Peleng, just east of Sulawesi, Indonesia. In western Peleng, the animal is called Lakasinding, while in the east, Siling.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tarsius_Peleng.jpg",
+  "_score": 1
+}

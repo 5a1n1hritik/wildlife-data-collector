@@ -1,0 +1,26 @@
+{
+  "id": "myotis-australis",
+  "name": "Australian myotis",
+  "scientificName": "Myotis australis",
+  "wikibase_item": "Q617198",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q617198",
+    "wikipedia": "https://en.wikipedia.org/wiki/Australian_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Australian myotis is a species of vesper bat. It is found only in Australia. \nThis taxa may not represent a valid species.\nOnly one specimen has ever been documented, supposedly from New South Wales.\nThis specimen may have been mislabelled or a vagrant Myotis muricola or Myotis ater.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Distribution_of_Myotis_australis.png",
+  "_score": 1
+}

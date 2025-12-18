@@ -1,0 +1,26 @@
+{
+  "id": "cratogeomys-planiceps",
+  "name": "Cratogeomys planiceps",
+  "scientificName": "Cratogeomys planiceps",
+  "wikibase_item": "Q2788864",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 869542,
+      "id": "Q869542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2788864",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volcan_de_Toluca_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Volcan de Toluca pocket gopher, also known as the flathead pocket gopher, Volcán de Toluca pocket gopher, Nevado de Toluca pocket gopher, or the Toluca Volcano pocket gopher, is a species of pocket gopher that is native to south-central Mexico, at upward elevations of 2500–3500 m. It was described by Clinton Hart Merriam in 1895.",
+  "image": null,
+  "_score": 0
+}

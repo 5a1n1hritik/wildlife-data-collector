@@ -1,0 +1,26 @@
+{
+  "id": "ammospermophilus-insularis",
+  "name": "Ammospermophilus insularis",
+  "scientificName": "Ammospermophilus insularis",
+  "wikibase_item": "Q1770424",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541036,
+      "id": "Q541036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770424",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esp%C3%ADritu_Santo_antelope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Espíritu Santo antelope squirrel is a species of antelope squirrel in the family Sciuridae. It is endemic to Mexico, where it is known only from the island of Espíritu Santo in the Gulf of California. The species was originally described by Edward William Nelson and Edward Alphonso Goldman in 1909 as a subspecies of the white-tailed antelope squirrel, a wide-ranging species in the southwestern U.S. and Mexico. In 1938, Arthur H. Howell elevated the subspecies to full species status, on the basis of slightly larger skull proportions and the absence or reduction of the third upper premolar. Studies of DNA and chromosomes have variously suggested close relationships with Harris's antelope squirrels or other\nsubspecies of white-tailed antelope squirrel. A 2007 comparison of DNA and morphological traits suggested the differences between Espíritu Santo squirrels and those on the Baja California peninsula and other islands were not enough to warrant distinct species but rather a subspecies of white-tailed antelope squirrels. Since 2008 the IUCN has similarly recognized the Espíritu Santo antelope squirrel as a subspecies of white-tailed antelope squirrel.",
+  "image": null,
+  "_score": 2
+}

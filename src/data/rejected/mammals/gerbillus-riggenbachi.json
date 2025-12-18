@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-riggenbachi",
+  "name": "Gerbillus riggenbachi",
+  "scientificName": "Gerbillus riggenbachi",
+  "wikibase_item": "Q15730736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15730736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarabul's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tarabul's gerbil is a species of small rodent which is found in arid regions of north western Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Riggenbach%27s_Gerbil_imported_from_iNaturalist_photo_202968435_on_9_January_2023.jpg",
+  "_score": 1
+}

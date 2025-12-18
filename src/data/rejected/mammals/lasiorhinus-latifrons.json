@@ -1,0 +1,26 @@
+{
+  "id": "lasiorhinus-latifrons",
+  "name": "southern hairy-nosed wombat",
+  "scientificName": "Lasiorhinus latifrons",
+  "wikibase_item": "Q475449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 210106,
+      "id": "Q210106"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q475449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_hairy-nosed_wombat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern hairy-nosed wombat is one of three extant species of wombats. It is found in scattered areas of semiarid scrub and mallee from the eastern Nullarbor Plain to the New South Wales border area. It is the smallest of all three wombat species. The young often do not survive dry seasons. It is the state animal of South Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Southern_Hairy-nosed_Wombat.jpg",
+  "_score": 1
+}

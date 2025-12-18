@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-saturatus",
+  "name": "Spermophilus saturatus",
+  "scientificName": "Spermophilus saturatus",
+  "wikibase_item": "Q1767980",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767980",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cascade_golden-mantled_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cascade golden-mantled ground squirrel is a species of rodent in the family Sciuridae, in the order Rodentia. It is the largest species of the three within the genus Callospermophilus. It is found in the Cascade Mountains in the province of British Columbia, Canada, and the state of Washington, United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Golden-Mantled_Ground_Squirrel%2C_Mount_Rainier%2C_July_2006.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ptenochirus-jagori",
+  "name": "Ptenochirus jagori",
+  "scientificName": "Ptenochirus jagori",
+  "wikibase_item": "Q1768947",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2268041,
+      "id": "Q2268041"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768947",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_musky_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater musky fruit bat is a species of megabat in the family Pteropodidae. It is endemic to the Philippines. It was named by Peters for Fedor Jagor.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ptenochirus_jagori-PaulMatschie1899.png",
+  "_score": 1
+}

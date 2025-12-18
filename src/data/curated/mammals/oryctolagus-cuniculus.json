@@ -1,0 +1,26 @@
+{
+  "id": "oryctolagus-cuniculus",
+  "name": "European Rabbit",
+  "scientificName": "Oryctolagus cuniculus",
+  "wikibase_item": "Q25851",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10803279,
+      "id": "Q10803279"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25851",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European rabbit or coney is a species of rabbit native to the Iberian Peninsula and southwestern France. It is the only living species in Oryctolagus, a genus of lagomorphs. The average adult European rabbit is smaller than the European hare, though size and weight vary with habitat and diet. Due to the European rabbit's history of domestication, selective breeding, and introduction to non-native habitats, wild and domesticated European rabbits across the world can vary widely in size, shape, and color.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Oryctolagus_cuniculus_Tasmania_2_%28cropped%29.jpg",
+  "_score": 4
+}

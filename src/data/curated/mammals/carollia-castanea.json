@@ -1,0 +1,26 @@
+{
+  "id": "carollia-castanea",
+  "name": "Chestnut short-tailed bat",
+  "scientificName": "Carollia castanea",
+  "wikibase_item": "Q306079",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306079",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chestnut_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chestnut short-tailed bat is a bat species from South and Central America. The species is often confused with the Benkeith's short-tailed bat. It is a mainly frugivorous species that has been known to consume insects. To determine which pipers to forage on, it focuses on odour and then after proceeds to echolocate to determine position. It hunts between nightfall and midnight. Habitats include hollow trees, caves, cracks, abandoned mines, sewers, and house roofs. It does not decrease activity during full moons, only instances of turbulent weather like heavy rain. In an agricultural setting it has a higher resistance to habitat fragmentation compared to similar bat species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chestnut_short-tailed_bat.jpg/3024px-Chestnut_short-tailed_bat.jpg",
+  "_score": 3
+}

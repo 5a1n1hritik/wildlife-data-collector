@@ -1,0 +1,26 @@
+{
+  "id": "ursus-wenzensis",
+  "name": "Ursus wenzensis",
+  "scientificName": "Ursus wenzensis",
+  "wikibase_item": "Q9367140",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9367140"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tarsius-fuscus",
+  "name": "Tarsius fuscus",
+  "scientificName": "Tarsius fuscus",
+  "wikibase_item": "Q7686752",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7686752",
+    "wikipedia": "https://en.wikipedia.org/wiki/Makassar_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Makassar tarsier, also known locally as Balao Cengke, is a species of tarsier. Its range is in Indonesia in the southwestern peninsula of the island of Sulawesi, South Sulawesi, near Makassar. At one point the taxon was downgraded to a junior synonym of the spectral tarsier. However, when that species' range was restricted to the population on a single island near Sulawesi, this nomen was resurrected to contain the remainder of that species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tarsius_fuscus_TN_Babul.webp/624px-Tarsius_fuscus_TN_Babul.webp.png"
+}

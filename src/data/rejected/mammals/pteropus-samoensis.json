@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-samoensis",
+  "name": "Pteropus samoensis",
+  "scientificName": "Pteropus samoensis",
+  "wikibase_item": "Q558864",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558864",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samoa_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Samoa flying fox or Samoan flying fox is a species of flying fox in the family Pteropodidae. It is found in American Samoa, Fiji, and Samoa. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pteropus_samoensis2-2-2.jpg",
+  "_score": 2
+}

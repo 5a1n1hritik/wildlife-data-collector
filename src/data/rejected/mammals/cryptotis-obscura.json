@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-obscura",
+  "name": "Grizzled Mexican small-eared shrew",
+  "scientificName": "Cryptotis obscura",
+  "wikibase_item": "Q1765590",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765590",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grizzled_Mexican_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grizzled Mexican small-eared shrew is a small mammal in the order Eulipotyphla. It is native to the Sierra Madre Oriental of eastern Mexico. It can be found in dense, wet cloud forest, where it is found in the thick herbaceous undergrowth and leaf litter. It is known to be insectivorous and terrestrial. Threats to the species are deforestation for agriculture and urban development.",
+  "image": null,
+  "_score": 1
+}

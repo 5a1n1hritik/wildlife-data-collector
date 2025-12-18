@@ -1,0 +1,26 @@
+{
+  "id": "sphaeronycteris-toxophyllum",
+  "name": "Visored bat",
+  "scientificName": "Sphaeronycteris toxophyllum",
+  "wikibase_item": "Q332153",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10820433,
+      "id": "Q10820433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q332153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Visored_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The visored bat,, is a bat species from tropical South America. It is the only species in the genus Sphaeronycteris. Although visored bats have some unique characteristics, they are thought to be most closely related to little white-shouldered bats and wrinkle-faced bats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Naturalis_Biodiversity_Center_-_ZMA.MAM.1945.b_ven_-_Sphaeronycteris_toxophyllum_-_skin.jpeg",
+  "_score": 1
+}

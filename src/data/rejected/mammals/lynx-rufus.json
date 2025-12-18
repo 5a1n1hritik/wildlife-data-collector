@@ -1,0 +1,26 @@
+{
+  "id": "lynx-rufus",
+  "name": "bobcat",
+  "scientificName": "Lynx rufus",
+  "wikibase_item": "Q131907",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 677014,
+      "id": "Q677014"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131907",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobcat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bobcat, also known as the wildcat, bay lynx, or red lynx, is one of the four extant species within the medium-sized wild cat genus Lynx. Native to North America, it ranges from southern Canada through most of the contiguous United States to Oaxaca in Mexico. It is listed as Least Concern on the IUCN Red List since 2002, due to its wide distribution and large population. Although it has been hunted extensively both for sport and fur, populations have proven stable, though declining in some areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bobcat_at_Columbus_Zoo_Boo.jpg",
+  "_score": 2
+}

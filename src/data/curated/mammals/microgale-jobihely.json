@@ -1,0 +1,26 @@
+{
+  "id": "microgale-jobihely",
+  "name": "Northern shrew tenrec",
+  "scientificName": "Microgale jobihely",
+  "wikibase_item": "Q1808048",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1808048",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern shrew tenrec is a species of mammal in the family Tenrecidae. It is endemic to Madagascar, where it has a restricted disjoint range in two locations 485 km apart in the north and east of the island. In the north, it is found on the southwestern slopes of the Tsaratanana Massif at elevations from 1420 to 1680 m. In central eastern Madagascar, it is found in the Ambatovy Forest. Its natural habitat is montane forest. The species is most closely related to the widely distributed M. cowani. This tenrec is threatened by deforestation from agricultural conversion, lumbering and mining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Microgale_jobihely_range_map.svg/1850px-Microgale_jobihely_range_map.svg.png",
+  "_score": 4
+}

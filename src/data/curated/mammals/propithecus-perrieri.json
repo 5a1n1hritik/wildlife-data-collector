@@ -1,0 +1,26 @@
+{
+  "id": "propithecus-perrieri",
+  "name": "Perrier's sifaka",
+  "scientificName": "Propithecus perrieri",
+  "wikibase_item": "Q1350394",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1350394",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perrier's_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Perrier's sifaka is a lemur endemic to Madagascar. It was formerly considered to be a subspecies of diademed sifaka\nIt has a very small range in northeastern Madagascar where its habitat is dry deciduous or semihumid forest. Part of its range is in protected areas. It is an almost entirely black sifaka and measures about 90 cm (35 in), half of which is a bushy tail. Females are slightly larger than males.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Propithecus_perrieri_001.jpg",
+  "_score": 3
+}

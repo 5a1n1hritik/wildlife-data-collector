@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-armatus",
+  "name": "Spermophilus armatus",
+  "scientificName": "Spermophilus armatus",
+  "wikibase_item": "Q1768499",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768499",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uinta_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Uinta ground squirrel, commonly called a \"chisler\" and Potgut in northern Utah, is a species of rodent native to the western United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Uinta_ground_squirrel%2C_Jackson.jpg",
+  "_score": 1
+}

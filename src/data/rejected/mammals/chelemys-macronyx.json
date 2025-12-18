@@ -1,0 +1,26 @@
+{
+  "id": "chelemys-macronyx",
+  "name": "Chelemys macronyx",
+  "scientificName": "Chelemys macronyx",
+  "wikibase_item": "Q1770109",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 178363,
+      "id": "Q178363"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770109",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chelemys_macronyx"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Chelemys macronyx, also known as the Andean long-clawed mouse or Andean long-clawed akodont, is a species of rodent in the genus Chelemys of family Cricetidae. It is native to Argentina and Chile, where it is found in Patagonian Nothofagus forest and adjacent grasslands.",
+  "image": null,
+  "_score": 0
+}

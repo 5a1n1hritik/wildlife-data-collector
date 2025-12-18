@@ -1,0 +1,26 @@
+{
+  "id": "arctocebus-ruficeps",
+  "name": "Arctocebus ruficeps",
+  "scientificName": "Arctocebus ruficeps",
+  "wikibase_item": "Q40318614",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1019157,
+      "id": "Q1019157"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40318614"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-yatesi",
+  "name": "Ctenomys yatesi",
+  "scientificName": "Ctenomys yatesi",
+  "wikibase_item": "Q17460861",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17460861",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ctenomys_yatesi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ctenomys yatesi, also called Yates' tuco-tuco, is a species of tuco-tuco native to Bolivia. Only found near Roboré, Department of Santa Cruz, at an elevation of around 550 metres (1,800 ft), individuals of this species measure about 220 millimetres in length and have soft hazel and grey hair. The species was named after Terry Yates, a former curator at the University of New Mexico.",
+  "image": null,
+  "_score": 0
+}

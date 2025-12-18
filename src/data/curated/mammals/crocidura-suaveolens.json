@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-suaveolens",
+  "name": "Lesser white-toothed shrew",
+  "scientificName": "Crocidura suaveolens",
+  "wikibase_item": "Q827270",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q827270",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser white-toothed shrew is a small species of shrew with a widespread distribution in Africa, Asia and Europe. Its preferred habitat is scrub and gardens and it feeds on insects, arachnids, worms, gastropods, newts and small rodents, though its diet usually varies according to the biotope where it lives. The closely related Asian lesser white-toothed shrew was once included in this species, but is now considered to be a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Crocidura_suaveolens_12456867.jpg",
+  "_score": 4
+}

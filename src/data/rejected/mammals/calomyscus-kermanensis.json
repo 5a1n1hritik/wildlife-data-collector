@@ -1,0 +1,26 @@
+{
+  "id": "calomyscus-kermanensis",
+  "name": "Calomyscus kermanensis",
+  "scientificName": "Calomyscus kermanensis",
+  "wikibase_item": "Q124293794",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124293794",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerman_brush-tailed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kerman brush-tailed mouse is a newly described species of mouse-like hamster native to Iran.",
+  "image": null,
+  "_score": 0
+}

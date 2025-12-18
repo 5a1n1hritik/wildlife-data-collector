@@ -1,0 +1,25 @@
+{
+  "id": "bullimus-luzonicus",
+  "name": "Large Luzon forest rat",
+  "scientificName": "Bullimus luzonicus",
+  "wikibase_item": "Q306779",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 851908,
+      "id": "Q851908"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306779",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_Luzon_forest_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Large Luzon Forest Rat, or Luzon Forest Rat is a species of rodent, the first of three to be described in the genus Bullimus. It is in the diverse family Muridae. It is found only in the Philippines. The rat has been recorded in Aurora, Benguet, and Camarines Sur provinces, and in Balbalasang, Kalinga province.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Range_Bullimus_luzonicus.png"
+}

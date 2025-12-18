@@ -1,0 +1,26 @@
+{
+  "id": "corynorhinus-townsendii",
+  "name": "Corynorhinus townsendii",
+  "scientificName": "Corynorhinus townsendii",
+  "wikibase_item": "Q1190041",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278347,
+      "id": "Q278347"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1190041",
+    "wikipedia": "https://en.wikipedia.org/wiki/Townsend's_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Townsend's big-eared bat is a species of vesper bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Townsends_in_music_hall.jpg",
+  "_score": 1
+}

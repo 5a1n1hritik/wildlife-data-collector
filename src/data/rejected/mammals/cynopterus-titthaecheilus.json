@@ -1,0 +1,26 @@
+{
+  "id": "cynopterus-titthaecheilus",
+  "name": "Indonesian short-nosed fruit bat",
+  "scientificName": "Cynopterus titthaecheilus",
+  "wikibase_item": "Q1764815",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311701,
+      "id": "Q311701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764815",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indonesian_short-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indonesian short-nosed fruit bat is a species of megabat in the family Pteropodidae. It is endemic to Indonesia and Timor-Leste, and has three subspecies:C. t. major\nC. t. terminus\nC. t. titthaecheilus",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cynopt_titthae100824-6270_tdp.JPG",
+  "_score": 1
+}

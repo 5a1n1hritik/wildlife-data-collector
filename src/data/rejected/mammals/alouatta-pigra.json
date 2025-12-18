@@ -1,0 +1,26 @@
+{
+  "id": "alouatta-pigra",
+  "name": "Alouatta pigra",
+  "scientificName": "Alouatta pigra",
+  "wikibase_item": "Q849419",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q849419",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yucat%C3%A1n_black_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yucatán black howler, or Guatemalan black howler, is a species of howler monkey, a type of New World monkey, from Central America. It is found in Belize, Guatemala and Mexico, in and near the Yucatán Peninsula. It lives in evergreen, semideciduous and lowland rain forests. It is also known as the baboon in Belize, although it is not closely related to the baboons in Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Yucat%C3%A1n_black_howler_%28Alouatta_pigra%29_Cayo.jpg",
+  "_score": 1
+}

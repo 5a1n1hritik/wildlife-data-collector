@@ -1,0 +1,26 @@
+{
+  "id": "genetta-pardina",
+  "name": "Pardine genet",
+  "scientificName": "Genetta pardina",
+  "wikibase_item": "Q43213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43213",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pardine_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pardine genet, also known as the West African large spotted genet, is a genet species living in West Africa. As it is widely distributed and common, it is listed as Least Concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pardine_Genet_at_WWP.jpg",
+  "_score": 1
+}

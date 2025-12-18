@@ -1,0 +1,26 @@
+{
+  "id": "brucepattersonius-guarani",
+  "name": "Brucepattersonius guarani",
+  "scientificName": "Brucepattersonius guarani",
+  "wikibase_item": "Q1764431",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141986,
+      "id": "Q141986"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764431",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brucepattersonius_guarani"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brucepattersonius guarani, also known as the Guaraní akodont or Guaraní brucie, is a South American rodent in the genus Brucepattersonius. It is known from a single specimen from Misiones Province in northeastern Argentina, at the southern end of the Atlantic Forest. The species is protected by Moconá Provincial Park but is threatened by deforestation in nearby areas.",
+  "image": null,
+  "_score": 1
+}

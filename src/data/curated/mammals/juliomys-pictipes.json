@@ -1,0 +1,26 @@
+{
+  "id": "juliomys-pictipes",
+  "name": "Lesser Wilfred's mouse",
+  "scientificName": "Juliomys pictipes",
+  "wikibase_item": "Q1766981",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 144819,
+      "id": "Q144819"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766981",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_Wilfred's_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser Wilfred's mouse is a species of South American rodents of the family Cricetidae. It was first described by Wilfred H. Osgood under the name Thomasomys pictipes, then into the genus Wilfredomys, and now known as Juliomys pictipes. The lesser Wilfred's mouse is endemic to northeastern Argentina, southeastern Brazil and eastern Paraguay. Its physical appearance ranges from dark brown to light orange coloration and the typical size is small to medium. This species is arboreal, spending most of its time trees and living in the local forests at altitudes from sea level to 2,000 m (6,560 ft). Currently, this species is listed as Least Concern by the IUCN, but, threats include livestock farming, ranching, and wood harvesting.",
+  "image": null,
+  "_score": 3
+}

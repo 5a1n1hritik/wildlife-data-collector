@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-higginsi",
+  "name": "Long-tailed Mouse",
+  "scientificName": "Pseudomys higginsi",
+  "wikibase_item": "Q747319",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q747319",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed mouse is a native Australian mammal in the Order Rodentia and the Family Muridae. It is found only on the island of Tasmania. The long-tailed mouse is an omnivore that feeds on insects and a range of plants. It is found in forested areas, particularly in sub-alpine scree, and may live in burrows.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Long-tailed_Mouse_imported_from_iNaturalist_photo_143112114_on_18_April_2022.jpg",
+  "_score": 1
+}

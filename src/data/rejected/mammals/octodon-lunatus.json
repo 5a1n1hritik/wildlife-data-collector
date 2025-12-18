@@ -1,0 +1,26 @@
+{
+  "id": "octodon-lunatus",
+  "name": "Moon-toothed degu",
+  "scientificName": "Octodon lunatus",
+  "wikibase_item": "Q1764891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 628979,
+      "id": "Q628979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moon-toothed_degu"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The moon-toothed degu is a species of rodent in the family Octodontidae. It is endemic to Chile, occurring in mountainous areas along the Pacific coast in the central part of the country.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Octodon_lunatus_range.svg/250px-Octodon_lunatus_range.svg.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-sororculus",
+  "name": "Miniopterus sororculus",
+  "scientificName": "Miniopterus sororculus",
+  "wikibase_item": "Q1825281",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1825281",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_sororculus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus sororculus is a species of bat endemic to the highland forests of Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Miniopterus_sororculus_range_map.svg/2324px-Miniopterus_sororculus_range_map.svg.png",
+  "_score": 1
+}

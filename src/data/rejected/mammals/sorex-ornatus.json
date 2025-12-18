@@ -1,0 +1,28 @@
+{
+  "id": "sorex-ornatus",
+  "name": "Ornate shrew",
+  "scientificName": "Sorex ornatus",
+  "wikibase_item": "Q1769717",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769717",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ornate_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ornate shrew is a species of mammal in the family Soricidae (shrews). It is endemic to western North America, ranging from Northern California in the United States to the Baja California peninsula in Mexico. Eight subspecies are known, including the extinct tule shrew, known only from four specimens collected in 1905, and the Suisun ornate shrew, a species of conservation concern in California. Through skull morphology research and genetic testing on Ornate shrew populations, it has been shown that there are three main genetic subdivisions: The Southern, Central and Northern. These three genetic subdivisions of Ornate shrew arose from populations of Ornate shrews getting geographically isolated from other populations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sorex_ornatus_relictus.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

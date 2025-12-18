@@ -1,0 +1,26 @@
+{
+  "id": "tamias-dorsalis",
+  "name": "Tamias dorsalis",
+  "scientificName": "Tamias dorsalis",
+  "wikibase_item": "Q1762104",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762104",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cliff_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cliff chipmunk is a small, bushy-tailed squirrel that typically lives along cliff walls or boulder fields bordering Pinyon-juniper woodlands in the Western United States and Mexico. Cliff chipmunks are very agile, and can often be seen scaling steep cliff walls. Cliff chipmunks do not amass body fat as the more common ground squirrel does. They create caches of food which they frequent during the cold winter months.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cliff_Chipmunk_%2833981189526%29.jpg",
+  "_score": 2
+}

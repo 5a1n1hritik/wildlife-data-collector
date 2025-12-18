@@ -1,0 +1,26 @@
+{
+  "id": "plecotus-sardus",
+  "name": "Sardinian Long-eared Bat",
+  "scientificName": "Plecotus sardus",
+  "wikibase_item": "Q1455589",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1455589",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sardinian_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sardinian long-eared bat is a critically-endangered species of bat endemic to Sardinia, Italy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Plecotus-sardus.png",
+  "_score": 1
+}

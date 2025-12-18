@@ -1,0 +1,26 @@
+{
+  "id": "myoictis-melas",
+  "name": "Three-striped Dasyure",
+  "scientificName": "Myoictis melas",
+  "wikibase_item": "Q194269",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1479606,
+      "id": "Q1479606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194269",
+    "wikipedia": "https://en.wikipedia.org/wiki/Three-striped_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The three-striped dasyure is a member of the order Dasyuromorphia. This marsupial carnivore lives in West Papua and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Enumerazione_dei_mammiferi_%289680484110%29.jpg",
+  "_score": 1
+}

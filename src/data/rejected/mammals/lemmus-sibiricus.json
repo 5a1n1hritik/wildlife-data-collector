@@ -1,0 +1,26 @@
+{
+  "id": "lemmus-sibiricus",
+  "name": "Siberian brown lemming",
+  "scientificName": "Lemmus sibiricus",
+  "wikibase_item": "Q1577469",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 525589,
+      "id": "Q525589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1577469",
+    "wikipedia": "https://en.wikipedia.org/wiki/West_Siberian_lemming"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The West Siberian lemming or Western Siberian brown lemming is a true lemming species found in the Russian Federation. Like other lemmings, it belongs to the family Cricetidae of rodents.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lemmus_sibiricus.jpg",
+  "_score": 1
+}

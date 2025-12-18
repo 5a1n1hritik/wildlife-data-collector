@@ -1,0 +1,26 @@
+{
+  "id": "lepus-starcki",
+  "name": "Ethiopian highland hare",
+  "scientificName": "Lepus starcki",
+  "wikibase_item": "Q257754",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3734504,
+      "id": "Q3734504"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q257754",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_highland_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ethiopian highland hare or Starck's hare is a medium-sized species of mammal in the rabbit and hare family, Leporidae. Its dorsal pelage is grizzled, buff white and spotted and streaked with black, while its belly fur is pure white and fluffy. It is endemic to the Ethiopian Highlands, ranging over the Afroalpine regions of the Shoa, Bale, and Arsi Provinces of Ethiopia. A herbivore, it mostly feeds on moorland grasses. The IUCN rates it as a species of least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lepus_starcki_165504490.jpg",
+  "_score": 2
+}

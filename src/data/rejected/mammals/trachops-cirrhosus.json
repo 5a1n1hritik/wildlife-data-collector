@@ -1,0 +1,28 @@
+{
+  "id": "trachops-cirrhosus",
+  "name": "Trachops cirrhosus",
+  "scientificName": "Trachops cirrhosus",
+  "wikibase_item": "Q1445531",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10827756,
+      "id": "Q10827756"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1445531",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fringe-lipped_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fringe-lipped bat is a leaf-nosed bat from southern Mexico to Bolivia and southern Brazil. It has three subspecies and no known fossils. It is the only species within its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Trachops_cirrhosus.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

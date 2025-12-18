@@ -1,0 +1,25 @@
+{
+  "id": "sorex-mirabilis",
+  "name": "Ussuri Shrew",
+  "scientificName": "Sorex mirabilis",
+  "wikibase_item": "Q1761923",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876441,
+      "id": "Q20876441"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761923",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ussuri_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ussuri shrew, also known as the giant shrew, is a species of shrew found in Northeast Asia. An adult Ussuri shrew has a total length including the tail of 137 to 170 mm. It is found in valleys and on the forested slopes of mountains in the Korean Peninsula, northeastern China, and the Russian Far East. It is rarely observed, and its ecology is largely unknown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ussuri_Shrew_area.png"
+}

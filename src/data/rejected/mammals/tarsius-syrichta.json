@@ -1,0 +1,26 @@
+{
+  "id": "tarsius-syrichta",
+  "name": "Tarsius syrichta",
+  "scientificName": "Tarsius syrichta",
+  "wikibase_item": "Q27334504",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27334504",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine tarsier is a species of tarsier endemic to the Philippines. It is found in the southeastern part of the archipelago, particularly on the islands of Bohol, Samar and Leyte. It is a member of the approximately 45-million-year-old family Tarsiidae, whose name is derived from its elongated \"tarsus\" or ankle bone. Formerly a member of the genus Tarsius, it has since been listed as the only member of the genus Carlito, a new genus named after the conservationist Carlito Pizarras.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tarsier-GG.jpg",
+  "_score": 2
+}

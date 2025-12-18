@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-aureogaster",
+  "name": "Mexican gray squirrel",
+  "scientificName": "Sciurus aureogaster",
+  "wikibase_item": "Q1768493",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768493",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_gray_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican gray squirrel, also known as the red-bellied squirrel, goes by the name ardilla gris mexicana or ardilla vientre rojo in Mexico. The species consists of two subspecies S. aureogaster and S. nigrescens, which are native to Mexico and Southern Guatemala. The Mexican gray squirrel was introduced to the Florida Keys in 1938 and is considered an invasive species. In Mexico, the Mexican gray squirrel typically has a light to dark gray dorsal side and a ventral side ranging from white, to orange, to a deep chestnut color. However, in northern native populations, it is common for individuals to have all black or gray dorsal fur with a slight coloration of red on the belly and rump. In Elliott Key, the common phenotype is entirely black fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mexican_Gray_Squirrel_-_Sciurus_Aureogaster.jpg",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-ursula",
+  "name": "Saguinus ursula",
+  "scientificName": "Saguinus ursula",
+  "wikibase_item": "Q15843769",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15843769",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_black-handed_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern black-handed tamarin is a species of tamarin endemic to Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Saguinus_ursula_MDD_Range.png",
+  "_score": 1
+}

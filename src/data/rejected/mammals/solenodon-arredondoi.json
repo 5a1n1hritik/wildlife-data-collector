@@ -1,0 +1,28 @@
+{
+  "id": "solenodon-arredondoi",
+  "name": "Giant solenodon",
+  "scientificName": "Solenodon arredondoi",
+  "wikibase_item": "Q1761529",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 266725,
+      "id": "Q266725"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761529",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_solenodon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant solenodon is an extinct species of soricomorph that occurred in western Cuba. A larger animal than the still-extant Cuban solenodon, the species is believed to have been eradicated through habitat destruction and the introduction of predatory dogs to Cuba by pre-Columbian people.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

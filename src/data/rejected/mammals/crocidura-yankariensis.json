@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-yankariensis",
+  "name": "Yankari Shrew",
+  "scientificName": "Crocidura yankariensis",
+  "wikibase_item": "Q1768871",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768871",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yankari_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yankari shrew is a species of mammal in the family Soricidae. It is found in Cameroon, Central African Republic, Chad, Ethiopia, Kenya, Nigeria, Somalia, and Sudan. Its natural habitat is dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yankari_Shrew_area.png",
+  "_score": 2
+}

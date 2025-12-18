@@ -1,0 +1,26 @@
+{
+  "id": "potos-flavus",
+  "name": "kinkajou",
+  "scientificName": "Potos flavus",
+  "wikibase_item": "Q254630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10808340,
+      "id": "Q10808340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q254630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kinkajou"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The kinkajou is a tropical rainforest mammal of the family Procyonidae related to olingos, coatis, raccoons, and the ringtail and cacomistle. It is the only member of the genus Potos and is also known as the \"honey bear\". Though kinkajous are arboreal, they are not closely related to any other tree-dwelling mammal group.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Potos_flavus_%288973438737%29.jpg",
+  "_score": 1
+}

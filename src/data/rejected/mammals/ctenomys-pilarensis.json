@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-pilarensis",
+  "name": "Pilar tuco-tuco",
+  "scientificName": "Ctenomys pilarensis",
+  "wikibase_item": "Q1762664",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762664",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pilar_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pilar tuco-tuco is a species of rodent in the family Ctenomyidae. It is found in Ñeembucú and Misiones Departments in southern Paraguay, east of the city of Pilar. The species lives in areas with sandy soil. It is present in a few isolated populations and is threatened by conversion of its habitat to agriculture and its treatment as a pest. Its karyotype has 2n = 48 or 50 and FN = 50.",
+  "image": null,
+  "_score": 2
+}

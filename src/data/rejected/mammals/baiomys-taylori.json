@@ -1,0 +1,26 @@
+{
+  "id": "baiomys-taylori",
+  "name": "Northern Pygmy Mouse",
+  "scientificName": "Baiomys taylori",
+  "wikibase_item": "Q306168",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469583,
+      "id": "Q469583"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306168",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_pygmy_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern pygmy mouse is a species of rodent in the family Cricetidae. It is known as ratón-pigmeo norteño in the Spanish-speaking areas of its range. It is found in Mexico and the United States. It is the smallest rodent in North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Baiomys_taylori_147005506_%28cropped%29.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "poelagus-marjorita",
+  "name": "Bunyoro rabbit",
+  "scientificName": "Poelagus marjorita",
+  "wikibase_item": "Q638186",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10808047,
+      "id": "Q10808047"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q638186",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bunyoro_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bunyoro rabbit or Uganda grass hare is a species of mammal in the family Leporidae. It is the only member of the genus Poelagus. It is a medium-sized, greyish-brown furred, nocturnal, plant-eating rabbit found in central Africa. Its typical habitat is damp savannah, often with rocky outcrops, but it also appears in forests and in rocky areas alongside rock hyraxes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Poelagus_range_unc.svg/330px-Poelagus_range_unc.svg.png",
+  "_score": 2
+}

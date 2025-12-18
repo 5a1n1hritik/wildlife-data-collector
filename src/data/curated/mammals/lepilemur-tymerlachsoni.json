@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-tymerlachsoni",
+  "name": "Lepilemur tymerlachsoni",
+  "scientificName": "Lepilemur tymerlachsoni",
+  "wikibase_item": "Q1210741",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1210741",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawks'_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hawks' sportive lemur, also known as the Nosy Be sportive lemur or Nosy Be weasel lemur, is a sportive lemur endemic to Madagascar. Like all members of its genus, it is solitary, nocturnal and largely folivorous. It is threatened by habitat loss and unsustainable hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nosy_Be_sportive_lemur_%28Lepilemur_tymerlachsoni%29.jpg",
+  "_score": 3
+}

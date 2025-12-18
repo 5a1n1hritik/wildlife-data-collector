@@ -1,0 +1,26 @@
+{
+  "id": "triaenops-menamena",
+  "name": "Triaenops menamena",
+  "scientificName": "Triaenops menamena",
+  "wikibase_item": "Q5419363",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 649924,
+      "id": "Q649924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5419363",
+    "wikipedia": "https://en.wikipedia.org/wiki/Triaenops_menamena"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Triaenops menamena is a bat in the genus Triaenops found on Madagascar, mainly in the drier regions. It was known as Triaenops rufus until 2009, when it was discovered that that name had been incorrectly applied to the species. Triaenops rufus is a synonym of Triaenops persicus, a Middle Eastern species closely related to T. menamena— the Malagasy species had previously been placed as a subspecies of T. persicus by some authors. Triaenops menamena is mostly found in forests, but also occurs in other habitats. It often roosts in large colonies and eats insects such as butterflies and moths. Because of its wide range, common occurrence, and tolerance of habitat degradation, it is not considered to be threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Triaenops_menamena_skull.svg/1008px-Triaenops_menamena_skull.svg.png",
+  "_score": 5
+}

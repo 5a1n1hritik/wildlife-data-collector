@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-leucopus",
+  "name": "White-footed dunnart",
+  "scientificName": "Sminthopsis leucopus",
+  "wikibase_item": "Q135415",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135415",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-footed_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-footed dunnart is a marsupial that occurs on Tasmania and mainland Australia. It occurs along the coast and in inner Gippsland and Alpine areas up to 400 metres near Narbethong. In southern New South Wales, the white-footed dunnart is known to occur at elevations at least as high as 1000 metres. The length from snout to tail tip is 14–20 cm (5.5–7.9 in) of which head and body are 7–11 cm (2.8–4.3 in) and the tail 7–9 cm (2.8–3.5 in) long. They weigh 19–27 g (0.67–0.95 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sminthopsis_leucopus_75396584.jpg",
+  "_score": 2
+}

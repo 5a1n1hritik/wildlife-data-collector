@@ -1,0 +1,26 @@
+{
+  "id": "mogera-etigo",
+  "name": "Echigo mole",
+  "scientificName": "Mogera etigo",
+  "wikibase_item": "Q1936568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913882,
+      "id": "Q913882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1936568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Echigo_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Echigo mole is an endangered species of mammal in the family Talpidae. It is endemic to Japan, being found only on the Echigo plain, Niigata prefecture.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mogera_etigo_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC06744.JPG",
+  "_score": 1
+}

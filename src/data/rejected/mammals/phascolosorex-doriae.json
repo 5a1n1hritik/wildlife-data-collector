@@ -1,0 +1,26 @@
+{
+  "id": "phascolosorex-doriae",
+  "name": "Red-bellied Marsupial Shrew",
+  "scientificName": "Phascolosorex doriae",
+  "wikibase_item": "Q194755",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1433304,
+      "id": "Q1433304"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194755",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-bellied_marsupial_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-bellied dasyure or red-bellied marsupial shrew is a species of marsupial in the family Dasyuridae endemic to West Papua. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Phascolosorex_doriae_3.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arvicanthis-rufinus",
+  "name": "Guinean grass rat",
+  "scientificName": "Arvicanthis rufinus",
+  "wikibase_item": "Q1763418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 277877,
+      "id": "Q277877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guinean_grass_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guinean grass rat is a species of rodent in the family Muridae.\nIt is found in Benin, Ghana, Togo, possibly Cameroon, possibly Central African Republic, possibly Ivory Coast, possibly Guinea, possibly Liberia, and possibly Sierra Leone.\nIts natural habitats are moist savanna, subtropical or tropical dry shrubland, subtropical or tropical moist shrubland, arable land, pastureland, and urban areas.",
+  "image": null,
+  "_score": 2
+}

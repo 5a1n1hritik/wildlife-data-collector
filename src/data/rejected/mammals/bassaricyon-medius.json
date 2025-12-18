@@ -1,0 +1,26 @@
+{
+  "id": "bassaricyon-medius",
+  "name": "western lowland olingo",
+  "scientificName": "Bassaricyon medius",
+  "wikibase_item": "Q14617469",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425180,
+      "id": "Q1425180"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14617469",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_lowland_olingo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western lowland olingo is a species of olingo from Central and South America, where it is known from Panama and from Colombia and Ecuador west of the Andes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bassaricyon_medius_medius.jpg",
+  "_score": 1
+}

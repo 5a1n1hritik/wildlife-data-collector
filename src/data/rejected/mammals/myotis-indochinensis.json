@@ -1,0 +1,26 @@
+{
+  "id": "myotis-indochinensis",
+  "name": "Myotis indochinensis",
+  "scientificName": "Myotis indochinensis",
+  "wikibase_item": "Q17636888",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17636888",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myotis_indochinensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Myotis indochinensis, commonly known as the Indochinese mouse-eared bat, is a species of cave-dwelling bat in the family Vespertilionidae. It is found in Vietnam and China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Distribution_of_Myotis_indochinensis.png",
+  "_score": 1
+}

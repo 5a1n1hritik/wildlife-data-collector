@@ -1,0 +1,26 @@
+{
+  "id": "hesperomys-subflavus",
+  "name": "Hesperomys subflavus",
+  "scientificName": "Hesperomys subflavus",
+  "wikibase_item": "Q27430171",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5746022,
+      "id": "Q5746022"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27430171"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

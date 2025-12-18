@@ -1,0 +1,25 @@
+{
+  "id": "zapus-hudsonius",
+  "name": "Meadow jumping mouse",
+  "scientificName": "Zapus hudsonius",
+  "wikibase_item": "Q1761993",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 524430,
+      "id": "Q524430"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761993",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meadow_jumping_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The meadow jumping mouse is the most widely distributed mouse in the family Zapodidae. Its range extends from the Atlantic coast in the east to the Great Plains west, and from the arctic tree lines in Canada and Alaska to the north, and Georgia, Alabama, Arizona, and New Mexico to the south. In mid-2014, the New Mexico subspecies of the meadow jumping mouse, Zapus hudsonius luteus, was listed as an endangered species under the federal Endangered Species Act.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Zapus_hudsonius.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "histiotus-mochica",
+  "name": "Histiotus mochica",
+  "scientificName": "Histiotus mochica",
+  "wikibase_item": "Q109264797",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225886,
+      "id": "Q225886"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109264797",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moche_big-eared_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Moche big-eared brown bat is a species of vesper bat in the family Vespertilionidae. It is endemic to coastal Peru. It is notable for its likely depiction in Moche ceramics over a millennium prior to its discovery to Western science in 2012 and scientific description in 2021.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "allocricetulus-curtatus",
+  "name": "Mongolian hamster",
+  "scientificName": "Allocricetulus curtatus",
+  "wikibase_item": "Q1637529",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656306,
+      "id": "Q656306"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1637529",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongolian_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mongolian hamster is a species of rodent in the family Cricetidae. It is one of two members of the genus Allocricetulus, and is found in China, Russia, and Mongolia.",
+  "image": null,
+  "_score": 0
+}

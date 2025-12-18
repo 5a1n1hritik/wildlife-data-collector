@@ -1,0 +1,26 @@
+{
+  "id": "casinycteris-campomaanensis",
+  "name": "Casinycteris campomaanensis",
+  "scientificName": "Casinycteris campomaanensis",
+  "wikibase_item": "Q17623975",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 301847,
+      "id": "Q301847"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17623975",
+    "wikipedia": "https://en.wikipedia.org/wiki/Campo-Ma'an_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Campo-Ma'an fruit bat is a species of bat found in Cameroon. The first individual encountered was in 2007. It was described as a new species in 2014. Only three individuals have ever been encountered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Distribution_of_Casinycteris_campomaanensis.png",
+  "_score": 1
+}

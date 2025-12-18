@@ -1,0 +1,26 @@
+{
+  "id": "trichosurus-arnhemensis",
+  "name": "Northern brushtail possum",
+  "scientificName": "Trichosurus arnhemensis",
+  "wikibase_item": "Q209125",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656173,
+      "id": "Q656173"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209125",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_brushtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern brushtail possum is a nocturnal marsupial inhabiting northern Australia. The northern brushtail possum is sometimes considered a species; however, more often than not is considered a subspecies of the common brushtail possum.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Trichosurus_arnhemensis_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03016.JPG",
+  "_score": 1
+}

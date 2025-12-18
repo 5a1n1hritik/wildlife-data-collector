@@ -1,0 +1,26 @@
+{
+  "id": "dipodomys-venustus",
+  "name": "Narrow-faced kangaroo rat",
+  "scientificName": "Dipodomys venustus",
+  "wikibase_item": "Q2703587",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2703587",
+    "wikipedia": "https://en.wikipedia.org/wiki/Narrow-faced_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The narrow-faced kangaroo rat is one of almost 20 species of kangaroo rats, a rodent in the family Heteromyidae. It is endemic to California in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dipodomys_venustus_santiluciae_-_Pacific_Grove_Museum_of_Natural_History_-_DSC06626.JPG",
+  "_score": 1
+}

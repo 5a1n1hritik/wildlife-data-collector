@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-argentata",
+  "name": "Helan Shan pika",
+  "scientificName": "Ochotona argentata",
+  "wikibase_item": "Q430772",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q430772",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helan_Shan_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Helan Shan pika or silver pika is a rock-dwelling species of pika that is endemic to a small region of the Helan Mountains in Inner Mongolia and Ningxia, China. As a pika, it is a small mammal that resembles and is closely related to rodents. It is a large species relative to other pikas, and has an orange-red fur coat that changes to silver in winter. This pika typically lives in forested areas among rocks and in tunnels and rock slides formed by human mining activities.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ochotona_argentata_camera_trap_2020_daytime_crop.png",
+  "_score": 3
+}

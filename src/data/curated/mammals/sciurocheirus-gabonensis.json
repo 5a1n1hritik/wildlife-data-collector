@@ -1,0 +1,25 @@
+{
+  "id": "sciurocheirus-gabonensis",
+  "name": "Sciurocheirus gabonensis",
+  "scientificName": "Sciurocheirus gabonensis",
+  "wikibase_item": "Q125614031",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3952448,
+      "id": "Q3952448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125614031",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabon_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gabon bushbaby is a species of primate in the family Galagidae found in Cameroon, Gabon, and the Republic of the Congo. Its head and body length is 8.5 in with a 10-in tail, and it weighs about 10 oz. It lives in evergreen tropical rainforests and eats primarily fallen fruit, but also some arthropods.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sciurocheirus_gabonensis.jpg"
+}

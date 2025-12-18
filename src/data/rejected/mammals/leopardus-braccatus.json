@@ -1,0 +1,26 @@
+{
+  "id": "leopardus-braccatus",
+  "name": "Pantanal cat",
+  "scientificName": "Leopardus braccatus",
+  "wikibase_item": "Q133763",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133763",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pantanal_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pantanal cat is a Pampas cat subspecies, a small wild cat native to South America. It is named after the Pantanal wetlands in central South America, where it inhabits mainly grassland, shrubland, savannas and deciduous forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/PSM_V51_D522_Felis_bracatta_from_southern_brazil.png",
+  "_score": 1
+}

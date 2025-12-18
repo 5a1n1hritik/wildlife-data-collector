@@ -1,0 +1,28 @@
+{
+  "id": "sarcophilus-harrisii",
+  "name": "Tasmanian devil",
+  "scientificName": "Sarcophilus harrisii",
+  "wikibase_item": "Q134964",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 937821,
+      "id": "Q937821"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134964",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tasmanian_devil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tasmanian devil is a carnivorous marsupial of the family Dasyuridae. It was formerly present across mainland Australia, but became extinct there around 3,500 years ago; it is now confined to the island of Tasmania. The size of a small dog, the Tasmanian devil became the largest carnivorous marsupial in the world following the extinction of the thylacine in 1936. It is related to quolls, and distantly related to the thylacine. It is characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding. The Tasmanian devil's large head and neck allow it to generate among the strongest bites per unit body mass of any extant predatory land mammal. It hunts prey and scavenges on carrion.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarcophilus_harrisii_taranna.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

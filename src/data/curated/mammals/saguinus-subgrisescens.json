@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-subgrisescens",
+  "name": "Saguinus subgrisescens",
+  "scientificName": "Saguinus subgrisescens",
+  "wikibase_item": "Q123991330",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123991330",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bearded_emperor_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bearded emperor tamarin is one of the two subspecies of the emperor tamarin. It is mostly found in the tropical forests of southwestern Brazil and eastern Peru. This omnivorous member of the Callitrichidae family is usually found in groups of 4 and shares social relations with other callitrichids. They communicate vocally, as well as with olfactory signals. Males tend to be primary caregivers for their young. It is considered as a species of Least Concern by the IUCN, despite threats from increased habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tamarin_portrait_2_edit3.jpg",
+  "_score": 4
+}

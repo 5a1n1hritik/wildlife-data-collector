@@ -1,0 +1,26 @@
+{
+  "id": "chaetocauda-sichuanensis",
+  "name": "Chaetocauda sichuanensis",
+  "scientificName": "Chaetocauda sichuanensis",
+  "wikibase_item": "Q1074172",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12255745,
+      "id": "Q12255745"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1074172",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese dormouse or Sichuan dormouse is a species of dormouse found in subalpine mixed forests in northern Sichuan, China, where it is known from Jiuzhaigou and Wanglang Nature Reserves. It is known only from two captured female specimens taken in the Wanglang Natural Reserve, and was first described by Wang Youzhi in 1985 and relisted by Corbet and Hill under a new genus as Chaetocauda sichuanensis. It is currently the only member of the genus Chaetocauda. The two specimens had head and body lengths of 90mm and 91mm and tail lengths of 92mm and 102mm, respectively. They weighed 24.5 and 36.0 g. It is nocturnal and arboreal, nesting in trees around 3 metres above the ground, and was found above an altitude of 2500m above sea level. It is classified as endangered by the IUCN as of the 2004 Red List due to its small, isolated habitat.",
+  "image": null,
+  "_score": 3
+}

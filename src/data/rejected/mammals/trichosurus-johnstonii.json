@@ -1,0 +1,26 @@
+{
+  "id": "trichosurus-johnstonii",
+  "name": "coppery brushtail possum",
+  "scientificName": "Trichosurus johnstonii",
+  "wikibase_item": "Q209263",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656173,
+      "id": "Q656173"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209263",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coppery_brushtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coppery brushtail possum is a species of marsupial possum in the family Phalangeridae. Coppery brushtails are found within the Atherton Tablelands area of Queensland, in northeastern Australia. These mammals inhabit rainforest ecosystems, living within the tree canopy. Though they have a restricted distribution, they are locally common. This population is often considered a subspecies of T. vulpecula.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coppery_Brushtail_Possum_%283625102158%29.jpg",
+  "_score": 2
+}

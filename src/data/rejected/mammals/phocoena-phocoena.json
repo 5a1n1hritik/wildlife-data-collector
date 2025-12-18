@@ -1,0 +1,26 @@
+{
+  "id": "phocoena-phocoena",
+  "name": "Phocoena phocoena",
+  "scientificName": "Phocoena phocoena",
+  "wikibase_item": "Q27027",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135955,
+      "id": "Q135955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27027",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harbour_porpoise"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The harbour porpoise is one of eight extant species of porpoise. It is one of the smallest species of cetacean. As its name implies, it stays close to coastal areas or river estuaries, and as such, is the most familiar porpoise to whale watchers. This porpoise often ventures up rivers, and has been seen hundreds of kilometres from the sea. The harbour porpoise may be polytypic, with geographically distinct populations representing distinct races: P. p. phocoena in the North Atlantic and West Africa, P. p. relicta in the Black Sea and Sea of Azov, an unnamed population in the northwestern Pacific and P. p. vomerina in the northeastern Pacific.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg",
+  "_score": 2
+}

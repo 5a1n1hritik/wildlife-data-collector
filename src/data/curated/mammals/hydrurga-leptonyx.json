@@ -1,0 +1,25 @@
+{
+  "id": "hydrurga-leptonyx",
+  "name": "leopard seal",
+  "scientificName": "Hydrurga leptonyx",
+  "wikibase_item": "Q186663",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16975912,
+      "id": "Q16975912"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q186663",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopard_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The leopard seal, also referred to as the sea leopard, is the second largest species of seal in the Antarctic. It is a top order predator, feeding on a wide range of prey including cephalopods, other pinnipeds, krill, fish, and birds, particularly penguins, its only natural predator being the orca. It is the only species in the genus Hydrurga. Its closest relatives are the Ross seal, the crabeater seal, and the Weddell seal, which are all Antarctic seals of the tribe Lobodontini.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Antarctic_Sound-2016-Brown_Bluff%E2%80%93Leopard_seal_%28Hydrurga_leptonyx%29_04.jpg"
+}

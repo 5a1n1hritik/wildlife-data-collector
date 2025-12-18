@@ -1,0 +1,26 @@
+{
+  "id": "dendrogale-murina",
+  "name": "Northern Smooth-tailed Treeshrew",
+  "scientificName": "Dendrogale murina",
+  "wikibase_item": "Q1766337",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 820361,
+      "id": "Q820361"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766337",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_smooth-tailed_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern smooth-tailed treeshrew is a species of treeshrew in the family Tupaiidae found in Cambodia, Thailand, and Vietnam. Their diet primarily consists of invertebrates but rarely includes fruits and plants.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_northern_smooth-tailed_treeshrew_2.jpg",
+  "_score": 2
+}

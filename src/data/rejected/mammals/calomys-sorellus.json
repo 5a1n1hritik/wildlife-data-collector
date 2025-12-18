@@ -1,0 +1,26 @@
+{
+  "id": "calomys-sorellus",
+  "name": "Peruvian vesper mouse",
+  "scientificName": "Calomys sorellus",
+  "wikibase_item": "Q307372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307372",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_vesper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peruvian vesper mouse is a species of rodent in the family Cricetidae. It is found only in Peru.",
+  "image": null,
+  "_score": 0
+}

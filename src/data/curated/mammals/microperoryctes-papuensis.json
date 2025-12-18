@@ -1,0 +1,26 @@
+{
+  "id": "microperoryctes-papuensis",
+  "name": "Papuan bandicoot",
+  "scientificName": "Microperoryctes papuensis",
+  "wikibase_item": "Q194911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1541877,
+      "id": "Q1541877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194911",
+    "wikipedia": "https://en.wikipedia.org/wiki/Papuan_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Papuan bandicoot is a species of marsupial in the family Peramelidae. It is endemic to the Bird's Tail Peninsula. Its natural habitat is subtropical or tropical dry forests. M. papuensis is a small bandicoot with a soft coat with a clear back, upper torso and face stripes. Its head to body length is 18–21 cm (7.1–8.3 in), the tail is 14–16 cm (5.5–6.3 in) long, the hind foot is from 43 to 47 mm long, the ears are 25 to 28 mm long and the animal weighs 145–184 g (5.1–6.5 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Papuan_Bandicoot_area.png",
+  "_score": 3
+}

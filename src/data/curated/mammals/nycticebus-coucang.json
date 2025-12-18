@@ -1,0 +1,25 @@
+{
+  "id": "nycticebus-coucang",
+  "name": "Greater Slow Loris",
+  "scientificName": "Nycticebus coucang",
+  "wikibase_item": "Q688601",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 74941,
+      "id": "Q74941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q688601",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunda_slow_loris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sunda slow loris, or greater slow loris, is a strepsirrhine primate and a species of slow loris native to Indonesia, West Malaysia, southern Thailand and Singapore. It measures 27 to 38 cm from head to tail and weighs between 599 and 685 g. Like other slow lorises, it has a wet nose (rhinarium), a round head, small ears hidden in thick fur, a flat face, large eyes and a vestigial tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nycticebus_coucang_004.jpg"
+}

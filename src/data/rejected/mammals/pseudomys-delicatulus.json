@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-delicatulus",
+  "name": "Little native mouse",
+  "scientificName": "Pseudomys delicatulus",
+  "wikibase_item": "Q1769418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_native_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little native mouse, also known as the delicate mouse, is a species of rodent in the family Muridae. The Kunwinjku people of western Arnhem Land call this little creature kijbuk.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pseudomys_delicatus_20020401.jpg",
+  "_score": 1
+}

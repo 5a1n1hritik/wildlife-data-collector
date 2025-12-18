@@ -1,0 +1,26 @@
+{
+  "id": "trichechus-pygmaeus",
+  "name": "Dwarf manatee",
+  "scientificName": "Trichechus pygmaeus",
+  "wikibase_item": "Q745293",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 42797,
+      "id": "Q42797"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q745293",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_manatee"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf manatee is a disputed species of manatee allegedly found in the freshwater habitats of the Amazon, though restricted to one tributary of the Aripuanã River. According to Marc van Roosmalen, the scientist who proposed it as a new species, it lives in shallow, fast-running water, and feeds on different species of aquatic plants from the Amazonian manatee, which prefers deeper, slower-moving waters and the plants found there. The dwarf manatee reportedly migrates upriver during the rainy season when the river floods to the headwaters and shallow ponds. Based on its small range, the dwarf manatee is suggested to be considered critically endangered if indeed a separate species, but is not recognized by the IUCN.",
+  "image": null,
+  "_score": 3
+}

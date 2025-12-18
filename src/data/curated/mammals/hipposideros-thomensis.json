@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-thomensis",
+  "name": "Hipposideros thomensis",
+  "scientificName": "Hipposideros thomensis",
+  "wikibase_item": "Q1833247",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833247",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The São Tomé leaf-nosed bat is a species of bat in the family Hipposideridae. It is endemic to the island of São Tomé, in the Gulf of Guinea off the western coast of Africa. The bat's natural habitats are subtropical or tropical moist lowland forests and caves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/S%C3%A3o_Tom%C3%A9_Leaf-nosed_Bat%2C_M%C3%A9-Z%C3%B3chi%2C_S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe_imported_from_iNaturalist_photo_170302838.jpg"
+}

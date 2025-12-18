@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-obscurus",
+  "name": "Appalachian cottontail",
+  "scientificName": "Sylvilagus obscurus",
+  "wikibase_item": "Q139716",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875386,
+      "id": "Q20875386"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139716",
+    "wikipedia": "https://en.wikipedia.org/wiki/Appalachian_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Appalachian cottontail is a species of cottontail rabbit in the family Leporidae. It is a rare species found in the upland areas of the eastern United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sylvilagus_obscurus_39269476.jpg",
+  "_score": 1
+}

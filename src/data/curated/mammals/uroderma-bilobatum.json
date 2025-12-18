@@ -1,0 +1,26 @@
+{
+  "id": "uroderma-bilobatum",
+  "name": "Tent-making Bat",
+  "scientificName": "Uroderma bilobatum",
+  "wikibase_item": "Q1499413",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703698,
+      "id": "Q2703698"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1499413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tent-making_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tent-making bat is an American leaf-nosed bat (Phyllostomidae) found in lowland forests of Central and South America. This medium-sized bat has a gray coat with a pale white stripe running down the middle of the back. Its face is characterized by a fleshy nose-leaf and four white stripes. Primarily a frugivore, it may supplement its diet with insects, flower parts, pollen, and nectar. Its common name comes from its behavior of constructing tents out of large, fan-shaped leaves. These roosts provide excellent protection from the tropical rains, and a single tent roost may house several bats at once. This bat is quite common in its geographic range; hence, its conservation status is listed as Least Concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Common_tent-making_bats.JPG",
+  "_score": 5
+}

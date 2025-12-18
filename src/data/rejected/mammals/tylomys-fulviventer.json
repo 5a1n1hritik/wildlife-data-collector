@@ -1,0 +1,26 @@
+{
+  "id": "tylomys-fulviventer",
+  "name": "Fulvous-bellied climbing rat",
+  "scientificName": "Tylomys fulviventer",
+  "wikibase_item": "Q1770121",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 604917,
+      "id": "Q604917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770121",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fulvous-bellied_climbing_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fulvous-bellied climbing rat is a species of rodent in the family Cricetidae.\nIt is found only in Panama.",
+  "image": null,
+  "_score": 0
+}

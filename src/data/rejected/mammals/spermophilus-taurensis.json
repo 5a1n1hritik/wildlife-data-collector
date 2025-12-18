@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-taurensis",
+  "name": "Taurus ground squirrel",
+  "scientificName": "Spermophilus taurensis",
+  "wikibase_item": "Q2593443",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2593443",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taurus_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Taurus ground squirrel is a species of rodent in the family Sciuridae. It is endemic to the Taurus Mountains of south-central Anatolia. It was first identified as a distinct species to the Asia Minor ground squirrel in 2007.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Spermophilus_taurensis.jpg",
+  "_score": 1
+}

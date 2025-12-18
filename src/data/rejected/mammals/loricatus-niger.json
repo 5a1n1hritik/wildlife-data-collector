@@ -1,0 +1,26 @@
+{
+  "id": "loricatus-niger",
+  "name": "Loricatus niger",
+  "scientificName": "Loricatus niger",
+  "wikibase_item": "Q122789216",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122789090,
+      "id": "Q122789090"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122789216"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-bucharensis",
+  "name": "Bocharic myotis",
+  "scientificName": "Myotis bucharensis",
+  "wikibase_item": "Q1830989",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830989",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bocharic_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bocharic myotis or Bokhara whiskered bat is a species of mouse-eared bat in the family Vespertilionidae, described in 1950, and indigenous to Tajikistan, and Uzbekistan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Distribution_of_Myotis_bucharensis.png",
+  "_score": 1
+}

@@ -1,0 +1,28 @@
+{
+  "id": "canis-alpinus",
+  "name": "Canis alpinus",
+  "scientificName": "Canis alpinus",
+  "wikibase_item": "Q109647079",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647079",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dhole is a canid native to South, East and Southeast Asia. It is anatomically distinguished from members of the genus Canis in several aspects: its skull is convex rather than concave in profile, it lacks a third lower molar, and the upper molars possess only a single cusp as opposed to between two and four. During the Pleistocene, the dhole ranged throughout Asia, with its range also extending into Europe but became restricted to its historical range 12,000–18,000 years ago. It is now extinct in Central Asia, parts of Southeast Asia, and possibly the Korean peninsula and Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dhole_in_its_habitat_%28cropped%29.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

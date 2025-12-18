@@ -1,0 +1,25 @@
+{
+  "id": "thylogale-calabyi",
+  "name": "Calaby's pademelon",
+  "scientificName": "Thylogale calabyi",
+  "wikibase_item": "Q135925",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668527,
+      "id": "Q668527"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135925",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calaby's_pademelon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Calaby's pademelon, also known as the alpine wallaby, is a species of marsupial in the family Macropodidae. It is endemic to Papua New Guinea. It is threatened by habitat loss and hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Calaby%27s_Pademelon_area.png"
+}

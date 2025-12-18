@@ -1,0 +1,26 @@
+{
+  "id": "archboldomys-kalinga",
+  "name": "Archboldomys kalinga",
+  "scientificName": "Archboldomys kalinga",
+  "wikibase_item": "Q25773",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135054,
+      "id": "Q135054"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25773",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalinga_shrew_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kalinga shrew mouse is a rodent of the genus Soricomys found in the northern province of Kalinga, island of Luzon, in the northern Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Archboldomys_kalinga_2008_stamp_of_the_Philippines.jpg",
+  "_score": 1
+}

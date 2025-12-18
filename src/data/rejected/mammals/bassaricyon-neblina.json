@@ -1,0 +1,26 @@
+{
+  "id": "bassaricyon-neblina",
+  "name": "Olinguito",
+  "scientificName": "Bassaricyon neblina",
+  "wikibase_item": "Q14592562",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425180,
+      "id": "Q1425180"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14592562",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olinguito"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The olinguito is a mammal of the raccoon family Procyonidae that lives in montane forests in the Andes of western Colombia and Ecuador. It was classified as belonging to a new species in 2013. The specific name neblina is Spanish for fog or mist, referring to the cloud forest habitat of the olinguito.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Olinguito_ZooKeys_324%2C_solo.jpg",
+  "_score": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dologale-dybowskii",
+  "name": "Pousargues's mongoose",
+  "scientificName": "Dologale dybowskii",
+  "wikibase_item": "Q1537751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11840392,
+      "id": "Q11840392"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1537751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pousargues's_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pousargues's mongoose, also known as the African tropical savannah mongoose, is a mongoose native to Central Africa. It is listed as data deficient on the IUCN Red List as little is known about its distribution and ecology. It is the only species in the genus Dologale.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dologale_Dybowskii_-_Chinko_Project_Area_-_20120516.jpg"
+}

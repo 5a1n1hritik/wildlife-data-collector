@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-paulensis",
+  "name": "Brazilian slender opossum",
+  "scientificName": "Marmosops paulensis",
+  "wikibase_item": "Q194992",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194992",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brazilian slender opossum is an opossum species from South America. It is found in moist montane forest in the Atlantic Forest region of southeastern Brazil, including the states of Minas Gerais, Rio de Janeiro, São Paulo and Paraná. Its breeding may be fully semelparous, which is unusual for a mammal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/DSC9854~2_marmosops_paulensis.jpg",
+  "_score": 1
+}

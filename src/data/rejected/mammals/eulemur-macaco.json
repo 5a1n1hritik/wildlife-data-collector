@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-macaco",
+  "name": "Eulemur macaco",
+  "scientificName": "Eulemur macaco",
+  "wikibase_item": "Q55332",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55332",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black lemur is a species of lemur from the family Lemuridae. Like all lemurs, it is endemic to Madagascar. Originally, the species was thought to have two subspecies, Eulemur macaco macaco and Eulemur macaco flavifrons, both of which were elevated to species status by Mittermeier et al. in 2008 to Eulemur macaco and Eulemur flavifrons respectively. The most startling difference between the two species is the eye colour; Eulemur flavifrons, the blue-eyed black lemur, has blue eyes, while Eulemur macaco, the black lemur, has brown or orange eyes, and also has ear tufts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Black_Lemur_Lemur.jpg",
+  "_score": 2
+}

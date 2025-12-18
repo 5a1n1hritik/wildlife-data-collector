@@ -1,0 +1,26 @@
+{
+  "id": "sorex-neomexicanus",
+  "name": "New Mexico shrew",
+  "scientificName": "Sorex neomexicanus",
+  "wikibase_item": "Q1768001",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768001",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Mexico_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Mexico shrew is a species of mammal in the family Soricidae. It is found only in New Mexico in the Capitan and Sandia-Manzano Mountains.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/New_Mexico_Shrew_area.png",
+  "_score": 1
+}

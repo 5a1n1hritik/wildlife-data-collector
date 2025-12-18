@@ -1,0 +1,26 @@
+{
+  "id": "microgale-grandidieri",
+  "name": "Microgale grandidieri",
+  "scientificName": "Microgale grandidieri",
+  "wikibase_item": "Q6839538",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6839538",
+    "wikipedia": "https://en.wikipedia.org/wiki/Microgale_grandidieri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Microgale grandidieri, also known as Grandidier's shrew tenrec, is a species of shrew tenrec occurring in the dry forests of western and southwestern Madagascar. Populations of this species were formerly included in Microgale brevicaudata; M. grandidieri was described as a separate species in 2009 based on differences in morphology and DNA sequences.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Microgale_grandidieri_range_map.svg/1850px-Microgale_grandidieri_range_map.svg.png",
+  "_score": 1
+}

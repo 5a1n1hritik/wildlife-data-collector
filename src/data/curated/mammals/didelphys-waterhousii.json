@@ -1,0 +1,25 @@
+{
+  "id": "didelphys-waterhousii",
+  "name": "Didelphys waterhousii",
+  "scientificName": "Didelphys waterhousii",
+  "wikibase_item": "Q41164359",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41153182,
+      "id": "Q41153182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164359",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marmosa_waterhousei"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Marmosa waterhousei, the waterhouse's mouse opossum, is a species of opossum in the family Didelphidae. Found in the Andean regions of Ecuador, Peru, Colombia, and Venezuela, this opossum's body and tail are various shades of brown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/DidelphysWaterhousiiWolf.jpg"
+}

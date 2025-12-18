@@ -1,0 +1,26 @@
+{
+  "id": "sorex-araneus",
+  "name": "Common shrew",
+  "scientificName": "Sorex araneus",
+  "wikibase_item": "Q591450",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q591450",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common shrew, also known as the Eurasian shrew, is the most common shrew, and one of the most common mammals, throughout Northern Europe, including Great Britain, but excluding Ireland. It is 55 to 82 millimetres long and weighs 5 to 12 grams, and has velvety dark brown fur with a pale underside. It is one of the rare venomous mammals. Juvenile shrews have lighter fur until their first moult. The common shrew has small eyes, a pointed, mobile snout and red-tipped teeth. It has a life span of approximately 14 months.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sorex-araneus.jpg",
+  "_score": 2
+}

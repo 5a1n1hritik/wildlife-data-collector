@@ -1,0 +1,26 @@
+{
+  "id": "genetta-angolensis",
+  "name": "Angolan genet",
+  "scientificName": "Genetta angolensis",
+  "wikibase_item": "Q43217",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43217",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan genet or miombo genet is a genet species endemic to Southern Africa. It is considered common in this region and therefore listed as Least Concern in the IUCN Red List. Little is known about its ecology.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Genetta_angolensis.jpg",
+  "_score": 1
+}

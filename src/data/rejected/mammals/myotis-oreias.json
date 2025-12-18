@@ -1,0 +1,26 @@
+{
+  "id": "myotis-oreias",
+  "name": "Singapore whiskered bat",
+  "scientificName": "Myotis oreias",
+  "wikibase_item": "Q1065099",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1065099",
+    "wikipedia": "https://en.wikipedia.org/wiki/Singapore_whiskered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Singapore whiskered bat is or was a possible species of vesper bat endemic to Singapore. No specimens have been found since its original scientific description in 1840 by Dutch zoologist Coenraad Temminck.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Singaporese_Whiskered_Myotis.svg/1200px-Singaporese_Whiskered_Myotis.svg.png",
+  "_score": 1
+}

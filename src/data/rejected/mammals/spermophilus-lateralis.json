@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-lateralis",
+  "name": "Spermophilus lateralis",
+  "scientificName": "Spermophilus lateralis",
+  "wikibase_item": "Q1334879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871375,
+      "id": "Q20871375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1334879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-mantled_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-mantled ground squirrel is a ground squirrel native to western North America. It is distributed in the Rocky Mountains of British Columbia and Alberta, and through much of the western United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Goldmantelziesel.jpg",
+  "_score": 1
+}

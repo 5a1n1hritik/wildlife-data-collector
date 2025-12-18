@@ -1,0 +1,26 @@
+{
+  "id": "lutra-congica",
+  "name": "Lutra congica",
+  "scientificName": "Lutra congica",
+  "wikibase_item": "Q125459900",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 446882,
+      "id": "Q446882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125459900",
+    "wikipedia": "https://en.wikipedia.org/wiki/Congo_clawless_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Congo clawless otter, also known as the Cameroon clawless otter, is a species in the family Mustelidae. It was formerly recognised as a subspecies of the African clawless otter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mazu_from_Congo.jpg",
+  "_score": 1
+}

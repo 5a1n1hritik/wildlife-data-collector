@@ -1,0 +1,26 @@
+{
+  "id": "melogale-cucphuongensis",
+  "name": "Melogale cucphuongensis",
+  "scientificName": "Melogale cucphuongensis",
+  "wikibase_item": "Q10748756",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1366503,
+      "id": "Q1366503"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10748756",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vietnam_ferret-badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Vietnam ferret-badger is a member of the family Mustelidae native to Vietnam. It was described in 2011 and is known from only two specimens.",
+  "image": null,
+  "_score": 0
+}

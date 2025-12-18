@@ -1,0 +1,26 @@
+{
+  "id": "chlamyphorus-truncatus",
+  "name": "Chlamyphorus truncatus",
+  "scientificName": "Chlamyphorus truncatus",
+  "wikibase_item": "Q846337",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816366,
+      "id": "Q19816366"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q846337",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pink_fairy_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pink fairy armadillo is the smallest species of armadillo, first described by Richard Harlan in 1825. The pink fairy armadillo is 90–115 mm (3.5–4.5 in) long, and typically weighs about 120 g (4.2 oz). This solitary, desert-adapted animal is endemic to the deserts and scrub lands of central Argentina. The pink fairy armadillo is closely related to the only other fairy armadillo, the greater fairy armadillo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pink_Fairy_Armadillo_%28Chlamyphorus_truncatus%29.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "petrodromus-schwanni",
+  "name": "Petrodromus schwanni",
+  "scientificName": "Petrodromus schwanni",
+  "wikibase_item": "Q41166911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804842,
+      "id": "Q10804842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166911"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

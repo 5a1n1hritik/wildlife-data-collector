@@ -1,0 +1,25 @@
+{
+  "id": "notiosorex-crawfordi",
+  "name": "Crawford's gray shrew",
+  "scientificName": "Notiosorex crawfordi",
+  "wikibase_item": "Q1762293",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1543771,
+      "id": "Q1543771"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762293",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crawford's_gray_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crawford's gray shrew, also known as the desert shrew, is a small shrew found in the southwestern United States and northern Mexico. It is a member of the family Soricidae of the order Eulipotyphla. It was the only known member of the genus Notiosorex until two species, N. villai distributed in the Mexican state of Tamaulipas, and N. evotis distributed along the northwest coast of Mexico, were named. A fourth distinct species, N. cockrumi, was discovered in the U.S. state of Arizona and named in 2004.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Crawford%27s_gray_shrew.jpg"
+}

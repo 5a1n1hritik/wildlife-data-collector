@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-sanfordi",
+  "name": "Eulemur sanfordi",
+  "scientificName": "Eulemur sanfordi",
+  "wikibase_item": "Q787633",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q787633",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanford's_brown_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sanford's brown lemur, or Sanford's lemur, is a species of strepsirrhine primate in the family Lemuridae. Sanford's brown lemur was previously considered a subspecies of the common brown lemur but was raised to full species in 2001. It is named after Leonard Cutler Sanford, a trustee of the American Museum of Natural History.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sanford%27s_brown_lemur_%28Eulemur_sanfordi%29_male.jpg",
+  "_score": 1
+}

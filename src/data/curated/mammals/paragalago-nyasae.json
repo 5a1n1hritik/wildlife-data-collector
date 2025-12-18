@@ -1,0 +1,25 @@
+{
+  "id": "paragalago-nyasae",
+  "name": "Paragalago nyasae",
+  "scientificName": "Paragalago nyasae",
+  "wikibase_item": "Q104001671",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 31837388,
+      "id": "Q31837388"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104001671",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_dwarf_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern dwarf galagos are a group of five species of strepsirrhine primates of the family Galagidae, native to East Africa. They were formerly classified in the genus Galagoides but have been moved to their own genus, Paragalago, based on genetic evidence, and supported by differences in vocalizations and morphology. The three western/Congolian species remain in Galagoides.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Galago_granti.jpg"
+}

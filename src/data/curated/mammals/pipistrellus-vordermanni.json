@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-vordermanni",
+  "name": "Pipistrellus vordermanni",
+  "scientificName": "Pipistrellus vordermanni",
+  "wikibase_item": "Q27440997",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27440997",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vordermann's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Vordermann's pipistrelle is a species of vesper bat found in Brunei Darussalam, Indonesia, and Malaysia. It was described in 1890 by the Dutch zoologist Fredericus Anna Jentink, who named it after its discoverer, the Dutch physician Adolphe Vorderman.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Distribution_of_Hypsugo_vordermanni.png"
+}

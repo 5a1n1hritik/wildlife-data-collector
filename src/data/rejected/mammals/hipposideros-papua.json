@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-papua",
+  "name": "Hipposideros papua",
+  "scientificName": "Hipposideros papua",
+  "wikibase_item": "Q1769286",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Biak_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Biak roundleaf bat or Geelvinck Bay leaf-nosed bat is a species of bat in the family Hipposideridae. It is endemic to the Biak Islands and Cenderawasih Bay area of Papua Province, located in Western New Guinea, Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Naturalis_Biodiversity_Center_-_RMNH.MAM.12583.b_ven_-_Hipposideros_Papua_-_skin.jpeg",
+  "_score": 1
+}

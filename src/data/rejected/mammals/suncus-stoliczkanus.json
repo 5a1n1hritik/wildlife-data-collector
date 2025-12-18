@@ -1,0 +1,26 @@
+{
+  "id": "suncus-stoliczkanus",
+  "name": "Anderson's shrew",
+  "scientificName": "Suncus stoliczkanus",
+  "wikibase_item": "Q961191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q961191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anderson's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anderson's shrew is a medium-sized species of shrew. It is light gray in color with yellow fur around the throat and pectoral region, comparatively large ears and a tail that measures about 50 – 70% of body length. This shrew species is widespread, found in India, Nepal, Pakistan and possibly Bangladesh, in gardens and grassy embankments near watercourses, under piles of brushwood in forest plantations (Punjab) as well as the bases of stone walls in Kathiawar, and also in desert and arid country. As far as is known, the habits of the Anderson's shrew are largely nocturnal and solitary. Breeding may extend throughout the year.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Anderson%27s_Shrew_area.png",
+  "_score": 2
+}

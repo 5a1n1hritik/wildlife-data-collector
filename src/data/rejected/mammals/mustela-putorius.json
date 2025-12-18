@@ -1,0 +1,26 @@
+{
+  "id": "mustela-putorius",
+  "name": "Mustela putorius",
+  "scientificName": "Mustela putorius",
+  "wikibase_item": "Q26582",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26582",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_polecat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European polecat, also known as the common polecat, black polecat and forest polecat, is a mustelid species occurring in Europe and the Rif mountains. It is of a generally dark brown colour, with a pale underbelly and a dark mask across the face. Occasionally, colour mutations including albinos, leucists, isabellinists, xanthochromists, amelanists, and erythrists occur. It has a shorter, more compact body than other Mustela species, a more powerfully built skull and dentition, is less agile, and is well known for having the characteristic ability to secrete a particularly foul-smelling liquid to mark its territory.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Storm_the_polecat.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "loxodonta-africana",
+  "name": "African bush elephant",
+  "scientificName": "Loxodonta africana",
+  "wikibase_item": "Q36557",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185038,
+      "id": "Q185038"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36557",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_bush_elephant"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The African bush elephant, also known as the African savanna elephant, is a species of elephant native to sub-Saharan Africa. It is one of three extant elephant species and, along with the African forest elephant, one of two extant species of African elephant. It is the largest living terrestrial animal, with fully grown bulls reaching an average shoulder height of 3.04–3.36 metres (10–11 ft) and a body mass of 5.2–6.9 tonnes (11,000–15,000 lb); the largest recorded specimen had a shoulder height of 3.96 metres (13 ft) and an estimated body mass of 10.4 tonnes (23,000 lb). The African bush elephant is characterised by its long prehensile trunk with two finger-like processes; a convex back; large ears which help reduce body heat; and sturdy tusks that are noticeably curved. The skin is grey with scanty hairs, and bending cracks which support thermoregulation by retaining water.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/An_elephant_in_Kruger_National_Park.jpg",
+  "_score": 3
+}

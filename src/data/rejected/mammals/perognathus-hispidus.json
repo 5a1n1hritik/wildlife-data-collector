@@ -1,0 +1,26 @@
+{
+  "id": "perognathus-hispidus",
+  "name": "Perognathus hispidus",
+  "scientificName": "Perognathus hispidus",
+  "wikibase_item": "Q24808782",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24808782",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispid_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hispid pocket mouse is a large pocket mouse native to the Great Plains region of North America. It is a member of the genus Chaetodipus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Chaetodipus_hispidus2.jpg",
+  "_score": 1
+}

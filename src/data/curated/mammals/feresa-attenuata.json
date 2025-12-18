@@ -1,0 +1,26 @@
+{
+  "id": "feresa-attenuata",
+  "name": "pygmy killer whale",
+  "scientificName": "Feresa attenuata",
+  "wikibase_item": "Q244172",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 9259071,
+      "id": "Q9259071"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244172",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_killer_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy killer whale is a poorly known and rarely seen oceanic dolphin. It is the only species in the genus Feresa. It derives its common name from sharing some physical characteristics with the orca, also known as the killer whale. It is the smallest cetacean species that has the word \"whale\" in its common name. Although the species has been known to be extremely aggressive in captivity, this aggressive behavior has not been observed in the wild.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pygmy_killer_whales_%28Feresa_attenuata%29_off_of_Guam_%28anim252384854%29.jpg",
+  "_score": 3
+}

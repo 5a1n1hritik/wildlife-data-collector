@@ -1,0 +1,26 @@
+{
+  "id": "mastomys-hildebrandtii",
+  "name": "Mastomys hildebrandtii",
+  "scientificName": "Mastomys hildebrandtii",
+  "wikibase_item": "Q11845303",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11845303",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natal_multimammate_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Natal multimammate mouse is a species of rodent in the family Muridae. It is also known as the Natal multimammate rat, the common African rat, African soft fur rat or the African soft-furred mouse. The Natal multimammate rat is the natural host of the Lassa fever virus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mastomys_natalensis.jpg",
+  "_score": 1
+}

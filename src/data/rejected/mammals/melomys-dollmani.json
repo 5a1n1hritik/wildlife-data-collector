@@ -1,0 +1,26 @@
+{
+  "id": "melomys-dollmani",
+  "name": "Melomys dollmani",
+  "scientificName": "Melomys dollmani",
+  "wikibase_item": "Q2600774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2600774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dollman's_melomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dollman's melomys is a species of rodent from the family Muridae. It lives in the eastern highlands of Papua New Guinea at an elevation of at least 1,200 metres (3,900 ft) and on the slopes of Mount Hagen and Mount Sisa. However, it is not found east of the Okapa area. It is an arboreal species occurring in montane secondary and degraded forest, preferring moist tropical environments. Formerly considered to be a subspecies of the black-tailed mosaic-tailed rat, the Dollman's melomys is also often listed as its binomial synonym, Melomys gracilis. The melomys is listed as Least Concern by the IUCN Red List due to its wide range, lack of threats, and tolerance of disturbance.",
+  "image": null,
+  "_score": 2
+}

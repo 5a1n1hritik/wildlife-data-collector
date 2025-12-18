@@ -1,0 +1,26 @@
+{
+  "id": "otomys-barbouri",
+  "name": "Barbour's vlei rat",
+  "scientificName": "Otomys barbouri",
+  "wikibase_item": "Q1768696",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768696",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbour's_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Barbour's vlei rat is a species of rodent in the family Muridae.\nIt is found in Kenya and Uganda.\nIts natural habitat is subtropical or tropical high-altitude shrubland.\nIt is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

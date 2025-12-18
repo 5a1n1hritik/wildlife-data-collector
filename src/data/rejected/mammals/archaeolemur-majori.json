@@ -1,0 +1,28 @@
+{
+  "id": "archaeolemur-majori",
+  "name": "Archaeolemur majori",
+  "scientificName": "Archaeolemur majori",
+  "wikibase_item": "Q21236824",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203024,
+      "id": "Q203024"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21236824",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archaeolemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Archaeolemur is an extinct genus of subfossil lemurs known from the Quaternary of Madagascar. Archaeolemur is one of the most common and well-known of the extinct giant lemurs as hundreds of its bones have been discovered in fossil deposits across the island. It was larger than any extant lemur, with a body mass of approximately 18.2–26.5 kg (40–58 lb), and is commonly reconstructed as the most frugivorous and terrestrial of the fossil Malagasy primates. Colloquially known as a \"monkey lemur,\" Archaeolemur has often been compared with anthropoids, specifically the cercopithecines, due to various morphological convergences. In fact, it was even misidentified as a monkey when remains were first discovered. Following human arrival to Madagascar just over 2000 years ago, many of the island’s megafauna went extinct, including the giant lemurs. Radiocarbon dating indicates that Archaeolemur survived on Madagascar until at least 1040-1290 AD, outliving most other subfossil lemurs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Archaeolemur_majori_skulls.JPG",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

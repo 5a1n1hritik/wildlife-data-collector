@@ -1,0 +1,25 @@
+{
+  "id": "manis-mysteria",
+  "name": "Manis mysteria",
+  "scientificName": "Manis mysteria",
+  "wikibase_item": "Q122840122",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886658,
+      "id": "Q20886658"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122840122",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manis_mysteria"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Manis mysteria, the cryptic pangolin, is a pangolin in the family Manidae that is native to an unknown location within Asia. It is only known from partial specimens and the species has never been observed alive.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Manis_mysteria_scales.jpg"
+}

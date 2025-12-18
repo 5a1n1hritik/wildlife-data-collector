@@ -1,0 +1,26 @@
+{
+  "id": "handleyomys-rostratus",
+  "name": "Handleyomys rostratus",
+  "scientificName": "Handleyomys rostratus",
+  "wikibase_item": "Q1765762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 142280,
+      "id": "Q142280"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Handleyomys_rostratus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Handleyomys rostratus, also known as the long-nosed oryzomys, long-nosed rice rat, or rusty rice rat is a species of rodent in the genus Handleyomys of family Cricetidae. It is found in Belize, El Salvador, Guatemala, Honduras, Mexico, and Nicaragua. It is nocturnal and is found in forests at elevations above sea level to 1200 meters. Handleyomys rostratus attains its highest level of development in south and Central America. High rates of deforestation and habitat destruction are the biggest threat to Handleyomys rostratus.",
+  "image": null,
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dobsonia-chapmani",
+  "name": "Dobsonia chapmani",
+  "scientificName": "Dobsonia chapmani",
+  "wikibase_item": "Q301434",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301434",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine naked-backed fruit bat or Philippine bare-backed fruit bat is a megabat that mostly lives on Negros Island. Two small populations were also found on Cebu Island in the Philippines. Like other bare-backed fruit bats, its wings meet along the midline of their bodies, making it a very agile flier. It roosted in caves, in areas where little light penetrated the gloom. It was so abundant once that it left piles of guano, which were used by miners as fertilizer.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Philippine_Bare-backed_Fruit_Bat_area.png",
+  "_score": 2
+}

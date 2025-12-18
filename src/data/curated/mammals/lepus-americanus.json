@@ -1,0 +1,25 @@
+{
+  "id": "lepus-americanus",
+  "name": "snowshoe hare",
+  "scientificName": "Lepus americanus",
+  "wikibase_item": "Q81063",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875182,
+      "id": "Q20875182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81063",
+    "wikipedia": "https://en.wikipedia.org/wiki/Snowshoe_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The snowshoe hare, also called the varying hare or snowshoe rabbit, is a species of hare found in North America. It has the name \"snowshoe\" because of the large size of its hind feet. The animal's feet prevent it from sinking into the snow when it hops and walks. Its feet also have fur on the soles to protect it from freezing temperatures.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lepus_americanus_5459_cropped.jpg"
+}

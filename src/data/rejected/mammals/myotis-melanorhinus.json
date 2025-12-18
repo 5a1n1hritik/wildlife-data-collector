@@ -1,0 +1,26 @@
+{
+  "id": "myotis-melanorhinus",
+  "name": "Dark-nosed small-footed myotis",
+  "scientificName": "Myotis melanorhinus",
+  "wikibase_item": "Q2318865",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2318865",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark-nosed_small-footed_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark-nosed small-footed myotis is a species of mouse-eared bat in the family Vespertilionidae, described in 1890, and indigenous to Canada, Mexico, and the United States. While the International Union for Conservation of Nature suggests that M. melanorhinus is uncommon, the species nonetheless enjoys an extensive habitat, at least encompassing British Columbia, central Mexico, and Oklahoma.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Distribution_of_Myotis_melanorhinus1.png",
+  "_score": 2
+}

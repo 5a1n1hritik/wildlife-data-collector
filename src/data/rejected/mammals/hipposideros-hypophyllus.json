@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-hypophyllus",
+  "name": "Hipposideros hypophyllus",
+  "scientificName": "Hipposideros hypophyllus",
+  "wikibase_item": "Q1768795",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768795",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kolar_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kolar leaf-nosed bat, or leafletted leaf-nosed bat is a species of bat in the family Hipposideridae. It is endemic to India. Its natural habitats are subtropical or tropical dry forests and caves. It is found in only one cave in India, and its population is less than 200 individuals.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Kolar_leaf-nosed_bat.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "neusticomys-venezuelae",
+  "name": "Venezuelan fish-eating rat",
+  "scientificName": "Neusticomys venezuelae",
+  "wikibase_item": "Q1761891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 137725,
+      "id": "Q137725"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Venezuelan_fish-eating_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Venezuelan fish-eating rat is a species of a Rodent in the family Cricetidae. It is found in Guyana and Venezuela. For a time, this species was assigned to the genus Neusticomys, but it has since been returned to its original genus.",
+  "image": null,
+  "_score": 0
+}

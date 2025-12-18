@@ -1,0 +1,26 @@
+{
+  "id": "uropsilus-aequodonenia",
+  "name": "Uropsilus aequodonenia",
+  "scientificName": "Uropsilus aequodonenia",
+  "wikibase_item": "Q31073288",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 867212,
+      "id": "Q867212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31073288",
+    "wikipedia": "https://en.wikipedia.org/wiki/Equivalent-teeth_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The equivalent-teeth shrew mole is a species of mammal in the family Talpidae. It is endemic to Sichuan, China. It is characterized by having nine teeth in the row above and nine teeth in the lower row. The data indicate that it is the sister taxon of U. andersoni. Its specific name, aequodonenia, means 'equivalent teeth' in Latin.",
+  "image": null,
+  "_score": 0
+}

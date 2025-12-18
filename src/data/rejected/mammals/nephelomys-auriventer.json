@@ -1,0 +1,26 @@
+{
+  "id": "nephelomys-auriventer",
+  "name": "Nephelomys auriventer",
+  "scientificName": "Nephelomys auriventer",
+  "wikibase_item": "Q1770776",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770776",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_auriventer"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys auriventer, also known as the golden-bellied oryzomys or Ecuadorian rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. Oldfield Thomas originally described it, in 1899, as a species of Oryzomys, Oryzomys auriventer, and considered it most similar to Oryzomys aureus. In 1926, a subspecies was described from an Ecuadorian locality, Oryzomys auriventer nimbosus, and it was suggested that O. auriventer was closely related to O. albigularis. This proposal was formalized in 1961 by including O. auriventer within the species O. albigularis, but by 1976 O. auriventer was recognized again as a separate species. In 2006, Oryzomys albigularis and related species, including O. auriventer, were transferred to the new genus Nephelomys. Simultaneously, the former subspecies nimbosus was recognized as a separate species, Nephelomys nimbosus.",
+  "image": null,
+  "_score": 2
+}

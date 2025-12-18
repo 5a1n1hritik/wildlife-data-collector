@@ -1,0 +1,26 @@
+{
+  "id": "epixerus-wilsoni",
+  "name": "Epixerus wilsoni",
+  "scientificName": "Epixerus wilsoni",
+  "wikibase_item": "Q3055832",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 441320,
+      "id": "Q441320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3055832",
+    "wikipedia": "https://en.wikipedia.org/wiki/Epixerus_ebii_wilsoni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Epixerus ebii wilsoni is a subspecies of the squirrel Epixerus ebii from Cameroon, Republic of the Congo, Equatorial Guinea, and Gabon. It has also been treated as a separate species. Its natural habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

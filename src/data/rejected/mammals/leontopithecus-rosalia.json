@@ -1,0 +1,26 @@
+{
+  "id": "leontopithecus-rosalia",
+  "name": "golden lion tamarin",
+  "scientificName": "Leontopithecus rosalia",
+  "wikibase_item": "Q208486",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857486,
+      "id": "Q857486"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q208486",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_lion_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden lion tamarin, less commonly known as the golden lion marmoset, is a small New World monkey of the family Callitrichidae. Endemic to the Atlantic coastal forests of Brazil, the golden lion tamarin is an endangered species. The geographic range is entirely within the state of Rio de Janeiro. A 2022/2023 census estimated about 4,800 individuals living in the current primary area of occurrence in the non-coastal area of the São João and Macaé river basins, with unknown but smaller additional numbers in limited coastal forests and to the west of the primary area of occurrence. There is a captive population maintaining about 490 individuals among 150 zoos.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Leontopithecus_rosalia_-_Copenhagen_Zoo_-_DSC09082.JPG",
+  "_score": 2
+}

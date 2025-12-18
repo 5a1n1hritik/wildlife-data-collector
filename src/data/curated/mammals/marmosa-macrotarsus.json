@@ -1,0 +1,26 @@
+{
+  "id": "marmosa-macrotarsus",
+  "name": "Marmosa macrotarsus",
+  "scientificName": "Marmosa macrotarsus",
+  "wikibase_item": "Q107225610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28600694,
+      "id": "Q28600694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107225610",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quechuan_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Quechuan mouse opossum, also called the western Amazonian mouse opossum, is a South American opossum species of the family Didelphidae. It was known from only two areas of montane forest on the eastern slopes of the Andes in Peru, at altitudes from 300 to 2700 m.: at the type locality in the Valle de Occobamba is in the southern area, in Cuzco Region, and in the northern area is in the vicinity of Moyobamba in San Martín Region. A 2014 survey found this species in Bolivia and Brazil. The northern Peruvian area has suffered from habitat destruction, but the southern area is not seriously degraded. The name Marmosa macrotarsus may be preoccupied, and the name may revert to Marmosa quichua.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Quechuan_Mouse_Opossum_area.png",
+  "_score": 3
+}

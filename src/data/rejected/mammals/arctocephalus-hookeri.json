@@ -1,0 +1,26 @@
+{
+  "id": "arctocephalus-hookeri",
+  "name": "Arctocephalus hookeri",
+  "scientificName": "Arctocephalus hookeri",
+  "wikibase_item": "Q40318793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40318793",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Zealand_sea_lion"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Zealand sea lion, once known as Hooker's sea lion, and as pakake or whakahao (male) and kake (female) in Māori, is a species of sea lion that is endemic to New Zealand and primarily breeds on New Zealand's subantarctic Auckland and Campbell islands, and have in recent years been slowly breeding and recolonising around the coast of New Zealand's South and Stewart islands. The New Zealand sea lion numbers around 12,000 and is one of the world's rarest sea lion species. They are the only species of the genus Phocarctos.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Big_male_New_Zealand_Sea_Lion_walking_on_the_beach.jpg",
+  "_score": 2
+}

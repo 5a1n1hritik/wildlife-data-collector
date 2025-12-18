@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-scutinares",
+  "name": "Hipposideros scutinares",
+  "scientificName": "Hipposideros scutinares",
+  "wikibase_item": "Q10767210",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10767210",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shield-nosed_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The shield-nosed leaf-nosed bat or shield-nosed roundleaf bat is a bat from Laos and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Range_Hipposideros_scutinares.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-brasiliensis",
+  "name": "Brazilian tuco-tuco",
+  "scientificName": "Ctenomys brasiliensis",
+  "wikibase_item": "Q302998",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302998",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brazilian tuco-tuco is a tuco-tuco species. It is found mainly in the state of Minas Gerais in southeastern Brazil, though Charles Darwin mentions it during his trip through present-day Uruguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ctenomys_brasiliensis_1847_-_cropping.jpg",
+  "_score": 1
+}

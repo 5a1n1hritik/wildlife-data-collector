@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-lombocensis",
+  "name": "Pteropus lombocensis",
+  "scientificName": "Pteropus lombocensis",
+  "wikibase_item": "Q1065128",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1065128",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lombok_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lombok flying fox is a species of megabat in the genus Pteropus. It found in Indonesia and Timor-Leste. This species has been listed on Appendix II of CITES since 1990, along with most others in the genus Pteropus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pteropus_lombocensis_skull.png",
+  "_score": 1
+}

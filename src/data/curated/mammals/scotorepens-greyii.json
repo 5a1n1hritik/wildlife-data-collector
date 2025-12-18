@@ -1,0 +1,25 @@
+{
+  "id": "scotorepens-greyii",
+  "name": "Little Broad-nosed Bat",
+  "scientificName": "Scotorepens greyii",
+  "wikibase_item": "Q631333",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753706,
+      "id": "Q753706"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q631333",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little broad-nosed bat translates to \"Grey's darkness creeper\". Sometimes called Grey's broad-nosed after the third governor of South Australia, Sir John Edward Grey. It is a species of vesper bat, which is one of the largest and best-known family of bats. They are endemic to Australia, are insectivores and have a broad range within the mainland, mainly in hot arid areas but also found in tropical rainforests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_zoology_of_the_voyage_of_the_H.M.S._Erebus_and_Terror_%286258364876%29.jpg"
+}

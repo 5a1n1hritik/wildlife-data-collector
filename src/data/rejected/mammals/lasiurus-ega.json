@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-ega",
+  "name": "Southern Yellow Bat",
+  "scientificName": "Lasiurus ega",
+  "wikibase_item": "Q305707",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19713822,
+      "id": "Q19713822"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305707",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern yellow bat is a species of vesper bat that belongs to suborder microchiroptera (microbat) in the family Vespertilionidae. It is native to South, North and Central America, from the Rio Grande Valley of Texas in the United States to Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Naturalis_Biodiversity_Center_-_RMNH.MAM.17371.b_ven_-_lasiurus_Ega_Ega_-_skin.jpeg",
+  "_score": 1
+}

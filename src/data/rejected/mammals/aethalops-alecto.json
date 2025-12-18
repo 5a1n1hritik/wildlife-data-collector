@@ -1,0 +1,26 @@
+{
+  "id": "aethalops-alecto",
+  "name": "Aethalops alecto",
+  "scientificName": "Aethalops alecto",
+  "wikibase_item": "Q1764732",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 581985,
+      "id": "Q581985"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764732",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy fruit bat, also known as the grey fruit bat, is a species of megabat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pygmy_Fruit_Bat_area.png",
+  "_score": 1
+}

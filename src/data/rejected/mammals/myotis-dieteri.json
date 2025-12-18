@@ -1,0 +1,26 @@
+{
+  "id": "myotis-dieteri",
+  "name": "Kock's mouse-eared bat",
+  "scientificName": "Myotis dieteri",
+  "wikibase_item": "Q2484887",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2484887",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kock's_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kock's mouse-eared bat is a species of mouse-eared bat found in the Republic of the Congo.",
+  "image": null,
+  "_score": 0
+}

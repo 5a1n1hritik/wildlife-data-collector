@@ -1,0 +1,28 @@
+{
+  "id": "ornithorhynchus-anatinus",
+  "name": "platypus",
+  "scientificName": "Ornithorhynchus anatinus",
+  "wikibase_item": "Q15343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3745848,
+      "id": "Q3745848"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Platypus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The platypus, sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of its family Ornithorhynchidae and genus Ornithorhynchus, though a number of related species appear in the fossil record. Together with the four species of echidna, it is one of the five extant species of monotremes, mammals that lay eggs instead of giving birth to live young. Like other monotremes, the platypus has a sense of electrolocation, which it uses to detect prey in water while its eyes, ears and nostrils are closed. It is one of the few species of venomous mammals, as the male platypus has a spur on each hind foot that delivers an extremely painful venom.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

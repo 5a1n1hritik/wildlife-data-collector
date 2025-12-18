@@ -1,0 +1,26 @@
+{
+  "id": "petrogale-brachyotis",
+  "name": "Short-eared rock-wallaby",
+  "scientificName": "Petrogale brachyotis",
+  "wikibase_item": "Q209628",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209628",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-eared_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-eared rock-wallaby is a species of rock-wallaby found in northern Australia, in the northernmost parts of the Northern Territory and Western Australia. It is much larger than its three closest relatives, the eastern short-eared rock-wallaby, the nabarlek and the monjon.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Short-eared_rock_wallaby_in_Kakadu.jpg",
+  "_score": 1
+}

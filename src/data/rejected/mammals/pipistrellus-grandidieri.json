@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-grandidieri",
+  "name": "Pipistrellus grandidieri",
+  "scientificName": "Pipistrellus grandidieri",
+  "wikibase_item": "Q2430076",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2430076",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neoromicia_grandidieri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neoromicia grandidieri, known by the common names of Dobson's pipistrelle and yellow pipistrelle, is a species of vesper bat found in Africa. It was formerly in the genus Pipistrellus",
+  "image": null,
+  "_score": 0
+}

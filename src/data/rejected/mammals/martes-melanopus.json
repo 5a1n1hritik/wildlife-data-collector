@@ -1,0 +1,26 @@
+{
+  "id": "martes-melanopus",
+  "name": "Martes melanopus",
+  "scientificName": "Martes melanopus",
+  "wikibase_item": "Q41084798",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26533,
+      "id": "Q26533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084798"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

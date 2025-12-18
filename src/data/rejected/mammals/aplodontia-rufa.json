@@ -1,0 +1,26 @@
+{
+  "id": "aplodontia-rufa",
+  "name": "mountain beaver",
+  "scientificName": "Aplodontia rufa",
+  "wikibase_item": "Q503813",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10734562,
+      "id": "Q10734562"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q503813",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_beaver"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain beaver is a North American rodent. It is the only living member of its genus, Aplodontia, and family, Aplodontiidae. It should not be confused with true North American and Eurasian beavers, to which it is not closely related; the mountain beaver is instead more closely related to squirrels. There are seven subspecies of mountain beaver, six of which are found in California and three of which are endemic to the state.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aplodontia.jpg",
+  "_score": 2
+}

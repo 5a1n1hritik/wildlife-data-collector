@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-fasciatus",
+  "name": "Olive-backed pocket mouse",
+  "scientificName": "Perognathus fasciatus",
+  "wikibase_item": "Q1765770",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765770",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olive-backed_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The olive-backed pocket mouse is a species of rodent in the family Heteromyidae. It is found in the central Great Plains of Canada and the United States where it is widespread and relatively common; the IUCN considers it to be of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Olive-backed_pocket_mouse.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "helogale-parvula",
+  "name": "common dwarf mongoose",
+  "scientificName": "Helogale parvula",
+  "wikibase_item": "Q743563",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244233,
+      "id": "Q244233"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q743563",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_dwarf_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common dwarf mongoose is a mongoose species native to Angola, northern Botswana, northern Namibia, KwaZulu-Natal in South Africa, Zambia and East Africa. It is part of the genus Helogale, along with the Ethiopian dwarf mongoose.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Dwarf_Mongoose_%28Helogale_parvula%29_%286002158282%29.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-septentrionalis",
+  "name": "Myotis septentrionalis",
+  "scientificName": "Myotis septentrionalis",
+  "wikibase_item": "Q139417",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139417",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myotis_septentrionalis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Myotis septentrionalis, known as the northern long-eared bat or northern myotis, is a species of bat native to North America. There are no recognized subspecies. The northern long-eared bat is about 3–3.7 inches in length, with a wingspan of 9–10 inches. It is distinguishable by its long ears when comparing it to other bats in its genus. This species is commonly found in the northern United States and Southern Canada east of British Columbia. The geographic range includes 37 states.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Myotis_septentrionalis_1870.jpg",
+  "_score": 2
+}

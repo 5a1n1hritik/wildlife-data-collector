@@ -1,0 +1,26 @@
+{
+  "id": "myopterus-whitleyi",
+  "name": "Bini free-tailed bat",
+  "scientificName": "Myopterus whitleyi",
+  "wikibase_item": "Q1831414",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 137961,
+      "id": "Q137961"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bini_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bini free-tailed bat is a species of bat in the family Molossidae found in West and Central Africa. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Myopterus_whitleyi.jpg",
+  "_score": 2
+}

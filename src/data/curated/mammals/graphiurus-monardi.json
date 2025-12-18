@@ -1,0 +1,25 @@
+{
+  "id": "graphiurus-monardi",
+  "name": "Monard's Dormouse",
+  "scientificName": "Graphiurus monardi",
+  "wikibase_item": "Q1763810",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385877,
+      "id": "Q385877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763810",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monard's_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Monard's dormouse is a species of rodent in the family Gliridae. It is found in Angola, Democratic Republic of the Congo, and possibly Zambia. Its natural habitat is moist Central Zambezian miombo woodlands savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Graphiurus_monardi_Map.jpg"
+}

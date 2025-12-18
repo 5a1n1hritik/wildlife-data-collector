@@ -1,0 +1,26 @@
+{
+  "id": "soriculus-medogensis",
+  "name": "Soriculus medogensis",
+  "scientificName": "Soriculus medogensis",
+  "wikibase_item": "Q123018825",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10820244,
+      "id": "Q10820244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123018825"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

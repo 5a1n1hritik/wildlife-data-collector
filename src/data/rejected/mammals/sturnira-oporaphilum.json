@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-oporaphilum",
+  "name": "Tschudi's yellow-shouldered bat",
+  "scientificName": "Sturnira oporaphilum",
+  "wikibase_item": "Q1832997",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832997",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tschudi's_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tschudi's yellow-shouldered bat is a species of leaf-nosed bat indigenous to Argentina, Ecuador, and Peru, with its range also encompassing Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Distribution_of_Sturnira_oporaphilum.png",
+  "_score": 1
+}

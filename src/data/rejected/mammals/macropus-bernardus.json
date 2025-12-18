@@ -1,0 +1,26 @@
+{
+  "id": "macropus-bernardus",
+  "name": "Macropus bernardus",
+  "scientificName": "Macropus bernardus",
+  "wikibase_item": "Q209585",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3886694,
+      "id": "Q3886694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209585",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_wallaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black wallaroo, also known as Woodward's wallaroo, is a species of macropod restricted to a small, mountainous area in Arnhem Land, Northern Territory, Australia, between South Alligator River and Nabarlek. It classified as near threatened, mostly due to its limited distribution. A large proportion of the range is protected by Kakadu National Park.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Black_Wallaroo_Nourlangie_Rock_in_Kakadu_NP.jpg",
+  "_score": 2
+}

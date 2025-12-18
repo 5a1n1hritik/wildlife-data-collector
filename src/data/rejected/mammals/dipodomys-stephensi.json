@@ -1,0 +1,26 @@
+{
+  "id": "dipodomys-stephensi",
+  "name": "Stephens' kangaroo rat",
+  "scientificName": "Dipodomys stephensi",
+  "wikibase_item": "Q308213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308213",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephens's_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stephens's kangaroo rat is a species of rodent in the family Heteromyidae. It is endemic to the Southern California region of the United States, primarily in western Riverside County. The species is named after American zoologist Frank Stephens (1849–1937).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Stephens%27_kangaroo_rat.jpg",
+  "_score": 1
+}

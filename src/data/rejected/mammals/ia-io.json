@@ -1,0 +1,26 @@
+{
+  "id": "ia-io",
+  "name": "Great evening bat",
+  "scientificName": "Ia io",
+  "wikibase_item": "Q132976",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1095545,
+      "id": "Q1095545"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132976",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_evening_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great evening bat is the largest bat in the vesper bat family (Vespertilionidae) and the only living species in the genus Ia. It is common to Eastern and Southeastern Asia, mainly living in areas with limestone caves at altitudes of 400–1,700 metres (0.25–1.06 mi). Their roost sites have been found both near the cave entrances and up to 1.5 kilometres (0.93 mi) within the cave systems.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ia_io.jpg",
+  "_score": 1
+}

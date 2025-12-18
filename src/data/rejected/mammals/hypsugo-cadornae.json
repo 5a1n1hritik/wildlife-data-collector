@@ -1,0 +1,26 @@
+{
+  "id": "hypsugo-cadornae",
+  "name": "Cadorna's pipistrelle",
+  "scientificName": "Hypsugo cadornae",
+  "wikibase_item": "Q1829526",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829526",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cadorna's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cadorna's pipistrelle is a species of vesper bat in the family Vespertilionidae. It is found in India, Laos, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Distribution_of_Hypsugo_cadornae.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myopterus-daubentonii",
+  "name": "Myopterus daubentonii",
+  "scientificName": "Myopterus daubentonii",
+  "wikibase_item": "Q1833377",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 137961,
+      "id": "Q137961"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833377",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daubenton's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Daubenton's free-tailed bat or Daubenton's winged-mouse bat is a species of bat in the family Molossidae. It is found in Central African Republic, Democratic Republic of the Congo, Ivory Coast, and Senegal. Its natural habitats are subtropical or tropical dry forests and dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Myopterus_daubentonii.jpg",
+  "_score": 2
+}

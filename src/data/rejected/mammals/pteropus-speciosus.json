@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-speciosus",
+  "name": "Pteropus speciosus",
+  "scientificName": "Pteropus speciosus",
+  "wikibase_item": "Q606490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q606490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_gray_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine gray flying fox is a species of flying fox in the family Pteropodidae. It is found in Indonesia and the Philippines. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Philippine_Gray_Flying_Fox_area.png",
+  "_score": 2
+}

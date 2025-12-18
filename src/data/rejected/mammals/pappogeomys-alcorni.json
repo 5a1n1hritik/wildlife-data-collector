@@ -1,0 +1,26 @@
+{
+  "id": "pappogeomys-alcorni",
+  "name": "Alcorn's pocket gopher",
+  "scientificName": "Pappogeomys alcorni",
+  "wikibase_item": "Q1765191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 912089,
+      "id": "Q912089"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alcorn's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Alcorn's pocket gopher is a subspecies of the Buller's pocket gopher that is endemic to montane pine-oak forest between 910–3,010 m (3,000–10,000 ft) in the Sierra del Tigre of south Jalisco, Mexico.",
+  "image": null,
+  "_score": 0
+}

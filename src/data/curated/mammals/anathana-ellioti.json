@@ -1,0 +1,25 @@
+{
+  "id": "anathana-ellioti",
+  "name": "Madras treeshrew",
+  "scientificName": "Anathana ellioti",
+  "wikibase_item": "Q581371",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10733515,
+      "id": "Q10733515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q581371",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madras_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Madras treeshrew, also known as the Indian treeshrew, is a species of treeshrew in the monotypic genus Anathana found in the hill forests of central and southern India. The genus name is derived from the Tamil name of moongil anathaan and the species name is after Sir Walter Elliot of the Indian Civil Services in Madras.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Madras_treeshrew_%28Anathana_ellioti%29_by_Davidraju_img7.jpg"
+}

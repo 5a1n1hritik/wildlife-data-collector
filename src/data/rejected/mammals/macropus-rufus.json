@@ -1,0 +1,26 @@
+{
+  "id": "macropus-rufus",
+  "name": "red kangaroo",
+  "scientificName": "Macropus rufus",
+  "wikibase_item": "Q53462",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3886694,
+      "id": "Q3886694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53462",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red kangaroo is the largest of all kangaroos, the largest terrestrial mammal native to Australia, and the largest extant marsupial. It is found across mainland Australia, except for the more fertile areas, such as southern Western Australia, the eastern and southeastern coasts, and the rainforests along the northern coast.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Red_kangaroo_-_melbourne_zoo.jpg",
+  "_score": 1
+}

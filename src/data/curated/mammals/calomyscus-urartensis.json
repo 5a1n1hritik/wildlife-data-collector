@@ -1,0 +1,25 @@
+{
+  "id": "calomyscus-urartensis",
+  "name": "Urar Mouse-like Hamster",
+  "scientificName": "Calomyscus urartensis",
+  "wikibase_item": "Q1767969",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767969",
+    "wikipedia": "https://en.wikipedia.org/wiki/Urar_mouse-like_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Urar mouse-like hamster or Azerbaijani mouse-like hamster is a medium-sized mouse-like hamster from Nakhichevan, Azerbaijan and northwestern Azarbaijan Province, Iran. The species is named after the ancient kingdom of Urartu centered around the Armenian Highlands. It is among the better studied representatives of this poorly known genus. The initial species description was based on a unique chromosome number called a karyotype. The species status has been confirmed with other chromosomal studies and morphometric studies. The species description by Vorontsov et al. and subsequent prompted elevation of several subspecies of Calomyscus bailwardi to species status.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Calo10.jpg"
+}

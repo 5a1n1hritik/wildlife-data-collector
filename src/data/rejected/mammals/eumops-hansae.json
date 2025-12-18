@@ -1,0 +1,26 @@
+{
+  "id": "eumops-hansae",
+  "name": "Sanborn's bonneted bat",
+  "scientificName": "Eumops hansae",
+  "wikibase_item": "Q301946",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301946",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanborn's_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sanborn's bonneted bat is a bat species from South and Central America. It was first described from a specimen collected at Colonia Hansa, Brazil, and is sometimes also known as the Hansa bonneted bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Eumops_hansae.jpg",
+  "_score": 1
+}

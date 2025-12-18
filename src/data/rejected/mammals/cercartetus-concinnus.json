@@ -1,0 +1,26 @@
+{
+  "id": "cercartetus-concinnus",
+  "name": "Cercartetus concinnus",
+  "scientificName": "Cercartetus concinnus",
+  "wikibase_item": "Q209278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 576870,
+      "id": "Q576870"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209278",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_pygmy_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western pygmy possum, also known as the southwestern pygmy possum or the mundarda, is a small marsupial found in Australia. Genetic studies indicate its closest relative is probably the eastern pygmy possum, from which its ancestors diverged around eight million years ago.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cercartetus_concinnus_Museums_Victoria.jpg",
+  "_score": 1
+}

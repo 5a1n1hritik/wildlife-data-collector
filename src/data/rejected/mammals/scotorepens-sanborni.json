@@ -1,0 +1,26 @@
+{
+  "id": "scotorepens-sanborni",
+  "name": "Northern Broad-nosed Bat",
+  "scientificName": "Scotorepens sanborni",
+  "wikibase_item": "Q1833480",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753706,
+      "id": "Q753706"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833480",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern broad-nosed bat is a species of the vespertilionid family of microbats. It can be found in northern Australia, Timor-Leste, and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Distribution_of_Scotorepens_sanborni.png",
+  "_score": 1
+}

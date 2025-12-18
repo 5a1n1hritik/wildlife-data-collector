@@ -1,0 +1,26 @@
+{
+  "id": "nyctalus-plancyi",
+  "name": "Chinese Noctule",
+  "scientificName": "Nyctalus plancyi",
+  "wikibase_item": "Q1074147",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1074147",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_noctule"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese noctule is a common and widespread species of bat belonging to the family Vespertilionidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Nyctalus_plancyi_352123415.jpg",
+  "_score": 1
+}

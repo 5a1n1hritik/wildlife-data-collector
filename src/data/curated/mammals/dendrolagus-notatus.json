@@ -1,0 +1,26 @@
+{
+  "id": "dendrolagus-notatus",
+  "name": "Dendrolagus notatus",
+  "scientificName": "Dendrolagus notatus",
+  "wikibase_item": "Q2483675",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2483675",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dendrolagus_notatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dendrolagus notatus, the ifola or ifola tree kangaroo, is a species of marsupial in the family Macropodidae. It is endemic to Papua New Guinea where it is found in high elevations of the central mountains. It is threatened by habitat loss and hunting for food with dogs by local people. The species is usually considered a subspecies of Dendrolagus dorianus but has recently been considered as a separate species by Helgen in 2007.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Dendrolagus_notatus_249639440.jpg",
+  "_score": 4
+}

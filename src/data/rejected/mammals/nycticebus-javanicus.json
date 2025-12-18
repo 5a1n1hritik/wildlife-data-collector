@@ -1,0 +1,26 @@
+{
+  "id": "nycticebus-javanicus",
+  "name": "Javan slow loris",
+  "scientificName": "Nycticebus javanicus",
+  "wikibase_item": "Q972907",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 74941,
+      "id": "Q74941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q972907",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_slow_loris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan slow loris is a strepsirrhine primate and a species of slow loris native to the western and central portions of the island of Java, in Indonesia. Although originally described as a separate species, it was considered a subspecies of the Sunda slow loris (N. coucang) for many years, until reassessments of its morphology and genetics in the 2000s resulted in its promotion to full species status. It is most closely related to the Sunda slow loris and the Bengal slow loris (N. bengalensis). The species has two forms, based on hair length and, to a lesser extent, coloration.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Coucang.jpg",
+  "_score": 2
+}

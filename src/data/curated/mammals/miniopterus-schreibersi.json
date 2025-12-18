@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-schreibersi",
+  "name": "Miniopterus schreibersi",
+  "scientificName": "Miniopterus schreibersi",
+  "wikibase_item": "Q10585817",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10585817",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_bent-wing_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common bent-wing bat, also known as the Schreibers's long-fingered bat or Schreibers's bat, is a species of insectivorous bat. They appear to have dispersed from a subtropical origin and distributed throughout the southern Palearctic, Ethiopic, Oriental, and Australian regions. In Europe, it is present in the southern half on the continent from Iberia to the Caucasus, with the largest populations found in the warmer Mediterranean area. The common and scientific names honor Carl Franz Anton Ritter von Schreibers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Miniopterus_schreibersii_dasythrix.jpg"
+}

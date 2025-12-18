@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-creticus",
+  "name": "Pipistrellus creticus",
+  "scientificName": "Pipistrellus creticus",
+  "wikibase_item": "Q121339299",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121339299",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pipistrellus_creticus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pipistrellus creticus is a species of vesper bat. Thought initially described as a subspecies of Pipistrellus hanaki in 2009, further study found that it differed enough genetically and physically to be considered a separate species. The holotype was collected in Crete, from which the species name creticus is derived.",
+  "image": null,
+  "_score": 0
+}

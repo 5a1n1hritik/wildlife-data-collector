@@ -1,0 +1,26 @@
+{
+  "id": "sorex-camtschatica",
+  "name": "Kamchatka shrew",
+  "scientificName": "Sorex camtschatica",
+  "wikibase_item": "Q1766577",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766577",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamchatka_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kamchatka shrew  is a species of mammal in the family Soricidae. It is endemic to Russia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kamchatka_Shrew_area.png",
+  "_score": 1
+}

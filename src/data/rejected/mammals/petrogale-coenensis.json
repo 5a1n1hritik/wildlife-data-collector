@@ -1,0 +1,26 @@
+{
+  "id": "petrogale-coenensis",
+  "name": "Cape York rock-wallaby",
+  "scientificName": "Petrogale coenensis",
+  "wikibase_item": "Q209664",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209664",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_York_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape York rock-wallaby is a species of rock-wallaby restricted to Cape York Peninsula in northeastern Queensland, Australia. It is a member of a group of seven very closely related rock-wallabies, all found in northeastern Queensland, also including the Mount Claro rock-wallaby (P. sharmani), the Mareeba rock-wallaby (P. mareeba) and Godman's rock-wallaby (P. godmani).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cape_York_Rock_Wallaby_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-mira",
+  "name": "Least yellow bat",
+  "scientificName": "Rhogeessa mira",
+  "wikibase_item": "Q618569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618569",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least yellow bat is a species of vesper bat found only in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Distribution_of_Rhogeessa_mira.png",
+  "_score": 1
+}

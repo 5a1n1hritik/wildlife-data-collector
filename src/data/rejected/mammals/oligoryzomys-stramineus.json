@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-stramineus",
+  "name": "Oligoryzomys stramineus",
+  "scientificName": "Oligoryzomys stramineus",
+  "wikibase_item": "Q1765642",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765642",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_stramineus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys stramineus, also known as the straw-colored colilargo or straw-colored pygmy rice rat, is a species of rodent in the genus Oligoryzomys of the family Cricetidae. It occurs only in the cerrado and caatinga ecoregions of northeastern Brazil. Its karyotype has 2n = 52 and FNa = 68-70.",
+  "image": null,
+  "_score": 0
+}

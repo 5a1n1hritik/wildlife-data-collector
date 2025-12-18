@@ -1,0 +1,26 @@
+{
+  "id": "dasymys-incomtus",
+  "name": "African Marsh Rat",
+  "scientificName": "Dasymys incomtus",
+  "wikibase_item": "Q1763542",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763542",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_marsh_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African marsh rat or common dasymys is a species of rodent in the family Muridae.\nIt is found in Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, South Africa, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe.\nIts natural habitats are moist savanna, temperate grassland, subtropical or tropical seasonally wet or flooded lowland grassland, and swamps.",
+  "image": null,
+  "_score": 1
+}

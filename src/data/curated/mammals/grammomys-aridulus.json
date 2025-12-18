@@ -1,0 +1,26 @@
+{
+  "id": "grammomys-aridulus",
+  "name": "Arid thicket rat",
+  "scientificName": "Grammomys aridulus",
+  "wikibase_item": "Q308441",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308441",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arid_thicket_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The arid thicket rat is a species of rodent in the family Muridae.\nIt is found only in Sudan.\nIts natural habitat is subtropical or tropical dry shrubland. This species is currently listed on the \"Nearly Threatened\" list in its ranking of endangerment. Offspring of this species are commonly referred to as \"kittens\" or \"pups\". The female is referred to as a \"doe\", while the male is referred to as a \"buck\". These creatures commonly roam in groups, called a \"horde\", \"pack\", or \"storm\".",
+  "image": null,
+  "_score": 3
+}

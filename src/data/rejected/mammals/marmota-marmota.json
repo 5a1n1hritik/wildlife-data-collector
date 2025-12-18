@@ -1,0 +1,26 @@
+{
+  "id": "marmota-marmota",
+  "name": "Alpine marmot",
+  "scientificName": "Marmota marmota",
+  "wikibase_item": "Q285884",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q285884",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpine_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The alpine marmot is a large ground-dwelling squirrel, from the genus of marmots. It is found in high numbers in mountainous areas of central and southern Europe, at heights between 800 and 3,200 m (2,600–10,500 ft) in the Alps, Carpathians, Tatras and Northern Apennines. In 1948 they were reintroduced with success in the Pyrenees, where the alpine marmot had disappeared at end of the Pleistocene epoch.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg",
+  "_score": 2
+}

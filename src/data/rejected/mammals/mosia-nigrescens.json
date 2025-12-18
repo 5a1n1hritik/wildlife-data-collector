@@ -1,0 +1,26 @@
+{
+  "id": "mosia-nigrescens",
+  "name": "Dark sheath-tailed bat",
+  "scientificName": "Mosia nigrescens",
+  "wikibase_item": "Q1832393",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10794816,
+      "id": "Q10794816"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832393",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark sheath-tailed bat is a species of sac-winged bat in the family Emballonuridae. It is the only species in the genus Mosia. It is found in Indonesia, Papua New Guinea, and the Solomon Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dark_Sheath-tailed_Bat_imported_from_iNaturalist_photo_451989042_on_2_December_2024.jpg",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "petrogale-purpureicollis",
+  "name": "Purple-necked rock-wallaby",
+  "scientificName": "Petrogale purpureicollis",
+  "wikibase_item": "Q209668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209668",
+    "wikipedia": "https://en.wikipedia.org/wiki/Purple-necked_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The purple-necked rock-wallaby is a species of rock-wallaby first described in 1924 by Albert Sherbourne Le Souef, then director of the Taronga Zoo in Sydney, Australia, who noted a purple colouration around the neck and cranial features that distinguish it from other rock-wallaby species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Petrogale_purpureicollis.jpg"
+}

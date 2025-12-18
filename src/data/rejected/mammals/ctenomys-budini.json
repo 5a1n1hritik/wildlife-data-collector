@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-budini",
+  "name": "Budin's tuco-tuco",
+  "scientificName": "Ctenomys budini",
+  "wikibase_item": "Q1769565",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769565",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reddish_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The reddish tuco-tuco is a species of rodent in the family Ctenomyidae. Five subspecies have been recognized, some formerly designated as separate species. It is found in Argentina and Bolivia at altitudes from 600 to 4,500 m. This tuco-tuco is fossorial, like others in its genus. Its diet consists of underground tubers and roots. Its karyotype has 2n = 52 and FN = 78.",
+  "image": null,
+  "_score": 1
+}

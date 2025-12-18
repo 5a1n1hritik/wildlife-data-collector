@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-collaris",
+  "name": "Collared pika",
+  "scientificName": "Ochotona collaris",
+  "wikibase_item": "Q185540",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q185540",
+    "wikipedia": "https://en.wikipedia.org/wiki/Collared_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The collared pika is a species of mammal in the pika family, Ochotonidae, and part of the order Lagomorpha, which comprises rabbits, hares, and pikas. It is a small alpine lagomorph that lives in boulder fields of central and southern Alaska (U.S.), and in parts of Canada, including northern British Columbia, Yukon, and western parts of the Northwest Territories. It is closely related to the American pika, but it is a monotypic form containing no recognized subspecies. The name comes from distinctive patches of grayish fur on its nape and shoulders that form a \"collar.\" It is asocial, does not hibernate, and spends a large part of its time in the summer collecting vegetation that is stored under rocks (\"haypiles\") as a supply of food for the winter. Some individuals have been observed collecting and consuming dead birds as sources of fat and protein. Thousands of trips are made during July and August to collect vegetation for winter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ochotona_collaris_426417063.jpg",
+  "_score": 3
+}

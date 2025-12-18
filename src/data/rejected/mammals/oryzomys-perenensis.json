@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-perenensis",
+  "name": "Oryzomys perenensis",
+  "scientificName": "Oryzomys perenensis",
+  "wikibase_item": "Q27442271",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27442271",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hylaeamys_perenensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hylaeamys perenensis, formerly Oryzomys perenensis, also known as the western Amazonian oryzomys, is an oryzomyine rodent of the family Cricetidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hylaeamys_perenensis_63643616.jpg",
+  "_score": 1
+}

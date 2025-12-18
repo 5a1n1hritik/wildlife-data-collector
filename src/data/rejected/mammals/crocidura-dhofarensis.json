@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-dhofarensis",
+  "name": "Dhofar Shrew",
+  "scientificName": "Crocidura dhofarensis",
+  "wikibase_item": "Q304339",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304339",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhofar_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dhofar shrew is a white-toothed shrew found only in the Dhofar region of Oman and Yemen.",
+  "image": null,
+  "_score": 0
+}

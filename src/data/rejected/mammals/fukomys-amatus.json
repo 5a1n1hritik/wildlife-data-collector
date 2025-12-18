@@ -1,0 +1,26 @@
+{
+  "id": "fukomys-amatus",
+  "name": "Zambian Mole Rat",
+  "scientificName": "Fukomys amatus",
+  "wikibase_item": "Q29960741",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29960741",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zambian_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zambian mole-rat is a species of rodent in the family Bathyergidae. It is found in Zambia and the Democratic Republic of the Congo. It was formerly considered a subspecies of Cryptomys hottentotus.",
+  "image": null,
+  "_score": 0
+}

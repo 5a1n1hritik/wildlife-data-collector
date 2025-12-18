@@ -1,0 +1,26 @@
+{
+  "id": "funisciurus-substriatus",
+  "name": "Kintampo rope squirrel",
+  "scientificName": "Funisciurus substriatus",
+  "wikibase_item": "Q308773",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278459,
+      "id": "Q278459"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308773",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kintampo_rope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kintampo rope squirrel is a species of rodent in the family Sciuridae. It is found in Benin, Burkina Faso, Ivory Coast, Ghana, Niger, and Togo. Its natural habitat is moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Funisciurus_substriatus_99683001.jpg",
+  "_score": 2
+}

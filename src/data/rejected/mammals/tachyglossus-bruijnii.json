@@ -1,0 +1,26 @@
+{
+  "id": "tachyglossus-bruijnii",
+  "name": "Tachyglossus bruijnii",
+  "scientificName": "Tachyglossus bruijnii",
+  "wikibase_item": "Q121812830",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12902259,
+      "id": "Q12902259"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121812830"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

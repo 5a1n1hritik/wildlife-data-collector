@@ -1,0 +1,26 @@
+{
+  "id": "lophostoma-kalkoae",
+  "name": "Lophostoma kalkoae",
+  "scientificName": "Lophostoma kalkoae",
+  "wikibase_item": "Q15039828",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894193,
+      "id": "Q2894193"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15039828",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalko's_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kalko's round-eared bat is a species of leaf-nosed bat endemic to Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Distribution_of_Lophostoma_kalkoae_%28cropped%29.png",
+  "_score": 1
+}

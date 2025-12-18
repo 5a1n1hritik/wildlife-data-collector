@@ -1,0 +1,26 @@
+{
+  "id": "tatusia-granadiana",
+  "name": "Tatusia granadiana",
+  "scientificName": "Tatusia granadiana",
+  "wikibase_item": "Q41168324",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41158652,
+      "id": "Q41158652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168324"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

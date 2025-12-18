@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-cormutus",
+  "name": "Rhinolophus cormutus",
+  "scientificName": "Rhinolophus cormutus",
+  "wikibase_item": "Q40670769",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40670769"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

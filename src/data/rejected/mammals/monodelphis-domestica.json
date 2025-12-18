@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-domestica",
+  "name": "Monodelphis domestica",
+  "scientificName": "Monodelphis domestica",
+  "wikibase_item": "Q194472",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194472",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_short-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray short-tailed opossum is a small South American member of the family Didelphidae. Unlike most other marsupials, the gray short-tailed opossum does not have a true pouch. The scientific name Monodelphis is derived from Greek and means \"single womb\" and the Latin word domestica which means \"domestic\". It was the first marsupial to have its genome sequenced. The gray short-tailed opossum is used as a research model in science, and is also frequently found in the exotic pet trade. It is also known as the Brazilian opossum, rainforest opossum and in a research setting the laboratory opossum.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Monodelphis_domestica.jpg",
+  "_score": 2
+}

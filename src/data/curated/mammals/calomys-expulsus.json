@@ -1,0 +1,26 @@
+{
+  "id": "calomys-expulsus",
+  "name": "Caatinga vesper mouse",
+  "scientificName": "Calomys expulsus",
+  "wikibase_item": "Q1768782",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768782",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caatinga_vesper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The caatinga vesper mouse is a rodent species in the family Cricetidae from South America. It is endemic to eastern Brazil, where it is found in open savanna (cerrado) and thorny scrub (caatinga) habitats. Its karyotype has 2n = 66 and FN = 68. It was formerly synonymized with C. callosus, but the latter has 2n = 50 and FN = 66. Karyologic analysis of C. expulsus has shown that the X chromosome is large and submetacentric while the Y chromosome is either acrocentric or submetacentric. Predators include the barn owl. Sexual dimorphism in shape and size occurs; the former is present mainly before the age of 20 days. Males are smaller before age 50 days and larger thereafter, which becomes less prominent after 200 days.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Calomys_expulsus.jpg",
+  "_score": 4
+}

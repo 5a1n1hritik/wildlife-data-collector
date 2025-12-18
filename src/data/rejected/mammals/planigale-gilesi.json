@@ -1,0 +1,26 @@
+{
+  "id": "planigale-gilesi",
+  "name": "Paucident planigale",
+  "scientificName": "Planigale gilesi",
+  "wikibase_item": "Q194751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541538,
+      "id": "Q541538"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paucident_planigale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The paucident planigale, also known as Giles' planigale, is a very small species of carnivorous marsupial of the family Dasyuridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Paucident_planigale.jpg",
+  "_score": 1
+}

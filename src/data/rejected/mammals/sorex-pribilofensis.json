@@ -1,0 +1,26 @@
+{
+  "id": "sorex-pribilofensis",
+  "name": "Pribilof Island shrew",
+  "scientificName": "Sorex pribilofensis",
+  "wikibase_item": "Q1501292",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1501292",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pribilof_Island_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pribilof Island shrew is a small, short tailed species of mammal in the family Soricidae (shrews). It is endemic to and found only on Alaska's Pribilof Islands. Due to its distinct tricoloured coat, it was originally thought to be related to the Arctic shrew, but it is in fact much closer to the Cinereus shrew in its geographical distribution and morphological traits. Not much is known about the population size, breeding habits, ecology, and the general biology of the shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pribilof_Island_Shrew_area.png",
+  "_score": 2
+}

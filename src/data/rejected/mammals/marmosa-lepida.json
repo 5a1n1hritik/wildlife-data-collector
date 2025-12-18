@@ -1,0 +1,26 @@
+{
+  "id": "marmosa-lepida",
+  "name": "Rufous mouse opossum",
+  "scientificName": "Marmosa lepida",
+  "wikibase_item": "Q194894",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194894",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufous_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rufous mouse opossum or little rufous mouse opossum is an opossum species from South America. The species has been found in Bolivia, French Guinea, Brazil, Colombia, Ecuador, Guyana, Peru and Suriname in lowland tropical rainforest at altitudes from 100 to 1,000 m. It is presumed to feed on insects and fruit, like its close relatives.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Catalogue_of_the_Marsupialia_and_Monotremata_in_the_collection_of_the_British_Museum_%28Natural_History%29_%281888%29_%2820772821205%29.jpg",
+  "_score": 1
+}

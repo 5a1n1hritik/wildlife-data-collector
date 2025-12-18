@@ -1,0 +1,26 @@
+{
+  "id": "carpitalpa-arendsi",
+  "name": "Arends' golden mole",
+  "scientificName": "Carpitalpa arendsi",
+  "wikibase_item": "Q137621",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18520870,
+      "id": "Q18520870"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137621",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arends's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Arends' golden mole is a species of mammal in the family Chrysochloridae. It is found in Mozambique and Zimbabwe. Its natural habitats are temperate forests, subtropical or tropical dry, and moist montane forests, dry lowland grassland, arable land, pasture, plantations, rural gardens, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Arend%27s_Golden_Mole_area.png",
+  "_score": 2
+}

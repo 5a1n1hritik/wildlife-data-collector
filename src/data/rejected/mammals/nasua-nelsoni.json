@@ -1,0 +1,26 @@
+{
+  "id": "nasua-nelsoni",
+  "name": "Cozumel Island coati",
+  "scientificName": "Nasua nelsoni",
+  "wikibase_item": "Q869465",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148628,
+      "id": "Q148628"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869465",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cozumel_coati"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cozumel coati, dwarf coati, or Cozumel Island coati, is a coati from the Mexican island of Cozumel, in the Caribbean Sea. It is in the family Procyonidae, which also includes raccoons, ringtails, olingos, and kinkajous.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Critically_Endangered_Cozumel_Island_Dwarf_Coati.jpg",
+  "_score": 1
+}

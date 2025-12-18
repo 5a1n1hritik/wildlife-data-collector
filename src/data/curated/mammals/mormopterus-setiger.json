@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-setiger",
+  "name": "Mormopterus setiger",
+  "scientificName": "Mormopterus setiger",
+  "wikibase_item": "Q125824575",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125824575",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_flat-headed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's flat-headed bat is a species of bat in the family Molossidae and the monotypic genus Platymops. It is found in Ethiopia, Kenya, and South Sudan. Its natural habitats are dry savanna and rocky areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Platymops_setiger.jpg/652px-Platymops_setiger.jpg"
+}

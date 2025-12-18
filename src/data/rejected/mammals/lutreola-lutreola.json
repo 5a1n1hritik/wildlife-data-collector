@@ -1,0 +1,26 @@
+{
+  "id": "lutreola-lutreola",
+  "name": "Lutreola lutreola",
+  "scientificName": "Lutreola lutreola",
+  "wikibase_item": "Q106448093",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17700,
+      "id": "Q17700"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106448093",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_mink"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European mink, also known as the Russian mink and Eurasian mink, is a semiaquatic species of mustelid native to Europe.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Europ%C3%A4ischer_Nerz.jpg",
+  "_score": 1
+}

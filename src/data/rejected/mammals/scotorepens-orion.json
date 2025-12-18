@@ -1,0 +1,26 @@
+{
+  "id": "scotorepens-orion",
+  "name": "Eastern broad-nosed bat",
+  "scientificName": "Scotorepens orion",
+  "wikibase_item": "Q1830151",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753706,
+      "id": "Q753706"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830151",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern broad-nosed bat or Orion broad-nosed bat is a species of vespertilionid bat. It is found only in Australia, east of the Great Dividing Range, from about Rockhampton to Melbourne, with a small isolated population on the Atherton Tablelands.",
+  "image": null,
+  "_score": 0
+}

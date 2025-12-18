@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-dsinezumi",
+  "name": "Dsinezumi shrew",
+  "scientificName": "Crocidura dsinezumi",
+  "wikibase_item": "Q1768324",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768324",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dsinezumi_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dsinezumi shrew, also known as the Japanese white-toothed shrew, is a species of musk shrew found in Japan, Korea's Jeju Island and also in the state of Manipur, India. It is widespread, and considered to be of \"least concern\" by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sorex_ezinezumi_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20900131.tif/lossy-page1-2502px-Sorex_ezinezumi_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20900131.tif.jpg"
+}

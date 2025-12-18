@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-ziama",
+  "name": "Rhinolophus ziama",
+  "scientificName": "Rhinolophus ziama",
+  "wikibase_item": "Q1768855",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768855",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ziama_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ziama horseshoe bat is a species of bat in the family Rhinolophidae. It was first described in 2002. It is found in Guinea, Sierra Leone, and Liberia. Its natural habitats are subtropical and tropical moist lowland and monstane forests. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rhinolophus_ziama_area.png",
+  "_score": 2
+}

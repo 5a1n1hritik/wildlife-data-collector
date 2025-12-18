@@ -1,0 +1,26 @@
+{
+  "id": "dendrolagus-lumholtzi",
+  "name": "Lumholtz's tree-kangaroo",
+  "scientificName": "Dendrolagus lumholtzi",
+  "wikibase_item": "Q209510",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209510",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lumholtz's_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lumholtz's tree-kangaroo is a rare, long-tailed marsupial found in rainforests in northeastern Australia. Like most tree-kangaroos, it lives alone in trees and feeds on plant matter. It belongs to the macropod family (Macropodidae) with kangaroos, and carries its young in a pouch like other marsupials. It is threatened by climate change and diseases, and is found in the hilly, fertile Atherton Tableland near Cairns in north east Queensland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lumholtz%27s_tree_kangaroo-03.JPG",
+  "_score": 3
+}

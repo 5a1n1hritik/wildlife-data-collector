@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-javanicus",
+  "name": "Java pipistrelle",
+  "scientificName": "Pipistrellus javanicus",
+  "wikibase_item": "Q1829630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Java_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan or Eastern pipistrelle is a species of pipistrelle bat found in South and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Range_Pipistrellus_javanicus.png",
+  "_score": 1
+}

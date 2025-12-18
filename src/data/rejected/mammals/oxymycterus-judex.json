@@ -1,0 +1,26 @@
+{
+  "id": "oxymycterus-judex",
+  "name": "Oxymycterus judex",
+  "scientificName": "Oxymycterus judex",
+  "wikibase_item": "Q41010575",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41010575"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

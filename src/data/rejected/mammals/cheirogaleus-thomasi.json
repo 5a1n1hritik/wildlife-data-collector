@@ -1,0 +1,26 @@
+{
+  "id": "cheirogaleus-thomasi",
+  "name": "Cheirogaleus thomasi",
+  "scientificName": "Cheirogaleus thomasi",
+  "wikibase_item": "Q28476855",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28476855",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas'_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Thomas' dwarf lemur is a species of dwarf lemur known only from Anosy, Madagascar. It lives in forested regions along the coast.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Novitateszoologi01Opolemur_thomasi.pdf/page1-2683px-Novitateszoologi01Opolemur_thomasi.pdf.jpg",
+  "_score": 1
+}

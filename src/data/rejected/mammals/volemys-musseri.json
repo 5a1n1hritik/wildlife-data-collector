@@ -1,0 +1,26 @@
+{
+  "id": "volemys-musseri",
+  "name": "Marie's Vole",
+  "scientificName": "Volemys musseri",
+  "wikibase_item": "Q1766508",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668393,
+      "id": "Q668393"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766508",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie's_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Marie's vole is a species of rodent in the family Cricetidae. \nIt is found only in China. Volemys musseri is one of two species in the genus Volemys along with the Szechuan vole.",
+  "image": null,
+  "_score": 0
+}

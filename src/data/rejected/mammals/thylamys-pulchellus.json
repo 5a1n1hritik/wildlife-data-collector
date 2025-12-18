@@ -1,0 +1,26 @@
+{
+  "id": "thylamys-pulchellus",
+  "name": "Thylamys pulchellus",
+  "scientificName": "Thylamys pulchellus",
+  "wikibase_item": "Q97175789",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97175789",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dry_Chaco_fat-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dry Chaco fat-tailed opossum is a species of opossum in the subfamily Didelphinae. The species is endemic to the Argentine portion of Gran Chaco. The species was also once considered to be a part of the common fat-tailed mouse opossum but is now considered a different species based on morphological and genetic differences.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Thylamys_pulchellus_140409426.jpg",
+  "_score": 1
+}

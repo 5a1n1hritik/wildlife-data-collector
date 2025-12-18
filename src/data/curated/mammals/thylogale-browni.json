@@ -1,0 +1,26 @@
+{
+  "id": "thylogale-browni",
+  "name": "Brown's pademelon",
+  "scientificName": "Thylogale browni",
+  "wikibase_item": "Q209649",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668527,
+      "id": "Q668527"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209649",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown's_pademelon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brown's pademelon is a species of marsupial in the family Macropodidae. It is found in New Guinea. Its natural habitats are subtropical or tropical dry forests, dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/MacropusLugensSmit.jpg",
+  "_score": 3
+}

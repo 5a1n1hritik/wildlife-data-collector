@@ -1,0 +1,26 @@
+{
+  "id": "anoura-sp.",
+  "name": "Anoura sp.",
+  "scientificName": "Anoura sp.",
+  "wikibase_item": "Q41080267",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080267"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

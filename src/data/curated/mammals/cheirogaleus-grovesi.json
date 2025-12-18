@@ -1,0 +1,26 @@
+{
+  "id": "cheirogaleus-grovesi",
+  "name": "Groves' dwarf lemur",
+  "scientificName": "Cheirogaleus grovesi",
+  "wikibase_item": "Q47463260",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47463260",
+    "wikipedia": "https://en.wikipedia.org/wiki/Groves'_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Groves' dwarf lemur is a species of dwarf lemur known from Ranomafana and Andringitra national parks and surrounding areas in southeastern Madagascar. The identification was based on comparison of mitochondrial and nuclear gene sequences with other members of the C. crossleyi group. Individuals from this clade first came under genetic study in 1999 and were recognized as a new species in 2014, but it was not formally described until 2017. The lemur was named after mammalologist Colin Groves. Known from altitudes from 754 to 999 m, it is significantly larger than other members of the C. crossleyi group, with a 20 cm body length, a 29 cm tail, and a weight of 0.41 kg. While the conservation status of the new species has not yet been assessed, its presence in several national parks does not guarantee that it will not be threatened by deforestation ongoing on the island, or possibly by hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Groves%27_dwarf_lemur_%28Cheirogaleus_grovesi%29.jpg",
+  "_score": 4
+}

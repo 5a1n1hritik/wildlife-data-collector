@@ -1,0 +1,26 @@
+{
+  "id": "rousettus-aegyptiacus",
+  "name": "Rousettus aegyptiacus",
+  "scientificName": "Rousettus aegyptiacus",
+  "wikibase_item": "Q754983",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19716600,
+      "id": "Q19716600"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754983",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egyptian_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Egyptian fruit bat or Egyptian rousette is a species of megabat that occurs in Africa, the Middle East, the Mediterranean and the Indian subcontinent. It is one of three Rousettus species with an African-Malagasy range, though the only species of its genus found on continental Africa. The common ancestor of the three species colonized the region in the late Pliocene or early Pleistocene. The species is traditionally divided into six subspecies. It is considered a medium-sized megabat, with adults weighing 80–170 g (2.8–6.0 oz) and possessing wingspans of approximately 60 cm (24 in). Individuals are dark brown or grayish brown, with their undersides paler than their backs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Skraidantis_egipto_%C5%A1uo_%28cropped%29.jpg",
+  "_score": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cheirogaleus-shethi",
+  "name": "Ankarana dwarf lemur",
+  "scientificName": "Cheirogaleus shethi",
+  "wikibase_item": "Q28104026",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28104026",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ankarana_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ankarana dwarf lemur or Sheth's dwarf lemur is a species of dwarf lemur, part of the C. medius group, known only from northern Madagascar. It has been found in two reserves as well as two protected areas. It was identified in 2014, but not formally described until 2016. Its conservation status has not been determined, but it is at risk from habitat destruction due to daily resource extraction by local human populations.",
+  "image": null
+}

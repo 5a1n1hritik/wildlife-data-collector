@@ -1,0 +1,26 @@
+{
+  "id": "nyctipithecus-lemurinus",
+  "name": "Nyctipithecus lemurinus",
+  "scientificName": "Nyctipithecus lemurinus",
+  "wikibase_item": "Q123002565",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122216357,
+      "id": "Q122216357"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123002565"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "phyllotis-definitus",
+  "name": "Definitive leaf-eared mouse",
+  "scientificName": "Phyllotis definitus",
+  "wikibase_item": "Q1766794",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766794",
+    "wikipedia": "https://en.wikipedia.org/wiki/Definitive_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The definitive leaf-eared mouse is a species of rodent in the family Cricetidae. It is found only in west central Peru, in rocky and shrub-covered areas at elevations between 2600 and 3000 m.",
+  "image": null,
+  "_score": 0
+}

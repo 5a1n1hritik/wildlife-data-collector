@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-douglasorum",
+  "name": "Eptesicus douglasorum",
+  "scientificName": "Eptesicus douglasorum",
+  "wikibase_item": "Q109647281",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647281",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-lipped_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-lipped cave bat is a vesper bat, an insectivorous flying mammal, that only occurs in the Kimberley region of north-west Australia. The bat was first captured at Tunnel Creek in 1958 and a description published nearly twenty years later. Aside from observations of their physical characteristics, a preference for caves, and hunting insects over streams, little is known of the species.",
+  "image": null,
+  "_score": 0
+}

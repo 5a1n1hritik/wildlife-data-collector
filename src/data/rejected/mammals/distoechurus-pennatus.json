@@ -1,0 +1,26 @@
+{
+  "id": "distoechurus-pennatus",
+  "name": "feather-tailed possum",
+  "scientificName": "Distoechurus pennatus",
+  "wikibase_item": "Q782785",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15402218,
+      "id": "Q15402218"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q782785",
+    "wikipedia": "https://en.wikipedia.org/wiki/Feather-tailed_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The feather-tailed possum is a species of marsupial in the family Acrobatidae. It is found in West Papua and Papua New Guinea. It is not to be confused with the feathertail glider, the only other species in the family Acrobatidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Enumerazione_dei_mammiferi_%289680496678%29_2.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "geomys-hispidus",
+  "name": "Geomys hispidus",
+  "scientificName": "Geomys hispidus",
+  "wikibase_item": "Q125865982",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125865982",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispid_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hispid pocket gopher is a species of rodent in the family Geomyidae. It is found in Mexico, Belize, Guatemala, and Honduras. Some authors classify it in the genus Orthogeomys, but recent research has allowed this and its related species to be classified in the genus Heterogeomys.",
+  "image": null,
+  "_score": 0
+}

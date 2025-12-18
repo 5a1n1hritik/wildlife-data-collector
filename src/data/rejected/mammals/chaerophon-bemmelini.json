@@ -1,0 +1,26 @@
+{
+  "id": "chaerophon-bemmelini",
+  "name": "Chaerophon bemmelini",
+  "scientificName": "Chaerophon bemmelini",
+  "wikibase_item": "Q41163387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41152259,
+      "id": "Q41152259"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41163387"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rousettus-leachii",
+  "name": "Rousettus leachii",
+  "scientificName": "Rousettus leachii",
+  "wikibase_item": "Q40676932",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1189557,
+      "id": "Q1189557"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40676932"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

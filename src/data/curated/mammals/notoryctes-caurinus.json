@@ -1,0 +1,25 @@
+{
+  "id": "notoryctes-caurinus",
+  "name": "Notoryctes caurinus",
+  "scientificName": "Notoryctes caurinus",
+  "wikibase_item": "Q209791",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 234792,
+      "id": "Q234792"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209791",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_marsupial_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern marsupial mole or kakarratul is a marsupial in the family Notoryctidae, an endemic animal of arid regions of Central Australia. It lives in the loose sand of dunes and river plains in the desert, spending nearly its entire life beneath ground. The facial features are reduced or absent; their small and strong bodies, weighing little more than 30 grams, are extremely specialised in moving through sand in search of prey. The species is elusive and it is one of the most poorly understood mammals of Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Northern_Marsupial_Mole_area.png"
+}

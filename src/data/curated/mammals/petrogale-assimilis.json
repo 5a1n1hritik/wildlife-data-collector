@@ -1,0 +1,25 @@
+{
+  "id": "petrogale-assimilis",
+  "name": "Allied rock-wallaby",
+  "scientificName": "Petrogale assimilis",
+  "wikibase_item": "Q133471",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133471",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allied_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The allied rock-wallaby or Weasel rock-wallaby is a species of rock-wallaby found in northeastern Queensland, Australia. It forms part of the P. lateralis/penicillata species complex and is very similar to six other species of rock-wallaby found in this area; these include the Cape York rock-wallaby (P. coenensis), the unadorned rock-wallaby (P. inornata), the Herbert's rock-wallaby (P. herberti), the Godman's rock-wallaby (P. godmani), the Mareeba rock-wallaby (P. mareeba) and the Mount Claro rock-wallaby (P. sharmani).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Rock_Wallaby_and_infant_-_July_2005.jpg"
+}

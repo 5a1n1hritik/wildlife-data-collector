@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-obscurus",
+  "name": "Hipposideros obscurus",
+  "scientificName": "Hipposideros obscurus",
+  "wikibase_item": "Q1764325",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764325",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_forest_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine forest roundleaf bat is a species of bat in the family Hipposideridae. It is endemic to the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Philippine_Forest_Roundleaf_Bat_area.png",
+  "_score": 1
+}

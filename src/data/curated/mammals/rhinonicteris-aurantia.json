@@ -1,0 +1,25 @@
+{
+  "id": "rhinonicteris-aurantia",
+  "name": "Rhinonicteris aurantia",
+  "scientificName": "Rhinonicteris aurantia",
+  "wikibase_item": "Q1832338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10811563,
+      "id": "Q10811563"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orange_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The orange leaf-nosed bat is a bat in the family Rhinonycteridae. It is the only living species in the genus Rhinonicteris which is endemic to Australia, occurring in the far north and north-west of the continent. They roost in caves, eat moths, and are sensitive to human intrusion.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rhinonicteris_aurantia.jpg"
+}

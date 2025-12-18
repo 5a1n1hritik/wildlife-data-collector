@@ -1,0 +1,26 @@
+{
+  "id": "grammomys-caniceps",
+  "name": "Gray-headed thicket rat",
+  "scientificName": "Grammomys caniceps",
+  "wikibase_item": "Q304050",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304050",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-headed_thicket_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-headed thicket rat is a species of rodent in the family Muridae.\nIt is found in Kenya and Somalia. Its natural habitat is subtropical or tropical dry shrubland.",
+  "image": null,
+  "_score": 1
+}

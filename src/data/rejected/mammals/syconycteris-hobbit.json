@@ -1,0 +1,26 @@
+{
+  "id": "syconycteris-hobbit",
+  "name": "Moss-forest Blossom Bat",
+  "scientificName": "Syconycteris hobbit",
+  "wikibase_item": "Q1769083",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2434332,
+      "id": "Q2434332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769083",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moss-forest_blossom_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The moss-forest blossom bat is a species of megabat in the family Pteropodidae found in New Guinea. Its natural habitat is subtropical and tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Moss-forest_Blossom_Bat_area.png",
+  "_score": 2
+}

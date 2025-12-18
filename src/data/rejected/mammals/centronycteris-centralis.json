@@ -1,0 +1,26 @@
+{
+  "id": "centronycteris-centralis",
+  "name": "Thomas's Shaggy Bat",
+  "scientificName": "Centronycteris centralis",
+  "wikibase_item": "Q1831125",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1983292,
+      "id": "Q1983292"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831125",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_shaggy_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Thomas's shaggy bat is a bat species from Central and South America. It was previously included in the shaggy bat but Simmons and Handley (1998) showed that the species were distinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Centronycteris_centralis_31737818.jpg",
+  "_score": 1
+}

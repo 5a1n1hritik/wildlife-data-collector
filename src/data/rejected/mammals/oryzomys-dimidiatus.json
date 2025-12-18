@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-dimidiatus",
+  "name": "Oryzomys dimidiatus",
+  "scientificName": "Oryzomys dimidiatus",
+  "wikibase_item": "Q2890164",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2890164",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oryzomys_dimidiatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oryzomys dimidiatus, also known as the Nicaraguan oryzomys, Thomas's rice rat, or the Nicaraguan rice rat, is a rodent in the family Cricetidae. It is known from only three specimens, all collected in southeastern Nicaragua since 1904. Placed in Nectomys upon its discovery, it was later classified in its own subgenus of Oryzomys and finally recognized as closely related to other species now placed in Oryzomys, including the marsh rice rat and Coues' rice rat, which occurs in the same region.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Oryzomys_distribution_C_America.png",
+  "_score": 2
+}

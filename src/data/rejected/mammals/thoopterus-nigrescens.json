@@ -1,0 +1,26 @@
+{
+  "id": "thoopterus-nigrescens",
+  "name": "Swift Fruit Bat",
+  "scientificName": "Thoopterus nigrescens",
+  "wikibase_item": "Q1761436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10825311,
+      "id": "Q10825311"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swift_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The swift fruit bat is a species of megabat in the family Pteropodidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Swift_Fruit_Bat_area.png",
+  "_score": 1
+}

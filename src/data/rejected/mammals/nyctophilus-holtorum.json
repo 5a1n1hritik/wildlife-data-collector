@@ -1,0 +1,26 @@
+{
+  "id": "nyctophilus-holtorum",
+  "name": "Nyctophilus holtorum",
+  "scientificName": "Nyctophilus holtorum",
+  "wikibase_item": "Q107410382",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107410382",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holts'_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Holts' long-eared bat is a species of bat in the family Vespertilionidae. It is endemic to Australia, where it is only found in the southwestern corner of Western Australia.",
+  "image": null,
+  "_score": 0
+}

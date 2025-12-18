@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-indochinensis",
+  "name": "Crocidura indochinensis",
+  "scientificName": "Crocidura indochinensis",
+  "wikibase_item": "Q1939325",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1939325",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indochinese_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indochinese shrew is a species of white-toothed shrew native to Southeast Asia. It was first identified in 1922 by Herbert C. Robinson and C. Boden Kloss. The species is often taxonomized as a subspecies Horsfield's shrew, but bears a different range, occurring in Myanmar, Vietnam, and the Yunnan province of China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Indochinese_Shrew_area.png"
+}

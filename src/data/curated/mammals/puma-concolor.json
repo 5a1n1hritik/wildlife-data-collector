@@ -1,0 +1,26 @@
+{
+  "id": "puma-concolor",
+  "name": "cougar",
+  "scientificName": "Puma",
+  "wikibase_item": "Q35255",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 270748,
+      "id": "Q270748"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q35255",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cougar"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cougar, also called puma, mountain lion, catamount, and panther, is a large small cat native to the Americas. It inhabits North, Central and South America, making it the most widely distributed wild, terrestrial mammal in the Western Hemisphere, and one of the most widespread in the world. Its range spans Yukon, British Columbia and Alberta in Canada, the Rocky Mountains and areas in the western United States. Further south, its range extends through Mexico to the Amazon rainforest and the southern Andes Mountains in Patagonia. It is an adaptable generalist species, occurring in most American habitat types. It prefers habitats with dense underbrush and rocky areas for stalking but also lives in open areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg",
+  "_score": 4
+}

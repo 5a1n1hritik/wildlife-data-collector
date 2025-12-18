@@ -1,0 +1,26 @@
+{
+  "id": "myospalax-fontanierii",
+  "name": "Myospalax fontanierii",
+  "scientificName": "Myospalax fontanieri",
+  "wikibase_item": "Q10872541",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 82713,
+      "id": "Q82713"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10872541",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_zokor"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese zokor is a species of rodent in the family Spalacidae. It is endemic to China, ranging from Qinghai Province eastwards to Beijing in steppe and alpine grasslands. Henri Milne-Edwards first described it in 1867. Eradication programs in the 1990s in Qinghai Province resulted in a population decline to less than a third of the former population. It is considered common and has been assessed as Least Concern by IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Eospalax_fontanierii.jpg",
+  "_score": 2
+}

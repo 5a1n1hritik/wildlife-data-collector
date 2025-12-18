@@ -1,0 +1,26 @@
+{
+  "id": "nectogale-sikhimensis",
+  "name": "Nectogale sikhimensis",
+  "scientificName": "Nectogale sikhimensis",
+  "wikibase_item": "Q125226282",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10797457,
+      "id": "Q10797457"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125226282"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

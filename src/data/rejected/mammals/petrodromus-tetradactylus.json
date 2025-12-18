@@ -1,0 +1,26 @@
+{
+  "id": "petrodromus-tetradactylus",
+  "name": "Petrodromus tetradactylus",
+  "scientificName": "Petrodromus tetradactylus",
+  "wikibase_item": "Q930150",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804842,
+      "id": "Q10804842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q930150",
+    "wikipedia": "https://en.wikipedia.org/wiki/Four-toed_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The four-toed elephant shrew or four-toed sengi is the only living species in the genus Petrodromus, which together with five other extant genera Rhynchocyon, Macroscelides, Petrosaltator, Galegeeska and Elephantulus constitutes the order Macroscelidea. This species is only found in particular regions in Africa and is smaller than its relatives. A comprehensive record of this species is lacking.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Petrodromus_tetradactylus-Zootaxa.jpg",
+  "_score": 1
+}

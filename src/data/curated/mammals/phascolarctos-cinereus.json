@@ -1,0 +1,26 @@
+{
+  "id": "phascolarctos-cinereus",
+  "name": "koala",
+  "scientificName": "Phascolarctos cinereus",
+  "wikibase_item": "Q36101",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 209692,
+      "id": "Q209692"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36101",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koala"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The koala, sometimes inaccurately called the koala bear, is an arboreal herbivorous marsupial native to Australia. It is the only extant representative of the family Phascolarctidae. Its closest living relatives are the wombats. The koala is found in coastal areas of the continent's eastern and southern regions, inhabiting Queensland, New South Wales, Victoria, and South Australia. It is easily recognisable by its stout, tailless body and large head with round, fluffy ears and large, dark nose. The koala has a body length of 60–85 cm (24–33 in) and weighs 4–15 kg (8.8–33.1 lb). Its fur colour ranges from silver grey to chocolate brown. Koalas from the northern populations are typically smaller and lighter in colour than their counterparts further south. These populations are possibly separate subspecies, but not all researchers accept this.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg",
+  "_score": 3
+}

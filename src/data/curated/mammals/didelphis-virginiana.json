@@ -1,0 +1,25 @@
+{
+  "id": "didelphis-virginiana",
+  "name": "Didelphis virginiana",
+  "scientificName": "Didelphis virginiana",
+  "wikibase_item": "Q147267",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q147267",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Virginia opossum, also known as the North American opossum, is a member of the opossum family found from southern Canada to northern Costa Rica, making it the northernmost marsupial in the world. Commonly referred to simply as the possum, it is a solitary nocturnal animal about the size of a domestic cat, and a successful opportunist.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Opossum_2.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-findleyi",
+  "name": "Findley's myotis",
+  "scientificName": "Myotis findleyi",
+  "wikibase_item": "Q1829465",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829465",
+    "wikipedia": "https://en.wikipedia.org/wiki/Findley's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Findley's myotis is a species of vesper bat. It is found only on the Tres Marías Islands off the west coast of Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Distribution_of_Myotis_findleyi.png",
+  "_score": 1
+}

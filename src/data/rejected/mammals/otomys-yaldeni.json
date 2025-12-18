@@ -1,0 +1,26 @@
+{
+  "id": "otomys-yaldeni",
+  "name": "Otomys yaldeni",
+  "scientificName": "Otomys yaldeni",
+  "wikibase_item": "Q31072894",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31072894",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yalden's_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yalden's vlei rat is a species of rodent in the family Muridae. It is found in the Bale Mountains, in southwestern Ethiopia.",
+  "image": null,
+  "_score": 0
+}

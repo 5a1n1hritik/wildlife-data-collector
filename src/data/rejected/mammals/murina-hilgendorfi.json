@@ -1,0 +1,26 @@
+{
+  "id": "murina-hilgendorfi",
+  "name": "Murina hilgendorfi",
+  "scientificName": "Murina hilgendorfi",
+  "wikibase_item": "Q2165853",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2165853",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilgendorf's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hilgendorf's tube-nosed bat is a species of vesper bat in the family Vespertilionidae. In Japan they are called 'tengu komori', after the mythical creature called the Tengu. It was formerly thought to be a subspecies of Murina leucogaster, but is now known to be a distinct species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%E3%83%86%E3%83%B3%E3%82%B0%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "oxymycterus-roberti",
+  "name": "Robert's Hocicudo",
+  "scientificName": "Oxymycterus roberti",
+  "wikibase_item": "Q1769922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert's_hocicudo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Robert's hocicudo is a rodent species from South America. It is found in Brazil and Paraguay.",
+  "image": null,
+  "_score": 0
+}

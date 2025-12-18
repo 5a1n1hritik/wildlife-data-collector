@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-eisentrauti",
+  "name": "Pipistrellus eisentrauti",
+  "scientificName": "Pipistrellus eisentrauti",
+  "wikibase_item": "Q28157660",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28157660",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eisentraut's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eisentraut's serotine, formerly known as Eisentraut's pipistrelle, is a species of vesper bat in the family Vespertilionidae. It is found in Cameroon, Democratic Republic of the Congo, Kenya, Somalia, and Uganda. Its natural habitats are subtropical or tropical forests.",
+  "image": null,
+  "_score": 1
+}

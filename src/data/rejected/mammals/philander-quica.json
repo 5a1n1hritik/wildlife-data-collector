@@ -1,0 +1,26 @@
+{
+  "id": "philander-quica",
+  "name": "Philander quica",
+  "scientificName": "Philander quica",
+  "wikibase_item": "Q56054837",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56054837",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern four-eyed opossum is a species of opossum from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Die_S%C3%A4ugthiere_in_Abbildungen_nach_der_Natur%2C_mit_Beschreibungen_%28Plate_18%29_%288557399432%29.jpg",
+  "_score": 1
+}

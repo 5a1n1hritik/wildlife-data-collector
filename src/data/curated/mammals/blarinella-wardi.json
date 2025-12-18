@@ -1,0 +1,25 @@
+{
+  "id": "blarinella-wardi",
+  "name": "Burmese short-tailed shrew",
+  "scientificName": "Blarinella wardi",
+  "wikibase_item": "Q305799",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 728174,
+      "id": "Q728174"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305799",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burmese_short-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Burmese short-tailed shrew is one of three species of shrew in the genus Blarinella. It is in the family Soricidae and is found in China and Myanmar. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Burmese_Short-tailed_Shrew_area.png"
+}

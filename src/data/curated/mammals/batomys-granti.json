@@ -1,0 +1,26 @@
+{
+  "id": "batomys-granti",
+  "name": "Luzon Hairy-tailed Rat",
+  "scientificName": "Batomys granti",
+  "wikibase_item": "Q302085",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791357,
+      "id": "Q791357"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302085",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luzon_Cordillera_hairy-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Luzon Cordillera hairy-tailed rat, also known as the Luzon Batomys, Luzon forest rat, or Luzon hairy-tailed rat is one of five species of rodent in the genus Batomys, belonging to the diverse family Muridae. The species is endemic to the Philippines. It was among the earliest to be identified and described, the other one being B. dentatus. For about 75 years information remained scant for the genus, until species were collected from Mt. Isarog in 1988 subsequently described as B. uragon in 2015. Most populations of this species occur on Mount Data, one of several mountains in the Cordillera region of northern Luzon. The species is assessed as Least Concern in the IUCN Redlist of Threatened Species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Batomys_granti.jpg",
+  "_score": 4
+}

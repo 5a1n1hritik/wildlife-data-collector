@@ -1,0 +1,26 @@
+{
+  "id": "eliomys-munbyanus",
+  "name": "Maghreb Garden Dormouse",
+  "scientificName": "Eliomys munbyanus",
+  "wikibase_item": "Q1765628",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 617587,
+      "id": "Q617587"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765628",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maghreb_garden_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Maghreb garden dormouse is a nocturnal species of rodent in the family Gliridae. It is found in Algeria, Libya, Morocco, Tunisia and Western Sahara. Its natural habitats vary from humid forests to semi-deserts. It is a common species and the International Union for Conservation of Nature has rated it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eliomys_munbyanus_range_map.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-arcuatus",
+  "name": "Arcuate horseshoe bat",
+  "scientificName": "Rhinolophus arcuatus",
+  "wikibase_item": "Q1763661",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763661",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arcuate_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The arcuate horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Indonesia, Malaysia, Papua New Guinea, and the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kelawar_ladam2.jpg",
+  "_score": 1
+}

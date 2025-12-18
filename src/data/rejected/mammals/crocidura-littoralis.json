@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-littoralis",
+  "name": "Butiaba naked-tailed shrew",
+  "scientificName": "Crocidura littoralis",
+  "wikibase_item": "Q1766843",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Butiaba_naked-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Butiaba naked-tailed shrew is a species of mammal in the family Soricidae. It is found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Kenya, and Uganda. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Naked-tail_Shrew_area.png",
+  "_score": 2
+}

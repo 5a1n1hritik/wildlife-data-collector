@@ -1,0 +1,26 @@
+{
+  "id": "perameles-gunnii",
+  "name": "eastern barred bandicoot",
+  "scientificName": "Perameles gunnii",
+  "wikibase_item": "Q856593",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207399,
+      "id": "Q1207399"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q856593",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_barred_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern barred bandicoot is a nocturnal, rabbit-sized marsupial endemic to southeastern Australia, being native to the island of Tasmania and mainland Victoria. It is one of three surviving bandicoot species in the genus Perameles. It is distinguishable from its partially-sympatric congener—the long-nosed bandicoot – via three or four dark horizontal bars found on its rump. In Tasmania, it is relatively abundant. The mainland population in Victoria is struggling and is subject to ongoing conservation endeavors.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Perameles_gunni.jpg",
+  "_score": 2
+}

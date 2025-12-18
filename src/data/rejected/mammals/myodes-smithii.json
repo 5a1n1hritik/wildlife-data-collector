@@ -1,0 +1,26 @@
+{
+  "id": "myodes-smithii",
+  "name": "Smith's Vole",
+  "scientificName": "Myodes smithii",
+  "wikibase_item": "Q1764007",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764007",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smith's_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Smith's vole is a species of rodent in the family Cricetidae. It is also known as Smith's red-backed vole and is found only in Japan.",
+  "image": null,
+  "_score": 0
+}

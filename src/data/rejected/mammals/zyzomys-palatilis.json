@@ -1,0 +1,26 @@
+{
+  "id": "zyzomys-palatilis",
+  "name": "Carpentarian rock rat",
+  "scientificName": "Zyzomys palatilis",
+  "wikibase_item": "Q1767028",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 782897,
+      "id": "Q782897"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767028",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carpentarian_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Carpentarian rock rat is a species of rodent in the family Muridae.\nIt is found only in Australia.",
+  "image": null,
+  "_score": 0
+}

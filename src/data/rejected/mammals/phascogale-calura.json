@@ -1,0 +1,28 @@
+{
+  "id": "phascogale-calura",
+  "name": "Red-tailed phascogale",
+  "scientificName": "Phascogale calura",
+  "wikibase_item": "Q194190",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754387,
+      "id": "Q1754387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194190",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-tailed_phascogale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-tailed phascogale, also known as the red-tailed wambenger, red-tailed mousesack or kenngoor, is a small carnivorous marsupial found in inland areas of south-western Western Australia, and has been reintroduced in sanctuaries in WA and the Northern Territory. It is listed as near threatened by the IUCN Red List, vulnerable under the federal EPBC Act, and its status varies between extinct and conservation-dependent under respective legislation in other states and territories of Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Phascogale_calura_close.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

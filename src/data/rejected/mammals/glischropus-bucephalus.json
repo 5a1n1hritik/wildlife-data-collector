@@ -1,0 +1,26 @@
+{
+  "id": "glischropus-bucephalus",
+  "name": "Glischropus bucephalus",
+  "scientificName": "Glischropus bucephalus",
+  "wikibase_item": "Q15031909",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753700,
+      "id": "Q753700"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15031909",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glischropus_bucephalus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Glischropus bucephalus, the Indochinese thick-thumbed bat, is a species of bat in the family Vespertilionidae. The bat is found in Cambodia, Myanmar, Laos, Thailand and Vietnam north of the Isthmus of Kra.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Range_Glischropus_bucephalus.png",
+  "_score": 1
+}

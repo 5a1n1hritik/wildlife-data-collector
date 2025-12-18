@@ -1,0 +1,26 @@
+{
+  "id": "lepus-peguensis",
+  "name": "Burmese hare",
+  "scientificName": "Lepus peguensis",
+  "wikibase_item": "Q852187",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 943905,
+      "id": "Q943905"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q852187",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burmese_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Burmese hare is a species of mammal in the family Leporidae. It is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Siamese_Hare%2C_Lepus_peguensis%2C_in_Kui_Buri_national_park.jpg",
+  "_score": 1
+}

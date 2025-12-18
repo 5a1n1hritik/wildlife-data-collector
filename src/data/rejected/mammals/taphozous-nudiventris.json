@@ -1,0 +1,26 @@
+{
+  "id": "taphozous-nudiventris",
+  "name": "Naked-rumped Tomb Bat",
+  "scientificName": "Taphozous nudiventris",
+  "wikibase_item": "Q1831891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11931981,
+      "id": "Q11931981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naked-rumped_tomb_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The naked-rumped tomb bat is a species of sac-winged bat in the family Emballonuridae. Found in northern Africa, the Middle East, and southeastern Asia, its natural habitats are dry savanna, subtropical or tropical dry shrubland and forests, caves, and arid areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Naked-Rumped_Tomb_Bat_%28Taphozous_nudiventris%29.jpg",
+  "_score": 2
+}

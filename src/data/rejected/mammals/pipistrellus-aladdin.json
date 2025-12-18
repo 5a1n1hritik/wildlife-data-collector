@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-aladdin",
+  "name": "Pipistrellus aladdin",
+  "scientificName": "Pipistrellus aladdin",
+  "wikibase_item": "Q96399451",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96399451",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pipistrellus_aladdin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pipistrellus aladdin, the Turkestan pipistrelle, is a species of bat in the family Vespertilionidae. It is found in Central Asia and Afghanistan. It is assessed as data-deficient by the IUCN.",
+  "image": null,
+  "_score": 0
+}

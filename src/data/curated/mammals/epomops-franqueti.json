@@ -1,0 +1,25 @@
+{
+  "id": "epomops-franqueti",
+  "name": "Franquet's Epauletted Fruit Bat",
+  "scientificName": "Epomops franqueti",
+  "wikibase_item": "Q303030",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1228363,
+      "id": "Q1228363"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303030",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franquet's_epauletted_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Franquet's epauletted fruit bat is a species of megabat in the family Pteropodidae, and is one of three different species of epauletted bats. Franquet's epauletted fruit bat has a range of habitats, varying from Subsaharan forest to equatorial tropics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/EpomophorusFranquetiFord.jpg"
+}

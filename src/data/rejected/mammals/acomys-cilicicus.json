@@ -1,0 +1,26 @@
+{
+  "id": "acomys-cilicicus",
+  "name": "Asia Minor spiny mouse",
+  "scientificName": "Acomys cilicicus",
+  "wikibase_item": "Q1769237",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2641201,
+      "id": "Q2641201"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769237",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asia_Minor_spiny_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asia Minor spiny mouse is a species of rodent in the family Muridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Muridae_-_Acomys_cilicicus.jpg",
+  "_score": 1
+}

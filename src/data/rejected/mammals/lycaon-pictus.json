@@ -1,0 +1,26 @@
+{
+  "id": "lycaon-pictus",
+  "name": "African wild dog",
+  "scientificName": "Lycaon pictus",
+  "wikibase_item": "Q173651",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12061410,
+      "id": "Q12061410"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q173651",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_wild_dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African wild dog, also called painted dog and Cape hunting dog, is a wild canine native to sub-Saharan Africa. It is the largest wild canine in Africa, and the only extant member of the genus Lycaon, which is distinguished from Canis by dentition highly specialised for a hypercarnivorous diet and by a lack of dewclaws.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg",
+  "_score": 2
+}

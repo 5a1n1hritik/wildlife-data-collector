@@ -1,0 +1,26 @@
+{
+  "id": "bullimus-carletoni",
+  "name": "Bullimus carletoni",
+  "scientificName": "Bullimus carletoni",
+  "wikibase_item": "Q109922844",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 851908,
+      "id": "Q851908"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109922844"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

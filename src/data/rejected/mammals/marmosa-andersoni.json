@@ -1,0 +1,26 @@
+{
+  "id": "marmosa-andersoni",
+  "name": "Heavy-browed mouse opossum",
+  "scientificName": "Marmosa andersoni",
+  "wikibase_item": "Q194379",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194379",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heavy-browed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The heavy-browed mouse opossum, or Anderson's mouse opossum, is a species of opossum in the family Didelphidae. It is endemic to a restricted range in southern Peru. This opossum inhabits forests; it is nocturnal and probably arboreal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Anderson%27s_Mouse_Opossum_area.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-gnoskei",
+  "name": "Myosorex gnoskei",
+  "scientificName": "Myosorex gnoskei",
+  "wikibase_item": "Q3766055",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3766055",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyika_burrowing_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nyika burrowing shrew is a species of mammal in the family Soricidae found in Malawi.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": "moschus-anhuiensis",
+  "name": "Anhui musk deer",
+  "scientificName": "Moschus anhuiensis",
+  "wikibase_item": "Q545537",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3866060,
+      "id": "Q3866060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q545537",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anhui_musk_deer"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Anhui musk deer is an endangered species of musk deer that is endemic to the Dabie Mountains of western Anhui province, China. It was formerly described as a subspecies of Moschus berezovskii and Moschus moschiferus, but is now classified as a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Anhui_musk_deer_illustration_BeckyKidus.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ateles-belzebuth",
+  "name": "Ateles belzebuth",
+  "scientificName": "Ateles belzebuth",
+  "wikibase_item": "Q929479",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q929479",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-bellied_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-bellied spider monkey, also known as the white-fronted or long-haired spider monkey, is an endangered species of spider monkey, a type of New World monkey. It is found in the north-western Amazon in Colombia, Ecuador, Venezuela, Peru and Brazil, ranging as far south as the lower Ucayali River and as far east as the Branco River. In the past, the Peruvian, brown and white-cheeked spider monkeys have been treated as subspecies of A. belzebuth. As presently defined, the white-bellied spider monkey is monotypic. It has a whitish belly and a pale patch on the forehead, which, despite its common name, often is orange-buff, though this might be due to dirt and other stainers. They live in groups of 20 to 40 individuals, splitting into small parties of 1 to 9 when in activity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ateles_belzebuth_belzebuth.jpg",
+  "_score": 3
+}

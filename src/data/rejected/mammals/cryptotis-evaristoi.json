@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-evaristoi",
+  "name": "Cryptotis evaristoi",
+  "scientificName": "Cryptotis evaristoi",
+  "wikibase_item": "Q48411931",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48411931"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

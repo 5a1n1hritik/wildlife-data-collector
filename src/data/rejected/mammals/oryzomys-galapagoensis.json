@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-galapagoensis",
+  "name": "Oryzomys galapagoensis",
+  "scientificName": "Oryzomys galapagoensis",
+  "wikibase_item": "Q27336010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27336010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aegialomys_galapagoensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Galápagos rice rat, also known as the Galápagos oryzomys, is a species of rodent that is endemic to the Galápagos Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Galapagos_Rice_Rat.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cavia-magna",
+  "name": "greater guinea pig",
+  "scientificName": "Cavia magna",
+  "wikibase_item": "Q1762803",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762803",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_guinea_pig"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cavia magna, commonly known as the greater guinea pig, is a species of rodent in the family Caviidae, native to South America. It is found primarily in the coastal regions of southern Brazil and Uruguay, inhabiting grasslands, marshes, and other wetland environments. Cavia magna is closely related to the domesticated guinea pig  but is distinct in its larger size and semi-aquatic habitat preferences.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cavia_magna_%28Wroclaw_zoo%29.JPG",
+  "_score": 3
+}

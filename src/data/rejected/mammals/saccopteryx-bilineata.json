@@ -1,0 +1,26 @@
+{
+  "id": "saccopteryx-bilineata",
+  "name": "Greater sac-winged bat",
+  "scientificName": "Saccopteryx bilineata",
+  "wikibase_item": "Q1548367",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83577,
+      "id": "Q83577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1548367",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_sac-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater sac-winged bat is a bat of the family Emballonuridae native to Central and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sbilineata1.jpg",
+  "_score": 1
+}

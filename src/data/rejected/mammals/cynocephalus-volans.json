@@ -1,0 +1,26 @@
+{
+  "id": "cynocephalus-volans",
+  "name": "Philippine flying lemur",
+  "scientificName": "Cynocephalus volans",
+  "wikibase_item": "Q1097901",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10751360,
+      "id": "Q10751360"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1097901",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_flying_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine flying lemur or Philippine colugo, known locally as kagwang, is one of two species of colugo or \"flying lemurs\". It is monotypic of its genus. Although it is called \"flying lemur\", the Philippine flying lemur is neither a lemur nor does it fly. Instead, it glides as it leaps among trees.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Flying_Lemur_%26_Baby%2C_Bohol.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-scottorum",
+  "name": "Lepilemur scottorum",
+  "scientificName": "Lepilemur scottorum",
+  "wikibase_item": "Q664080",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q664080",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Scott's sportive lemur, or the Masoala sportive lemur, is a sportive lemur endemic to Madagascar. This is one of 26 species in the genus Lepilemur. It has greyish brown fur and a black-tipped tail. It is named in honor of the Suzanne and Walter Scott Jr. Foundation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lepilemur_scottorum_173025595.jpg",
+  "_score": 1
+}

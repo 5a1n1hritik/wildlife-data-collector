@@ -1,0 +1,26 @@
+{
+  "id": "abrothrix-lanosus",
+  "name": "Woolly Akodont",
+  "scientificName": "Abrothrix lanosus",
+  "wikibase_item": "Q308457",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308457",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrothrix_lanosa"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix lanosa, also known as the woolly grass mouse or woolly akodont, is a species of rodent in the family Cricetidae.\nIt is found in southern Argentina and Chile. It was previously classified in the genus Akodon rather than Abrothrix.",
+  "image": null,
+  "_score": 0
+}

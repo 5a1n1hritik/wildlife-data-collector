@@ -1,0 +1,26 @@
+{
+  "id": "manis-pentadactyla",
+  "name": "Chinese pangolin",
+  "scientificName": "Manis pentadactyla",
+  "wikibase_item": "Q842283",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2659251,
+      "id": "Q2659251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q842283",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese pangolin is a pangolin native to the northern Indian subcontinent, northern parts of Southeast Asia and southern China. It has been listed as Critically Endangered on the IUCN Red List since 2014, as the wild population is estimated to have declined by more than 80% in three pangolin generations, equal to 21 years. It is threatened by poaching for the illegal wildlife trade.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Manis_pentadactyla_%2829054818144%29.jpg",
+  "_score": 2
+}

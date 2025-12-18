@@ -1,0 +1,28 @@
+{
+  "id": "pseudomys-australis",
+  "name": "Plains rat",
+  "scientificName": "Pseudomys australis",
+  "wikibase_item": "Q1762835",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762835",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plains_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plains rat (Pseudomys australis), also known as the palyoora, plains mouse and eastern mouse, is a conilurine rodent native to arid and semi-arid Australia. Referred to as the pallyoora or yarlie by Indigenous groups, the plains rat was once widely distributed across central Australia, including north-west New South Wales and south-west Queensland; however, habitat degradation due to grazing, introduced predators and drought have contributed to its decline. Consequently, the plains rat has been listed as 'presumed extinct' in New South Wales and Victoria, 'endangered' in the Northern Territory and Queensland and 'vulnerable' in Western Australia and South Australia. While recent research has indicated the presence of the plains rat in areas such as the Fowlers Gap and Strzelecki Desert regions of New South Wales and within the Diamantina National Park in Queensland, there are only five sub-populations currently recognised nationally, none of which coincide with recent discoveries of the plains rat. As the current population trend of the plains rat has been listed as 'declining' by the International Union for the Conservation of Nature (IUCN), the IUCN conservation status for the species is 'vulnerable'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Plainsrat.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

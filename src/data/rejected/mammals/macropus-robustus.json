@@ -1,0 +1,26 @@
+{
+  "id": "macropus-robustus",
+  "name": "Macropus robustus",
+  "scientificName": "Macropus robustus",
+  "wikibase_item": "Q691473",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 174322,
+      "id": "Q174322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q691473",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_wallaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common wallaroo, also known as the euro, hill wallaroo, or simply wallaroo, is a species of macropod. The word euro is particularly applied to one subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Macropus_robustus2.jpg",
+  "_score": 1
+}

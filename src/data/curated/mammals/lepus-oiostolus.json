@@ -1,0 +1,25 @@
+{
+  "id": "lepus-oiostolus",
+  "name": "Lepus oiostolus",
+  "scientificName": "Lepus oiostolus",
+  "wikibase_item": "Q578083",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q578083",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woolly_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The woolly hare is a notably thick-furred species of hare found in the montane grasslands of western and central China, northern India, and Nepal. It has a wide range and is present in some protected areas but is a generally uncommon species. The International Union for Conservation of Nature has assessed it as a least-concern species, though it is considered endangered in India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lepus_oiostolus_367800985_%28cropped%29.jpg"
+}

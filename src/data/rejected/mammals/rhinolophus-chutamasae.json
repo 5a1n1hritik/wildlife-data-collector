@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-chutamasae",
+  "name": "Rhinolophus chutamasae",
+  "scientificName": "Rhinolophus chutamasae",
+  "wikibase_item": "Q125252609",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125252609",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhinolophus_chutamasae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rhinolophus chutamasae or the mountain horseshoe bat is a species of bat in the family Rhinolophidae. It is found from Greater Mekong in Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Distribution_of_Rhinolophus_monticolus.png",
+  "_score": 1
+}

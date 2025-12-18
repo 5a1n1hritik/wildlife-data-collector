@@ -1,0 +1,26 @@
+{
+  "id": "murina-huttoni",
+  "name": "Murina huttoni",
+  "scientificName": "Murina huttoni",
+  "wikibase_item": "Q2044955",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2044955",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hutton's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hutton's tube-nosed bat is a species of vesper bat in the family Vespertilionidae.\nIt can be found in the following countries: Bhutan, China, India, Laos, Malaysia, Myanmar, Nepal, Pakistan, Thailand, and Viet Nam. It lives within an elevation of 1450 m to 2500 m. In Southeast Asia, the bat is considered to be uncommon. The bat is known to live in forests, roosting among the leaves of banana trees. Its habitat is threatened by deforestation for firewood and timber, as well as conversion to agricultural land.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Range_Murina_huttoni.png",
+  "_score": 4
+}

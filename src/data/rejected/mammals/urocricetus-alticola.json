@@ -1,0 +1,26 @@
+{
+  "id": "urocricetus-alticola",
+  "name": "Urocricetus alticola",
+  "scientificName": "Urocricetus alticola",
+  "wikibase_item": "Q125916089",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125916104,
+      "id": "Q125916104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125916089",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tibetan_dwarf_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tibetan dwarf hamster is a species of rodent in the family Cricetidae. It is found not only in Tibet and China, but also in India and Nepal in mountainous regions at altitudes of up to about 5,200 m (17,100 ft). It was moved from the genus Cricetulus to Urocricetus in 2018.",
+  "image": null,
+  "_score": 0
+}

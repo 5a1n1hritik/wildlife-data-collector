@@ -1,0 +1,26 @@
+{
+  "id": "thyroptera-wynneae",
+  "name": "Thyroptera wynneae",
+  "scientificName": "Thyroptera wynneae",
+  "wikibase_item": "Q16615758",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468638,
+      "id": "Q468638"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16615758",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patricia's_disk-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Patricia's disk-winged bat is a species of disk-winged bat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Patricia%27s_Disk-winged_Bat_imported_from_iNaturalist_photo_444103960_on_3_February_2025.jpg",
+  "_score": 1
+}

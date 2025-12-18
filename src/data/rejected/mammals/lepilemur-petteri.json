@@ -1,0 +1,26 @@
+{
+  "id": "lepilemur-petteri",
+  "name": "Lepilemur petteri",
+  "scientificName": "Lepilemur petteri",
+  "wikibase_item": "Q1209742",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1209742",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petter's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Petter's sportive lemur is a sportive lemur endemic to Madagascar. It is one of 26 species in the genus Lepilemur. It is one of the smaller sportive lemurs with a total length of about 49 to 54 cm, of which 22–25 cm (8.7–9.8 in) are tail. Petter's sportive lemur is found in southwestern Madagascar, living in dry spiny forests and some gallery forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lepilemur_petteri_49019918.jpg",
+  "_score": 1
+}

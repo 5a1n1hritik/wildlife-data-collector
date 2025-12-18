@@ -1,0 +1,26 @@
+{
+  "id": "rousettus-brachyotis",
+  "name": "Rousettus brachyotis",
+  "scientificName": "Rousettus brachyotis",
+  "wikibase_item": "Q40676761",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1189557,
+      "id": "Q1189557"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40676761"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

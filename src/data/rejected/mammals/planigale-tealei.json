@@ -1,0 +1,26 @@
+{
+  "id": "planigale-tealei",
+  "name": "Planigale tealei",
+  "scientificName": "Planigale tealei",
+  "wikibase_item": "Q121536549",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541538,
+      "id": "Q541538"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121536549",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cracking-clay_Pilbara_planigale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cracking-clay Pilbara planigale, formerly known as Planigale sp. Mt Tom Price, is a species of planigale first described in 2023. It is one of the smallest planigales, making it one of the smallest of all marsupials and mammals. The cracking-clay Pilbara planigale lives in the Pilbara region of Western Australia, where it co-occurs with the similar and also newly recognised orange-headed Pilbara planigale. Both species had historically been mistaken for either the common planigale, or long-tailed planigale ; neither of which are now known to occur in the Pilbara.",
+  "image": null,
+  "_score": 1
+}

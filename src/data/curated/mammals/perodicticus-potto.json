@@ -1,0 +1,25 @@
+{
+  "id": "perodicticus-potto",
+  "name": "West African potto",
+  "scientificName": "Perodicticus potto",
+  "wikibase_item": "Q747610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816393,
+      "id": "Q19816393"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q747610",
+    "wikipedia": "https://en.wikipedia.org/wiki/West_African_potto"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The West African potto is a species of nocturnal strepsirrhine primate. It is found in tropical West Africa. It is also known as Bosman's potto, after Willem Bosman, who described the species in 1704. It is the type species of the genus Perodicticus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/West_African_potto_%28Perodicticus_potto%29_Ankasa.jpg"
+}

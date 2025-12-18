@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-hypomelanus",
+  "name": "Pteropus hypomelanus",
+  "scientificName": "Pteropus hypomelanus",
+  "wikibase_item": "Q583116",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q583116",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small flying fox, island flying fox or variable flying fox is a species of flying fox in the family Pteropodidae. It is found in India, Indonesia, Malaysia, the Maldives, Myanmar, Papua New Guinea, the Philippines the Solomon Islands, Thailand and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/ZOO_%C3%9Ast%C3%AD_n_L_-_Exot%C3%A1rium_-_v%C3%BDb%C4%9Bh_kalo%C5%88%C5%AF_02.jpg"
+}

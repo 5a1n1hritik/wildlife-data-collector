@@ -1,0 +1,25 @@
+{
+  "id": "bdeogale-nigripes",
+  "name": "Black-footed mongoose",
+  "scientificName": "Bdeogale nigripes",
+  "wikibase_item": "Q1482221",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1546563,
+      "id": "Q1546563"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1482221",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-footed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-footed mongoose is a mongoose species native to Central Africa, where it inhabits deep deciduous forests from eastern Nigeria to the southern Democratic Republic of the Congo. It has been listed as Least Concern on the IUCN Red List since 2008.\nIt is omnivorous and feeds on ants, termites, Orthoptera, small rodents, frogs, lizards and fruits.\nIt is mostly solitary and nocturnal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Black-footed_Mogoose_area.png"
+}

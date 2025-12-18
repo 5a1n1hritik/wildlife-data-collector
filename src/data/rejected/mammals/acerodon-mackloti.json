@@ -1,0 +1,26 @@
+{
+  "id": "acerodon-mackloti",
+  "name": "Acerodon mackloti",
+  "scientificName": "Acerodon mackloti",
+  "wikibase_item": "Q301200",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2307345,
+      "id": "Q2307345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301200",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunda_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sunda flying fox or Sunda fruit bat is a species of bat in the family Pteropodidae. It is endemic to Indonesia and Timor-Leste. The Sunda flying fox is categorized by the IUCN as a Vulnerable species, meaning that it has an Intermediate chance of becoming an endangered species due to the deforestation of mangrove trees for shrimp aquaculture.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Acerodon_macklotii_251616064.jpg",
+  "_score": 1
+}

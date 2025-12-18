@@ -1,0 +1,26 @@
+{
+  "id": "paradoxurus-philippinensis",
+  "name": "Paradoxurus philippinensis",
+  "scientificName": "Paradoxurus philippinensis",
+  "wikibase_item": "Q18923190",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 887918,
+      "id": "Q887918"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18923190",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paradoxurus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Paradoxurus is a genus of three palm civets within the viverrid family that was denominated and first described by Frédéric Cuvier in 1822.\nThe Paradoxurus species have a broad head, a narrow muzzle with a large rhinarium that is deeply sulcate in the middle. Their large ears are rounded at the tip. The tail is nearly as long as the head and body.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Paradox_hermaph_060924_ltn.jpg",
+  "_score": 1
+}

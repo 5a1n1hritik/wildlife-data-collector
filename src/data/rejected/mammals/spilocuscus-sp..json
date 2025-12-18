@@ -1,0 +1,26 @@
+{
+  "id": "spilocuscus-sp.",
+  "name": "Spilocuscus sp.",
+  "scientificName": "Spilocuscus sp.",
+  "wikibase_item": "Q41088492",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475049,
+      "id": "Q1475049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088492"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

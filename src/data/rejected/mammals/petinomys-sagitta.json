@@ -1,0 +1,26 @@
+{
+  "id": "petinomys-sagitta",
+  "name": "Arrow flying squirrel",
+  "scientificName": "Petinomys sagitta",
+  "wikibase_item": "Q1762887",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244166,
+      "id": "Q244166"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762887",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arrow_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The arrow flying squirrel is a species of flying squirrel. It is endemic to Java and Bangka, Indonesia. The population is unknown as it has only been collected from a few localities. It is nocturnal and arboreal and may be found in primary and secondary forest. It is threatened by forest loss due to logging and agriculture and there are no known conservation actions.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zoological_researches_in_Java%2C_and_the_neighbouring_islands_BHL47293136.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "neophocaena-asiaeorientalis",
+  "name": "Narrow-ridged finless porpoise",
+  "scientificName": "Neophocaena asiaorientalis",
+  "wikibase_item": "Q22286308",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10798086,
+      "id": "Q10798086"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22286308",
+    "wikipedia": "https://en.wikipedia.org/wiki/Narrow-ridged_finless_porpoise"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Narrow-ridged finless porpoise may refer to one of two species in the genus Neophocaena:the East Asian finless porpoise \nthe Yangtze finless porpoise \n\n",
+  "image": null,
+  "_score": 0
+}

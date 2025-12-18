@@ -1,0 +1,26 @@
+{
+  "id": "canis-lycaon",
+  "name": "Canis lycaon",
+  "scientificName": "Canis lycaon",
+  "wikibase_item": "Q55693842",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55693842",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_wolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern wolf, also known as the timber wolf, Algonquin wolf and eastern timber wolf, is a canine of debated taxonomy native to the Great Lakes region and southeastern Canada. It is considered either a unique subspecies of gray wolf, or red wolf, or a separate species from both. Many studies have found the eastern wolf to be the product of ancient and recent genetic admixture between the gray wolf and the coyote, while other studies have found some or all populations of the eastern wolf, as well as coyotes, originally separated from a common ancestor with the wolf over 1 million years ago and that these populations of the eastern wolf may be the same species as or a closely related species to the red wolf of the Southeastern United States. Regardless of its status, it is regarded as unique and therefore worthy of conservation with Canada citing the population in eastern Canada as being the eastern wolf population subject to protection.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eastern_wolf_in_Algonquin_Provincial_Park_01.jpg",
+  "_score": 3
+}

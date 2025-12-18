@@ -1,0 +1,26 @@
+{
+  "id": "orycteropus-seni",
+  "name": "Orycteropus seni",
+  "scientificName": "Orycteropus seni",
+  "wikibase_item": "Q21349936",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1975774,
+      "id": "Q1975774"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21349936"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

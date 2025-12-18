@@ -1,0 +1,26 @@
+{
+  "id": "onychomys-torridus",
+  "name": "Southern grasshopper mouse",
+  "scientificName": "Onychomys torridus",
+  "wikibase_item": "Q277147",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 369761,
+      "id": "Q369761"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q277147",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_grasshopper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern grasshopper mouse or scorpion mouse is a species of predatory rodent in the family Cricetidae, native to Mexico and the states of Arizona, California, Nevada, New Mexico, and Utah in the United States. Notable for its resistance to venom, it routinely preys on the highly venomous Arizona bark scorpion.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Southern_grasshopper_mouse.jpg",
+  "_score": 1
+}

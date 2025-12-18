@@ -1,0 +1,26 @@
+{
+  "id": "dendrolagus-scottae",
+  "name": "Tenkile",
+  "scientificName": "Dendrolagus scottae",
+  "wikibase_item": "Q209159",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209159",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tenkile"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tenkile, also known as Scott's tree-kangaroo, is a species of tree-kangaroo in the family Macropodidae. It is endemic to a very small area of the Torricelli Mountains of Papua New Guinea. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss and by hunting. The tenkile is listed as endangered due to hunting and logging activities in Papua New Guinea. The tenkile is hunted for its meat, and has been a main protein source for the local tribespeople. The local human population has increased in recent years, increasing demand for tenkile meat. Additionally, tenkiles are poached for their fur and are captured and sold as a part of the illegal pet trade. Domesticated dogs also hunt tenkiles. Deforestation in Papua New Guinea affects all tree-kangaroos, and industrial logging that occurs in the Torricelli Mountain Range decreases the species' already restricted habitat. The Torricelli Mountain Range faces additional deforestation due to the timber industry, and the production of coffee, rice and wheat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dendrolagus_scottae2.jpg",
+  "_score": 6
+}

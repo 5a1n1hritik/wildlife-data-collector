@@ -1,0 +1,26 @@
+{
+  "id": "abrothrix-markhami",
+  "name": "Wellington Akodont",
+  "scientificName": "Abrothrix markhami",
+  "wikibase_item": "Q306205",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306205",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrothrix_olivaceus_markhami"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix olivaceus markhami, also known as the Wellington akodont or Markham's grass mouse, is a subspecies of the South American rodent Abrothrix olivaceus. It occurs on Wellington Island and the nearby Southern Patagonian Ice Field in southern Chile. It was previously recognized as a valid species, but is close to other recognized subspecies of A. olivaceus.",
+  "image": null,
+  "_score": 0
+}

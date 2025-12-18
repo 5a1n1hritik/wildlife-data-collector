@@ -1,0 +1,26 @@
+{
+  "id": "mungos-gambianus",
+  "name": "Gambian mongoose",
+  "scientificName": "Mungos gambianus",
+  "wikibase_item": "Q1464840",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135914,
+      "id": "Q135914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1464840",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gambian_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gambian mongoose is a mongoose species native to the Guinean forest-savanna mosaic from Gambia to Nigeria. It is listed as Least Concern on the IUCN Red List since 2008.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_carnivores_of_West_Africa_BHL8726423%2C_Mungos_gambianus.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prionailurus-iriomotensis",
+  "name": "Prionailurus iriomotensis",
+  "scientificName": "Prionailurus iriomotensis",
+  "wikibase_item": "Q19829419",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 42592,
+      "id": "Q42592"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19829419",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iriomote_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Iriomote cat is a subspecies of the leopard cat that lives exclusively on the Japanese island of Iriomote. It has been listed as critically endangered on the IUCN Red List since 2008, as the only population comprises fewer than 250 adult individuals, and is considered declining. As of 2007, an estimated 100–109 individuals were remaining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Iriomote_cat_1_%28cropped%29.jpg",
+  "_score": 1
+}

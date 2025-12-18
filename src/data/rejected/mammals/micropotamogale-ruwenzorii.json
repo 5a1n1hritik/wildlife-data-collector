@@ -1,0 +1,26 @@
+{
+  "id": "micropotamogale-ruwenzorii",
+  "name": "Ruwenzori otter shrew",
+  "scientificName": "Micropotamogale ruwenzorii",
+  "wikibase_item": "Q1768124",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 860622,
+      "id": "Q860622"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768124",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruwenzori_otter_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ruwenzori otter shrew is a species of semiaquatic dwarf otter shrew of the family Potamogalidae. It is found in the Democratic Republic of the Congo, Rwanda, and Uganda. Otter shrews are shrew-like afrotherian mammals found in sub-Saharan Africa. They are most closely related to the tenrecs of Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ruwenzori_Otter_Shrew_area.png",
+  "_score": 1
+}

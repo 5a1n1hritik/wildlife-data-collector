@@ -1,0 +1,26 @@
+{
+  "id": "tylonycteris-robustula",
+  "name": "Greater bamboo bat",
+  "scientificName": "Tylonycteris robustula",
+  "wikibase_item": "Q1830533",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1065036,
+      "id": "Q1065036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830533",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_bamboo_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater bamboo bat is a species of vesper bat in the family Vespertilionidae. It has a wide range within Southern and Southeast Asia, including Brunei, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam. They have been found at elevations up to 1,500 metres (4,900 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Naturalis_Biodiversity_Center_-_RMNH.MAM.52785.b_dor_-_Tylonycteris_robustula_-_skin.jpeg",
+  "_score": 1
+}

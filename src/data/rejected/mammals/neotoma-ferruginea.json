@@ -1,0 +1,26 @@
+{
+  "id": "neotoma-ferruginea",
+  "name": "Neotoma ferruginea",
+  "scientificName": "Neotoma ferruginea",
+  "wikibase_item": "Q41008739",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468544,
+      "id": "Q468544"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41008739",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guatemala_woodrat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guatemala woodrat, also called Tomes's woodrat, is a species of cricetid rodent from Mexico and northern Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Biologia_Centrali-Americana_%28Tab_16%29_BHL570900.jpg",
+  "_score": 1
+}

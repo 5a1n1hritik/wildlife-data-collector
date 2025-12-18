@@ -1,0 +1,28 @@
+{
+  "id": "chimarrogale-platycephalus",
+  "name": "Japanese water shrew",
+  "scientificName": "Chimarrogale platycephalus",
+  "wikibase_item": "Q1762375",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856254,
+      "id": "Q856254"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762375",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese water shrew, also called the flat-headed water shrew, is a species of mammal in the family Soricidae. It is endemic to Japanese Islands, Honshu and Kyushu. They are considered extinct in Shikoku.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kawanezumi.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

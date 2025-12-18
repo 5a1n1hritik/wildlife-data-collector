@@ -1,0 +1,25 @@
+{
+  "id": "lepus-timidus",
+  "name": "Mountain Hare",
+  "scientificName": "Lepus timidus",
+  "wikibase_item": "Q180035",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3830767,
+      "id": "Q3830767"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q180035",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain hare, also known as blue hare, tundra hare, variable hare, white hare, snow hare, alpine hare, and Irish hare, is a species of Palearctic hare that is largely adapted to polar and mountainous habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mountain_hare_%28Lepus_timidus%29_Oppdal.jpg"
+}

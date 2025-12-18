@@ -1,0 +1,26 @@
+{
+  "id": "chaerephon-pumilus",
+  "name": "Little free-tailed bat",
+  "scientificName": "Chaerephon pumilus",
+  "wikibase_item": "Q149317",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q149317",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little free-tailed bat is a species of the genus Mops in the family Molossidae. It is widely distributed across Africa and islands around the continent.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tadarida_pumila.png",
+  "_score": 1
+}

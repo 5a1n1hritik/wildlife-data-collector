@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-natalis",
+  "name": "Pteropus natalis",
+  "scientificName": "Pteropus natalis",
+  "wikibase_item": "Q27828750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27828750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Island_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Christmas Island flying fox or Christmas Island fruit bat, as the name suggests, is a flying fox endemic to Christmas Island. It is unclear if it should be considered a distinct species, or a subspecies of the black-eared flying fox. It may descend from a population of island flying foxes from Pulau Panjang near Java.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg",
+  "_score": 1
+}

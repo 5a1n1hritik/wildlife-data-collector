@@ -1,0 +1,26 @@
+{
+  "id": "carollia-verrucata",
+  "name": "Carollia verrucata",
+  "scientificName": "Carollia verrucata",
+  "wikibase_item": "Q41081127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41081127"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

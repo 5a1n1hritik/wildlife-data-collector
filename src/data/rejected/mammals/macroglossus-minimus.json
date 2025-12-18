@@ -1,0 +1,26 @@
+{
+  "id": "macroglossus-minimus",
+  "name": "Long-tongued Nectar Bat",
+  "scientificName": "Macroglossus minimus",
+  "wikibase_item": "Q243975",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2308113,
+      "id": "Q2308113"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q243975",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tongued_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tongued nectar bat, also known as the northern blossom bat, honey nectar bat, least blossom-bat, dagger-toothed long-nosed fruit bat, and lesser long-tongued fruit bat, is a species of megabat. M. minimus is one of the smallest species in the family Pteropodidae, with an average length of 60–85 mm. It has a reddish-brown colouring with relatively long hair compared to the other species. The hair on the abdomen is a lighter colour, and a dark brown stripe runs bilaterally down the top of the head and back.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Macroglossus_minimus_pregnant.jpg",
+  "_score": 2
+}

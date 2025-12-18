@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-curzoniae",
+  "name": "Plateau pika",
+  "scientificName": "Ochotona curzoniae",
+  "wikibase_item": "Q1366839",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1366839",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plateau_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plateau pika, also known as the black-lipped pika, is a species of mammal in the pika family, Ochotonidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Plateau_pika_of_the_Tibetan_Plateau.jpg",
+  "_score": 1
+}

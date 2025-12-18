@@ -1,0 +1,26 @@
+{
+  "id": "notamacropus-irma",
+  "name": "Notamacropus irma",
+  "scientificName": "Notamacropus irma",
+  "wikibase_item": "Q112307733",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 108675804,
+      "id": "Q108675804"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112307733",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_brush_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western brush wallaby, also known as the black-gloved wallaby, is a species of wallaby found in the southwestern coastal region of Western Australia. The wallaby's main threat is predation by the introduced red fox. The IUCN lists the western brush wallaby as Least Concern, as it remains fairly widespread and the population is believed to be stable or increasing, as a result of red fox control programs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Macropus_irma_Gould.jpg",
+  "_score": 3
+}

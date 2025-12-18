@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-ramona",
+  "name": "Negev shrew",
+  "scientificName": "Crocidura ramona",
+  "wikibase_item": "Q1769560",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Negev_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Negev shrew, also known as the Ramon's shrew is a species of mammal in the family Soricidae. So far, it is only known from Israel. It is found in three regions: Mizpe Ramon and Sede Boqer in the Negev Desert, and Sartaber at the northern edge of the Judean Desert. It is likely that the species occurs more widely in the region than currently known. The three locations in which the species occurs are rocky desert areas at altitudes between 200 and 950 metres above sea level. The Negev shrew is light gray with a slightly lighter underpart. It is also relatively small.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Negev_Shrew_area.png"
+}

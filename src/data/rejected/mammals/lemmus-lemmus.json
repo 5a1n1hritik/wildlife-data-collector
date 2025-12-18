@@ -1,0 +1,26 @@
+{
+  "id": "lemmus-lemmus",
+  "name": "Norway lemming",
+  "scientificName": "Lemmus lemmus",
+  "wikibase_item": "Q819985",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 525589,
+      "id": "Q525589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q819985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norway_lemming"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Norway lemming, also known as the Norwegian lemming is a common species of lemming found in northern Fennoscandia, where it is the only vertebrate species endemic to the region. The Norway lemming dwells in tundra and fells, and prefers to live near water. Adults feed primarily on sedges, grasses and moss. They are active at both day and night, alternating naps with periods of activity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg",
+  "_score": 1
+}

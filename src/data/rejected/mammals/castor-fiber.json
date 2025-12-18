@@ -1,0 +1,28 @@
+{
+  "id": "castor-fiber",
+  "name": "Castor fiber",
+  "scientificName": "Castor fiber",
+  "wikibase_item": "Q181191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 47542,
+      "id": "Q47542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eurasian_beaver"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eurasian beaver or European beaver is a species of beaver widespread across Eurasia, with a rapidly increasing population of at least 1.5 million in 2020. The Eurasian beaver was hunted to near-extinction for both its fur and castoreum, with only about 1,200 beavers in eight relict populations from France to Mongolia in the early 20th century. It has since been reintroduced into much of its former range and now lives from Western, Southern, Central and Eastern Europe, Scandinavia, Russia through China and Mongolia, with about half the population in Russia. It is listed as least concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Beaver_pho34.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

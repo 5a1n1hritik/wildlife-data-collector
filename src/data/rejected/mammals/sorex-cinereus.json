@@ -1,0 +1,26 @@
+{
+  "id": "sorex-cinereus",
+  "name": "cinereus shrew",
+  "scientificName": "Sorex cinereus",
+  "wikibase_item": "Q469038",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q469038",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinereus_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cinereus shrew or masked shrew is a small shrew found in Alaska, Canada, and the northern United States. This is the most widely distributed shrew in North America, where it is also known as the common shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sorex_cinereus%2C_Harwich%2C_Chatham%2C_Ontario%2C_Canada_1_%28crop%29.jpg",
+  "_score": 1
+}

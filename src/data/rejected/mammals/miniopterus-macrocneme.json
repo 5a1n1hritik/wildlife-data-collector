@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-macrocneme",
+  "name": "Miniopterus macrocneme",
+  "scientificName": "Miniopterus macrocneme",
+  "wikibase_item": "Q9033424",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9033424",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_macrocneme"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus macrocneme is a bat in the genus Miniopterus. It is found primarily in the Loyalty Islands of New Caledonia, though it is also found in New Guinea. It has been considered a subspecies of Miniopterus pusillus in recent years. It lives in caves in large numbers, though it can also be found in forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Miniopterus_macrocneme.jpg",
+  "_score": 1
+}

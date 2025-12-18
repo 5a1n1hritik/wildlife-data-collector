@@ -1,0 +1,26 @@
+{
+  "id": "dasycercus-blythi",
+  "name": "brush-tailed mulgara",
+  "scientificName": "Dasycercus blythi",
+  "wikibase_item": "Q301808",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475367,
+      "id": "Q1475367"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301808",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brush-tailed_mulgara"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brush-tailed mulgara is a medium sized carnivorous Australian marsupial species. The species is sexually dimorphic with males being much larger than females. Their body length is 12 to 17 cm, and tail length is 6–10 cm (2.4–3.9 in). They store fat in their tail, which at times can be over 16 mm (0.63 in) wide at the base.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dasycercus_blythi001.jpg",
+  "_score": 1
+}

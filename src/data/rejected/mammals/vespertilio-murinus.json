@@ -1,0 +1,26 @@
+{
+  "id": "vespertilio-murinus",
+  "name": "Parti-coloured bat",
+  "scientificName": "Vespertilio murinus",
+  "wikibase_item": "Q232644",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q232644"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "microhydromys-argenteus",
+  "name": "Southern groove-toothed moss mouse",
+  "scientificName": "Microhydromys argenteus",
+  "wikibase_item": "Q3856977",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136384,
+      "id": "Q136384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3856977",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_groove-toothed_moss_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern groove-toothed moss mouse is a species of rodent in the family Muridae found in Southern Papua New Guinea. As opposed to M. richardsoni, argenteus sp can be differentiated most prominently by its gray-brown pelage. \n",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Distribution_of_Microhydromys_argenteus.png",
+  "_score": 1
+}

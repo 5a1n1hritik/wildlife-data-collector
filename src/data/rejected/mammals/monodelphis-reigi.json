@@ -1,0 +1,26 @@
+{
+  "id": "monodelphis-reigi",
+  "name": "Reig's opossum",
+  "scientificName": "Monodelphis reigi",
+  "wikibase_item": "Q3299180",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3299180",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reig's_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Reig's opossum is a South American opossum species of the family Didelphidae, discovered in 2004. It is named after Argentine biologist Osvaldo Reig (1929–1992). It was initially found in montane forest in Canaima National Park, Venezuela at an elevation of 1300 m in the Sierra de Lema. It is typically found between 1100 m and 2050 m on Mount Ayanganna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Reig%27s_Opossum_area.png",
+  "_score": 1
+}

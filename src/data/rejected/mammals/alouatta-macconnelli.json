@@ -1,0 +1,26 @@
+{
+  "id": "alouatta-macconnelli",
+  "name": "Guyanan red howler",
+  "scientificName": "Alouatta macconnelli",
+  "wikibase_item": "Q1206162",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1206162",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guyanan_red_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guyanan red howler is a species of howler monkey, a type of New World monkey, native to Suriname, Guyana, Trinidad, French Guiana, Venezuela and Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Guyanan_red_howler_1.jpg",
+  "_score": 1
+}

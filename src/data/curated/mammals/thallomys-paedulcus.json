@@ -1,0 +1,25 @@
+{
+  "id": "thallomys-paedulcus",
+  "name": "Acacia Rat",
+  "scientificName": "Thallomys paedulcus",
+  "wikibase_item": "Q416568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 246927,
+      "id": "Q246927"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q416568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Acacia_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The acacia rat, or black-tailed tree rat, is a species of rodent in the family Muridae. It is a small arboreal rodent that is extensively dependent on Acacia trees.\nIt is found in Botswana, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Mozambique, Namibia, Somalia, South Africa, Eswatini, Tanzania, Zambia, and Zimbabwe.\nIts natural habitat is subtropical or tropical dry shrubland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Akazienrattecele4.jpg"
+}

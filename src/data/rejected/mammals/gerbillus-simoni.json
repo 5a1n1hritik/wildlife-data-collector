@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-simoni",
+  "name": "Gerbillus simoni",
+  "scientificName": "Gerbillus simoni",
+  "wikibase_item": "Q27992186",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27992186",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_short-tailed_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser short-tailed gerbil is distributed mainly from eastern Morocco to Egypt. It is also known as Simon's dipodil. After morphological and molecular studies in 2010 Dipodillus was ranged as a subgenus of Gerbillus, and Dipodillus simoni was renamed into Gerbillus simoni.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Gerbillus_simoni.jpg",
+  "_score": 1
+}

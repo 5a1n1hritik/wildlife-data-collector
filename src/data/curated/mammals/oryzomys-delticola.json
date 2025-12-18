@@ -1,0 +1,25 @@
+{
+  "id": "oryzomys-delticola",
+  "name": "Oryzomys delticola",
+  "scientificName": "Oryzomys delticola",
+  "wikibase_item": "Q41010266",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41010266",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_nigripes"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys nigripes, also known as the black-footed colilargo or the black-footed pygmy rice rat, is a rodent in the genus Oligoryzomys of family Cricetidae. Oligoryzomys nigripes is a species that has been further divided into different sister taxa throughout history. It is found in different countries in South America. It is a large species with long ears, dark yellow to dark brown upperparts, sharply delimited from the whitish underparts, and often a pink girdle on the chest. This species of rat spends much of its life among the trees. The karyotype is 2n = 62, FNa = 78–82.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/South_america_tr.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arctocephalus-galapagoensis",
+  "name": "Galápagos fur seal",
+  "scientificName": "Arctocephalus galapagoensis",
+  "wikibase_item": "Q571618",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q571618",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_fur_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Galápagos fur seal is one of eight seals in the genus Arctocephalus. It is the smallest of all eared seals. It is endemic to the Galápagos Islands in the eastern Pacific. The total estimated population as of 1970 was said to be about 30,000, although the population has been said to be on the decline since the 1980s due to environmental factors such as pollution, disease, invasive species, and their limited territory. Due to the population having been historically vulnerable to hunting, the Galápagos fur seal has been protected by the Ecuadorian government since 1934.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Galapagos_Fur_Seal%2C_Santiago_Island.jpg"
+}

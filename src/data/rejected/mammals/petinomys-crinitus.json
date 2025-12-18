@@ -1,0 +1,26 @@
+{
+  "id": "petinomys-crinitus",
+  "name": "Petinomys crinitus",
+  "scientificName": "Petinomys crinitus",
+  "wikibase_item": "Q946253",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244166,
+      "id": "Q244166"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q946253",
+    "wikipedia": "https://en.wikipedia.org/wiki/Basilan_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Basilan flying squirrel is a species of rodent in the family Sciuridae. It is endemic to the Philippines. It is often confused with the mindanao flying squirrel.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Range_Petinomys_crinitus.png",
+  "_score": 1
+}

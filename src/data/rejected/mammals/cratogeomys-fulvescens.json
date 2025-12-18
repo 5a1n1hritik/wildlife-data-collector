@@ -1,0 +1,26 @@
+{
+  "id": "cratogeomys-fulvescens",
+  "name": "Cratogeomys fulvescens",
+  "scientificName": "Cratogeomys fulvescens",
+  "wikibase_item": "Q2070345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 869542,
+      "id": "Q869542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2070345",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oriental_Basin_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Oriental Basin pocket gopher is a species of pocket gopher which is endemic to Mexico. It was first described in 1895 by Clinton Hart Merriam. It was considered to be a subspecies of Merriam's pocket gopher in the late 20th and early 21st century but has been reinstated as its own species. The IUCN Red List has evaluated it to be of least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cratogeomys_fulvescens_8802264.jpg",
+  "_score": 1
+}

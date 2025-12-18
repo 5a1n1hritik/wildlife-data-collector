@@ -1,0 +1,25 @@
+{
+  "id": "euroscaptor-orlovi",
+  "name": "Euroscaptor orlovi",
+  "scientificName": "Euroscaptor orlovi",
+  "wikibase_item": "Q46086587",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1851296,
+      "id": "Q1851296"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46086587",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orlov's_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Orlov's mole is a species of mammal in the family Talpidae. It is known from northern Vietnam, southern China, and possibly Laos. It was named after Russian zoologist Nikolai L. Orlov of the Russian Academy of Sciences.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Euroscaptor_orlovi_distribution_map.svg/960px-Euroscaptor_orlovi_distribution_map.svg.png"
+}

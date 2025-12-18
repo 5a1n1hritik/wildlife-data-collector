@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-cansus",
+  "name": "Gansu pika",
+  "scientificName": "Ochotona cansus",
+  "wikibase_item": "Q1768715",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768715",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gansu_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gansu pika or gray pika is a species of mammal in the pika family, Ochotonidae. They are endemic to the Qinling mountains of China and tend to live in shrubby, high elevation environments. This small creature prefers to live near natural mounds so they can use them to search for predators and escape easily. The International Union for Conservation of Nature considers it a least-concern species, but pesticide application may threaten certain populations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ochotona_cansus.jpg",
+  "_score": 3
+}

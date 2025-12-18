@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-degelidus",
+  "name": "Jamaican red bat",
+  "scientificName": "Lasiurus degelidus",
+  "wikibase_item": "Q1831776",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831776",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamaican_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Jamaican red bat is a species of vesper bat. It is endemic to Jamaica.",
+  "image": null,
+  "_score": 0
+}

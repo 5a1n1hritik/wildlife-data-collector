@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-tandrefana",
+  "name": "Scotophilus tandrefana",
+  "scientificName": "Scotophilus tandrefana",
+  "wikibase_item": "Q2166702",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2166702",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malagasy_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malagasy yellow bat, sometimes known as the western yellow bat, is a species of vesper bat endemic to Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Scotophilus_tandrefana_range_map.svg/2324px-Scotophilus_tandrefana_range_map.svg.png",
+  "_score": 1
+}

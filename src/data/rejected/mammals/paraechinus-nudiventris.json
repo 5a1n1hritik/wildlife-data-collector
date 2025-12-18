@@ -1,0 +1,26 @@
+{
+  "id": "paraechinus-nudiventris",
+  "name": "Bare-bellied hedgehog",
+  "scientificName": "Paraechinus nudiventris",
+  "wikibase_item": "Q1770538",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650378,
+      "id": "Q650378"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770538",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bare-bellied_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bare-bellied hedgehog, also known as the Madras hedgehog, is a species of hedgehog that is endemic to dry arid regions and scrubby jungles in southeastern India. As it was believed to be rare, it was formerly listed as Vulnerable by the IUCN. It is now known to be locally common in the Indian states of Andhra Pradesh and Tamil Nadu, mostly in Erode and Tirupur, resulting in its new listing as a species of Least Concern. Hedgehogs are protected species under schedule IV of Wildlife Protection Act (1972).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/The_bare-bellied_hedgehog_%28Paraechinus_nudiventris%29.jpg",
+  "_score": 2
+}

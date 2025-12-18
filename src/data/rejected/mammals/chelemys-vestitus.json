@@ -1,0 +1,26 @@
+{
+  "id": "chelemys-vestitus",
+  "name": "Chelemys vestitus",
+  "scientificName": "Chelemys vestitus",
+  "wikibase_item": "Q40653131",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 178363,
+      "id": "Q178363"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40653131"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

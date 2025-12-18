@@ -1,0 +1,25 @@
+{
+  "id": "talpa-martinorum",
+  "name": "Talpa martinorum",
+  "scientificName": "Talpa martinorum",
+  "wikibase_item": "Q56192600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56192600",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martino's_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Martino's mole is a species of small blind mole in the family Talpidae found in eastern Thrace along the western Black Sea coast in south-eastern Bulgaria and north-eastern Turkey, mainly in the Strandzha mountain range. In Bulgaria it is found in Strandzha Nature Park. Martino's mole is named in honour of the couple Evgeniya and Vladimir Martino, key earlier Balkan mammalogists.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Talpa_martinorum_distribution_map.svg/960px-Talpa_martinorum_distribution_map.svg.png"
+}

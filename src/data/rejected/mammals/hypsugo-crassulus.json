@@ -1,0 +1,26 @@
+{
+  "id": "hypsugo-crassulus",
+  "name": "Broad-headed pipistrelle",
+  "scientificName": "Hypsugo crassulus",
+  "wikibase_item": "Q643952",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q643952",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-headed_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-headed serotine, formerly known as the broad-headed pipistrelle, is a species of vesper bat in the family Vespertilionidae. It is found in Angola, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Guinea, liberia, Kenya, South Sudan, and Uganda. Its natural habitats are subtropical and tropical forests.",
+  "image": null,
+  "_score": 1
+}

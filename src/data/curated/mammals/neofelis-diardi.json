@@ -1,0 +1,26 @@
+{
+  "id": "neofelis-diardi",
+  "name": "Sunda clouded leopard",
+  "scientificName": "Neofelis diardi",
+  "wikibase_item": "Q275163",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269871,
+      "id": "Q269871"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q275163",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunda_clouded_leopard"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sunda clouded leopard is a medium-sized wild cat native to Borneo and Sumatra. It is listed as Vulnerable on the IUCN Red List since 2015, as the total effective population probably consists of fewer than 10,000 mature individuals, with a decreasing population trend. On both Sunda Islands, it is threatened by deforestation.\nIt was classified as a separate species, distinct from its close relative, the clouded leopard in mainland Southeast Asia based on a study in 2006. Its fur is darker with a smaller cloud pattern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Borneo_clouded_leopard.jpg",
+  "_score": 3
+}

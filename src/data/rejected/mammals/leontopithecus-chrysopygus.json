@@ -1,0 +1,28 @@
+{
+  "id": "leontopithecus-chrysopygus",
+  "name": "Black Lion Tamarin",
+  "scientificName": "Leontopithecus chrysopygus",
+  "wikibase_item": "Q290591",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857486,
+      "id": "Q857486"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q290591",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_lion_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black lion tamarin, also known as the golden-rumped lion tamarin, is a lion tamarin endemic to the Brazilian state of São Paulo, almost exclusively at the Morro do Diabo State Park. Its limited geographical range makes it the rarest of the New World monkeys, with little known about it. It was thought to be extinct for 65 years until its rediscovery in 1970.\nIn 2016 an adult couple was found to the east, in the Caetetus Ecological Station, after six years with no sightings.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Black_Lion_Tamarin_4.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

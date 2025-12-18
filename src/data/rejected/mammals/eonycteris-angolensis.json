@@ -1,0 +1,26 @@
+{
+  "id": "eonycteris-angolensis",
+  "name": "Eonycteris angolensis",
+  "scientificName": "Eonycteris angolensis",
+  "wikibase_item": "Q40445133",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 890680,
+      "id": "Q890680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40445133"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

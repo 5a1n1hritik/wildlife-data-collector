@@ -1,0 +1,26 @@
+{
+  "id": "varecia-variegata",
+  "name": "black-and-white ruffed lemur",
+  "scientificName": "Varecia variegata",
+  "wikibase_item": "Q998074",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 640161,
+      "id": "Q640161"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q998074",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-and-white_ruffed_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-and-white ruffed lemur is an endangered species of ruffed lemur, one of two which are endemic to the island of Madagascar. Despite having a larger range than the red ruffed lemur, it has a much smaller population that is spread out, living in lower population densities and reproductively isolated. It also has less coverage and protection in large national parks than the red ruffed lemur. Three subspecies of black-and-white ruffed lemur have been recognized since the red ruffed lemur was elevated to species status in 2001.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1_black_and_white_ruffed_lemur.jpg",
+  "_score": 2
+}

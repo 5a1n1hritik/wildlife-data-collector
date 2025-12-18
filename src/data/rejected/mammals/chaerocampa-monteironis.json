@@ -1,0 +1,26 @@
+{
+  "id": "chaerocampa-monteironis",
+  "name": "Chaerocampa monteironis",
+  "scientificName": "Chaerocampa monteironis",
+  "wikibase_item": "Q25356691",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25398756,
+      "id": "Q25398756"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25356691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theretra_monteironis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Theretra monteironis is a moth of the family Sphingidae. It is known from dry habitats from KwaZulu-Natal to eastern Kenya.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Day_73_Hawkmoth_%28Theretra_monteironis%29_%2853368990321%29.jpg",
+  "_score": 2
+}

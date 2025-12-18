@@ -1,0 +1,26 @@
+{
+  "id": "philander-canus",
+  "name": "Philander canus",
+  "scientificName": "Philander canus",
+  "wikibase_item": "Q50366007",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50366007",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common four-eyed opossum is a species of opossum from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Common_Four-eyed_Opossum_imported_from_iNaturalist_photo_284956116_on_14_October_2024.jpg",
+  "_score": 1
+}

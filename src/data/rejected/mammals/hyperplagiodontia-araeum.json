@@ -1,0 +1,28 @@
+{
+  "id": "hyperplagiodontia-araeum",
+  "name": "Hyperplagiodontia araeum",
+  "scientificName": "Hyperplagiodontia araeum",
+  "wikibase_item": "Q125859560",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125859583,
+      "id": "Q125859583"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125859560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyperplagiodontia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hyperplagiodontia, rarely called the wide-toothed hutia, is an extinct genus of hutia which contains a single species, Hyperplagiodontia araeum. The species was originally described as a member of the genus Plagiodontia along with the extant Hispaniolan hutia, but after morphometric analysis in 2012, was moved to its own genus, Hyperplagiodontia. Fossils of H. araeum have only been found on Hispaniola, in the Dominican Republic and Haiti.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

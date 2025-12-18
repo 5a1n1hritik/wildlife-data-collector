@@ -1,0 +1,26 @@
+{
+  "id": "rhynchocyon-adersi",
+  "name": "Rhynchocyon adersi",
+  "scientificName": "Rhynchocyon adersi",
+  "wikibase_item": "Q40674209",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40674209"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-fumosa",
+  "name": "Smoky White-toothed Shrew",
+  "scientificName": "Crocidura fumosa",
+  "wikibase_item": "Q306884",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306884",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smoky_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The smoky white-toothed shrew is a species of mammal in the family Soricidae. It is endemic to Kenya. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Smoky_White-toothed_Shrew_area.png",
+  "_score": 2
+}

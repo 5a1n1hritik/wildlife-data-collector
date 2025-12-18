@@ -1,0 +1,26 @@
+{
+  "id": "dipodomys-microps",
+  "name": "Chisel-toothed kangaroo rat",
+  "scientificName": "Dipodomys microps",
+  "wikibase_item": "Q1762619",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762619",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chisel-toothed_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chisel-toothed kangaroo rat is a species of rodent in the family Heteromyidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dipodomys-microps.jpg",
+  "_score": 1
+}

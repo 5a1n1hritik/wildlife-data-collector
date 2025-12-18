@@ -1,0 +1,26 @@
+{
+  "id": "sylvilagus-palustris",
+  "name": "Marsh rabbit",
+  "scientificName": "Sylvilagus palustris",
+  "wikibase_item": "Q138169",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875577,
+      "id": "Q20875577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138169",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marsh_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The marsh rabbit is a small cottontail rabbit found in marshes and swamps of coastal regions of the Eastern and Southern United States, from Virginia to the lower Florida Keys. Being a small brown rabbit, it is similar in appearance to the widespread eastern cottontail, but is characterized by its smaller ears, legs, and tail, as well as its grayish-brown underparts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sylvilagus_palustris_-_Peter_Chen_2.0_-_473222718.jpeg",
+  "_score": 1
+}

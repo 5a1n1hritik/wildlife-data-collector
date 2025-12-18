@@ -1,0 +1,26 @@
+{
+  "id": "hemigalus-derbyanus",
+  "name": "Banded palm civet",
+  "scientificName": "Hemigalus derbyanus",
+  "wikibase_item": "Q754393",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817081,
+      "id": "Q19817081"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754393",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banded_palm_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banded palm civet, also called the banded civet, is a viverrid native to Indomalaya. They primarily inhabit lowland conifer habitat, which is under threat from encroaching human activity. It is estimated the population of the banded palm civet has decreased by around 30% in just three generations. Banded palm civets are usually approximately the size of a domestic cat; their fur is pale but with dark bands on the back. They are believed to be closely related to Hose's palm civets, which are similar in appearance and distribution.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Banded_palm_civet_10.jpg",
+  "_score": 5
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-morio",
+  "name": "Rhinolophus morio",
+  "scientificName": "Rhinolophus morio",
+  "wikibase_item": "Q40671324",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40671324",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaysian_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malaysian woolly horseshoe bat or Jester's horseshoe bat is a bat species of the family Rhinolophidae. It is found in the Malay Peninsula and northern Sumatra.",
+  "image": null,
+  "_score": 0
+}

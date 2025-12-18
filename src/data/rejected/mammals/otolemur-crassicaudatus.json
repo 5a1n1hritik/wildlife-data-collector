@@ -1,0 +1,26 @@
+{
+  "id": "otolemur-crassicaudatus",
+  "name": "brown greater galago",
+  "scientificName": "Otolemur crassicaudatus",
+  "wikibase_item": "Q756194",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1190066,
+      "id": "Q1190066"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q756194",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_greater_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown greater galago, also known as the large-eared greater galago or thick-tailed galago, is a nocturnal primate, the largest in the family of galagos. As opposed to smaller galago species it would climb, walk or run rather than leap.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Thick-tailed_Bushbaby_%28Otolemur_crassicaudatus%29_%2817322632725%29.jpg",
+  "_score": 1
+}

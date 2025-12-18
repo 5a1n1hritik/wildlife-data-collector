@@ -1,0 +1,25 @@
+{
+  "id": "propithecus-deckenii",
+  "name": "Von der Decken's sifaka",
+  "scientificName": "Propithecus deckenii",
+  "wikibase_item": "Q1184997",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1184997",
+    "wikipedia": "https://en.wikipedia.org/wiki/Von_der_Decken's_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Von der Decken's sifaka is a sifaka lemur that is endemic to the arid, deciduous and spiny succulent forests of Western Madagascar. It has a length of 92 to 107 centimeters, of which 42-48 centimeters are tail. The species is named in honor of the German explorer Karl Klaus von der Decken.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Von_der_Deckens_sifaka_09.JPG"
+}

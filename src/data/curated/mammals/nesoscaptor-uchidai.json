@@ -1,0 +1,25 @@
+{
+  "id": "nesoscaptor-uchidai",
+  "name": "Nesoscaptor uchidai",
+  "scientificName": "Nesoscaptor uchidai",
+  "wikibase_item": "Q22111757",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21214460,
+      "id": "Q21214460"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22111757",
+    "wikipedia": "https://en.wikipedia.org/wiki/Senkaku_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Senkaku mole, also known as the Ryukyu mole, is a species of mammal in the family Talpidae. It was formerly classified as being the only species in the genus Nesoscaptor. It is endemic to the Uotsuri-jima of the disputed territory of Senkaku Islands, also known as the Diaoyutai Islands. It is most similar to the Insular mole of Taiwan and mainland China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Senkaku_Mole_area.png"
+}

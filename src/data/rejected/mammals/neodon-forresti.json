@@ -1,0 +1,26 @@
+{
+  "id": "neodon-forresti",
+  "name": "Forrest's Mountain Vole",
+  "scientificName": "Neodon forresti",
+  "wikibase_item": "Q1767220",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427901,
+      "id": "Q427901"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767220",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forrest's_mountain_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Forrest's mountain vole is a species of rodent in the family Cricetidae found within China in northwest Yunnan. The initial study by Hinton in 1923 identified it as morphologically close to the Chinese scrub vole but with a larger body size and longer and darker pelage.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Range_Neodon_forresti.png",
+  "_score": 1
+}

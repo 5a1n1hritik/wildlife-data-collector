@@ -1,0 +1,26 @@
+{
+  "id": "lionycteris-spurrelli",
+  "name": "Chestnut Long-tongued Bat",
+  "scientificName": "Lionycteris spurrelli",
+  "wikibase_item": "Q247703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10786337,
+      "id": "Q10786337"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chestnut_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chestnut long-tongued bat is a bat species from South and Central America. It is the only species within its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Chestnut_long-tongued_bat_imported_from_iNaturalist_photo_165474909_on_12_January_2023.jpg",
+  "_score": 1
+}

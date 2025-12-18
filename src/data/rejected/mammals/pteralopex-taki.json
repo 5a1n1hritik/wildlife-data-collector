@@ -1,0 +1,28 @@
+{
+  "id": "pteralopex-taki",
+  "name": "New Georgian Monkey-faced Bat",
+  "scientificName": "Pteralopex taki",
+  "wikibase_item": "Q769484",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2479576,
+      "id": "Q2479576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q769484",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Georgian_monkey-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Georgian monkey-faced bat or New Georgian flying monkey is a recently described species of megabat endemic to the New Georgia and Vangunu Islands. It is presumably extinct on Kolombangara Island, and the remaining populations on other islands are threatened by habitat loss and hunting. Consequently, it is considered vulnerable by the IUCN. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/New_Georgian_Monkey-faced_Bat_area.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

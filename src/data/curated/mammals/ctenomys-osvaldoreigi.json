@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-osvaldoreigi",
+  "name": "Reig's tuco-tuco",
+  "scientificName": "Ctenomys osvaldoreigi",
+  "wikibase_item": "Q1764856",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764856",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reig's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Reig's tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to central Argentina, where it is known only from a grassland location in Cordoba Province at an elevation above 2000 m in the Sierras Grandes. The species is threatened by disruption of its habitat by fire and sheep grazing. It is named after Argentine biologist Osvaldo Reig (1929–1992).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ctenomys_osvaldoreigi%21.jpg",
+  "_score": 3
+}

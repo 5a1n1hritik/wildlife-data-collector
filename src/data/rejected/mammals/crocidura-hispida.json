@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-hispida",
+  "name": "Crocidura hispida",
+  "scientificName": "Crocidura hispida",
+  "wikibase_item": "Q305734",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305734",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andaman_spiny_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andaman spiny shrew or Andaman shrew is a species of mammal in the family Soricidae. It is endemic to India. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Andaman_Spiny_Shrew_area.png",
+  "_score": 2
+}

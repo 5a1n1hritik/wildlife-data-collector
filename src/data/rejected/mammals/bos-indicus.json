@@ -1,0 +1,26 @@
+{
+  "id": "bos-indicus",
+  "name": "Bos indicus",
+  "scientificName": "Bos indicus",
+  "wikibase_item": "Q20747726",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 237993,
+      "id": "Q237993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20747726",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zebu"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "The zebu, also known as indicine cattle and humped cattle, is a species or subspecies of domestic cattle originating in South Asia. Zebu, like many Sanga cattle breeds, differ from taurine cattle in the fatty hump on their shoulders, their large dewlap, and their sometimes-drooping ears. They are well adapted to high temperatures and are raised throughout the tropics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Zebu_cattle.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-citellus",
+  "name": "European ground squirrel",
+  "scientificName": "Spermophilus citellus",
+  "wikibase_item": "Q623466",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q623466",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European ground squirrel, also known as the European souslik, is a species from the squirrel family, Sciuridae. It is among the few European species in the genus Spermophilus. Like all squirrels, it is a member of the rodent order. It is to be found in eastern and central Europe from southern Ukraine, to Asia Minor, Austria, the Czech Republic, Slovakia, Serbia, Hungary, Greece, Romania, Moldova, Bulgaria, North Macedonia and north as far as Poland but the range is divided in two parts by the Carpathian Mountains.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/European_souslik_%28Spermophilus_citellus%29_Obrovisko.jpg",
+  "_score": 2
+}

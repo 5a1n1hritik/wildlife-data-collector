@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-sanborni",
+  "name": "Sanborn's squirrel",
+  "scientificName": "Sciurus sanborni",
+  "wikibase_item": "Q1764060",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764060",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanborn's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sanborn's squirrel is or was a little known tree squirrel described in 1944 from the skin and skeleton of a single female specimen collected in Peru in 1941. Subsequently, over the proceeding years only a handful of either specimens were collected, or observations were recorded, in the regions of Madre de Dios and northern Puno in Peru, and Pando department in Bolivia. The 2019 IUCN assessment describes it as endemic to Peru. In 2015 this taxon was synonymised with Notosciurus pucheranii ssp. boliviensis. Its habitat is tropical dry broadleaf forests at elevations up to 570 m. It is considered possibly rare and potentially vulnerable to deforestation, but its population trend is not established.",
+  "image": null
+}

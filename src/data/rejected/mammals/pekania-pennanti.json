@@ -1,0 +1,26 @@
+{
+  "id": "pekania-pennanti",
+  "name": "Pekania pennanti",
+  "scientificName": "Pekania pennanti",
+  "wikibase_item": "Q27203477",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 27203130,
+      "id": "Q27203130"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27203477",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fisher_(animal)"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fisher is a carnivorous mammal native to North America, a forest-dwelling creature whose range covers much of the boreal forest in Canada to the northern United States. It is a member of the mustelid family, and is the only living member of the genus Pekania. It is sometimes referred to as a fisher cat, although it is not a cat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fishers_%2814584727897%29.jpg",
+  "_score": 1
+}

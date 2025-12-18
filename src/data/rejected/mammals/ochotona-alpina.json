@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-alpina",
+  "name": "Alpine pika",
+  "scientificName": "Ochotona alpina",
+  "wikibase_item": "Q4524",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4524",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpine_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The alpine pika is a species of small mammal in the pika family, Ochotonidae. The summer pelage of different subspecies varies drastically but, in general, it is dark or cinnamon brown, turning to grey with a yellowish tinge during the winter. The alpine pika is found in western Mongolia, eastern Kazakhstan, and Russia, as well as in China, in very cold, mountainous regions. It is a generalist herbivore, and mainly forages on mosses, tree branches, pine nuts, and plant stems. It can emit three series of different vocalizations: a long call, a short call, and an alarm call. It is rated as a species of least concern on the IUCN Red List of Endangered Species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ochotona_alpina.jpg",
+  "_score": 2
+}

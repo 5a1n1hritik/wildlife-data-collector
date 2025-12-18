@@ -1,0 +1,25 @@
+{
+  "id": "thylogale-stigmatica",
+  "name": "Red-legged pademelon",
+  "scientificName": "Thylogale stigmatica",
+  "wikibase_item": "Q209594",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668527,
+      "id": "Q668527"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209594",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-legged_pademelon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-legged pademelon is a species of small macropod found on the northeastern coast of Australia and in New Guinea. In Australia it has a scattered distribution from the tip of Cape York Peninsula in Queensland to around Tamworth in New South Wales. In New Guinea it is found in south central lowlands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Red-legged_Pademelon.jpg"
+}

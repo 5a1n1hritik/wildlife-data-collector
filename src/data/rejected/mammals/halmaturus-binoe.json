@@ -1,0 +1,26 @@
+{
+  "id": "halmaturus-binoe",
+  "name": "Halmaturus binoe",
+  "scientificName": "Halmaturus binoe",
+  "wikibase_item": "Q41165086",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41154073,
+      "id": "Q41154073"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165086"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "didelphis-albiventris",
+  "name": "White-eared opossum",
+  "scientificName": "Didelphis albiventris",
+  "wikibase_item": "Q194685",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194685",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-eared_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-eared opossum, known as the timbu and cassaco in northeast Brazil, saruê and sariguê in Bahia, micurê and mucura in northern Brazil and comadreja overa and zarigüeya in Argentina, is an opossum species found in Argentina, Bolivia, Brazil, Paraguay, and Uruguay. It is a terrestrial and, sometimes, arboreal animal, and a habitat generalist, living in a wide range of different habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Didelphis_albiventris%2C_Bahia%2C_Brazil.jpg",
+  "_score": 2
+}

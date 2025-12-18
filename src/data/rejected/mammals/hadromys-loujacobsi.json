@@ -1,0 +1,28 @@
+{
+  "id": "hadromys-loujacobsi",
+  "name": "Hadromys loujacobsi",
+  "scientificName": "Hadromys loujacobsi",
+  "wikibase_item": "Q2235258",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135476,
+      "id": "Q135476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2235258",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hadromys_loujacobsi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hadromys loujacobsi is an extinct species of rat, known only from three molars of early Pleistocene origin. They were found in the Upper Siwalik Group in the Punjab region of Pakistan.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cavia-guianae",
+  "name": "Cavia guianae",
+  "scientificName": "Cavia guianae",
+  "wikibase_item": "Q5055119",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5055119",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cavia_guianae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cavia guianae is a guinea pig species from South America. It is found in southern Venezuela, Guyana, and portions of northern Brazil. Some biologists believe it to be a feral offshoot of the domestic guinea pig, Cavia porcellus; others subsume it under the wild cavy, Cavia aperea. Molecular data collected show there is little genetic differentiation in C.a. guianae known to be a lowland locality in comparison to C. anolaimae which are predominantly highland populations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cavia_porcellus.jpg",
+  "_score": 2
+}

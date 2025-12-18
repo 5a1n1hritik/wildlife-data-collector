@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-varius",
+  "name": "Cinnamon red bat",
+  "scientificName": "Lasiurus varius",
+  "wikibase_item": "Q169694",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q169694",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinnamon_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cinnamon red bat is a species of bat in the family Vespertilionidae. It was first described from a specimen that had been collected in Chile. For more than one hundred years after its initial description, it was largely considered a synonym of the eastern red bat. From the 1980s onward, it was frequently recognized as distinct from the eastern red bat due to its fur coloration and differences in range. It has deep red fur, lacking white \"frosting\" on the tips of individual hairs seen in other members of Lasiurus. It has a forearm length of 39–42 mm (1.5–1.7 in) and a weight of 9.5–11.0 g (0.34–0.39 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lasiurus_varius_2450267.jpg",
+  "_score": 2
+}

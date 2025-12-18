@@ -1,0 +1,26 @@
+{
+  "id": "acerodon-celebensis",
+  "name": "Sulawesi Flying Fox",
+  "scientificName": "Acerodon celebensis",
+  "wikibase_item": "Q301834",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2307345,
+      "id": "Q2307345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301834",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sulawesi_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sulawesi flying fox or Sulawesi fruit bat is a species of megabat endemic to Indonesia. It is classified as \"Vulnerable\" by the IUCN due to unsustainable levels of hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Acerodon_celebensis.JPG",
+  "_score": 1
+}

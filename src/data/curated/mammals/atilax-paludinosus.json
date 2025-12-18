@@ -1,0 +1,25 @@
+{
+  "id": "atilax-paludinosus",
+  "name": "Marsh mongoose",
+  "scientificName": "Atilax paludinosus",
+  "wikibase_item": "Q855597",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10736022,
+      "id": "Q10736022"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q855597",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marsh_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The marsh mongoose, also called water mongoose, is a medium-sized mongoose species native to sub-Saharan Africa that inhabits freshwater wetlands. It has been listed as a Least-concern species on the IUCN Red List since 2008.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Marsh_mongoose_or_water_mongoose%2C_Atilax_paludinosus%2C_at_Rietvlei_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2822548192738%29.jpg"
+}

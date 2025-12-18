@@ -1,0 +1,26 @@
+{
+  "id": "mormopterus-kalinowskii",
+  "name": "Kalinowski's mastiff bat",
+  "scientificName": "Mormopterus kalinowskii",
+  "wikibase_item": "Q1831449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalinowski's_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kalinowski's mastiff bat is a species of bat in the family Molossidae, the free-tailed bats. It is native to Peru and northern Chile. Relatively little is known about the species, but it is thought to be common in its range. It is sometimes seen in urban areas. Molecular sequencing data indicates that the closest relatives of M. kalinowski are members of another genus, Nyctinomops.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mormopterus_kalinowskii_illustration.jpg",
+  "_score": 1
+}

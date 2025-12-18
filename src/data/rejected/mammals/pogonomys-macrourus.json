@@ -1,0 +1,26 @@
+{
+  "id": "pogonomys-macrourus",
+  "name": "Chestnut tree mouse",
+  "scientificName": "Pogonomys macrourus",
+  "wikibase_item": "Q1768821",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 516305,
+      "id": "Q516305"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768821",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chestnut_tree_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chestnut tree mouse is a species of rodent in the family Muridae.\nIt is found in Indonesia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pogonomys_macrourus_33038053.jpg",
+  "_score": 1
+}

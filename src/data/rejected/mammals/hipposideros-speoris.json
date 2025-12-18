@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-speoris",
+  "name": "Hipposideros speoris",
+  "scientificName": "Hipposideros speoris",
+  "wikibase_item": "Q308449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Schneider's_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Schneider's leaf-nosed bat or Schneider's roundleaf bat is a species of bat in the family Hipposideridae. It is endemic to South Asia. Its natural habitats are subtropical or tropical dry forests, caves, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Schneider%27s_Leaf-nosed_Bat_Hipposideros_speoris_DSC_9833_copy_filtered_copy.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "anoura-carishina",
+  "name": "Anoura carishina",
+  "scientificName": "Anoura carishina",
+  "wikibase_item": "Q3928132",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3928132"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

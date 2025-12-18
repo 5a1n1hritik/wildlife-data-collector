@@ -1,0 +1,26 @@
+{
+  "id": "pseudantechinus-woolleyae",
+  "name": "Woolley's False Antechinus",
+  "scientificName": "Pseudantechinus woolleyae",
+  "wikibase_item": "Q135135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409297,
+      "id": "Q1409297"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woolley's_false_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Woolley's false antechinus, also known as Woolley's pseudantechinus, is a species of small carnivorous marsupial belonging to the family Dasyuridae. It is found in the Australian state of Western Australia, primarily in the Pilbara, Ashburton and Murchison regions.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Woolley%27s_False_Antechinus_imported_from_iNaturalist_photo_218736843_on_9_January_2023.jpg",
+  "_score": 1
+}

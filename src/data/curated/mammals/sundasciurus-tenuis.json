@@ -1,0 +1,25 @@
+{
+  "id": "sundasciurus-tenuis",
+  "name": "Slender squirrel",
+  "scientificName": "Sundasciurus tenuis",
+  "wikibase_item": "Q1766962",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766962",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender squirrel is a species of rodent in the family Sciuridae. It is arboreal and found in Indonesia, Singapore, Malaysia, and Thailand. The body is brown on the upper parts and light grey on the underparts. The body measures about 13–16 cm, with a slightly shorter slender tail. It feeds on soft bark, fruits and insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sundasciurus_tenuis.jpg"
+}

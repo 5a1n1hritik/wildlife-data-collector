@@ -1,0 +1,26 @@
+{
+  "id": "peroryctes-broadbenti",
+  "name": "Giant bandicoot",
+  "scientificName": "Peroryctes broadbenti",
+  "wikibase_item": "Q194618",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1542557,
+      "id": "Q1542557"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194618",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant bandicoot is a species of marsupial in the family Peramelidae endemic to Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Giant_Bandicoot_area.png",
+  "_score": 2
+}

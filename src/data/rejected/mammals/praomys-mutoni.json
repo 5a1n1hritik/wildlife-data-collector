@@ -1,0 +1,26 @@
+{
+  "id": "praomys-mutoni",
+  "name": "Muton's Soft-furred Mouse",
+  "scientificName": "Praomys mutoni",
+  "wikibase_item": "Q1765669",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765669",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muton's_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Muton's soft-furred mouse or riverine praomys is a species of rodent in the family Muridae.\nIt is found only in Democratic Republic of the Congo.\nIts natural habitats are subtropical or tropical swampland and rivers.",
+  "image": null,
+  "_score": 1
+}

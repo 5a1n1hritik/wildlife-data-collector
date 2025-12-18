@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-famosus",
+  "name": "Famatina tuco-tuco",
+  "scientificName": "Ctenomys famosus",
+  "wikibase_item": "Q1767329",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767329",
+    "wikipedia": "https://en.wikipedia.org/wiki/Famatina_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Famatina tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to northern Argentina. The common name of the species comes from the municipality, department and mountain range of the same name at the type locality.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ateles-paniscus",
+  "name": "Ateles paniscus",
+  "scientificName": "Ateles paniscus",
+  "wikibase_item": "Q781191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q781191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-faced_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-faced spider monkey, also known as the Guiana spider monkey or red-faced black spider monkey, is a species of spider monkey found in the rain forests in northern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ateles_paniscus.jpg",
+  "_score": 1
+}

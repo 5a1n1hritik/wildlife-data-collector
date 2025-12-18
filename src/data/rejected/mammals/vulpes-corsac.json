@@ -1,0 +1,26 @@
+{
+  "id": "vulpes-corsac",
+  "name": "corsac fox",
+  "scientificName": "Vulpes corsac",
+  "wikibase_item": "Q187024",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q187024",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corsac_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The corsac fox, also known as a corsac, is a medium-sized fox found in steppes, semi-deserts and deserts in Central Asia, ranging into Mongolia and northern China. Since 2004, it has been classified as least concern by IUCN, but populations fluctuate significantly, and numbers can drop tenfold within a single year. It is also known as the steppe fox. The word \"corsac\" is derived from the Russian name for the animal, \"korsák\" (корса́к), derived ultimately from Turkic \"karsak\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Vulpes_corsac.jpg",
+  "_score": 2
+}

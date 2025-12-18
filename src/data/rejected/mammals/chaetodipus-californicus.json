@@ -1,0 +1,26 @@
+{
+  "id": "chaetodipus-californicus",
+  "name": "California pocket mouse",
+  "scientificName": "Chaetodipus californicus",
+  "wikibase_item": "Q167046",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167046",
+    "wikipedia": "https://en.wikipedia.org/wiki/California_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The California pocket mouse is a species of nocturnal and primarily solitary rodent in the family Heteromyidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chaetodipus_californicus.jpg",
+  "_score": 1
+}

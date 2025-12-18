@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-simmonsi",
+  "name": "Simmons' mouse lemur",
+  "scientificName": "Microcebus simmonsi",
+  "wikibase_item": "Q1351736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1351736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simmons'_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Simmons' mouse lemur is a species of mouse lemur known only from Betampona Special Reserve, Analalava Special Community Reserve near Foulpointe, and Zahamena National Park in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Microcebus_simmonsi_range_map.svg/960px-Microcebus_simmonsi_range_map.svg.png",
+  "_score": 1
+}

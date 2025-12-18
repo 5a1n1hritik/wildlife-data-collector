@@ -1,0 +1,26 @@
+{
+  "id": "pseudochirulus-forbesi",
+  "name": "Painted ringtail possum",
+  "scientificName": "Pseudochirulus forbesi",
+  "wikibase_item": "Q209635",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209635",
+    "wikipedia": "https://en.wikipedia.org/wiki/Painted_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The painted ringtail possum or moss-forest ringtail possum is a species of marsupial in the family Pseudocheiridae. It inhabits montane forests between altitudes of 450 to 3800 metres throughout the Huon Peninsula montane rain forests, Central Range montane rain forests and Huon Peninsula montane rain forests of Papua New Guinea. It has a diet of primarily leaves, including those of Medinilla.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pseudochirulus_forbesi.jpg",
+  "_score": 2
+}

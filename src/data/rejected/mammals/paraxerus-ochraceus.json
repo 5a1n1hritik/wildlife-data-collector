@@ -1,0 +1,26 @@
+{
+  "id": "paraxerus-ochraceus",
+  "name": "Ochre bush squirrel",
+  "scientificName": "Paraxerus ochraceus",
+  "wikibase_item": "Q1766080",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766080",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ochre_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ochre bush squirrel is a species of rodent in the family Sciuridae found in Kenya, Somalia, and Tanzania. Its natural habitat is dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ochre_Bush_Squirrel.jpg",
+  "_score": 2
+}

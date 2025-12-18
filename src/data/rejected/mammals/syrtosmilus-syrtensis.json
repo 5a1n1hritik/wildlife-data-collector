@@ -1,0 +1,26 @@
+{
+  "id": "syrtosmilus-syrtensis",
+  "name": "Syrtosmilus syrtensis",
+  "scientificName": "Syrtosmilus syrtensis",
+  "wikibase_item": "Q118614613",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 85990246,
+      "id": "Q85990246"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118614613"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

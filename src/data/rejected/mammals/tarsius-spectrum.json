@@ -1,0 +1,26 @@
+{
+  "id": "tarsius-spectrum",
+  "name": "Tarsius spectrum",
+  "scientificName": "Tarsius spectrum",
+  "wikibase_item": "Q22113555",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22113555",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spectral_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spectral tarsier or Selayar tarsier is a species of tarsier found on the island of Selayar in Indonesia. It is apparently less specialized than the Philippine tarsier or Horsfield's tarsier; for example, it lacks adhesive toes. It is the type species for the genus Tarsius. While its range used to also include the population on nearby southwestern Sulawesi, this population has been reclassified as a separate species, Tarsius fuscus. Some of the earlier research published on Tarsius spectrum refers to the taxon that was recently reclassified and elevated to a separate species, the Gursky's spectral tarsier.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Locator_Selayar_Regency.svg/1055px-Locator_Selayar_Regency.svg.png",
+  "_score": 2
+}

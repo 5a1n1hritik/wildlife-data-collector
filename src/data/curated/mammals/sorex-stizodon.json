@@ -1,0 +1,25 @@
+{
+  "id": "sorex-stizodon",
+  "name": "San Cristobal shrew",
+  "scientificName": "Sorex stizodon",
+  "wikibase_item": "Q1770213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770213",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Cristobal_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The San Cristobal shrew is a species of mammal in the family Soricidae. It is endemic to Mexico. It is known only from the Huitepec Ecological Reserve west of San Cristóbal de las Casas in the Chiapas Highlands of central Chiapas. It is found at 2,743 m (8,999 ft) elevation in montane cloud forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/San_Cristobal_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinopoma-hardwickii",
+  "name": "Lesser mouse-tailed bat",
+  "scientificName": "Rhinopoma hardwickii",
+  "wikibase_item": "Q1830962",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913927,
+      "id": "Q913927"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830962",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_mouse-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser mouse-tailed bat is a species of microbat in the family Rhinopomatidae. Also referred to as Hardwicke's lesser mouse-tailed bat and long-tailed bat, it is named after Major General Thomas Hardwicke (1755–1835), an English soldier and naturalist who served many years in India. It is found in North Africa, some parts of central and eastern Africa, West Asia and east to the Indian subcontinent.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lesser_Mouse-_tailed_Bat_%28Rhinopoma_hardwickii%29.jpg"
+}

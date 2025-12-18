@@ -1,0 +1,25 @@
+{
+  "id": "phenacomys-intermedius",
+  "name": "Western Heather Vole",
+  "scientificName": "Phenacomys intermedius",
+  "wikibase_item": "Q1770063",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 847196,
+      "id": "Q847196"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770063",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_heather_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western heather vole is a small vole found in western North America. Until recently, the eastern heather vole was considered to be a subspecies. They have short ears with stiff orange hair inside and a short thin tail which is paler underneath. Their long soft fur is brownish with silver grey underparts. They are roughly 14 cm (5.5 in) long with a tail length shorter than one-half their body length, approximately 50 mm (2.0 in). They weigh about 40 g (1.4 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Skull_of_Phenacomys_intermedius.jpg"
+}

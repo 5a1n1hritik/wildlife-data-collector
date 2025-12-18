@@ -1,0 +1,26 @@
+{
+  "id": "punomys-kofordi",
+  "name": "Eastern puna mouse",
+  "scientificName": "Punomys kofordi",
+  "wikibase_item": "Q1762522",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544061,
+      "id": "Q544061"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762522",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_puna_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eastern puna mouse is a species of rodent in the family Cricetidae.",
+  "image": null,
+  "_score": 0
+}

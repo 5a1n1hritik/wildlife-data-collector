@@ -1,0 +1,25 @@
+{
+  "id": "phloeomys-cumingi",
+  "name": "Southern Giant Slender-Tailed Cloud Rat",
+  "scientificName": "Phloeomys cumingi",
+  "wikibase_item": "Q1767498",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498699,
+      "id": "Q498699"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767498",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_giant_slender-tailed_cloud_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern giant slender-tailed cloud rat or southern Luzon giant cloud rat, also known as bugkon in Filipino, is a vulnerable species of rodent in the family Muridae, found only in southern Luzon in the Philippines. It is dark brown, occasionally with some reddish, but lacking the light-coloured sections usually seen in its close relative, the northern Luzon giant cloud rat. The southern giant slender-tailed cloud rat is a large rodent that has a total length of about 67–75 cm (26–30 in) and weighs 1.45–2.1 kg (3.2–4.6 lb).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Krysa_filip%C3%ADnsk%C3%A1_%28Phloeomys_cumingi%29_22.12.2010_b.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mastomys-angolensis",
+  "name": "Mastomys angolensis",
+  "scientificName": "Mastomys angolensis",
+  "wikibase_item": "Q125960396",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125960396",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_multimammate_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan multimammate mouse is a species of rodent in the family Muridae.\nIt is found in Angola and Democratic Republic of the Congo. It was formerly classified in the genus Myomyscus but has been reclassified into the genus Mastomys. \nIts natural habitats are dry savanna and moist savanna.",
+  "image": null,
+  "_score": 1
+}

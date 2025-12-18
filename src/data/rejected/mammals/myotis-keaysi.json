@@ -1,0 +1,26 @@
+{
+  "id": "myotis-keaysi",
+  "name": "Myotis keaysi",
+  "scientificName": "Myotis keaysi",
+  "wikibase_item": "Q134354",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134354",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-legged_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-legged myotis is a species of mouse-eared bat. It is found from southern Tamaulipas in Mexico, through much of Central America and across northern South America as far east as Trinidad. Further south, it is found along the foothills of the Andes as far south as northern Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Myotis_keaysi.jpg",
+  "_score": 1
+}

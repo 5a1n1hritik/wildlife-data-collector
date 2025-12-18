@@ -1,0 +1,25 @@
+{
+  "id": "lepilemur-microdon",
+  "name": "Lepilemur microdon",
+  "scientificName": "Lepilemur microdon",
+  "wikibase_item": "Q201387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q201387",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small-toothed_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small-toothed sportive lemur, or small-toothed weasel lemur, is a primate species in the family Lepilemuridae that—like all extant lemurs—is endemic to Madagascar. The species lives in dense rainforest in southeastern Madagascar, and can be found in Ranomafana and Andringitra National Parks. Described in 1894, it was considered either a subspecies or taxonomic synonym of the weasel sportive lemur throughout most of the 20th century. Phylogenetic studies not only support its species status, but also suggest that it is the only eastern Malagasy sportive lemur that is more closely related to western than to other eastern species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lepilemur_microdon_002.jpg"
+}

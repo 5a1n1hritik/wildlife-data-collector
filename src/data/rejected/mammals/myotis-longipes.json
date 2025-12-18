@@ -1,0 +1,26 @@
+{
+  "id": "myotis-longipes",
+  "name": "Kashmir cave bat",
+  "scientificName": "Myotis longipes",
+  "wikibase_item": "Q1829490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kashmir_cave_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kashmir cave bat is a species of vesper bat. It is endemic to the Western Himalayas of South Asia. \nIt is found in the Western Himalayan broadleaf forests ecoregion, within Bhutan, India, Nepal, Pakistan, and Afghanistan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Distribution_of_Myotis_longipes.png",
+  "_score": 1
+}

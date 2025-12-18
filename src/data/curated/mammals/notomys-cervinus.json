@@ -1,0 +1,26 @@
+{
+  "id": "notomys-cervinus",
+  "name": "Fawn hopping mouse",
+  "scientificName": "Notomys cervinus",
+  "wikibase_item": "Q1764583",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 782974,
+      "id": "Q782974"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764583",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fawn_hopping_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fawn hopping mouse is a medium sized rodent endemic to the Channel Country Bioregion of northeast South Australia and southwest Queensland in Australia. They inhabit open gibber (stony) and clay plains of the Lake Eyre basin. While the population and distribution has been greatly reduced since European settlement, the current population shows little evidence of significant decline and is consequently listed as 'Near Threatened'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fawn_hopping_mouse.jpg",
+  "_score": 3
+}

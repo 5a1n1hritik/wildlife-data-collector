@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-anomalus",
+  "name": "Caucasian squirrel",
+  "scientificName": "Sciurus anomalus",
+  "wikibase_item": "Q756912",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q756912",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caucasian_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caucasian squirrel or Persian squirrel is a tree squirrel in the genus Sciurus found in temperate broadleaf and mixed forests in south-western Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sciurus_anomalus_-_Jeita_Grotto.jpg",
+  "_score": 1
+}

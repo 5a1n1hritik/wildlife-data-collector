@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-crassicaudata",
+  "name": "Fat-tailed dunnart",
+  "scientificName": "Sminthopsis crassicaudata",
+  "wikibase_item": "Q194519",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194519",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fat-tailed_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fat-tailed dunnart is a species of mouse-like marsupial of the Dasyuridae, the family that includes the little red kaluta, quolls, and the Tasmanian devil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Fat-tailed_Dunnart_imported_from_iNaturalist_photo_108307960_on_20_October_2024.jpg",
+  "_score": 1
+}

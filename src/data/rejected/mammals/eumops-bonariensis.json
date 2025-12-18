@@ -1,0 +1,26 @@
+{
+  "id": "eumops-bonariensis",
+  "name": "dwarf bonneted bat",
+  "scientificName": "Eumops bonariensis",
+  "wikibase_item": "Q301982",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301982",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf bonneted bat, or Peters' mastiff bat, is a bat species from South and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eumops_bonariensis%2C_Uruguay%2C_2019.jpg",
+  "_score": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "elephantulus-rozeti",
+  "name": "Elephantulus rozeti",
+  "scientificName": "Elephantulus rozeti",
+  "wikibase_item": "Q1770513",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770513",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_African_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North African elephant shrew or North African sengi is a species of elephant shrew in the family Macroscelididae. It is found in Algeria, Libya, Morocco, and Tunisia, and is the only extant afrotherian within its range. The species was formerly classified in the genus Elephantulus, but molecular evidence indicates that it is more closely related to Petrodromus than to other members of Elephantulus. It was moved to a new genus, Petrosaltator, in 2016.\nThe split with Petrodromus likely occurred during the Miocene period.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Petrosaltator_rozeti-Zootaxa.jpg"
+}

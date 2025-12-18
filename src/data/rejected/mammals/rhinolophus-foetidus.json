@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-foetidus",
+  "name": "Rhinolophus foetidus",
+  "scientificName": "Rhinolophus foetidus",
+  "wikibase_item": "Q121342536",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121342536"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

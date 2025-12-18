@@ -1,0 +1,26 @@
+{
+  "id": "nasuella-olivacea",
+  "name": "Nasuella olivacea",
+  "scientificName": "Nasuella olivacea",
+  "wikibase_item": "Q149398",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2895094,
+      "id": "Q2895094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q149398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nasuella_olivacea"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western mountain coati or western dwarf coati is a small procyonid, found in cloud forest and páramo at altitudes of 1,300–4,250 metres (4,270–13,940 ft) in the Andes of Colombia and Ecuador. A population discovered in the Apurímac–Cuzco region of southern Peru has tentatively been identified as the western mountain coati, but may represent an undescribed taxon.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nasua_olivacea_112082177.jpg",
+  "_score": 1
+}

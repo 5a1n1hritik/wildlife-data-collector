@@ -1,0 +1,28 @@
+{
+  "id": "tarsius-pumilus",
+  "name": "Tarsius pumilus",
+  "scientificName": "Tarsius pumilus",
+  "wikibase_item": "Q244208",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244208",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy tarsier, also known as the mountain tarsier or the lesser spectral tarsier, is a nocturnal primate found in central Sulawesi, Indonesia, in an area with lower vegetative species diversity than the lowland tropical forests. The pygmy tarsier was believed to have become extinct in the early 20th century. Then, in 2000, Indonesian scientists accidentally killed one while trapping rats. The first pygmy tarsiers seen alive since the 1920s were found by a research team led by Dr. Sharon Gursky and Ph.D. student Nanda Grow from Texas A&M University on Mount Rore Katimbo in Lore Lindu National Park in August 2008. The two males and single female were captured using nets, and were radio collared to track their movements. As the first live pygmy tarsiers seen in 80-plus years, these captures dispelled the belief among some primatologists that the species was extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Pygmy_Tarsier_2008.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cardioderma-cor",
+  "name": "Heart-nosed bat",
+  "scientificName": "Cardioderma cor",
+  "wikibase_item": "Q301294",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15402205,
+      "id": "Q15402205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301294",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heart-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The heart-nosed bat is a species of bat in the family Megadermatidae. It is the only species within the genus Cardioderma. It is found in eastern Sudan, north Tanzania, and south Zambia. In an experiment conducted in 2017, it was concluded that heart-nosed bats emit vocalizations or \"sing\" as a way to establish their foraging areas and actively defend these territories from other bats of the same species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Cardioderma_cor_in_Samburu.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "thylamys-sponsorius",
+  "name": "Argentine fat-tailed mouse opossum",
+  "scientificName": "Thylamys sponsorius",
+  "wikibase_item": "Q195020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q195020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinderella_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cinderella fat-tailed mouse opossum is a species of opossum in the family Didelphidae. It is found in northern Argentina and southern Bolivia, in the eastern foothills of the Andes. Its dorsal fur is gray brown to dark brown. Its ventral fur is gray-based, except for the white to yellowish chest hairs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cinderella_Fat-tailed_Mouse_Opossum_area.png",
+  "_score": 1
+}

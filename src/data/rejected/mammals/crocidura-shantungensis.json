@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-shantungensis",
+  "name": "Asian lesser white-toothed shrew",
+  "scientificName": "Crocidura shantungensis",
+  "wikibase_item": "Q305978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305978",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_lesser_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian lesser white-toothed shrew is a species of mammal in the family Soricidae. It is found in Siberia, China, Korea, and Japan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Crocidura_shantungensis_imported_from_iNaturalist_photo_2804943_on_5_June_2019.jpg",
+  "_score": 1
+}

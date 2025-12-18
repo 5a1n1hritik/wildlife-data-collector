@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-dorbignyi",
+  "name": "D'Orbigny's tuco-tuco",
+  "scientificName": "Ctenomys dorbignyi",
+  "wikibase_item": "Q1761805",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761805",
+    "wikipedia": "https://en.wikipedia.org/wiki/D'Orbigny's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "D'Orbigny's tuco-tuco is a species of rodent in the family Ctenomyidae, named after French naturalist Alcide d'Orbigny. It is found in northeast Argentina. Its karyotype has 2n = 70, FN = 84–88, which is cytogenetically indistinguishable from some populations of C. pearsoni; the latter taxon may actually represent several species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ctenomys_dorbignyi_distribution.svg/500px-Ctenomys_dorbignyi_distribution.svg.png"
+}

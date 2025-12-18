@@ -1,0 +1,25 @@
+{
+  "id": "mungos-mungo",
+  "name": "banded mongoose",
+  "scientificName": "Mungos mungo",
+  "wikibase_item": "Q23121",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135914,
+      "id": "Q135914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23121",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banded_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banded mongoose is a mongoose species native from the Sahel to Southern Africa. It lives in savannas, open forests and grasslands and feeds primarily on beetles and millipedes. Mongooses use various types of dens for shelter including termite mounds. While most mongoose species live solitary lives, the banded mongoose live in colonies with a complex social structure.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Banded_Mongoose_Nose_Detail%2C_crop.jpg"
+}

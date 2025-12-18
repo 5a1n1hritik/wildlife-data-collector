@@ -1,0 +1,26 @@
+{
+  "id": "pithecia-inusta",
+  "name": "Pithecia inusta",
+  "scientificName": "Pithecia inusta",
+  "wikibase_item": "Q25386850",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25386850",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burnished_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The burnished saki is a species of saki monkey, a type of New World monkey. It is found in central Peru and a small portion of adjacent Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pithecia_inusta_320059514.jpg",
+  "_score": 1
+}

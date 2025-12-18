@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-picta",
+  "name": "Painted bat",
+  "scientificName": "Kerivoula picta",
+  "wikibase_item": "Q647798",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q647798",
+    "wikipedia": "https://en.wikipedia.org/wiki/Painted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The painted bat or painted wooly bat is a species of vesper bat in the family Vespertilionidae. It is also known as \"butterfly bat\", \"rongin chamchika\" or \"komola-badami chamchika\" in Bengali.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kerivoula_picta_1.jpg",
+  "_score": 1
+}

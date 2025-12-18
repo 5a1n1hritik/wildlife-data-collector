@@ -1,0 +1,26 @@
+{
+  "id": "chrysochloris-stuhlmanni",
+  "name": "Stuhlmann's golden mole",
+  "scientificName": "Chrysochloris stuhlmanni",
+  "wikibase_item": "Q1766861",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20870029,
+      "id": "Q20870029"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766861",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stuhlmann's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stuhlmann's golden mole is a species of mammal in the family Chrysochloridae. It is found in Cameroon, Democratic Republic of the Congo, Kenya, Tanzania, and Uganda. Its natural habitats are subtropical or tropical moist montane forest and high-elevation shrubland, Mediterranean-type shrubby vegetation, subtropical or tropical dry grassland, arable land, and pasture.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Stuhlmann%27s_Golden_Mole_area.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-monticola",
+  "name": "Sunda shrew",
+  "scientificName": "Crocidura monticola",
+  "wikibase_item": "Q1763896",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763896",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunda_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sunda shrew is a species of mammal in the family Soricidae found in Indonesia, Malaysia, and Timor-Leste.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sunda_Shrew_%2813890530895%29.jpg",
+  "_score": 1
+}

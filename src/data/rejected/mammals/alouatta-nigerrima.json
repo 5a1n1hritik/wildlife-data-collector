@@ -1,0 +1,26 @@
+{
+  "id": "alouatta-nigerrima",
+  "name": "Amazon black howler",
+  "scientificName": "Alouatta nigerrima",
+  "wikibase_item": "Q456535",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q456535",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amazon_black_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amazon black howler is a species of howler monkey, a type of New World monkey, endemic to the south-central Amazon in Brazil. Until 2001, most authorities included it as a subspecies of the red-handed howler, though its distinction had already been pointed out much earlier. As suggested by its name, it typically appears entirely black.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Amazon_Black_Howler_Monkey%2C_Baixo_rio_Cuman%C3%A3%2C_Aveiro_-_State_of_Par%C3%A1%2C_68150-000%2C_Brazil_imported_from_iNaturalist_photo_178445881.jpg",
+  "_score": 1
+}

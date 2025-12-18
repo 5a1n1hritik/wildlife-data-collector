@@ -1,0 +1,26 @@
+{
+  "id": "sturnira-koopmanhilli",
+  "name": "Sturnira koopmanhilli",
+  "scientificName": "Sturnira koopmanhilli",
+  "wikibase_item": "Q2024066",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2024066",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturnira_koopmanhilli"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sturnira koopmanhilli is a species of leaf-nosed bat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Distribution_of_Sturnira_koopmanhilli.png",
+  "_score": 1
+}

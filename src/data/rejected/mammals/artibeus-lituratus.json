@@ -1,0 +1,26 @@
+{
+  "id": "artibeus-lituratus",
+  "name": "Great fruit-eating bat",
+  "scientificName": "Artibeus lituratus",
+  "wikibase_item": "Q306460",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306460",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great fruit-eating bat is a bat species found from Mexico to Brazil and Argentina, as well as in Antigua and Barbuda, Barbados, Grenada, Martinique, Saint Lucia, Saint Vincent and the Grenadines and Trinidad and Tobago.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Phyllostoma_perspicillatum_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20700103.tif/lossy-page1-4491px-Phyllostoma_perspicillatum_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20700103.tif.jpg",
+  "_score": 1
+}

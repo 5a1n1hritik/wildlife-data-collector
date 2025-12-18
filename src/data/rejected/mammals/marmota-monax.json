@@ -1,0 +1,26 @@
+{
+  "id": "marmota-monax",
+  "name": "Marmota monax",
+  "scientificName": "Marmota monax",
+  "wikibase_item": "Q221612",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q221612",
+    "wikipedia": "https://en.wikipedia.org/wiki/Groundhog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The groundhog, also known as the woodchuck, is a rodent of the family Sciuridae, belonging to the group of large ground squirrels known as marmots. \nA lowland creature of North America, it is found through much of the Eastern United States, across Canada and into Alaska. \nIt was given its scientific name as Mus monax by Carl Linnaeus in 1758, based on a description of the animal by George Edwards, published in 1743.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Marmota_monax_UL_04.jpg",
+  "_score": 2
+}

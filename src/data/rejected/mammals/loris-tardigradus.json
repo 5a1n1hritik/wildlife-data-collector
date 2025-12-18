@@ -1,0 +1,26 @@
+{
+  "id": "loris-tardigradus",
+  "name": "red slender loris",
+  "scientificName": "Loris tardigradus",
+  "wikibase_item": "Q614947",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3259581,
+      "id": "Q3259581"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q614947",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_slender_loris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red slender loris is a small, nocturnal strepsirrhine primate native to the rainforests of Sri Lanka. This is No. 6 of the 10 focal species and No. 22 of the 100 EDGE mammal species worldwide considered the most evolutionarily distinct and globally endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Loris_tardigradus_tardigradus_001.jpg",
+  "_score": 1
+}

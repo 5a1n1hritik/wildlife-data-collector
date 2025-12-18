@@ -1,0 +1,25 @@
+{
+  "id": "dipodomys-ornatus",
+  "name": "Dipodomys ornatus",
+  "scientificName": "Dipodomys ornatus",
+  "wikibase_item": "Q81849862",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81849862",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dipodomys_ornatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dipodomys ornatus, commonly known as the ornate kangaroo rat or plateau kangaroo rat, is a species of kangaroo rat in the family Heteromyidae. Found in Mexico, Dipodmys ornatus was originally thought to be a subspecies of Phillips's kangaroo rat, D. phillipsi, and was described as such in 1894 by Clinton Hart Merriam. It was recognized as a subspecies until 2012.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dipodomys_ornatus.jpg"
+}

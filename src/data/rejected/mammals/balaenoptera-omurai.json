@@ -1,0 +1,26 @@
+{
+  "id": "balaenoptera-omurai",
+  "name": "Omura's whale",
+  "scientificName": "Balaenoptera omurai",
+  "wikibase_item": "Q854309",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133320,
+      "id": "Q133320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q854309",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omura's_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Omura's whale or the dwarf fin whale is a species of rorqual about which very little is known. Before its formal description, it was referred to as a small, dwarf or pygmy form of Bryde's whale by various sources. The common name and specific epithet commemorate Japanese cetologist Hideo Omura.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Balaenoptera_omurai%2C_Madagascar_-_Royal_Society_Open_Science_1.jpg",
+  "_score": 1
+}

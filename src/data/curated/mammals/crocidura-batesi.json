@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-batesi",
+  "name": "Bates's shrew",
+  "scientificName": "Crocidura batesi",
+  "wikibase_item": "Q1764134",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764134",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fraser's_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fraser's musk shrew is a species of mammal in the family Soricidae. It is found in Benin, Cameroon, Ivory Coast, Equatorial Guinea, Ghana, Guinea, Liberia, Nigeria, São Tomé and Príncipe, Sierra Leone, and Togo. Its natural habitat is subtropical or tropical moist lowland forests. This large black shrew was first described by the British zoologist Louis Fraser in 1843. Its exact definition is unclear; the karyotype comes from Ivory Coast but not from Equatorial Guinea, which is given as the type locality.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Fraser%27s_Musk_Shrew_area.png",
+  "_score": 3
+}

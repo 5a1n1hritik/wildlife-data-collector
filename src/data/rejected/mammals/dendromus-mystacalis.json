@@ -1,0 +1,26 @@
+{
+  "id": "dendromus-mystacalis",
+  "name": "Chestnut climbing mouse",
+  "scientificName": "Dendromus mystacalis",
+  "wikibase_item": "Q139446",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139446",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chestnut_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chestnut climbing mouse is a species of rodent in the family Nesomyidae.\nIt is found in Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Lesotho, Malawi, Mozambique, Rwanda, South Africa, Eswatini, Tanzania, Uganda, Zambia, and Zimbabwe.\nIts natural habitats are dry savanna and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Klatre08.jpg",
+  "_score": 2
+}

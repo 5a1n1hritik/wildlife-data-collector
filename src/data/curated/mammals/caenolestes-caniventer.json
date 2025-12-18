@@ -1,0 +1,26 @@
+{
+  "id": "caenolestes-caniventer",
+  "name": "Gray-bellied caenolestid",
+  "scientificName": "Caenolestes caniventer",
+  "wikibase_item": "Q194365",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303333,
+      "id": "Q1303333"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194365",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-bellied_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-bellied caenolestid, or grey-bellied shrew opossum, is a shrew opossum found in humid, temperate forests and moist grasslands of western Ecuador and northwestern Peru. It was first described by American zoologist Harold Elmer Anthony in 1921. Little is known about the behavior of the gray-bellied caenolestid. It appears to be terrestrial (land-living) and crepuscular or nocturnal. Diet consists of invertebrate larvae, small vertebrates and plant material. The IUCN classifies the gray-bellied caenolestid as near threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Caenolestes_caniventer_50842799.jpg",
+  "_score": 5
+}

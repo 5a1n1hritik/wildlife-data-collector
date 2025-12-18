@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-armiger",
+  "name": "Hipposideros armiger",
+  "scientificName": "Hipposideros armiger",
+  "wikibase_item": "Q307787",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307787",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great roundleaf bat, also known as the great Himalayan leaf-nosed bat is a species of bat in the family Hipposideridae found in South Asia, Southeast Asia, and China. It gives birth to two young a year. It has been assessed as a least concern species by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Great_roundleaf_bat_%28Hipposideros_armiger%29.jpg"
+}

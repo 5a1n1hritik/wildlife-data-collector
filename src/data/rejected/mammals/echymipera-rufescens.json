@@ -1,0 +1,26 @@
+{
+  "id": "echymipera-rufescens",
+  "name": "Echymipera rufescens",
+  "scientificName": "Echymipera rufescens",
+  "wikibase_item": "Q194857",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668149,
+      "id": "Q668149"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194857",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_echymipera"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed echymipera, or long-nosed spiny bandicoot, is a species of marsupial in the family Peramelidae. It is found in Australia, Indonesia, and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Long-nosed_Spiny_Bandicoot_area.png",
+  "_score": 2
+}

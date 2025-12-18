@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-douceti",
+  "name": "Doucet's Musk Shrew",
+  "scientificName": "Crocidura douceti",
+  "wikibase_item": "Q1767788",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767788",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doucet's_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Doucet's musk shrew is a species of mammal in the family Soricidae. It is found in Ivory Coast, Liberia, and possibly Nigeria. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Doucet%27s_Musk_Shrew_area.png",
+  "_score": 2
+}

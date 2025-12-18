@@ -1,0 +1,26 @@
+{
+  "id": "cavia-cobaya",
+  "name": "Cavia cobaya",
+  "scientificName": "Cavia cobaya",
+  "wikibase_item": "Q122453942",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122453942",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guinea_pig"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The guinea pig or domestic guinea pig, also known as the cavy or domestic cavy, is a species of rodent belonging to the genus Cavia, family Caviidae. Breeders tend to use the name \"cavy\" for the animal, but \"guinea pig\" is more commonly used in scientific and laboratory contexts. Despite their name, guinea pigs are not native to Guinea, nor are they closely related to pigs. Instead, they originated in the Andes region of South America, where wild guinea pigs can still be found today. Studies based on biochemistry and DNA hybridization suggest they are domesticated animals that do not exist naturally in the wild, but are descendants of a closely related cavy species such as C. tschudii. Originally, they were domesticated as livestock in the Andean region and are still consumed in some parts of the world.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/George_the_amazing_guinea_pig.jpg",
+  "_score": 3
+}

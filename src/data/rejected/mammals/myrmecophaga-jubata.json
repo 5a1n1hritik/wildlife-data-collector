@@ -1,0 +1,26 @@
+{
+  "id": "myrmecophaga-jubata",
+  "name": "Myrmecophaga jubata",
+  "scientificName": "Myrmecophaga jubata",
+  "wikibase_item": "Q122259133",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10795875,
+      "id": "Q10795875"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122259133",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_anteater"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant anteater is an insectivorous mammal native to Central and South America. It is the largest of the four living species of anteaters, which are classified with sloths in the order Pilosa. The only extant member of the genus Myrmecophaga, the giant anteater is mostly terrestrial, in contrast to other living anteaters and sloths, which are arboreal or semiarboreal. The species is 182 to 217 cm in length, with weights of 33 to 50 kg for males and 27 to 47 kg for females. It is recognizable by its elongated snout, bushy tail, long foreclaws, and distinctively colored fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg",
+  "_score": 2
+}

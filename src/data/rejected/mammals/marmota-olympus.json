@@ -1,0 +1,26 @@
+{
+  "id": "marmota-olympus",
+  "name": "Olympic marmot",
+  "scientificName": "Marmota olympus",
+  "wikibase_item": "Q1242811",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1242811",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olympic_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Olympic marmot is a rodent in the squirrel family, Sciuridae. It occurs only in the U.S. state of Washington, at the middle elevations of the Olympic Peninsula. The closest relatives of this species are the hoary marmot and the Vancouver Island marmot. In 2009, it was declared the official endemic mammal of Washington state.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/My_Friend_the_Marmot_%284241532773%29_flipped.jpg",
+  "_score": 1
+}

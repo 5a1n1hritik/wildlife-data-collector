@@ -1,0 +1,25 @@
+{
+  "id": "bos-taurus",
+  "name": "Bos taurus",
+  "scientificName": "Bos taurus",
+  "wikibase_item": "Q19610691",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 237993,
+      "id": "Q237993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19610691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cattle"
+  },
+  "lastUpdated": "2025-12-15",
+  "description": "Cattle are large, domesticated, bovid ungulates widely kept as livestock. They are prominent modern members of the subfamily Bovinae and the most widespread species of the genus Bos. Mature female cattle are called cows and mature male cattle are bulls. Young female cattle are called heifers, young male cattle are bullocks, and castrated male cattle are known as oxen or steers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
+}

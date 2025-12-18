@@ -1,0 +1,26 @@
+{
+  "id": "myotis-pruinosus",
+  "name": "Frosted myotis",
+  "scientificName": "Myotis pruinosus",
+  "wikibase_item": "Q644680",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q644680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frosted_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The frosted myotis is a species of vesper bat. It is found only in Japan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Myotis_pruinosus_distribution.png",
+  "_score": 1
+}

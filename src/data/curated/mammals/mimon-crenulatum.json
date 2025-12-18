@@ -1,0 +1,26 @@
+{
+  "id": "mimon-crenulatum",
+  "name": "Striped Hairy-nosed Bat",
+  "scientificName": "Mimon crenulatum",
+  "wikibase_item": "Q1829446",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703888,
+      "id": "Q2703888"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829446",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_hairy-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped hairy-nosed bat is a bat species found in Brazil, Colombia, Ecuador, French Guiana, Guyana, Suriname and Venezuela. A feature unique to its species, its nose-leaf is elongated, spear-shaped, and covered in hair. Its dense fur is variable in color, with a blackish face and brown body that includes some yellow or orange tones. There are usually pale patches behind the ears, and a pale stripe along the length of the back. This species occurs in south Mexico and the Caribbean side of Central America, extending to Panama and through the north and central regions of South America; it is also found on Trinidad. It lives in lowland forest, roosting in tree hollows in small groups, and hunts by picking insects, and occasionally small invertebrates, off foliage. There is some evidence that pairs hunt together, and that parental care may be protracted.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mimon_crenulatum2.jpg",
+  "_score": 3
+}

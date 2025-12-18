@@ -1,0 +1,26 @@
+{
+  "id": "murexia-hageni",
+  "name": "Murexia hageni",
+  "scientificName": "Murexia hageni",
+  "wikibase_item": "Q55332608",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1980545,
+      "id": "Q1980545"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55332608",
+    "wikipedia": "https://en.wikipedia.org/wiki/Habbema_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Habbema dasyure is a species of marsupial in the family Dasyuridae found in West Papua, Indonesia, and Papua New Guinea. Its natural habitat is rocky areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Habbema_Dasyure_area.png",
+  "_score": 2
+}

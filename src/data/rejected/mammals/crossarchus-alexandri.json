@@ -1,0 +1,26 @@
+{
+  "id": "crossarchus-alexandri",
+  "name": "Crossarchus alexandri",
+  "scientificName": "Crossarchus alexandri",
+  "wikibase_item": "Q1542671",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 981308,
+      "id": "Q981308"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1542671",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander's_kusimanse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Alexander's kusimanse is a mongoose species native to Central African rainforests. The species was first described in 1907 by Oldfield Thomas and R. C. Wroughton based on specimens collected by Boyd Alexander, and named after Alexander himself. It is largely restricted to northern Democratic republic of Congo, and western Uganda. It is classified as Least Concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Alexander%27s_Cusimanse_area.png",
+  "_score": 1
+}

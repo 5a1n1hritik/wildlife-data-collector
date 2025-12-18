@@ -1,0 +1,26 @@
+{
+  "id": "myotis-occultus",
+  "name": "Arizona myotis",
+  "scientificName": "Myotis occultus",
+  "wikibase_item": "Q1831736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arizona_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arizona myotis or southwestern little brown myotis is a vesper bat species inhabiting much of the southwestern United States and central Mexico as far south as the Distrito Federal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Arizona_myotis.jpg",
+  "_score": 1
+}

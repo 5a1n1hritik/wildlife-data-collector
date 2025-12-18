@@ -1,0 +1,26 @@
+{
+  "id": "mirza-coquereli",
+  "name": "Coquerel's giant mouse lemur",
+  "scientificName": "Mirza coquereli",
+  "wikibase_item": "Q1194199",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 166416,
+      "id": "Q166416"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1194199",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coquerel's_giant_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Coquerel's giant mouse lemur, also known as Coquerel's dwarf lemur or the southern giant mouse lemur, is a small nocturnal lemur endemic to Madagascar. This species can be found in parts of the Madagascar dry deciduous forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Coquerel%27s_Giant_Mouse_Lemur_%28Mirza_coquereli%29_%289582508268%29.jpg",
+  "_score": 1
+}

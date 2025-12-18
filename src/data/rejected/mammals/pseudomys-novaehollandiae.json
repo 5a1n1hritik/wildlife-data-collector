@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-novaehollandiae",
+  "name": "New Holland mouse",
+  "scientificName": "Pseudomys novaehollandiae",
+  "wikibase_item": "Q1767530",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767530",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Holland_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Holland mouse also known as a Pookila is a species of rodent in the family Muridae. It was first described by George Waterhouse in 1843. It vanished from view for over a century before its rediscovery in Ku-ring-gai Chase National Park north of Sydney in 1967. It is found only in south east Australia, within the states of New South Wales, Queensland, Victoria, and Tasmania.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pseudomys_novaehollandiae.jpg",
+  "_score": 1
+}

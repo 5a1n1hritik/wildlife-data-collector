@@ -1,0 +1,26 @@
+{
+  "id": "camelus-bactrianus",
+  "name": "Camelus bactrianus",
+  "scientificName": "Camelus bactrianus",
+  "wikibase_item": "Q132922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7375,
+      "id": "Q7375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bactrian_camel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bactrian camel, also known as the Mongolian camel, domestic Bactrian camel, two-humped camel or double humped camel, is a camel native to the steppes of Central Asia. It has two humps on its back, in contrast to the single-humped dromedary. Its population of 2 million exists mainly in the domesticated form. Their name comes from the ancient historical region of Bactria.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/2011_Trampeltier_1528.JPG",
+  "_score": 1
+}

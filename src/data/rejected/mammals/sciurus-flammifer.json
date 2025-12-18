@@ -1,0 +1,26 @@
+{
+  "id": "sciurus-flammifer",
+  "name": "Fiery squirrel",
+  "scientificName": "Sciurus flammifer",
+  "wikibase_item": "Q943933",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q943933",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fiery_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fiery squirrel is a rodent in the family Sciuridae. The taxon is endemic to the area south of the Orinoco River in the state of Bolívar, Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fiery_squirrel_habitat_map.png",
+  "_score": 1
+}

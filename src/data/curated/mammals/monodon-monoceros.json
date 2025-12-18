@@ -1,0 +1,26 @@
+{
+  "id": "monodon-monoceros",
+  "name": "narwhal",
+  "scientificName": "Monodon monoceros",
+  "wikibase_item": "Q159426",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18510798,
+      "id": "Q18510798"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q159426",
+    "wikipedia": "https://en.wikipedia.org/wiki/Narwhal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The narwhal is a species of toothed whale native to the Arctic. It is the only member of the genus Monodon and one of two living representatives of the family Monodontidae. The narwhal is a stocky cetacean with a relatively blunt snout, a large melon, and a shallow ridge in place of a dorsal fin. Males of this species have a large long tusk, which is a protruding left canine thought to function as a weapon, a tool for feeding, in attracting mates or sensing water salinity. Specially adapted slow-twitch muscles, along with the jointed neck vertebrae and shallow dorsal ridge allow for easy movement through the Arctic environment, where the narwhal spends extended periods at great depths. The narwhal's geographic range overlaps with that of the similarly built and closely related beluga whale, and the animals are known to interbreed.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+  "_score": 3
+}

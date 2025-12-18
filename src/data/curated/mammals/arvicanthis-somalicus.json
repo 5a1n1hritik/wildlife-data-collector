@@ -1,0 +1,25 @@
+{
+  "id": "arvicanthis-somalicus",
+  "name": "Arvicanthis somalicus",
+  "scientificName": "Arvicanthis somalicus",
+  "wikibase_item": "Q109646848",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 277877,
+      "id": "Q277877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646848",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neumann's_grass_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neumann's grass rat is a species of rodent in the family Muridae.\nIt is found in Ethiopia, Somalia, Sudan, Tanzania, and possibly Kenya.\nIts natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Arvicanthis_neumanni_1.jpg"
+}

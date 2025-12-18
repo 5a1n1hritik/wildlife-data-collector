@@ -1,0 +1,26 @@
+{
+  "id": "hylaeamys-oniscus",
+  "name": "Hylaeamys oniscus",
+  "scientificName": "Hylaeamys oniscus",
+  "wikibase_item": "Q2359427",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 655208,
+      "id": "Q655208"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2359427",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hylaeamys_oniscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hylaeamys oniscus, the sowbug rice rat, is a rodent species in the family Cricetidae. It was formerly placed in the genus Oryzomys as Oryzomys oniscus.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rheomys-thomasi",
+  "name": "Thomas's water mouse",
+  "scientificName": "Rheomys thomasi",
+  "wikibase_item": "Q1761178",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766211,
+      "id": "Q766211"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761178",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_water_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's water mouse is a species of rodent in the family Cricetidae found in El Salvador, Guatemala, and Mexico at altitudes of 400 to 2700 m. It lives near forest streams and is semiaquatic; its carnivorous diet includes both invertebrates and small vertebrates. The conservation status of the species is rated as \"near threatened\" because of the small size of its range and the threat of degradation of its habitat, including the water quality of the streams it lives along.",
+  "image": null,
+  "_score": 4
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-hipposideros",
+  "name": "lesser horseshoe bat",
+  "scientificName": "Rhinolophus hipposideros",
+  "wikibase_item": "Q585476",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q585476",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser horseshoe bat is a type of small European and North African insectivorous bat, related to its larger cousin, the greater horseshoe bat. As with all horseshoe bats, the species gets its name from its distinctive horseshoe-shaped noseleaf.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bat%2820070605%29.jpg"
+}

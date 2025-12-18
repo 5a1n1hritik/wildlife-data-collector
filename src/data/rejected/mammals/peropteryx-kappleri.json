@@ -1,0 +1,26 @@
+{
+  "id": "peropteryx-kappleri",
+  "name": "Greater dog-like bat",
+  "scientificName": "Peropteryx kappleri",
+  "wikibase_item": "Q1833599",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11941294,
+      "id": "Q11941294"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833599",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_dog-like_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater dog-like bat is a bat species found from southern Mexico through Brazil and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Peropteryx_kappleri.jpeg",
+  "_score": 1
+}

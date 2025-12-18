@@ -1,0 +1,26 @@
+{
+  "id": "hemibelideus-lemuroides",
+  "name": "Hemibelideus lemuroides",
+  "scientificName": "Hemibelideus lemuroides",
+  "wikibase_item": "Q672916",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10766652,
+      "id": "Q10766652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q672916",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lemuroid_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lemuroid ringtail possum, also known as the lemur-like ringtail possum or the brushy-tailed ringtail, is a truly singular member of the ringtail possum group. It was once thought that they were greater gliders ; Hemibelideus literally translates as \"half-glider\". Named for their facial characteristics visually similar to the unrelated primate lemurs, with short snouts, large, forward-facing eyes and small ears, they are similar to other gliding possums in their musculo-skeletal adaptations to accommodate a leaping lifestyle. Their long, prehensile tail is a further adaptation to their arboreal habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/PhalangistaLemuroidesSmit.jpg",
+  "_score": 3
+}

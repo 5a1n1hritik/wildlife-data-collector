@@ -1,0 +1,26 @@
+{
+  "id": "arctomys-flaviventris",
+  "name": "Arctomys flaviventris",
+  "scientificName": "Arctomys flaviventris",
+  "wikibase_item": "Q24714611",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24502341,
+      "id": "Q24502341"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24714611"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

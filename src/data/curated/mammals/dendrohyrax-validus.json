@@ -1,0 +1,25 @@
+{
+  "id": "dendrohyrax-validus",
+  "name": "Dendrohyrax validus",
+  "scientificName": "Dendrohyrax validus",
+  "wikibase_item": "Q40426386",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1761200,
+      "id": "Q1761200"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40426386",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_tree_hyrax"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern tree hyrax is a species of mammal within the family Procaviidae. The eastern tree hyrax is the most localized of the tree hyrax species, distributed patchily in a narrow band of lowland and montane forests in Kenya and Tanzania and adjacent islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dendrohyrax_validus_terricola.jpg"
+}

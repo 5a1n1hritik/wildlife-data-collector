@@ -1,0 +1,26 @@
+{
+  "id": "boneia-bidens",
+  "name": "Boneia bidens",
+  "scientificName": "Boneia bidens",
+  "wikibase_item": "Q10432879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2910014,
+      "id": "Q2910014"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10432879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manado_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Manado fruit bat is a species of megabat in the family Pteropodidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Manado_Fruit_Bat_area.png",
+  "_score": 1
+}

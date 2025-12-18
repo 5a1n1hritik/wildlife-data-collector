@@ -1,0 +1,26 @@
+{
+  "id": "felis-pardalis",
+  "name": "Felis pardalis",
+  "scientificName": "Felis pardalis",
+  "wikibase_item": "Q122170181",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122170181",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ocelot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ocelot is a medium-sized spotted wild cat that reaches 40–50 cm (16–20 in) at the shoulders and weighs between 7 and 15.5 kg on average. It is native to the southwestern United States, Mexico, Central and South America, and the Caribbean islands of Trinidad and Margarita. Carl Linnaeus scientifically described it in 1758. Two subspecies are recognized.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "_score": 1
+}

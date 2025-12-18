@@ -1,0 +1,26 @@
+{
+  "id": "pipistrellus-westralis",
+  "name": "Northern Pipistrelle",
+  "scientificName": "Pipistrellus westralis",
+  "wikibase_item": "Q558179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558179",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern pipistrelle, also known as Koopman's or the mangrove pipistrelle, is a species of vesper bat found only in Australia. It is one of Australia's smallest bat species. On average, it weighs 3 g (0.11 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Distribution_of_Pipistrellus_westralis.png",
+  "_score": 1
+}

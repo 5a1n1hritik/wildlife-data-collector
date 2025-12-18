@@ -1,0 +1,26 @@
+{
+  "id": "zelotomys-woosnami",
+  "name": "Woosnam's Broad-Headed Mouse",
+  "scientificName": "Zelotomys woosnami",
+  "wikibase_item": "Q1765037",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 513435,
+      "id": "Q513435"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765037",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woosnam's_broad-headed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Woosnam's broad-headed mouse or Woosnam's zelotomys is a species of rodent in the family Muridae.\nIt is found in Angola, Botswana, Namibia, and South Africa.\nIts natural habitat is dry savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Zelotomys_woosnami_distribution.png",
+  "_score": 2
+}

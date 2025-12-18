@@ -1,0 +1,25 @@
+{
+  "id": "lonchorhina-aurita",
+  "name": "Tomes's Sword-nosed Bat",
+  "scientificName": "Lonchorhina aurita",
+  "wikibase_item": "Q1833011",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 138625,
+      "id": "Q138625"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833011",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tomes's_sword-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tomes's sword-nosed bat, also known as the common sword-nosed bat is a bat species from South and Central America. It is also found in the Bahamas, but is known from only one specimen collected on the island of New Providence.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lonchorhina.jpg"
+}

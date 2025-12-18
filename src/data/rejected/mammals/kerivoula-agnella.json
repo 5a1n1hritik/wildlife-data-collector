@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-agnella",
+  "name": "St. Aignan's Trumpet-eared Bat",
+  "scientificName": "Kerivoula agnella",
+  "wikibase_item": "Q305563",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305563",
+    "wikipedia": "https://en.wikipedia.org/wiki/St._Aignan's_trumpet-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "St. Aignan's trumpet-eared bat, also known as the Louisiade woolly bat, is a species of vesper bat in the family Vespertilionidae. It is found only in Papua New Guinea, and is only endemic to the islands, not the mainland. The species has been recorded on the islands of Fergusson, Vanatinai, Woodlark, and Misima.\nIts natural habitat is subtropical or tropical dry forests.",
+  "image": null,
+  "_score": 1
+}

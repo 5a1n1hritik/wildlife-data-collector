@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-palawanensis",
+  "name": "Palawan Treeshrew",
+  "scientificName": "Tupaia palawanensis",
+  "wikibase_item": "Q1761638",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761638",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palawan_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Palawan treeshrew is a treeshrew species endemic to the Palawan Island, Philippines, where it occurs from sea level to an elevation of 1,400 m (4,600 ft). The population is considered steady. Formerly, it was considered a subspecies of the common treeshrew. Those found on the islands of Busuanga and Culion, which are part of the Calamian Islands group in the Philippines, have also been called the Calamian treeshrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Palawan_Treeshrew_area.png",
+  "_score": 2
+}

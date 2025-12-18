@@ -1,0 +1,26 @@
+{
+  "id": "heteromys-nubicolens",
+  "name": "Heteromys nubicolens",
+  "scientificName": "Heteromys nubicolens",
+  "wikibase_item": "Q2953856",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1035905,
+      "id": "Q1035905"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2953856",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cloud-dwelling_spiny_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cloud-dwelling spiny pocket mouse is a species of rodent (Rodentia) that is endemic to the high elevations of Cordillera de Tilarán and Cordillera de Guanacaste within Costa Rica. It is contained within the Heteromys desmarestianus species complex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Illustration_of_Heteromys_nubicolens.png",
+  "_score": 1
+}

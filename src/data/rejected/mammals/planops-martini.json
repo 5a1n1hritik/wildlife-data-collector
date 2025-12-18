@@ -1,0 +1,26 @@
+{
+  "id": "planops-martini",
+  "name": "Planops martini",
+  "scientificName": "Planops martini",
+  "wikibase_item": "Q41218460",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60977614,
+      "id": "Q60977614"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41218460"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

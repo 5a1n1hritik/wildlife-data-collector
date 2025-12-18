@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-guineensis",
+  "name": "Guinean Horseshoe Bat",
+  "scientificName": "Rhinolophus guineensis",
+  "wikibase_item": "Q264682",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q264682",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guinean_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guinean horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Ivory Coast, Guinea, Liberia, Senegal, and Sierra Leone. Its natural habitats are subtropical and tropical forests, moist savanna, caves, and other subterranean habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Guinean_Horseshoe_Bat_area.png",
+  "_score": 2
+}

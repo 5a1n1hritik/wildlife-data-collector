@@ -1,0 +1,26 @@
+{
+  "id": "ptenochirus-wetmorei",
+  "name": "Ptenochirus wetmorei",
+  "scientificName": "Ptenochirus wetmorei",
+  "wikibase_item": "Q125567082",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2268041,
+      "id": "Q2268041"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125567082",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-collared_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-collared fruit bat is a species of megabat found in Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/White-collared_Fruit_Bat_area.png",
+  "_score": 1
+}

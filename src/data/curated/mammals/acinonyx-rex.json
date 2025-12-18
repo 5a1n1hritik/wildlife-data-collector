@@ -1,0 +1,25 @@
+{
+  "id": "acinonyx-rex",
+  "name": "Acinonyx rex",
+  "scientificName": "Acinonyx rex",
+  "wikibase_item": "Q124790946",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 481907,
+      "id": "Q481907"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124790946",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheetah"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cheetah is a large cat and the fastest land animal. It has a tawny to creamy white or pale buff fur that is marked with evenly spaced, solid black spots. The head is small and rounded, with a short snout and black tear-like facial streaks. It reaches 67–94 cm (26–37 in) at the shoulder, and the head-and-body length is between 1.1 and 1.5 m. Adults weigh between 21 and 65 kg. The cheetah is capable of running at 93 to 104 km/h ; it has evolved specialized adaptations for speed, including a light build, long thin legs and a long tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Male_cheetah_facing_left_in_South_Africa.jpg"
+}

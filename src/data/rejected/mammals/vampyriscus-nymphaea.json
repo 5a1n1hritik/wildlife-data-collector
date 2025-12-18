@@ -1,0 +1,26 @@
+{
+  "id": "vampyriscus-nymphaea",
+  "name": "Vampyriscus nymphaea",
+  "scientificName": "Vampyriscus nymphaea",
+  "wikibase_item": "Q21377485",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28154898,
+      "id": "Q28154898"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21377485",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vampyriscus_nymphaea"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Vampyriscus nymphaea is a species of bat in the family Phyllostomidae, the leaf-nosed bats. It is known commonly as the striped yellow-eared bat. It is native to Colombia, Costa Rica, Ecuador, Nicaragua, Panama, and Honduras.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Vampyressa_nymphae.jpg",
+  "_score": 1
+}

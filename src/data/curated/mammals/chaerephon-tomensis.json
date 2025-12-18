@@ -1,0 +1,26 @@
+{
+  "id": "chaerephon-tomensis",
+  "name": "São Tomé free-tailed bat",
+  "scientificName": "Chaerephon tomensis",
+  "wikibase_item": "Q302222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302222",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The São Tomé free-tailed bat is a species of bat in the family Molossidae. It is endemic to São Tomé and Príncipe. Its natural habitats are dry savanna, moist savanna, and plantations. It is threatened by habitat loss. Only three individuals have ever been documented.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Locator_map_of_S%C3%A3o_Tom%C3%A9_in_S%C3%A3o_Tom%C3%A9_%26_Pr%C3%ADncipe.jpg",
+  "_score": 3
+}

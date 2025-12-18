@@ -1,0 +1,26 @@
+{
+  "id": "sundasciurus-hippurus",
+  "name": "Horse-tailed squirrel",
+  "scientificName": "Sundasciurus hippurus",
+  "wikibase_item": "Q1769242",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769242",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horse-tailed_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The horse-tailed squirrel is a species of rodent in the family Sciuridae. It is found throughout the islands of Borneo and Sumatra, as well as the southern half of the Malay Peninsula, which includes the entire nations of Brunei and Malaysia, as well as some areas of Indonesia and Thailand. There was a mention of this squirrel being found in Vietnam in 1831, but subsequent descriptions of this squirrel's range have not included that nation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pferdeschwanzh%C3%B6rnchen.jpg",
+  "_score": 2
+}

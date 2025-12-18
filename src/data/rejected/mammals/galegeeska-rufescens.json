@@ -1,0 +1,26 @@
+{
+  "id": "galegeeska-rufescens",
+  "name": "Galegeeska rufescens",
+  "scientificName": "Galegeeska rufescens",
+  "wikibase_item": "Q125824517",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 98556678,
+      "id": "Q98556678"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125824517",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufous_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rufous elephant shrew, rufous sengi or East African long-eared elephant-shrew is a species of elephant shrew in the family Macroscelididae. Found in Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda, its natural habitats are dry savanna and subtropical or tropical dry shrubland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Galegeeska_rufescens_zoo_frankfurt.jpg",
+  "_score": 2
+}

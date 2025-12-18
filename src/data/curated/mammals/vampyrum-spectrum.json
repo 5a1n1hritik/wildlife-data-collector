@@ -1,0 +1,25 @@
+{
+  "id": "vampyrum-spectrum",
+  "name": "Vampyrum spectrum",
+  "scientificName": "Vampyrum spectrum",
+  "wikibase_item": "Q1142526",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10832379,
+      "id": "Q10832379"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142526",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spectral_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spectral bat, also called the great false vampire bat, great spectral bat, American false vampire bat or Linnaeus's false vampire bat, is a large, carnivorous leaf-nosed bat found in Mexico, Central America, and South America. It is the only member of the genus Vampyrum; its closest living relative is the big-eared woolly bat. It is the largest bat species in the New World, as well as the largest carnivorous bat: its wingspan is 0.7–1.0 m (2.3–3.3 ft). It has a robust skull and teeth, with which it delivers a powerful bite to kill its prey. Birds are frequent prey items, though it may also consume rodents, insects, and other bats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Spectral_bat_photo.jpg"
+}

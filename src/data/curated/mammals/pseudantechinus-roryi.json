@@ -1,0 +1,25 @@
+{
+  "id": "pseudantechinus-roryi",
+  "name": "Rory Cooper's False Antechinus",
+  "scientificName": "Pseudantechinus roryi",
+  "wikibase_item": "Q135164",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409297,
+      "id": "Q1409297"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135164",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rory_Cooper's_false_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rory Cooper's false antechinus, also known as the tan false antechinus and the tan pseudantechinus, is a recently named species of small carnivorous marsupial which inhabits rocky outcrops in Western Australia. Nothing is known of its behaviour but it is expected that this will be similar to other members of the false antechinus genus. A study published in 2017 found no support for separation as a new species of Pseudantechinus, and the name was proposed to be synonymous with the previously described Pseudantechinus macdonnellensis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rory_Cooper%27s_False_Antechinus_area.png"
+}

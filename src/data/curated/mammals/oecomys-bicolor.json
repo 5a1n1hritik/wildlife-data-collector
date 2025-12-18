@@ -1,0 +1,25 @@
+{
+  "id": "oecomys-bicolor",
+  "name": "Bicolored arboreal rice rat",
+  "scientificName": "Oecomys bicolor",
+  "wikibase_item": "Q1764529",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764529",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_bicolor"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys bicolor, also known as the white-bellied oecomys or bicolored arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It has a wide distribution in the Amazon biome, occurring in northwestern Brazil, northern Bolivia, eastern Peru, eastern Ecuador, eastern Colombia, much of Venezuela, Guyana, Suriname, and French Guiana, and extends into eastern Panama, but it may contain more than one species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Oecomys_bicolor_2.jpg"
+}

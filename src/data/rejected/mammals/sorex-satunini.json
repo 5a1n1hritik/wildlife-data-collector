@@ -1,0 +1,26 @@
+{
+  "id": "sorex-satunini",
+  "name": "Caucasian shrew",
+  "scientificName": "Sorex satunini",
+  "wikibase_item": "Q1770316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770316",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caucasian_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caucasian shrew is a species of mammal in the family Soricidae. It is found in Armenia, Russia and Turkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Caucasian_Shrew_area.png",
+  "_score": 1
+}

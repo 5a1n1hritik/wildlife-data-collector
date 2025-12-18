@@ -1,0 +1,26 @@
+{
+  "id": "akodon-caenosus",
+  "name": "Akodon caenosus",
+  "scientificName": "Akodon caenosus",
+  "wikibase_item": "Q28189296",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28189296",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akodon_caenosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Akodon caenosus is a rodent in the genus Akodon found in northwestern Argentina and south-central Bolivia. Since its description in 1918, it has been alternatively classified as a separate species or a subspecies of Akodon lutescens. The species Akodon aliquantulus, described from some very small Argentine specimens in 1999, is now recognized as a synonym of A. caenosus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Akodon_caenosus_distribution.svg/500px-Akodon_caenosus_distribution.svg.png",
+  "_score": 1
+}

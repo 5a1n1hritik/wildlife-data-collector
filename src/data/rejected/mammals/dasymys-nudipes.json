@@ -1,0 +1,26 @@
+{
+  "id": "dasymys-nudipes",
+  "name": "Angolan marsh rat",
+  "scientificName": "Dasymys nudipes",
+  "wikibase_item": "Q308489",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308489",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_marsh_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan marsh rat is a species of rodent in the family Muridae.\nIt is found in Angola, Botswana, Namibia, and Zambia.\nIts natural habitats are subtropical or tropical seasonally wet or flooded lowland grassland and swamps.\nIt is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

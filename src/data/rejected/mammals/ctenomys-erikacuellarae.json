@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-erikacuellarae",
+  "name": "Ctenomys erikacuellarae",
+  "scientificName": "Ctenomys erikacuellarae",
+  "wikibase_item": "Q17461017",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17461017",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erika's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Erika's tuco-tuco, is a species of tuco-tuco native to Bolivia. Found only in the Cordillera Oriental mountain ranges in the Santa Cruz and Chuquisaca Departments, at elevations of around 810 to 1,800 metres, the species measures around 287 millimetres in length and has soft brown and ochraceous orange hair. It was named after Erika Cuéllar, a conservation biologist from Bolivia.",
+  "image": null,
+  "_score": 0
+}

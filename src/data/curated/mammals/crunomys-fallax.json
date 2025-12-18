@@ -1,0 +1,26 @@
+{
+  "id": "crunomys-fallax",
+  "name": "Northern Luzon Shrew Rat",
+  "scientificName": "Crunomys fallax",
+  "wikibase_item": "Q301762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 769929,
+      "id": "Q769929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_Luzon_shrew-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Northern Luzon shrew-rat is a species of rodent in the family Muridae.\nIt is found only in the Philippines.\nIts natural habitat is subtropical or tropical dry forest.\nIt is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Crunomys_fallax.jpg",
+  "_score": 3
+}

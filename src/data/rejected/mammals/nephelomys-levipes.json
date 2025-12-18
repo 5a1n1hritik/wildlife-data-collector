@@ -1,0 +1,26 @@
+{
+  "id": "nephelomys-levipes",
+  "name": "Nephelomys levipes",
+  "scientificName": "Nephelomys levipes",
+  "wikibase_item": "Q1767494",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767494",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_levipes"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys levipes, also known as the nimble-footed oryzomys or light-footed rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. It is found on the eastern slope of the Andes from southeastern Peru into west-central Bolivia in cloud forest at elevations from 1,800 to 3,200 metres. It occurs in the same general area as its congener N. keaysi, but at higher altitudes.",
+  "image": null,
+  "_score": 0
+}

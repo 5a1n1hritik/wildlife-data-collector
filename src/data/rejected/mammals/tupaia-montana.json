@@ -1,0 +1,26 @@
+{
+  "id": "tupaia-montana",
+  "name": "Mountain treeshrew",
+  "scientificName": "Tupaia montana",
+  "wikibase_item": "Q774635",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q774635",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain treeshrew is a treeshrew species within the Tupaiidae. It is endemic to Borneo and inhabits montane forests in Sarawak and Sabah, Malaysia, and Kalimantan, Indonesia, as well as a part of southeastern Brunei.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mountain_Treeshrew_imported_from_iNaturalist_photo_64836579_on_1_January_2023.jpg",
+  "_score": 1
+}

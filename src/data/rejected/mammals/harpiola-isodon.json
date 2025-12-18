@@ -1,0 +1,26 @@
+{
+  "id": "harpiola-isodon",
+  "name": "Harpiola isodon",
+  "scientificName": "Harpiola isodon",
+  "wikibase_item": "Q2571828",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886650,
+      "id": "Q20886650"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2571828",
+    "wikipedia": "https://en.wikipedia.org/wiki/Formosan_golden_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Formosan golden tube-nosed bat is native to the high-altitude regions of Taiwan.",
+  "image": null,
+  "_score": 0
+}

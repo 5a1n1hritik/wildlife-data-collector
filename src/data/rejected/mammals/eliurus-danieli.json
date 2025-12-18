@@ -1,0 +1,26 @@
+{
+  "id": "eliurus-danieli",
+  "name": "Eliurus danieli",
+  "scientificName": "Eliurus danieli",
+  "wikibase_item": "Q2427866",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2427866",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel's_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Daniel's tufted-tailed rat is a species of rodent in the family Nesomyidae. It was discovered in 2003 in the Parc National de l'Isalo in south-central Madagascar. It is named for Daniel Rakotondravony, professor of animal biology at the University of Antananarivo, Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eliurus_danieli_range_map.svg/2324px-Eliurus_danieli_range_map.svg.png",
+  "_score": 1
+}

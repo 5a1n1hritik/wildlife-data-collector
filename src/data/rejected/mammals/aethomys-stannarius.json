@@ -1,0 +1,26 @@
+{
+  "id": "aethomys-stannarius",
+  "name": "Tinfields Rock Rat",
+  "scientificName": "Aethomys stannarius",
+  "wikibase_item": "Q307875",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385933,
+      "id": "Q385933"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307875",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tinfields_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tinfields rock rat, West African Aethomys, West African rock rat or West African veld rat is a species of rodent in the family Muridae found in Cameroon and Nigeria. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland.",
+  "image": null,
+  "_score": 1
+}

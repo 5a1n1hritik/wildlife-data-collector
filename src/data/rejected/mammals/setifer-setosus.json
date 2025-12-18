@@ -1,0 +1,26 @@
+{
+  "id": "setifer-setosus",
+  "name": "Setifer setosus",
+  "scientificName": "Setifer setosus",
+  "wikibase_item": "Q717929",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3480672,
+      "id": "Q3480672"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q717929",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_hedgehog_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater hedgehog tenrec, also known as the large Madagascar hedgehog or sokina, is a species of mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitats are subtropical or tropical forests, shrubland and grassland, savanna, rural gardens, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Greater_Hedgehog_Tenrec_%28Setifer_setosus%29_%289614561811%29.jpg",
+  "_score": 2
+}

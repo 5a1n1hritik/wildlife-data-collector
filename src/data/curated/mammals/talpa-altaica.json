@@ -1,0 +1,25 @@
+{
+  "id": "talpa-altaica",
+  "name": "Talpa altaica",
+  "scientificName": "Talpa altaica",
+  "wikibase_item": "Q1094004",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1094004",
+    "wikipedia": "https://en.wikipedia.org/wiki/Altai_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Altai mole or Siberian mole is a species of mole in the family Talpidae. It is found throughout the taiga zone of south-central Siberia in Russia, as far south as northern Mongolia and Kazakhstan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%BE%D1%82.jpg"
+}

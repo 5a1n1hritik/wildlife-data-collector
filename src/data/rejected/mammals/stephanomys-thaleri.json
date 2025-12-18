@@ -1,0 +1,26 @@
+{
+  "id": "stephanomys-thaleri",
+  "name": "Stephanomys thaleri",
+  "scientificName": "Stephanomys thaleri",
+  "wikibase_item": "Q2835148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3272514,
+      "id": "Q3272514"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2835148"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

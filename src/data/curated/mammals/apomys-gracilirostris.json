@@ -1,0 +1,26 @@
+{
+  "id": "apomys-gracilirostris",
+  "name": "Large Mindoro Forest Mouse",
+  "scientificName": "Apomys gracilirostris",
+  "wikibase_item": "Q307840",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307840",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_Mindoro_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large Mindoro forest mouse is a species of rodent in the family Muridae, from the genus Apomys. It is found only in the Philippines. Its natural habitat is subtropical or tropical moist montane forests. It is a large mouse with large feet, a long tail and an elongated snout which is morphologically unique within its genus. It is covered in soft fur which is mostly dark brown in colour. Its closest relative is thought to be the Luzon montane forest mouse, based on genetic and morphological similarities.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Apomys_gracilirostris.jpg",
+  "_score": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "liberiictis-kuhni",
+  "name": "Liberian mongoose",
+  "scientificName": "Liberiictis kuhni",
+  "wikibase_item": "Q1421926",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10786017,
+      "id": "Q10786017"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1421926",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liberian_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Liberian mongoose is a mongoose species native to Liberia and Ivory Coast.\nIt is the only member of the genus Liberiictis. Phylogenetic analysis shows it is closely related to other small, social mongooses and that the banded mongoose is its closest relative.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Liberian_Mongoose_area.png"
+}

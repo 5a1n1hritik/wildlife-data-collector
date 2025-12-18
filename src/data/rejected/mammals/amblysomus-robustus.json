@@ -1,0 +1,26 @@
+{
+  "id": "amblysomus-robustus",
+  "name": "Robust golden mole",
+  "scientificName": "Amblysomus robustus",
+  "wikibase_item": "Q1766347",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 886906,
+      "id": "Q886906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766347",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robust_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The robust golden mole is a species of mammal in the golden mole family, Chrysochloridae. It is endemic to parts of Mpumalanga province in South Africa. Its natural habitats are temperate forests, subtropical or tropical moist lowland forest, temperate and subtropical or tropical dry shrubland, dry lowland grassland, arable land, pastureland, plantations, rural gardens, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Robust_Golden_Mole_area.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "microcavia-australis",
+  "name": "Southern mountain cavy",
+  "scientificName": "Microcavia australis",
+  "wikibase_item": "Q1770240",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244242,
+      "id": "Q244242"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770240",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_mountain_cavy"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern mountain cavy is a species of South American rodent in the family Caviidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Microcavia_Australis.jpg",
+  "_score": 1
+}

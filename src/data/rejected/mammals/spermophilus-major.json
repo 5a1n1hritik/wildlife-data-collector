@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-major",
+  "name": "Russet ground squirrel",
+  "scientificName": "Spermophilus major",
+  "wikibase_item": "Q1768722",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768722",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russet_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The russet ground squirrel is a species of rodent in the family Sciuridae. It is also known as the hibernating large ground squirrel and the large-toothed souslik. It is found in west central Asia where its natural habitat is temperate grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bolshoy.julialotnem.jpg",
+  "_score": 2
+}

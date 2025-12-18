@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-orophila",
+  "name": "Central American least shrew",
+  "scientificName": "Cryptotis orophila",
+  "wikibase_item": "Q1770305",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770305",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_American_least_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Central American least shrew is a species of mammal in the family Soricidae. It is found in the highlands and mid-elevations from the western part of the northern coast of Honduras to central Costa Rica. It is found in El Salvador, Honduras, Nicaragua, and Costa Rica. It was considered to be a subspecies of the North American least shrew until 2002.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Cryptotis_orophila.jpg",
+  "_score": 1
+}

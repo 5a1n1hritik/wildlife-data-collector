@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-kihaulei",
+  "name": "Kihaule's mouse shrew",
+  "scientificName": "Myosorex kihaulei",
+  "wikibase_item": "Q1767636",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767636",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kihaule's_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kihaule's mouse shrew is a species of mammal in the family Soricidae endemic to Tanzania where it is known only from the Udzungwa Mountains, at the western end of the Eastern Arc Mountains. Its natural habitats are subtropical or tropical moist montane forests and plantations. It is threatened by habitat destruction and the International Union for Conservation of Nature has assessed its conservation status as being \"endangered\". It was named after Philip M. Kihaule, a medical-entomological technician, who considerably contributed to the documenting of the small mammals of Tanzania and collected the type specimen of this shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Kihaule%27s_Mouse_Shrew_area.png",
+  "_score": 4
+}

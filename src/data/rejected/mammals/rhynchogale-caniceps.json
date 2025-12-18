@@ -1,0 +1,26 @@
+{
+  "id": "rhynchogale-caniceps",
+  "name": "Rhynchogale caniceps",
+  "scientificName": "Rhynchogale caniceps",
+  "wikibase_item": "Q41167763",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10811693,
+      "id": "Q10811693"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167763"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

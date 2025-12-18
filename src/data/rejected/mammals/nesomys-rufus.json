@@ -1,0 +1,26 @@
+{
+  "id": "nesomys-rufus",
+  "name": "Nesomys rufus",
+  "scientificName": "Nesomys rufus",
+  "wikibase_item": "Q1764898",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19334,
+      "id": "Q19334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764898",
+    "wikipedia": "https://en.wikipedia.org/wiki/Island_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The island mouse or eastern red forest rat is a species of rodent in the family Nesomyidae.\nIt is endemic to Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nesomys_rufus_-_Red_forest_rat_%2815721901477%29.jpg",
+  "_score": 1
+}

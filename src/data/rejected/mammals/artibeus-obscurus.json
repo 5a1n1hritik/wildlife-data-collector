@@ -1,0 +1,26 @@
+{
+  "id": "artibeus-obscurus",
+  "name": "dark fruit-eating bat",
+  "scientificName": "Artibeus obscurus",
+  "wikibase_item": "Q139432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139432",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark fruit-eating bat, is a bat species from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Artibeus_obscurus2.jpg",
+  "_score": 1
+}

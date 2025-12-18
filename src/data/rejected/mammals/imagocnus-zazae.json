@@ -1,0 +1,28 @@
+{
+  "id": "imagocnus-zazae",
+  "name": "Imagocnus zazae",
+  "scientificName": "Imagocnus zazae",
+  "wikibase_item": "Q106997660",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5805808,
+      "id": "Q5805808"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106997660",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imagocnus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Imagocnus is an extinct genus of ground sloth from the Early Miocene (Burdigalian) Lagunitas Formation of Cuba.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "galidictis-grandidieri",
+  "name": "Galidictis grandidieri",
+  "scientificName": "Galidictis grandidieri",
+  "wikibase_item": "Q912339",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 690677,
+      "id": "Q690677"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q912339",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grandidier's_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grandidier's mongoose, also known as the giant-striped mongoose or Grandidier's vontsira, is a small carnivoran that lives only in a very small area of southwestern Madagascar, in areas of spiny forest vegetation. It is pale brown or grayish coloured, with eight wide, dark stripes on its back and sides. Grandidier's mongoose is larger than the related broad-striped Malagasy mongoose, G. fasciata, and its stripes are not as wide. The species is named after Alfred Grandidier.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mungo1.jpg",
+  "_score": 2
+}

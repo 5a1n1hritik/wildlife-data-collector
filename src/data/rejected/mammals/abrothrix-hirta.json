@@ -1,0 +1,26 @@
+{
+  "id": "abrothrix-hirta",
+  "name": "Abrothrix hirta",
+  "scientificName": "Abrothrix hirta",
+  "wikibase_item": "Q25406399",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25406399",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abrothrix_hirta"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix hirta is a species of rodent in the family Cricetidae. It is endemic to Argentina and Chile. The type locality of the species is Fuerte San Rafael in Argentina. The species is thought to have acquired its current geographical extent in post-glacial times when it colonized much of Patagonia from multiple refugia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Abrothrix_hirta_203213700.jpg",
+  "_score": 1
+}

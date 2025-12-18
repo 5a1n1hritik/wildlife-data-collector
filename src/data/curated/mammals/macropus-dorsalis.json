@@ -1,0 +1,26 @@
+{
+  "id": "macropus-dorsalis",
+  "name": "Macropus dorsalis",
+  "scientificName": "Macropus dorsalis",
+  "wikibase_item": "Q209156",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3878696,
+      "id": "Q3878696"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209156",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-striped_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-striped wallaby, also known as the scrub wallaby or eastern brush wallaby, is a medium-sized wallaby found in Australia, from Townsville in Queensland to Narrabri in New South Wales. In New South Wales, it is only found west of the Great Dividing Range. It is decreasing in these areas, but is not classified as threatened as a species yet. The New South Wales population, however, is classified as endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Black-striped_wallaby.jpg",
+  "_score": 3
+}

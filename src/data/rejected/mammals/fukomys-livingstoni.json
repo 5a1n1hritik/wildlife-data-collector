@@ -1,0 +1,26 @@
+{
+  "id": "fukomys-livingstoni",
+  "name": "Fukomys livingstoni",
+  "scientificName": "Fukomys livingstoni",
+  "wikibase_item": "Q29650860",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29650860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fukomys_livingstoni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fukomys livingstoni is a species of mole rat that can be found in Africa.",
+  "image": null,
+  "_score": 0
+}

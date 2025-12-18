@@ -1,0 +1,26 @@
+{
+  "id": "myonycteris-leptodon",
+  "name": "Myonycteris leptodon",
+  "scientificName": "Myonycteris leptodon",
+  "wikibase_item": "Q81849708",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 920945,
+      "id": "Q920945"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81849708",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Leone_collared_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sierra Leone collared fruit bat is a species of megabat found in West Africa.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "batomys-uragon",
+  "name": "Batomys uragon",
+  "scientificName": "Batomys uragon",
+  "wikibase_item": "Q20051705",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791357,
+      "id": "Q791357"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20051705",
+    "wikipedia": "https://en.wikipedia.org/wiki/Batomys_uragon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Batomys uragon is a species of cloud rat endemic to the Philippines. It was first discovered in 1988, and the full description was published in 2015, in the Proceedings of the Biological Society of Washington. It is so far found only on Luzon, the largest island in the Philippines. The first specimen was collected from Mount Isarog at the southern side of the island. Other 14 specimens were later collected. It is the fourth species of mammal living only on that mountain. The new species was described by Danilo S. Balete, Eric A. Rickart, Lawrence R. Heaney, and Sharon A. Jansa. It was classified as new species based on DNA analyses and structural descriptions. It is different from its closest relative, the Luzon hairy-tailed rat, in its cytochrome b sequence, moderate body size, colour patterns, and skull structure.",
+  "image": null,
+  "_score": 2
+}

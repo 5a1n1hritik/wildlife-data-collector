@@ -1,0 +1,26 @@
+{
+  "id": "amblysomus-corriae",
+  "name": "Fynbos golden mole",
+  "scientificName": "Amblysomus corriae",
+  "wikibase_item": "Q1703643",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 886906,
+      "id": "Q886906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1703643",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fynbos_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fynbos golden mole is a species of mammal in the golden mole family, Chrysochloridae. It is endemic to South Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fynbos_Golden_Mole_area.png",
+  "_score": 1
+}

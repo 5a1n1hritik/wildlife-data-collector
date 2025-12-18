@@ -1,0 +1,28 @@
+{
+  "id": "otomys-jacksoni",
+  "name": "Mount Elgon Vlei Rat",
+  "scientificName": "Otomys jacksoni",
+  "wikibase_item": "Q1768211",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768211",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Elgon_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Elgon vlei rat is a species of rodent in the family Muridae. It is endemic to Mount Elgon, an extinct volcano on the border between west-central Kenya and south-eastern Uganda. As of 2021, it is considered near threatened by the International Union for the Conservation of Nature and is under threat from fires and unsustainable resource extraction by humans.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/OtomysJacksoniSmit.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

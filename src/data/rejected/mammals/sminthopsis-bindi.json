@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-bindi",
+  "name": "Kakadu dunnart",
+  "scientificName": "Sminthopsis bindi",
+  "wikibase_item": "Q135163",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135163",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kakadu_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kakadu dunnart is a dunnart first described in 1994 and whose closest relative is the Carpentarian dunnart. It typically has a body length of 50-85mm with a tail 60-105mm long, for a total length between 110-190mm. It weighs between 10-25g, placing it in the mid-range of dunnarts. Its colour is grey, gingery on the upper body and underbelly, with white feet.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kakadu_Dunnart_IUCN_Range.png",
+  "_score": 1
+}

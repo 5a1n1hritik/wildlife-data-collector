@@ -1,0 +1,25 @@
+{
+  "id": "arctogalidia-trivirgata",
+  "name": "small-toothed palm civet",
+  "scientificName": "Arctogalidia trivirgata",
+  "wikibase_item": "Q842805",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817068,
+      "id": "Q19817068"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q842805",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small-toothed_palm_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small-toothed palm civet, also known as the three-striped palm civet, is a viverrid native to dense forests of Southeast Asia and some of the easternmost parts of South Asia, from the Assam state of India to Indochina, Malay Peninsula, and Singapore, and on Sumatra, Bangka, Java, Borneo, and numerous small nearby islands of Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Small-toothed_Palm_Civet_%28Arctogalidia_trivirgata_stigmatica%29_%288076736823%29_%28cut%29.jpg"
+}

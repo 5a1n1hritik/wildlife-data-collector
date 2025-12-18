@@ -1,0 +1,25 @@
+{
+  "id": "nyctimene-draconilla",
+  "name": "Nyctimene draconilla",
+  "scientificName": "Nyctimene draconilla",
+  "wikibase_item": "Q1763071",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763071",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dragon_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dragon tube-nosed fruit bat is a species of bat in the family Pteropodidae. It is found on both sides of New Guinea. It is slightly smaller but otherwise similar in appearance to N. albiventer, differing by having more profuse, dark spotting on its wing membranes, and smaller shorter canines. The similarity between the species has been a source of possible misidentifications. The records of this species from Papua New Guinea are associated with freshwater swamps and rivers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dragon_Tube-nosed_Fruit_Bat_area.png"
+}

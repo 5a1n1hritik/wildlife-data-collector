@@ -1,0 +1,25 @@
+{
+  "id": "lepus-callotis",
+  "name": "Lepus callotis",
+  "scientificName": "Lepus callotis",
+  "wikibase_item": "Q1467672",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1467672",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-sided_jackrabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-sided jackrabbit, also known as the Mexican hare, is a jackrabbit found in a limited range in North America, from southern New Mexico to northwestern and central Mexico. The animal is considered threatened in New Mexico, with its numbers in decline in recent years; its presence is uncertain in Arizona.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lepus_callotis_callotis_408118_2.jpg"
+}

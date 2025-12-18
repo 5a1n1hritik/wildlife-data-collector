@@ -1,0 +1,26 @@
+{
+  "id": "chironax-melanocephalus",
+  "name": "Black-capped fruit bat",
+  "scientificName": "Chironax melanocephalus",
+  "wikibase_item": "Q301123",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10747021,
+      "id": "Q10747021"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301123",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-capped_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-capped fruit bat is a species of megabat in the monotypic genus Chironax.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Chironax_melanocephalus.jpg",
+  "_score": 1
+}

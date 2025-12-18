@@ -1,0 +1,26 @@
+{
+  "id": "neurotrichus-gibbsii",
+  "name": "American Shrew Mole",
+  "scientificName": "Neurotrichus gibbsii",
+  "wikibase_item": "Q469953",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894281,
+      "id": "Q2894281"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q469953",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American shrew mole is the smallest species of mole. It is the only living member of the genus Neurotrichus and the tribe Neurotrichini. It is also known as Gibb's shrew mole and least shrew mole. It is not closely related to the Asian shrew mole. Its shrew-like fur and typical mole head make the common name \"shrew mole\" fitting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Shrew_Mole_%28Neurotrichus_gibbsii%29.jpeg",
+  "_score": 1
+}

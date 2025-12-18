@@ -1,0 +1,26 @@
+{
+  "id": "ningaui-ridei",
+  "name": "Wongai Ningaui",
+  "scientificName": "Ningaui ridei",
+  "wikibase_item": "Q194746",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754405,
+      "id": "Q1754405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194746",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wongai_ningaui"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Wongai ningaui is a tiny carnivorous marsupial native to the arid open grasslands of inland Australia. Their diet is mainly small insects, and occasionally larger prey such as spiders, grasshoppers and cockroaches, which they forage for at the ground and in clumps of spinifex. They have long and untidy fur, grey or gingery brown with longer black hairs, small ears, a narrow muzzle, and possess a partially prehensile tail and feet that allow them to climb. The population occurs sparsely across a wide area and common in favourable habitat, especially in years of good rainfall. Ningaui ridei was first described in 1975, one of two species of a new genus discovered amongst the poorly known mammals of the western regions of Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Wongai_Ningaui_area.png",
+  "_score": 5
+}

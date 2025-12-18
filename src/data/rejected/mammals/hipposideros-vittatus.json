@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-vittatus",
+  "name": "Hipposideros vittatus",
+  "scientificName": "Hipposideros vittatus",
+  "wikibase_item": "Q1833233",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833233",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped leaf-nosed bat is a species of bat native to eastern and southern Africa. It was formerly considered part of M. commersoni, which is now viewed as being restricted to Madagascar. Both commersoni and it were formerly placed in the genus Hipposideros, but moved to the resurrected Macronycteris in 2017 on the basis of molecular evidence.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Naturalis_Biodiversity_Center_-_ZMA.MAM.28340.b_dor_-_Hipposideros_vittatus_-_skin.jpeg",
+  "_score": 1
+}

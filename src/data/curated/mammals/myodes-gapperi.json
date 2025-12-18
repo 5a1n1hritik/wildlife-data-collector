@@ -1,0 +1,25 @@
+{
+  "id": "myodes-gapperi",
+  "name": "Myodes gapperi",
+  "scientificName": "Myodes gapperi",
+  "wikibase_item": "Q1764765",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764765",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_red-backed_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern red-backed vole or Gapper's red-backed vole is a small slender vole found in Canada and the northern United States. It is closely related to the western red-backed vole, which lives to the south and west of its range and which is less red with a less sharply bicolored tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Myodes_gapperi_91047357.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "glirulus-japonicus",
+  "name": "Japanese dormouse",
+  "scientificName": "Glirulus japonicus",
+  "wikibase_item": "Q1422952",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12258567,
+      "id": "Q12258567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1422952",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese dormouse is a species of rodent in the family Gliridae endemic to Japan. It is the only extant species within the genus Glirulus. Its natural habitat is temperate forests. In Japanese, it is called yamane. Among dormice, it has the special ability of running at great speed upside down, suspended from branches. Its main food is fruit, insects, berries, nuts, and even flowers. It tends to inhabit arboreal nesting sites to avoid interspecific competition with the small Japanese field mouse because of their sympatric relationship.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%E3%83%A4%E3%83%9E%E3%83%8DGlirulus_japonicus.jpg",
+  "_score": 3
+}

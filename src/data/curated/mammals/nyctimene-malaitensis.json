@@ -1,0 +1,25 @@
+{
+  "id": "nyctimene-malaitensis",
+  "name": "Nyctimene malaitensis",
+  "scientificName": "Nyctimene malaitensis",
+  "wikibase_item": "Q1770227",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770227",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaita_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malaita tube-nosed fruit bat is a species of bat in the family Pteropodidae. It is endemic only to the islands of Malaita and Makira in the Solomon Islands. The species occurs in primary tropical moist forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Malaita_Tube-nosed_Fruit_Bat_area.png"
+}

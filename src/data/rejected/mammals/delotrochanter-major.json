@@ -1,0 +1,26 @@
+{
+  "id": "delotrochanter-major",
+  "name": "Delotrochanter major",
+  "scientificName": "Delotrochanter major",
+  "wikibase_item": "Q117312379",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 117312355,
+      "id": "Q117312355"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117312379"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

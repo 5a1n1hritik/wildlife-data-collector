@@ -1,0 +1,28 @@
+{
+  "id": "amphictis-wintershofensis",
+  "name": "Amphictis wintershofensis",
+  "scientificName": "Amphictis wintershofensis",
+  "wikibase_item": "Q120416174",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11905381,
+      "id": "Q11905381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120416174",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amphictis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Amphictis is an extinct genus of ailurid that existed from the Late Oligocene to the Middle Miocene with fossils found in Eurasia and North America with a total of nine described species. The interrelationships of the different species as well as their relationship to the other ailurids is not fully understood. Usually Amphictis is classified in the basal monotypic subfamily Amphictinae, but there is no certainty as the genus could potentially be a paraphyletic with the Oligocene species A. borbonica being a potential sister taxon to the ancestor of the subfamily Ailurinae, while a Middle Miocene clade consisting of an anagenesis line from A. prolongata–to–A. wintershofensis–to–A. cuspida being closer to the ancestry of the now extinct Simocyoninae. This is due to the nature of their plesiomorphic nature of their anatomy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Amphictis_antiqua.JPG",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lagidium-wolffsohni",
+  "name": "Wolffsohn's viscacha",
+  "scientificName": "Lagidium wolffsohni",
+  "wikibase_item": "Q1768130",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1195501,
+      "id": "Q1195501"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768130",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolffsohn's_viscacha"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wolffsohn's viscacha, and locally known as chinchillón anaranjado, is a rare species of rodent in the family Chinchillidae. This species occurs in southwestern Argentina and adjacent Chile. It occurs up to about 4,000 m (13,000 ft) above sea level. It is found in rocky outcrops in mountainous areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lagidium_wolffsohni.jpg",
+  "_score": 1
+}

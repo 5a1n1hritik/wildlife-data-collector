@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-mahaganus",
+  "name": "Pteropus mahaganus",
+  "scientificName": "Pteropus mahaganus",
+  "wikibase_item": "Q559970",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q559970",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser flying fox or Sanborn's flying fox is a species of flying fox in the family Pteropodidae. It is found in Papua New Guinea and the Solomon Islands. The species is poorly known, but is believed to inhabit coastal lowlands, including tropical rainforest. Although the species has been found plantations, the habitat of the species is fragmented by increasing agriculture and logging.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Lesser_Flying_Fox_area.png",
+  "_score": 2
+}

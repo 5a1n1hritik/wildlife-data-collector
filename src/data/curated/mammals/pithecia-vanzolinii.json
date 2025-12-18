@@ -1,0 +1,26 @@
+{
+  "id": "pithecia-vanzolinii",
+  "name": "Pithecia vanzolinii",
+  "scientificName": "Pithecia vanzolinii",
+  "wikibase_item": "Q20721751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanzolini's_bald-faced_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Vanzolini's bald-faced saki is a species of saki monkey, a type of New World monkey. Its range is in western Brazil. The monkey is named after Brazilian zoologist Paulo Vanzolini. This species was originally described by Hershkovitz as the subspecies Pithecia irrorata vanzolinii based on individuals collected in 1936 by Alfonso M. Olalla, but it was raised to full species status in 2014. For many years, there had been no record of the species in nature. Further specimens were collected in 1956 by Fernando Novaes and his assistant Miguel Moreira. The mammals in this expedition were collected alive and prepared as museum specimens, as described by Cory T. Carvalho, the mammalogist working at the Goeldi museum at the time.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pithecia_skull_frontal_view_2.jpg",
+  "_score": 3
+}

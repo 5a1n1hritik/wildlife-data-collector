@@ -1,0 +1,26 @@
+{
+  "id": "saguinus-nigrifrons",
+  "name": "Geoffroy's saddle-back tamarin",
+  "scientificName": "Leontocebus nigrifrons",
+  "wikibase_item": "Q92285687",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25384537,
+      "id": "Q25384537"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q92285687",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffroy's_saddle-back_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Geoffroy's saddle-back tamarin is a species of saddle-back tamarin, a type of small monkey from South America. Geoffroy's saddle-back tamarin was formerly considered to be a subspecies of the brown-mantled tamarin, L. fuscicollis. It lives in Loreto, Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Saguinus_nigrifrons_MDD_Range.png",
+  "_score": 1
+}

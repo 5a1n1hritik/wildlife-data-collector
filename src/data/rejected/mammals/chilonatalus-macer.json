@@ -1,0 +1,26 @@
+{
+  "id": "chilonatalus-macer",
+  "name": "Chilonatalus macer",
+  "scientificName": "Chilonatalus macer",
+  "wikibase_item": "Q65053222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894534,
+      "id": "Q2894534"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65053222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chilonatalus_macer"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Chilonatalus macer is a species of bat endemic to Cuba.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hypsiprymnodon-moschatus",
+  "name": "Hypsiprymnodon moschatus",
+  "scientificName": "Hypsiprymnodon moschatus",
+  "wikibase_item": "Q652159",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10770484,
+      "id": "Q10770484"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q652159",
+    "wikipedia": "https://en.wikipedia.org/wiki/Musky_rat-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The musky rat-kangaroo is a small marsupial found only in the rainforests of northeastern Australia. First described in the later 19th century, the only other species are known from fossil specimens. They are similar in appearance to potoroos and bettongs, but are not as closely related. Their omnivorous diet is known to include materials such as fruit and fungi, as well as small animals such as insects and other invertebrates.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Musky_rat-kangaroo_%28Hypsiprymnodon_moschatus%29_Atherton.jpg",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

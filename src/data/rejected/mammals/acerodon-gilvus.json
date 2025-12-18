@@ -1,0 +1,26 @@
+{
+  "id": "acerodon-gilvus",
+  "name": "Acerodon gilvus",
+  "scientificName": "Acerodon gilvus",
+  "wikibase_item": "Q40307122",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2307345,
+      "id": "Q2307345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40307122"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

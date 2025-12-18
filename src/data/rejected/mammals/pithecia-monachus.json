@@ -1,0 +1,26 @@
+{
+  "id": "pithecia-monachus",
+  "name": "Pithecia monachus",
+  "scientificName": "Pithecia monachus",
+  "wikibase_item": "Q584768",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q584768",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monk_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The monk saki also known as Geoffroy's monk saki, is a species of saki monkey, a type of New World monkey, from South America. It is found in forested areas of northwestern Brazil and northeastern Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/F_de_Castelnau-mammif%C3%A8resPl03.jpg",
+  "_score": 1
+}

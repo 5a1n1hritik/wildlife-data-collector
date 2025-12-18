@@ -1,0 +1,13 @@
+{
+  "id": "wolf",
+  "name": "Wolf",
+  "scientificName": null,
+  "wikibase_item": "Q18498",
+  "description": "The wolf, also known as the grey wolf or gray wolf, is a canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, including the dog and dingo, though grey wolves, as popularly understood, include only naturally-occurring wild subspecies. The wolf is the largest wild extant member of the family Canidae, and is further distinguished from other Canis species by its less pointed ears and muzzle, as well as a shorter torso and a longer tail. The wolf is nonetheless related closely enough to smaller Canis species, such as the coyote and the golden jackal, to produce fertile hybrids with them. The wolf's fur is usually mottled white, brown, grey, and black, although subspecies in the arctic region may be nearly all white.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Eurasian_wolf_2.jpg",
+  "source": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolf"
+  },
+  "lastUpdated": "2025-12-14",
+  "_score": 3
+}

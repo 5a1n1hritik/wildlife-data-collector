@@ -1,0 +1,28 @@
+{
+  "id": "oryzomys-peninsulae",
+  "name": "Oryzomys peninsulae",
+  "scientificName": "Oryzomys peninsulae",
+  "wikibase_item": "Q1823945",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1823945",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oryzomys_peninsulae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oryzomys peninsulae, also known as the Lower California rice rat, is a species of rodent from western Mexico. Restricted to the southern tip of the Baja California peninsula, it is a member of the genus Oryzomys of family Cricetidae. Only about 20 individuals, collected around 1900, are known, and subsequent destruction of its riverine habitat may have driven the species to extinction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Oryzomys_peninsulae_skull_dorsal.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

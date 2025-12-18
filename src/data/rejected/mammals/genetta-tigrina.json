@@ -1,0 +1,26 @@
+{
+  "id": "genetta-tigrina",
+  "name": "Cape Genet",
+  "scientificName": "Genetta tigrina",
+  "wikibase_item": "Q43230",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43230",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape genet, also known as the South African large-spotted genet, is a genet species endemic to South Africa. As it is common and not threatened, it is listed as Least Concern on the IUCN Red List.\nLike other genets, it is nocturnal and arboreal, preferring to live in the riparian zones of forests, as long as these are not marshy areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Large-spotted_Genet_%28Genetta_tigrina%29_%2817356502041%29_%28crop%29.jpg",
+  "_score": 2
+}

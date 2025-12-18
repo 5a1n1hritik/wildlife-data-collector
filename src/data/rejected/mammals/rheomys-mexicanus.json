@@ -1,0 +1,26 @@
+{
+  "id": "rheomys-mexicanus",
+  "name": "Mexican water mouse",
+  "scientificName": "Rheomys mexicanus",
+  "wikibase_item": "Q1765827",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766211,
+      "id": "Q766211"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765827",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_water_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican water mouse, Mexican fishing mouse or Goodwin's water mouse, is a species of semiaquatic rodent in the family Cricetidae. It has a restricted range in the state of Oaxaca in southern Mexico, Threatened by deforestation and water pollution, it is listed as Endangered by the International Union for Conservation of Nature (IUCN).",
+  "image": null,
+  "_score": 1
+}

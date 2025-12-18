@@ -1,0 +1,26 @@
+{
+  "id": "cryptotis-brachyonyx",
+  "name": "Eastern Cordillera small-footed shrew",
+  "scientificName": "Cryptotis brachyonyx",
+  "wikibase_item": "Q1769553",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769553",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Cordillera_small-footed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eastern Cordillera small-footed shrew is a species of mammal in the family Soricidae. It is endemic to Colombia, where it is known from the western slopes of the central Cordillera Oriental at elevations from 1,300 to 2,715 m. It resembles C. colombiana. The species is only known from four individuals collected at two localities, the most recent record being from 1925.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Eastern_Cordillera_Small-footed_Shrew_area.png",
+  "_score": 1
+}

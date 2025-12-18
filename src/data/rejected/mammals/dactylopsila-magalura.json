@@ -1,0 +1,26 @@
+{
+  "id": "dactylopsila-magalura",
+  "name": "Dactylopsila magalura",
+  "scientificName": "Dactylopsila magalura",
+  "wikibase_item": "Q40424527",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 368980,
+      "id": "Q368980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40424527"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

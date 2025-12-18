@@ -1,0 +1,26 @@
+{
+  "id": "chrysochloris-visagiei",
+  "name": "Visagie's golden mole",
+  "scientificName": "Chrysochloris visagiei",
+  "wikibase_item": "Q1766367",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20870023,
+      "id": "Q20870023"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766367",
+    "wikipedia": "https://en.wikipedia.org/wiki/Visagie's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Visagie's golden mole is a small, insectivorous mammal of the family Chrysochloridae, the golden moles, endemic to South Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Visagie%27s_Golden_Mole_area.png",
+  "_score": 1
+}

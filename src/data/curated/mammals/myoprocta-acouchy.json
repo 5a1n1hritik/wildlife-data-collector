@@ -1,0 +1,25 @@
+{
+  "id": "myoprocta-acouchy",
+  "name": "Red acouchi",
+  "scientificName": "Myoprocta pratti",
+  "wikibase_item": "Q1552153",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 342190,
+      "id": "Q342190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1552153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_acouchi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red acouchi, is a species of rodent in the acouchi genus, part of the family Dasyproctidae. It is found in the Guyanese subregion of the Amazon biome, including Guyana, Suriname, French Guiana, and Brazil, east of the Rio Branco and mainly north of the Amazon, with a few records from south of the Amazon. In the past, some authors have applied the name M. acouchy to the green acouchi instead and used M. exilis for the red acouchi, but this is now obsolete.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Myoprocta_acouchy_2zz.jpg"
+}

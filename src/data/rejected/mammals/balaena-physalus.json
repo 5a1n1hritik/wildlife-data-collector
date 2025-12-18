@@ -1,0 +1,26 @@
+{
+  "id": "balaena-physalus",
+  "name": "Balaena physalus",
+  "scientificName": "Balaena physalus",
+  "wikibase_item": "Q122184805",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4820658,
+      "id": "Q4820658"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122184805",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fin_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fin whale, also known as the finback whale or common rorqual, is a species of baleen whale and the second-longest cetacean after the blue whale. The biggest individual reportedly measured 26–27 m (85–89 ft) in length, with a maximum recorded weight of 65.5 to 80 tonnes. The fin whale's body is long, slender and brownish-gray in color, with a paler underside to appear less conspicuous from below (countershading).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Finhval_%281%29.jpg",
+  "_score": 2
+}

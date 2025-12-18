@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-ferrumequinum",
+  "name": "Greater Horseshoe Bat",
+  "scientificName": "Rhinolophus ferrumequinum",
+  "wikibase_item": "Q737413",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q737413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater horseshoe bat is an insectivorous bat of the genus Rhinolophus. Its distribution covers Europe, Northern Africa, Central Asia and Eastern Asia. It is the largest of the horseshoe bats in Europe and is thus easily distinguished from other species. The species is sedentary, typically travelling up to 30 kilometres (19 mi) between the winter and summer roosts, with the longest recorded movement being 180 km (110 mi). The frequencies used by this bat species for echolocation lie between 69–83 kHz, have most energy at 81 kHz and have an average duration of 37.4 ms.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Greater_horseshoe_bat_%28Rhinolophus_ferrumequinum%29_Hrdovicka.jpg",
+  "_score": 2
+}

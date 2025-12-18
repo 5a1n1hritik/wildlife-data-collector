@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-allenbyi",
+  "name": "Gerbillus allenbyi",
+  "scientificName": "Gerbillus allenbyi",
+  "wikibase_item": "Q11843596",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11843596",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anderson's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anderson's gerbil is a species of rodent distributed from Tunisia to Israel. Their habitats and diets are similar to other gerbils. The gestation period is 20–22 days and the average litter size is four or five. The IUCN formerly listed the junior synonym Gerbillus allenbyi as vulnerable.",
+  "image": null,
+  "_score": 2
+}

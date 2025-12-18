@@ -1,0 +1,26 @@
+{
+  "id": "congosorex-polli",
+  "name": "Greater Congo shrew",
+  "scientificName": "Congosorex polli",
+  "wikibase_item": "Q303666",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134766,
+      "id": "Q134766"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303666",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_Congo_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater Congo shrew is a species of mammal in the family Soricidae. It is endemic to the Democratic Republic of the Congo. Its natural habitat is subtropical or tropical moist lowland forests of the Congo. It is currently losing habitat to deforestation. It eats a wide variety of fruits and a few insects, including ants. It can give birth to around five young.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Greater_Congo_Shrew_area.png",
+  "_score": 2
+}

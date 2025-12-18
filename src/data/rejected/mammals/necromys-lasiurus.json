@@ -1,0 +1,26 @@
+{
+  "id": "necromys-lasiurus",
+  "name": "hairy-tailed bolo mouse",
+  "scientificName": "Necromys lasiurus",
+  "wikibase_item": "Q308452",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308452",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-tailed_bolo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-tailed bolo mouse or hairy-tailed akodont is a South American rodent species of the family Cricetidae. It is found in Argentina, Bolivia, Brazil, and Paraguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ratinho_do_Cerrado.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "trichechus-inunguis",
+  "name": "Amazonian manatee",
+  "scientificName": "Trichechus inunguis",
+  "wikibase_item": "Q456206",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 42797,
+      "id": "Q42797"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q456206",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amazonian_manatee"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amazonian manatee, commonly referred to as cowfish in Brazil, is a species of manatee that lives in the Amazon Basin in Brazil, Peru, Colombia and Ecuador. It has thin, wrinkled brownish or gray colored skin, with fine hairs scattered over its body and a white chest patch. It is the smallest of the three extant species of manatee.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Manati_amazonico_en_Iquitos.jpg",
+  "_score": 1
+}

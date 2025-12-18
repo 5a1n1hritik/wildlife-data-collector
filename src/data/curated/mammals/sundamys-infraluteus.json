@@ -1,0 +1,25 @@
+{
+  "id": "sundamys-infraluteus",
+  "name": "Sundamys infraluteus",
+  "scientificName": "Sundamys infraluteus",
+  "wikibase_item": "Q10822154",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284346,
+      "id": "Q284346"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10822154",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_giant_Sunda_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain giant Sunda rat, Sundamys infraluteus is a large rat, around 480 to 640 millimeters in total length. It weighs 230 to 600 grams. This makes it somewhat larger than a Norway rat, which averages around 300 grams, with 500 grams being unusually large. The rat is mostly dark brown with paler brownish specks. Its long fur is covered with even longer guard hairs. The tail is uniformly brown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sundamys_infraluteus_distribution.png"
+}

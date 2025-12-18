@@ -1,0 +1,26 @@
+{
+  "id": "calcochloris-leucorhinus",
+  "name": "Calcochloris leucorhinus",
+  "scientificName": "Calcochloris leucorhinus",
+  "wikibase_item": "Q1762387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20870037,
+      "id": "Q20870037"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762387",
+    "wikipedia": "https://en.wikipedia.org/wiki/Congo_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Congo golden mole is a species of mammal in the family Chrysochloridae. It is found in Angola, Cameroon, Central African Republic, Republic of the Congo, and Democratic Republic of the Congo. Its natural habitats are subtropical or tropical forest, arable land, pastureland, plantations, and rural gardens.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Congo_Golden_mole_Huet_1885.jpg",
+  "_score": 2
+}

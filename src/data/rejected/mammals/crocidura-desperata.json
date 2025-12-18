@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-desperata",
+  "name": "Desperate shrew",
+  "scientificName": "Crocidura desperata",
+  "wikibase_item": "Q305204",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305204",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desperate_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desperate shrew is a species of mammal in the family Soricidae. It is endemic to Tanzania. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Desperate_Shrew_area.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-xanthoprymnus",
+  "name": "Asia Minor ground squirrel",
+  "scientificName": "Spermophilus xanthoprymnus",
+  "wikibase_item": "Q1770342",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770342",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asia_Minor_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asia Minor ground squirrel, also known as Anatolian souslik, Anatolian ground squirrel, is a species of rodent in the family Sciuridae. It is found in Armenia, Iran, and Turkey. The scientific name roughly translates as \"seed-lover with yellow underparts\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Asia_Minor_Ground_Squirrel.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kerivoula-lanosa",
+  "name": "Lesser woolly bat",
+  "scientificName": "Kerivoula lanosa",
+  "wikibase_item": "Q303750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser woolly bat is a species of vesper bat in the family Vespertilionidae.\nIt is found in Botswana, Central African Republic, Democratic Republic of the Congo, Ivory Coast, Ethiopia, Gabon, Ghana, Guinea, Kenya, Liberia, Malawi, Nigeria, South Africa, Tanzania, Zambia, Zimbabwe and rarely Ethiopia.\nIts natural habitats are subtropical or tropical moist lowland forests, dry savanna, and moist savanna. Members of this species typically have a dark greyish brown fur with whitish tips scattered throughout.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Proceedings_of_the_Zoological_Society_of_London_%28Mammalia_Plate_LXVI%29_%287630005794%29.jpg",
+  "_score": 3
+}

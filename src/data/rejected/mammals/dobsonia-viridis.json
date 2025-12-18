@@ -1,0 +1,26 @@
+{
+  "id": "dobsonia-viridis",
+  "name": "Greenish naked-backed fruit bat",
+  "scientificName": "Dobsonia viridis",
+  "wikibase_item": "Q134345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134345",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greenish_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greenish naked-backed fruit bat is a species of megabat in the family Pteropodidae. It is endemic to some of the northeastern Lesser Sunda Islands in Indonesia, being found on the Kai Islands, the Banda Islands, and the central and southern Molucca Islands, including Seram Island, Ambon Island, and Buru Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Greenish_Naked-backed_Fruit_Bat_area.png",
+  "_score": 1
+}

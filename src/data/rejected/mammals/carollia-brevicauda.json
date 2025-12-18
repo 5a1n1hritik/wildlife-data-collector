@@ -1,0 +1,26 @@
+{
+  "id": "carollia-brevicauda",
+  "name": "Silky Short-tailed Bat",
+  "scientificName": "Carollia brevicauda",
+  "wikibase_item": "Q306040",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306040",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silky_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silky short-tailed bat is a bat species found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Panama, Peru, Suriname, Mexico and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Carollia_brevicauda.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "galerella-nigrata",
+  "name": "Black mongoose",
+  "scientificName": "Galerella nigrata",
+  "wikibase_item": "Q3285787",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 118979,
+      "id": "Q118979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3285787",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black mongoose is a subspecies of the Angolan slender mongoose occurring in Namibia and Angola. Although originally described as a separate species by Oldfield Thomas in 1928, it has often been considered a subspecies of the slender mongoose. However, genetic analysis indicated that it was distinct, and it was later classified as a distinct species. However, more evidence indicates that it is in fact conspecific with the Angolan slender mongoose.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Black_mongoose_waterberg.jpg",
+  "_score": 2
+}

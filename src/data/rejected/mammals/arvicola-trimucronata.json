@@ -1,0 +1,26 @@
+{
+  "id": "arvicola-trimucronata",
+  "name": "Arvicola trimucronata",
+  "scientificName": "Arvicola trimucronata",
+  "wikibase_item": "Q40981646",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 539670,
+      "id": "Q539670"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40981646"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

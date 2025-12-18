@@ -1,0 +1,26 @@
+{
+  "id": "pappogeomys-bulleri",
+  "name": "Buller's pocket gopher",
+  "scientificName": "Pappogeomys bulleri",
+  "wikibase_item": "Q1767693",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 912089,
+      "id": "Q912089"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767693",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buller's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Buller's pocket gopher is a species of gopher that is endemic to Mexico.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-pearsoni",
+  "name": "Pearson's tuco-tuco",
+  "scientificName": "Ctenomys pearsoni",
+  "wikibase_item": "Q1770037",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770037",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pearson's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pearson's tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Uruguay, where it is found at elevations below 200 m. This tuco-tuco constructs burrows with multiple openings containing one to two nests of dried grass; it prefers areas of sandy soil but is somewhat adaptable. It is threatened by loss of habitat to development, agriculture and ranching. Multiple karyotypes have been reported, including 2n = 68–70, FN = 80–88, as well as 2n = 56, FN = 77–79, suggesting the taxon may represent several species. C. dorbignyi appears to be cytogenetically indistinguishable from the 2n = 70 form. The species is named after American zoologist Oliver Payne Pearson.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ctenomys_pearsoni_imported_from_iNaturalist_photo_63212110_on_23_June_2020.jpg",
+  "_score": 4
+}

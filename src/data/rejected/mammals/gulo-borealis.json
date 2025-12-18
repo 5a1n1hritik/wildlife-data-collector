@@ -1,0 +1,26 @@
+{
+  "id": "gulo-borealis",
+  "name": "Gulo borealis",
+  "scientificName": "Gulo borealis",
+  "wikibase_item": "Q106448080",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16894566,
+      "id": "Q16894566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106448080"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

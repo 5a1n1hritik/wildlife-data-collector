@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-griveaudi",
+  "name": "Miniopterus griveaudi",
+  "scientificName": "Miniopterus griveaudi",
+  "wikibase_item": "Q2518602",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2518602",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_griveaudi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus griveaudi is a bat in the genus Miniopterus found on Grande Comore and Anjouan in the Comoros and in northern and western Madagascar. First described in 1959 from Grande Comore as a subspecies of the mainland African M. minor, it was later placed with the Malagasy M. manavi. However, morphological and molecular studies published in 2008 and 2009 indicated that M. manavi as then defined contained five distinct, unrelated species, and M. griveaudi was redefined as a species occurring on both Madagascar and the Comoros.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Miniopterus_griveaudi_range.svg/500px-Miniopterus_griveaudi_range.svg.png"
+}

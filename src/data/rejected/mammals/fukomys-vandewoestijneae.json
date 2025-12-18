@@ -1,0 +1,26 @@
+{
+  "id": "fukomys-vandewoestijneae",
+  "name": "Fukomys vandewoestijneae",
+  "scientificName": "Fukomys vandewoestijneae",
+  "wikibase_item": "Q15098243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15098243",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fukomys_vandewoestijneae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fukomys vandewoestijneae or Caroline's mole-rat was first noticed in 2002 by a research team from the University of Ghent. This new species, distinguished by a distinctive skull shape, was recently described by Paul Van Daele and his team in Zootaxa while DNA and chromosome tests confirmed its novelty. The new species was named after Van Daele's late wife, Caroline Van De Woestijne, who was a member of the research team and died of malaria while in Africa.",
+  "image": null,
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tadarida-aegyptiaca",
+  "name": "Egyptian free-tailed bat",
+  "scientificName": "Tadarida aegyptiaca",
+  "wikibase_item": "Q1833208",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607105,
+      "id": "Q607105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833208",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egyptian_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Egyptian free-tailed bat, also known as Egyptian guano bat or Egyptian nyctinome, is a species of bat in the family Molossidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Egyptian_Free_Tailed_Bat.jpg",
+  "_score": 1
+}

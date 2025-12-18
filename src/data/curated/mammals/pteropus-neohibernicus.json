@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-neohibernicus",
+  "name": "Pteropus neohibernicus",
+  "scientificName": "Pteropus neohibernicus",
+  "wikibase_item": "Q1766189",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766189",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great flying fox, also known as the greater flying fox or Bismarck flying fox, is a species of megabat in the genus Pteropus, found throughout lowland areas of New Guinea and in the Bismarck Archipelago. Conflicting evidence suggests that its closest relative is either the spectacled flying fox or, jointly, the Pelew and insular flying foxes. Two subspecies are recognized. At up to 1.6 kg (3.5 lb) in weight, it is among the heaviest bats in the world and the largest bat in Melanesia. It is a gregarious animal which roosts with hundreds or thousands of individuals. In part due to its wide variation in color, it has many taxonomic synonyms, including Pteropus degener, Pteropus papuanus, and Pteropus sepikensis. It may forage during the day or night in search of fruit, including figs or fruits from the family Sapotaceae. It is considered a least-concern species by the IUCN, though its numbers have been negatively impacted by what appeared to be a disease, as well as by hunting for bushmeat that occurs across its range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Great_Flying-fox.jpg",
+  "_score": 3
+}

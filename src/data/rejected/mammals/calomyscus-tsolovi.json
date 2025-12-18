@@ -1,0 +1,26 @@
+{
+  "id": "calomyscus-tsolovi",
+  "name": "Tsolov's Mouse-like Hamster",
+  "scientificName": "Calomyscus tsolovi",
+  "wikibase_item": "Q550967",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q550967",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsolov's_mouse-like_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tsolov's mouse-like hamster or Syrian calomyscus is a species of rodent in the family Calomyscidae.\nIt is endemic to Syria.",
+  "image": null,
+  "_score": 0
+}

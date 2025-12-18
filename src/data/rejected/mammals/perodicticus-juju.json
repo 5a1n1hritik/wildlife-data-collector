@@ -1,0 +1,26 @@
+{
+  "id": "perodicticus-juju",
+  "name": "Perodicticus juju",
+  "scientificName": "Perodicticus juju",
+  "wikibase_item": "Q40593904",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816393,
+      "id": "Q19816393"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40593904"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

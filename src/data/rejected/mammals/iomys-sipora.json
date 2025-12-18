@@ -1,0 +1,26 @@
+{
+  "id": "iomys-sipora",
+  "name": "Mentawi flying squirrel",
+  "scientificName": "Iomys sipora",
+  "wikibase_item": "Q1769806",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 429757,
+      "id": "Q429757"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769806",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mentawi_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mentawi flying squirrel is a species of rodent in the family Sciuridae. It is endemic to Indonesia where it is only known from the Mentawai Islands. Its natural habitat is lowland tropical primary forest below 500 m (1,600 ft) above sea level. It is threatened by habitat loss.",
+  "image": null,
+  "_score": 2
+}

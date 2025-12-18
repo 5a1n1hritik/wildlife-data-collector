@@ -1,0 +1,26 @@
+{
+  "id": "rhogeessa-tumida",
+  "name": "Black-winged little yellow bat",
+  "scientificName": "Rhogeessa tumida",
+  "wikibase_item": "Q310506",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q310506",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-winged_little_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-winged little yellow bat is a species of vesper bat native to Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rhogeesa_tumida.jpg",
+  "_score": 1
+}

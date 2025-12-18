@@ -1,0 +1,25 @@
+{
+  "id": "genetta-cristata",
+  "name": "Crested servaline genet",
+  "scientificName": "Genetta cristata",
+  "wikibase_item": "Q43223",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43223",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crested_servaline_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crested servaline genet, also known as the crested genet, is a genet species endemic to Nigeria and Cameroon. As the population has declined due to loss of habitat, it is listed as Vulnerable on the IUCN Red List. It was first recorded in the Mamfe Division in Cameroon and initially considered a subspecies of the servaline genet. But now it is regarded as a distinct species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Genetta-cristata-rose.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-gladiusmaculus",
+  "name": "Niviventer gladiusmaculus",
+  "scientificName": "Niviventer gladiusmaculus",
+  "wikibase_item": "Q97371437",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97371437"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "marmosa-robinsoni",
+  "name": "Robinson's mouse opossum",
+  "scientificName": "Marmosa robinsoni",
+  "wikibase_item": "Q194331",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194331",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robinson's_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Robinson's mouse opossum is a species of opossum in the family Didelphidae. It is found in Belize, Colombia, Ecuador, Grenada, Honduras, Panama, Peru, Trinidad and Tobago, and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Marmosa_robinsoni.jpg",
+  "_score": 1
+}

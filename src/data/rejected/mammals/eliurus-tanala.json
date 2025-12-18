@@ -1,0 +1,26 @@
+{
+  "id": "eliurus-tanala",
+  "name": "Tanala tufted-tailed rat",
+  "scientificName": "Eliurus tanala",
+  "wikibase_item": "Q306839",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306839",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanala_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tanala tufted-tailed rat is a species of rodent in the family Nesomyidae. It is found only in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eliurus_tanala_range_map.svg/2324px-Eliurus_tanala_range_map.svg.png",
+  "_score": 1
+}

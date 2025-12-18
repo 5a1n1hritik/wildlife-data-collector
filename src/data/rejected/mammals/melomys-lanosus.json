@@ -1,0 +1,26 @@
+{
+  "id": "melomys-lanosus",
+  "name": "Melomys lanosus",
+  "scientificName": "Melomys lanosus",
+  "wikibase_item": "Q109647358",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647358",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-scaled_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-scaled mosaic-tailed rat is a species of rodent in the family Muridae.\nIt is found in West Papua, Indonesia and Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hypsugo-anchietae",
+  "name": "Anchieta's pipistrelle",
+  "scientificName": "Hypsugo anchietae",
+  "wikibase_item": "Q1830108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anchieta's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anchieta's serotine, formerly known as Anchieta's pipistrelle, is a species of vesper bat. It is found in Angola, Democratic Republic of the Congo, South Africa, Zambia, Zimbabwe and Madagascar. The species inhabits savanna habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Distribution_of_Hypsugo_anchietae.png",
+  "_score": 2
+}

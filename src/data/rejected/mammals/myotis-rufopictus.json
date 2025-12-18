@@ -1,0 +1,26 @@
+{
+  "id": "myotis-rufopictus",
+  "name": "Orange-fingered myotis",
+  "scientificName": "Myotis rufopictus",
+  "wikibase_item": "Q18361406",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18361406",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orange-fingered_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The orange-fingered myotis or red-painted myotis is a species of vesper bat endemic to the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Range_Myotis_rufopictus.png",
+  "_score": 1
+}

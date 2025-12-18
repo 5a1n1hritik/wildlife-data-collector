@@ -1,0 +1,26 @@
+{
+  "id": "peropteryx-leucoptera",
+  "name": "White-winged dog-like bat",
+  "scientificName": "Peropteryx leucoptera",
+  "wikibase_item": "Q2043969",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20878993,
+      "id": "Q20878993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2043969",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-winged_dog-like_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-winged dog-like bat is a bat species found in northern Brazil, southeastern Colombia, Ecuador, French Guiana, Guyana, eastern Peru, Suriname, and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/White-winged_Dog-like_Bat_area.png",
+  "_score": 1
+}

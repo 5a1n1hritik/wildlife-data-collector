@@ -1,0 +1,26 @@
+{
+  "id": "steno-lentiginosus",
+  "name": "Steno lentiginosus",
+  "scientificName": "Steno lentiginosus",
+  "wikibase_item": "Q40695450",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18520455,
+      "id": "Q18520455"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40695450",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_Ocean_humpback_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian Ocean humpback dolphin is a member of the Delphinidae family occupying coastal areas ranging from Southern Africa to Western Indochina. The Indo-Pacific humpback dolphin was formerly included within the same species, but a 2014 study revealed them to be a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dolphin-Musandam_2.jpg",
+  "_score": 1
+}

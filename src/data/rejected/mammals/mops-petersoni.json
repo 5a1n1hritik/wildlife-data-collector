@@ -1,0 +1,26 @@
+{
+  "id": "mops-petersoni",
+  "name": "Peterson's Free-tailed Bat",
+  "scientificName": "Tadarida petersoni",
+  "wikibase_item": "Q1831423",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19717467,
+      "id": "Q19717467"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831423",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peterson's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peterson's free-tailed bat is a species of bat in the family Molossidae. It is found in Cameroon and Ghana, and its natural habitats are subtropical or tropical dry forest and subtropical or tropical moist lowland forest.",
+  "image": null,
+  "_score": 1
+}

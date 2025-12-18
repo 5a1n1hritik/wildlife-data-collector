@@ -1,0 +1,26 @@
+{
+  "id": "galago-granti",
+  "name": "Galago granti",
+  "scientificName": "Galago granti",
+  "wikibase_item": "Q662279",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285214,
+      "id": "Q285214"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q662279",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grant's_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grant's bushbaby, also known as Grant's lesser bushbaby or the Mozambique lesser bushbaby, is a species of primate in the family Galagidae. It is found in Malawi, Mozambique, Tanzania, and Zimbabwe. Its natural habitat is subtropical or tropical dry forests. It is a common species and the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Galago_granti.jpg",
+  "_score": 3
+}

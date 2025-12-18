@@ -1,0 +1,25 @@
+{
+  "id": "dermanura-watsoni",
+  "name": "Thomas's fruit-eating bat",
+  "scientificName": "Dermanura watsoni",
+  "wikibase_item": "Q28154683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5262681,
+      "id": "Q5262681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28154683",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's fruit-eating bat, sometimes also popularly called Watson's fruit-eating bat, is a species of bat in the family Phyllostomidae. It is found from southern Mexico, through Central America to Colombia. Its South American range is to the west of the Andes. The species name is in honor of H. J. Watson, a plantation owner in western Panama who used to send specimens to the British Natural History Museum, where Oldfield Thomas would often describe them.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Dermanura_watsoni.jpg"
+}

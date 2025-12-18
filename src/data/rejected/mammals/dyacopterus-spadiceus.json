@@ -1,0 +1,26 @@
+{
+  "id": "dyacopterus-spadiceus",
+  "name": "Dayak fruit bat",
+  "scientificName": "Dyacopterus spadiceus",
+  "wikibase_item": "Q1765328",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 578934,
+      "id": "Q578934"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765328",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dayak_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dayak fruit bat or dyak fruit bat is a relatively rare frugivorous megabat species found only on the Sunda Shelf of southeast Asia, specifically the Malay Peninsula south of the Isthmus of Kra, and the islands of Borneo and Sumatra. There are three species in the genus Dyacopterus: D. spadiceus, D. brooksi and D. rickarti. All are found in the forests of Malaysia, Thailand, and the Philippines. Few specimens of any of the three species exist, due not only to their rarity, but also because they rarely enter the sub-canopy of the forest where they can be caught in scientists' nets.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Dayak_Fruit_Bat_area.png",
+  "_score": 2
+}

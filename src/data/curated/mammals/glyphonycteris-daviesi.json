@@ -1,0 +1,25 @@
+{
+  "id": "glyphonycteris-daviesi",
+  "name": "Davies's big-eared bat",
+  "scientificName": "Glyphonycteris daviesi",
+  "wikibase_item": "Q1829427",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2897730,
+      "id": "Q2897730"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829427",
+    "wikipedia": "https://en.wikipedia.org/wiki/Davies's_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Davies's big-eared bat or the graybeard bat is a species of bat in the family Phyllostomidae. It is named after James (Jim) Noel Davies who discovered it whilst on an expedition in Guyana. This was the Cambridge University expedition to the rainforest reserve near Bartica in what was then British Guiana, South America. This species can weigh 30 grams and has a wingspan of up to 50cm. It is bigger than most micronycteris bats with a fierce disposition. A small frog was found in the stomach of a specimen, and the bat is strong-willed enough to chew its way out of a cloth bag.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Glyphonycteris_daviesi.jpg"
+}

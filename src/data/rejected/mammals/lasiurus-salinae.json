@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-salinae",
+  "name": "Saline red bat",
+  "scientificName": "Lasiurus salinae",
+  "wikibase_item": "Q10785054",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10785054",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern red bat is a species of microbat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Western_Red_Bat_imported_from_iNaturalist_photo_7300858_on_9_February_2022.jpg",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "petropseudes-dahli",
+  "name": "Rock-haunting ringtail possum",
+  "scientificName": "Petropseudes dahli",
+  "wikibase_item": "Q1404175",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804850,
+      "id": "Q10804850"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1404175",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock-haunting_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rock-haunting ringtail possum, also known as the rock ringtail possum, is a species of Australian possum. It is found in rocky escarpments in the Kimberley, Arnhem Land and Gulf of Carpentaria across Western Australia and Northern Territory and just passing the Queensland border. It is also found on Groote Eylandt. According to some authorities, it is the only species in the genus Petropseudes, but other authorities place it among the members of the genus Pseudochirops.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pseudocheirus_dahli_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03035.JPG",
+  "_score": 2
+}

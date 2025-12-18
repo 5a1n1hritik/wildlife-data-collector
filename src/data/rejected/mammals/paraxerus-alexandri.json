@@ -1,0 +1,26 @@
+{
+  "id": "paraxerus-alexandri",
+  "name": "Alexander's bush squirrel",
+  "scientificName": "Paraxerus alexandri",
+  "wikibase_item": "Q779879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q779879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander's_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Alexander's bush squirrel is a species of squirrel native to the Democratic Republic of the Congo and Uganda. It is arboreal and lives in tropical moist forests, especially undisturbed mature forests. It is a common species with a wide range, and the International Union for Conservation of Nature has rated it as being of \"least concern\". Its common name and Latin binomial commemorate Lieutenant Boyd Alexander, a British Army officer, explorer and ornithologist.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Paraxerus_alexandri_248401111.jpg",
+  "_score": 2
+}

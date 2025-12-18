@@ -1,0 +1,26 @@
+{
+  "id": "neomys-teres",
+  "name": "Transcaucasian water shrew",
+  "scientificName": "Neomys teres",
+  "wikibase_item": "Q1770517",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1352331,
+      "id": "Q1352331"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770517",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transcaucasian_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Transcaucasian water shrew is a species of mammal in the family Soricidae. It is found in Armenia, Azerbaijan, Georgia, and possibly Iran and Turkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Transcaucasian_water_shrew_%28Neomys_teres%29_01.jpg",
+  "_score": 1
+}

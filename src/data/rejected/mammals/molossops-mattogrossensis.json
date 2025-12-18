@@ -1,0 +1,26 @@
+{
+  "id": "molossops-mattogrossensis",
+  "name": "Mato Grosso Dog-faced Bat",
+  "scientificName": "Molossops mattogrossensis",
+  "wikibase_item": "Q1830223",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20882358,
+      "id": "Q20882358"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830223",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mato_Grosso_dog-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mato Grosso dog-faced bat, is a bat species found in South America. It is the only species in the genus Neoplatymops.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Molossops_mattogrossensis_map.svg/500px-Molossops_mattogrossensis_map.svg.png",
+  "_score": 1
+}

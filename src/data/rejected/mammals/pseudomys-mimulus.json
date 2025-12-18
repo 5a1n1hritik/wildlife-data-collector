@@ -1,0 +1,26 @@
+{
+  "id": "pseudomys-mimulus",
+  "name": "Pseudomys mimulus",
+  "scientificName": "Pseudomys mimulus",
+  "wikibase_item": "Q128042652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128042652"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

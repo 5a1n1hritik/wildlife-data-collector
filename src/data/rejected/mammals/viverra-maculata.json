@@ -1,0 +1,26 @@
+{
+  "id": "viverra-maculata",
+  "name": "Viverra maculata Gray, 1830",
+  "scientificName": "Viverra maculata",
+  "wikibase_item": "Q122781318",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762710,
+      "id": "Q1762710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122781318"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

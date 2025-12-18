@@ -1,0 +1,26 @@
+{
+  "id": "reithrodontomys-bakeri",
+  "name": "Guerrero Harvest Mouse",
+  "scientificName": "Reithrodontomys bakeri",
+  "wikibase_item": "Q2442592",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 246808,
+      "id": "Q246808"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2442592",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baker's_small-toothed_harvest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Baker's small-toothed harvest mouse is a species of rodent in the family Cricetidae. It is one of about 20 species of the genus Reithrodontomys. This species was discovered in 2004 and is found in Central Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Reithrodontomys_bakeri.jpeg",
+  "_score": 1
+}

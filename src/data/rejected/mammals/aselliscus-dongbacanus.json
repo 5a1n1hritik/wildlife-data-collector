@@ -1,0 +1,26 @@
+{
+  "id": "aselliscus-dongbacanus",
+  "name": "Aselliscus dongbacanus",
+  "scientificName": "Aselliscus dongbacanus",
+  "wikibase_item": "Q21998665",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 778715,
+      "id": "Q778715"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21998665",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dong_Bac's_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dong Bac's trident bat is a species of bat in the family Hipposideridae. It is found in northeastern Vietnam. Its type locality is Na Phong cave, Ba Be National Park, Bac Kan Province, Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Distribution_of_Aselliscus_dongbacana.png",
+  "_score": 1
+}

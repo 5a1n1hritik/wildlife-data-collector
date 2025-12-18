@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-vorax",
+  "name": "Voracious Shrew",
+  "scientificName": "Crocidura vorax",
+  "wikibase_item": "Q1765624",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765624",
+    "wikipedia": "https://en.wikipedia.org/wiki/Voracious_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The voracious shrew is a common and widespread species of shrew native to China, India, Laos, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Crociduravorax.jpg",
+  "_score": 1
+}

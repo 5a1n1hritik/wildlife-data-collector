@@ -1,0 +1,26 @@
+{
+  "id": "ctenomys-lami",
+  "name": "Lami tuco-tuco",
+  "scientificName": "Ctenomys lami",
+  "wikibase_item": "Q1767339",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767339",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lami_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lami tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to an area in the state of Rio Grande do Sul in southern Brazil, where it is found in the vicinity of sand dunes. The species is threatened by urbanization and the conversion of its habitat to agricultural use. Swamp drainage has led to a zone of hybridization with a neighboring population of C. minutus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ctenomys_lami_242270267.jpg",
+  "_score": 3
+}

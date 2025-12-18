@@ -1,0 +1,26 @@
+{
+  "id": "pseudochirus-versteegi",
+  "name": "Pseudochirus versteegi",
+  "scientificName": "Pseudochirus versteegi",
+  "wikibase_item": "Q41167508",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157589,
+      "id": "Q41157589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167508"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

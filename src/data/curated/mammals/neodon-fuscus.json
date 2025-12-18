@@ -1,0 +1,25 @@
+{
+  "id": "neodon-fuscus",
+  "name": "Neodon fuscus",
+  "scientificName": "Neodon fuscus",
+  "wikibase_item": "Q112614314",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427901,
+      "id": "Q427901"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112614314",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plateau_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plateau vole is a species of rodent in the family Cricetidae. It was originally listed as Lasiopodomys, but was moved to Neodon in 2012.\nIt is found only in China.\nIts natural habitat is temperate grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lasiopodomys_fuscus.jpg"
+}

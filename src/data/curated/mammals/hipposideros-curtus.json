@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-curtus",
+  "name": "Hipposideros curtus",
+  "scientificName": "Hipposideros curtus",
+  "wikibase_item": "Q1765797",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765797",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed roundleaf bat is a species of bat in the family Hipposideridae. It is found in Cameroon and Equatorial Guinea. Its natural habitats are subtropical or tropical moist lowland forests and caves. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Short-tailed_Roundleaf_Bat_area.png",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aethomys-kaiseri",
+  "name": "Kaiser's rock rat",
+  "scientificName": "Aethomys kaiseri",
+  "wikibase_item": "Q307829",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385933,
+      "id": "Q385933"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307829",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaiser's_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kaiser's rock rat is a species of rodent in the family Muridae \nfound in Angola, Burundi, the Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Uganda, and Zambia.\nIts natural habitats are subtropical or tropical dry forests and subtropical or tropical moist montane forests.",
+  "image": null,
+  "_score": 1
+}

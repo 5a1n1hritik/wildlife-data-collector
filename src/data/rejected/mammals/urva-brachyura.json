@@ -1,0 +1,26 @@
+{
+  "id": "urva-brachyura",
+  "name": "Urva brachyura",
+  "scientificName": "Urva brachyura",
+  "wikibase_item": "Q99217645",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99217654,
+      "id": "Q99217654"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99217645",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed mongoose is a mongoose species native to Peninsular Malaysia, Sumatra and Borneo. It inhabits evergreen forest and rural gardens from sea level to an elevation of 1,500 m (4,900 ft). It is listed as Near Threatened on the IUCN Red List since 2008.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Herpestes_brachyurus.jpg",
+  "_score": 2
+}

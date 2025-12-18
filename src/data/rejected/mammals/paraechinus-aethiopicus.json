@@ -1,0 +1,26 @@
+{
+  "id": "paraechinus-aethiopicus",
+  "name": "Desert hedgehog",
+  "scientificName": "Paraechinus aethiopicus",
+  "wikibase_item": "Q257774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650378,
+      "id": "Q650378"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q257774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert hedgehog is a species of mammal in the family Erinaceidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Desert_Hedgehog.png",
+  "_score": 1
+}

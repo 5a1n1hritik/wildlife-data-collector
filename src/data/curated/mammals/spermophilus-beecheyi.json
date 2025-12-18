@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-beecheyi",
+  "name": "California ground squirrel",
+  "scientificName": "Spermophilus beecheyi",
+  "wikibase_item": "Q1092075",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1092075",
+    "wikipedia": "https://en.wikipedia.org/wiki/California_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The California ground squirrel, also known as the Beechey ground squirrel, is a common and easily observed ground squirrel of the western United States and the Baja California Peninsula; it is common in Oregon and California and its range has relatively recently extended into Washington and northwestern Nevada. Formerly placed in Spermophilus, as Spermophilus beecheyi, it was reclassified in Otospermophilus in 2009, as it became clear that Spermophilus as previously defined was not a natural (monophyletic) group.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/CA_Ground_Squirrel_on_rock.jpg"
+}

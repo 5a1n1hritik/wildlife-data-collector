@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-norfolkensis",
+  "name": "Mormopterus norfolkensis",
+  "scientificName": "Mormopterus norfolkensis",
+  "wikibase_item": "Q1829472",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829472",
+    "wikipedia": "https://en.wikipedia.org/wiki/Micronomus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Micronomus norfolkensis is a species of molossid bat, a family of flying mammals. The bat is endemic to Australia, where it occurs from southeastern Queensland to eastern New South Wales. They are the sole species of genus Micronomus and referred to by variations on east-coast free-tailed bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mormopterus_norfolkensis.jpg/550px-Mormopterus_norfolkensis.jpg"
+}

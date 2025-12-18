@@ -1,0 +1,26 @@
+{
+  "id": "hipposideros-tephrus",
+  "name": "Hipposideros tephrus",
+  "scientificName": "Hipposideros tephrus",
+  "wikibase_item": "Q60541731",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60541731",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hipposideros_tephrus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hipposideros tephrus is a species of bat in the family Hipposideridae. It is found in forest and savanna in Morocco, Yemen, and Senegal. It is assessed by the IUCN as least-concern.",
+  "image": null,
+  "_score": 0
+}

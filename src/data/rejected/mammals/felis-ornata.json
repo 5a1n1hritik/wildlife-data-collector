@@ -1,0 +1,26 @@
+{
+  "id": "felis-ornata",
+  "name": "Felis ornata",
+  "scientificName": "Felis ornata",
+  "wikibase_item": "Q41083446",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083446",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asiatic_wildcat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asiatic wildcat, also known as the Indian desert cat, is an African wildcat subspecies that occurs from the eastern Caspian Sea north to Kazakhstan, into western India, western China and southern Mongolia. \nThere is no information on current status or population numbers across the Asiatic wildcat's range as a whole, but populations are thought to be declining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Felis_silvestris_ornata.jpg",
+  "_score": 1
+}

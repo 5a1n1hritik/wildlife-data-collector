@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-sp.",
+  "name": "Lasiurus sp.",
+  "scientificName": "Lasiurus sp.",
+  "wikibase_item": "Q41083950",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 116317,
+      "id": "Q116317"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083950"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

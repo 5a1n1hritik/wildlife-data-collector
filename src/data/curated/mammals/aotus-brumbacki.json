@@ -1,0 +1,25 @@
+{
+  "id": "aotus-brumbacki",
+  "name": "Brumback's night monkey",
+  "scientificName": "Aotus brumbacki",
+  "wikibase_item": "Q992423",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q992423",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brumback's_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brumback's night monkey is a species of night monkey found in Colombia. It has traditionally been considered a subspecies of gray-bellied night monkey, Aotus lemurinus. However, it has recently been argued that it should be considered a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Aotus_brumbacki_01.jpg"
+}

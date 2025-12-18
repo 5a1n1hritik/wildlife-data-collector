@@ -1,0 +1,26 @@
+{
+  "id": "myodes-rufocanus",
+  "name": "grey red-backed vole",
+  "scientificName": "Myodes rufocanus",
+  "wikibase_item": "Q844638",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q844638",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey_red-backed_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grey red-backed vole or the grey-sided vole is a species of vole. An adult grey red-backed vole weighs 20-50 grams. This species ranges across northern Eurasia, including northern China, the northern Korean Peninsula, and the islands of Sakhalin and Hokkaidō. It is larger and longer-legged than the northern red-backed vole, which covers a similar range and it is also sympatric with the Norwegian lemming.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Myodes_rufocanus.jpeg",
+  "_score": 2
+}

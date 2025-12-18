@@ -1,0 +1,26 @@
+{
+  "id": "mirzamys-louiseae",
+  "name": "Mirza's western moss rat",
+  "scientificName": "Mirzamys louiseae",
+  "wikibase_item": "Q3858958",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384455,
+      "id": "Q384455"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3858958",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirza's_western_moss_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mirza's western moss rat is a species of rodent endemic to Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cynomops-abrasus",
+  "name": "Cinnamon dog-faced bat",
+  "scientificName": "Cynomops abrasus",
+  "wikibase_item": "Q1832650",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2729634,
+      "id": "Q2729634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832650",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinnamon_dog-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cinnamon dog-faced bat, is a South American bat species of the family Molossidae. It is found in northern and central South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cynomops_abrasus_Bat_species_%2810.3897-zoologia.37.e36514%29_Figures_18%E2%80%9329.jpg",
+  "_score": 1
+}

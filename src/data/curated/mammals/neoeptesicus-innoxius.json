@@ -1,0 +1,26 @@
+{
+  "id": "neoeptesicus-innoxius",
+  "name": "Neoeptesicus innoxius",
+  "scientificName": "Neoeptesicus innoxius",
+  "wikibase_item": "Q125870456",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 124210949,
+      "id": "Q124210949"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125870456",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harmless_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The harmless serotine is a species of vesper bat. It has a restricted range in western Ecuador and northwestern Peru. An insectivorous species, it is a resident of tropical dry forest habitat, and is threatened by deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eptesicus_innoxius_map.svg/500px-Eptesicus_innoxius_map.svg.png",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "macroxus-pyladei",
+  "name": "Macroxus pyladei",
+  "scientificName": "Macroxus pyladei",
+  "wikibase_item": "Q26923600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19798875,
+      "id": "Q19798875"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26923600"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

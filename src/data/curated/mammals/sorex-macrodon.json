@@ -1,0 +1,25 @@
+{
+  "id": "sorex-macrodon",
+  "name": "Large-toothed shrew",
+  "scientificName": "Sorex macrodon",
+  "wikibase_item": "Q1768840",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768840",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-toothed shrew or Mexican large-toothed shrew is one of 77 species within the genus Sorex. Registered on the IUCN Red List as vulnerable with a decreasing population, the Mexican large-toothed shrew has been recorded only 14 times in seven locations. The shrew is a member of the red-toothed shrew subfamily Soricinae, and the more taxonomically defined tribe Soricini. Members of the latter category exhibit long tails relative to body size.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Large-toothed_Shrew_area.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-mexicanus",
+  "name": "Oryzomys mexicanus",
+  "scientificName": "Oryzomys mexicanus",
+  "wikibase_item": "Q128052473",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128052473",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oryzomys_couesi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oryzomys couesi, also known as Coues's rice rat, is a semiaquatic rodent in the family Cricetidae occurring from southernmost Texas through Mexico and Central America into northwestern Colombia. It is usually found in wet habitats, such as marshes, but also lives in drier forests and shrublands. Weighing about 43 to 82 g, O. couesi is a medium-sized to large rat. The coarse fur is buff to reddish above and white to buff below. The hindfeet show some specializations for life in the water, such as reduced ungual tufts of hair around the digits. It has 56 chromosomes. There is much geographic variation in size, proportions, color, and skull features. Oryzomys couesi is active during the night and builds nests of vegetation that are suspended among reeds about 1 m (3.3 ft) above the ground. It is an excellent swimmer and dives well, but can also climb in vegetation. An omnivore, it eats both plant and animal food, including seeds and insects. It breeds throughout the year; females give birth to about four young after a pregnancy of 21 to 28 days. The species may be infected by several different parasites and by two hantaviruses.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Oryzomys_couesi.jpg",
+  "_score": 4
+}

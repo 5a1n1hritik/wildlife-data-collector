@@ -1,0 +1,26 @@
+{
+  "id": "graomys-domorum",
+  "name": "Pale Leaf-Eared Mouse",
+  "scientificName": "Graomys domorum",
+  "wikibase_item": "Q307016",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139823,
+      "id": "Q139823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307016",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale leaf-eared mouse is a species of rodent in the family Cricetidae.\nIt is found in Argentina and Bolivia.",
+  "image": null,
+  "_score": 0
+}

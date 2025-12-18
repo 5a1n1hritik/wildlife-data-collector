@@ -1,0 +1,26 @@
+{
+  "id": "neacomys-dubosti",
+  "name": "Neacomys dubosti",
+  "scientificName": "Neacomys dubosti",
+  "wikibase_item": "Q1769216",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593339,
+      "id": "Q593339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769216",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neacomys_dubosti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neacomys dubosti, also known as Dubost's neacomys or Dubost's bristly mouse, is a species of South American rodent in the genus Neacomys of family Cricetidae. It is found in French Guiana, southeastern Suriname and nearby Amapá, Brazil. It was not recognized as distinct from N. guianae until 2001.",
+  "image": null,
+  "_score": 0
+}

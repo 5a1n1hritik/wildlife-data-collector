@@ -1,0 +1,28 @@
+{
+  "id": "nyctophilus-howensis",
+  "name": "Nyctophilus howensis",
+  "scientificName": "Nyctophilus howensis",
+  "wikibase_item": "Q1829922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Howe_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lord Howe long-eared bat was a vespertilionid bat known only by a single specimen, a skull found on Lord Howe Island in 1972. A mammalian insectivorous species resembling the long-eared Nyctophilus, with an elongated head that is comparatively larger, about which almost nothing is known. The bat may have been casually observed in flight during the twentieth century, but is likely to have become extinct since the island's discovery and occupation. The demise of N. howensis is possibly the result of shipwrecked rats and the owls introduced to control them.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Lord_Howe_Island.PNG",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-wuchihensis",
+  "name": "Hainan Island shrew",
+  "scientificName": "Crocidura wuchihensis",
+  "wikibase_item": "Q1764641",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764641",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hainan_Island_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hainan Island shrew is a species of mammal in the family Soricidae native to China and Vietnam. The IUCN has insufficient data to assess the level of population and its trend.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Crocidura_wuchihensis_skull_lateral.jpeg",
+  "_score": 1
+}

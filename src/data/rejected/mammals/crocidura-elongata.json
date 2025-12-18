@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-elongata",
+  "name": "Elongated shrew",
+  "scientificName": "Crocidura elongata",
+  "wikibase_item": "Q1768877",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768877",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elongated_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The elongated shrew is a species of mammal in the family Soricidae. It is endemic to the island of Sulawesi in Indonesia. It lives in the forests of central, northern, and eastern Sulawesi from 200 to 2000 meters elevation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Elongated_Shrew_area.png",
+  "_score": 1
+}

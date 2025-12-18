@@ -1,0 +1,25 @@
+{
+  "id": "eonycteris-spelaea",
+  "name": "Cave nectar bat",
+  "scientificName": "Eonycteris spelaea",
+  "wikibase_item": "Q971953",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 890680,
+      "id": "Q890680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q971953",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cave_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cave nectar bat, dawn bat, common dawn bat, common nectar bat or lesser dawn bat is a species of megabat within the genus Eonycteris. The scientific name of the species was first published by Dobson in 1871.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Eonycteris_spelea.png"
+}

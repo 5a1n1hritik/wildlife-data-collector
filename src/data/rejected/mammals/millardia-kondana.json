@@ -1,0 +1,25 @@
+{
+  "id": "millardia-kondana",
+  "name": "Kondana soft-furred rat",
+  "scientificName": "Millardia kondana",
+  "wikibase_item": "Q942246",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 472755,
+      "id": "Q472755"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q942246",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kondana_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kondana soft-furred rat, also known as the Kondana rat or large metad, is an endangered species of rodent in the family Muridae. It is a nocturnal burrowing rat that is endemic to the Sinhgad plateau near Pune, Maharashtra, India. Its natural habitats are subtropical or tropical dry forests, subtropical or tropical dry lowland grassland, and urban areas.\nMajor threats are habitat loss, overgrazing of vegetation, and disturbance from tourism and recreational activities.",
+  "image": null
+}

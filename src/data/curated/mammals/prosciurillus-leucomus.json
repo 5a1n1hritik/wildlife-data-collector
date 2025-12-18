@@ -1,0 +1,25 @@
+{
+  "id": "prosciurillus-leucomus",
+  "name": "Whitish dwarf squirrel",
+  "scientificName": "Prosciurillus leucomus",
+  "wikibase_item": "Q1767101",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 389197,
+      "id": "Q389197"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767101",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitish_dwarf_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The whitish dwarf squirrel is a species of rodent in the family Sciuridae. It is endemic to Indonesia, where it is found on Sulawesi, Buton Island, Muna Island, Kabeana Island, and adjacent islands to the southeast of Sulawesi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Prosciurillus_leucomus_-_Tangkoko_%283%29.JPG"
+}

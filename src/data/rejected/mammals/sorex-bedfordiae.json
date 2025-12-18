@@ -1,0 +1,26 @@
+{
+  "id": "sorex-bedfordiae",
+  "name": "Lesser striped shrew",
+  "scientificName": "Sorex bedfordiae",
+  "wikibase_item": "Q956530",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q956530",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_striped_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser striped shrew is a species of mammal in the family Soricidae. It is found in China, Myanmar, and Nepal.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lesser_Striped_Shrew_area.png",
+  "_score": 1
+}

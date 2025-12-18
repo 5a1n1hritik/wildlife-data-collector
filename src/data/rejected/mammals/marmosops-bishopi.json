@@ -1,0 +1,26 @@
+{
+  "id": "marmosops-bishopi",
+  "name": "Bishop's slender opossum",
+  "scientificName": "Marmosops bishopi",
+  "wikibase_item": "Q194999",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194999",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bishop's_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bishop's slender opossum is a small, arboreal marsupial in the opossum family native to Brazil, Peru, and Bolivia. It somewhat resembles a placental rat or shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Marmosops_bishopi.jpg",
+  "_score": 1
+}

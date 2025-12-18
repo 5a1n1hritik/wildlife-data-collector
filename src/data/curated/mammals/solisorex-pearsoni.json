@@ -1,0 +1,26 @@
+{
+  "id": "solisorex-pearsoni",
+  "name": "Pearson's Long-clawed Shrew",
+  "scientificName": "Solisorex pearsoni",
+  "wikibase_item": "Q1451681",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10820143,
+      "id": "Q10820143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1451681",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pearson's_long-clawed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pearson's long-clawed shrew is a species of mammal in the family Soricidae. It is the only species within the genus Solisorex endemic to Sri Lanka. It is threatened by habitat loss. It is named after Joseph Pearson FRSE, Director of the Columbo Museum 1910-1933 who found it on 1 January 1924.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Solisorex_pearsoni_Range_Map.png",
+  "_score": 3
+}

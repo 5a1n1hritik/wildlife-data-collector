@@ -1,0 +1,26 @@
+{
+  "id": "habromys-chinanteco",
+  "name": "Chinanteco deermouse",
+  "scientificName": "Habromys chinanteco",
+  "wikibase_item": "Q1762418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135906,
+      "id": "Q135906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinanteco_deer_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinanteco deer mouse is a species of rodent in the family Cricetidae. It is endemic to Mexico.",
+  "image": null,
+  "_score": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "crossarchus-fasciatus",
+  "name": "Crossarchus fasciatus",
+  "scientificName": "Crossarchus fasciatus",
+  "wikibase_item": "Q125705033",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 981308,
+      "id": "Q981308"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125705033"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

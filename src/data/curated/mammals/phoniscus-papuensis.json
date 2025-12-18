@@ -1,0 +1,25 @@
+{
+  "id": "phoniscus-papuensis",
+  "name": "Golden-tipped bat",
+  "scientificName": "Phoniscus papuensis",
+  "wikibase_item": "Q304480",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 658092,
+      "id": "Q658092"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304480",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-tipped_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-tipped bat is a species of Microchiropteran in the family Vespertilionidae. It is found in Papua New Guinea and in Australia, especially scattered along the eastern part of Australia. The species is considered uncommon, and is listed as endangered in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Distribution_of_Phoniscus_papuensis.png"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-livingstonii",
+  "name": "Scotophilus livingstonii",
+  "scientificName": "Scotophilus livingstonii",
+  "wikibase_item": "Q17652202",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17652202",
+    "wikipedia": "https://en.wikipedia.org/wiki/Livingstone's_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Livingstone's yellow bat or Livingstone's house bat is a species of bat found in Africa.",
+  "image": null,
+  "_score": 0
+}

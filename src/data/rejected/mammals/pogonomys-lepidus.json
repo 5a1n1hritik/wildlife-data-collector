@@ -1,0 +1,26 @@
+{
+  "id": "pogonomys-lepidus",
+  "name": "Pogonomys lepidus",
+  "scientificName": "Pogonomys lepidus",
+  "wikibase_item": "Q41014978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 516305,
+      "id": "Q516305"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41014978"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

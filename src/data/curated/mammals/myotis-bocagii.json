@@ -1,0 +1,26 @@
+{
+  "id": "myotis-bocagii",
+  "name": "Myotis bocagii",
+  "scientificName": "Myotis bocagii",
+  "wikibase_item": "Q1833436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufous_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rufous mouse-eared bat is a species of vesper bat. It can be found in the following countries: Angola, Benin, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Ethiopia, Gabon, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Senegal, Sierra Leone, South Africa, South Sudan, Tanzania, Togo, Uganda, Yemen, Zambia, and Zimbabwe. It is found in dry and moist savanna habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Myotis_bocagii_-_Swedish_Museum_of_Natural_History_-_Stockholm%2C_Sweden_-_DSC00661.JPG",
+  "_score": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dasyprocta-guamara",
+  "name": "Orinoco agouti",
+  "scientificName": "Dasyprocta guamara",
+  "wikibase_item": "Q971038",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q971038",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orinoco_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Orinoco agouti is a species of rodent in the family Dasyproctidae. It is endemic to Delta Amacuro in Venezuela, where it is found in areas with rainforest or mangroves.",
+  "image": null,
+  "_score": 0
+}

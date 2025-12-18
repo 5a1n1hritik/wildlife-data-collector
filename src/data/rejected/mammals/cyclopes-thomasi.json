@@ -1,0 +1,26 @@
+{
+  "id": "cyclopes-thomasi",
+  "name": "Cyclopes thomasi",
+  "scientificName": "Cyclopes thomasi",
+  "wikibase_item": "Q53677976",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816375,
+      "id": "Q19816375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53677976",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silky_anteater"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silky anteater, also known as the pygmy anteater, has traditionally been considered a single species of anteater, Cyclopes didactylus, in the genus Cyclopes, the only living genus in the family Cyclopedidae. Found in southern Mexico, and Central and South America, it is the smallest of all known anteaters. It has nocturnal habits and appears to be completely arboreal; its hind feet are highly modified for climbing.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Silky_Anteater.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sagmatias-obscurus",
+  "name": "Sagmatias obscurus",
+  "scientificName": "Sagmatias obscurus",
+  "wikibase_item": "Q125572689",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7399322,
+      "id": "Q7399322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125572689",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky dolphin is a small oceanic dolphin found in coastal waters of the Southern Hemisphere. It is most closely related to the Pacific white-sided dolphin. The dolphin's range is patchy, major populations occurring around South America, southwestern Africa, New Zealand, and several oceanic islands, with some sightings around southern Australia. It has a somewhat stocky body with a short beak and a curved dorsal fin and flippers. Like its closest relative, the dusky dolphin has a multi-coloured pigmentation of black, grey, and white.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/DuskyDolphin.jpg",
+  "_score": 2
+}

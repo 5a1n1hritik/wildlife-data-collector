@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-usambarae",
+  "name": "Usambara Shrew",
+  "scientificName": "Crocidura usambarae",
+  "wikibase_item": "Q306719",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306719",
+    "wikipedia": "https://en.wikipedia.org/wiki/Usambara_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Usambara shrew is a species of mammal in the family Soricidae. It is endemic to Bumbuli District of Tanga Region in Tanzania. Its natural habitat is subtropical or tropical moist montane forests of Usambara mountains.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Usambara_Shrew_area.png",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "myotis-formosus",
+  "name": "Hodgson's bat",
+  "scientificName": "Myotis formosus",
+  "wikibase_item": "Q495156",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q495156",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hodgson's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hodgson's bat, also called the copper-winged bat or black-and-orange myotis, is a species of vesper bat in the genus Myotis, the mouse-eared bats. Favouring mountain forests, it is found throughout Central, Southeast, and East Asia, from Afghanistan to Taiwan. It is about 5 centimetres (2.0 in) long and is distinguished from most other species of bat in this range by its yellowish colouration.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Myotis_formosus_flavus_D5160056.JPG",
+  "_score": 1
+}

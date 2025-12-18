@@ -1,0 +1,26 @@
+{
+  "id": "anthops-ornatus",
+  "name": "flower-faced bat",
+  "scientificName": "Anthops ornatus",
+  "wikibase_item": "Q301592",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15402216,
+      "id": "Q15402216"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301592",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flower-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The flower-faced bat is a species of bat in the family Hipposideridae. It is in the monotypic genus Anthops. It is found in the Autonomous Region of Bougainville of Papua New Guinea and in the Solomon Islands. This rare and little-known bat has been recorded from tropical moist forest and flying around village houses.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthops_ornatus.jpg",
+  "_score": 1
+}

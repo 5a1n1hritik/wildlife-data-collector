@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-hermannsburgensis",
+  "name": "Sandy Inland Mouse",
+  "scientificName": "Pseudomys hermannsburgensis",
+  "wikibase_item": "Q1764566",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764566",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandy_inland_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sandy inland mouse is a species of rodent in the family Muridae. Also known as the Hermannsburg (Mission) false-mouse or Hermannsburg mouse, it is endemic to Australia and found widely yet sparsely through arid and semi-arid areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nat_mouse_-_Christopher_Watson.jpg"
+}

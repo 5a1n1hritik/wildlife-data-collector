@@ -1,0 +1,26 @@
+{
+  "id": "fukomys-mechowii",
+  "name": "Giant mole-rat",
+  "scientificName": "Fukomys mechowii",
+  "wikibase_item": "Q308770",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308770",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_blind_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant blind mole-rat is a species of rodent in the family Spalacidae endemic to the North Caucasus region of Russia. It feeds on roots and tubers and lives underground in a burrow that it digs with its teeth.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%D0%93%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%B5%D0%BF%D1%8B%D1%88.jpg",
+  "_score": 1
+}

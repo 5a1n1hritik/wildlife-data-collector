@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-siamensis",
+  "name": "Thai horseshoe bat",
+  "scientificName": "Rhinolophus siamensis",
+  "wikibase_item": "Q2673703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2673703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thai_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Thai horseshoe bat, sometimes called the Thai leaf-nosed bat, is a species of bat from the family Rhinolophidae. It is frequently listed as a subspecies of the Big-eared horseshoe bat, but this may be a result of the two species being taken in sympatry in Laos. It is native to China, Laos, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rhinolophus_siamensis_area.png",
+  "_score": 1
+}

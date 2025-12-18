@@ -1,0 +1,26 @@
+{
+  "id": "bettongia-tropica",
+  "name": "Bettongia tropica",
+  "scientificName": "Bettongia tropica",
+  "wikibase_item": "Q209775",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 945387,
+      "id": "Q945387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209775",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_bettong"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern bettong is a small, endangered, gerbil-like mammal native to forests in northeast Australia. A member of the rat-kangaroo family (Potoroidae), it moves by hopping and lives in burrows, feeding at night on roots and fungi. It is also a marsupial and carries its young in a pouch. The northern bettong is threatened by habitat loss, and is now restricted to a few small areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bettongia_tropica_73525933.jpg",
+  "_score": 3
+}

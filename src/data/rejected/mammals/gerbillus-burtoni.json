@@ -1,0 +1,26 @@
+{
+  "id": "gerbillus-burtoni",
+  "name": "Burton's gerbil",
+  "scientificName": "Gerbillus burtoni",
+  "wikibase_item": "Q309205",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309205",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burton's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Burton's gerbil is distributed mainly in Darfur, Sudan. Less than 250 individuals of this species of rodent are thought to persist in the wild. It may have been named after Edward Burton, who had the gerbil in his menagerie, obtained from Darfur and described by Frédéric Cuvier.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gerbillus_burtoni.jpg",
+  "_score": 1
+}

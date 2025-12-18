@@ -1,0 +1,26 @@
+{
+  "id": "lasiurus-xanthinus",
+  "name": "Western Yellow Bat",
+  "scientificName": "Lasiurus xanthinus",
+  "wikibase_item": "Q606219",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19713822,
+      "id": "Q19713822"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q606219",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western yellow bat is a species of vesper bat found in Mexico and the southwestern United States. This species roosts in trees such as Populus fremontii, Platanus wrightii, and Quercus arizonica. If available, the western yellow bat will use the dead fronds that encircle palm trees as a roosting site.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lasiurus_xanthinus.jpg",
+  "_score": 1
+}

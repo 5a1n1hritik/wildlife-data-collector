@@ -1,0 +1,26 @@
+{
+  "id": "eptesicus-taddeii",
+  "name": "Eptesicus taddeii",
+  "scientificName": "Eptesicus taddeii",
+  "wikibase_item": "Q626683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626683",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taddei's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Taddei's serotine is a species of medium-sized bat belonging to the family Vespertilionidae. It is restricted to the Atlantic Forest of southern Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Eptesicus_taddeii_%2810.3897-zoologia.37.e36514%29_Figures_32%E2%80%9341_%28cropped%29.jpg",
+  "_score": 1
+}

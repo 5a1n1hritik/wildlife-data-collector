@@ -1,0 +1,26 @@
+{
+  "id": "phoca-hispida",
+  "name": "Phoca hispida",
+  "scientificName": "Phoca hispida",
+  "wikibase_item": "Q23009697",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 878742,
+      "id": "Q878742"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23009697",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringed_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ringed seal is a small earless seal species found in Arctic and sub-Arctic regions. Its common name is derived from a distinctive patterning of dark spots surrounded by light gray rings.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pusa_hispida_hispida_NOAA_1.jpg",
+  "_score": 1
+}

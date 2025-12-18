@@ -1,0 +1,26 @@
+{
+  "id": "bradypus-didactylus",
+  "name": "Bradypus didactylus",
+  "scientificName": "Bradypus didactylus",
+  "wikibase_item": "Q122169657",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185167,
+      "id": "Q185167"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122169657",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linnaeus's_two-toed_sloth"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Linnaeus's two-toed sloth, also known as the southern two-toed sloth, unau, or Linne's two-toed sloth is a species of sloth from South America, found in Venezuela, Suriname, Guyana, French Guiana, Colombia, Ecuador, Peru, and Brazil north of the Amazon River. There is now evidence suggesting the species' range expands into Bolivia. It's the largest extant sloth species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cholepus_didactylus_-_Flickr_-_Dick_Culbert.jpg",
+  "_score": 1
+}

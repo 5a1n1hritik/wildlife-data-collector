@@ -1,0 +1,26 @@
+{
+  "id": "paynomys-macronyx",
+  "name": "Paynomys macronyx",
+  "scientificName": "Paynomys macronyx",
+  "wikibase_item": "Q125904670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125904698,
+      "id": "Q125904698"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125904670"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "peropteryx-macrotis",
+  "name": "lesser dog-like bat",
+  "scientificName": "Peropteryx macrotis",
+  "wikibase_item": "Q338980",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11941294,
+      "id": "Q11941294"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q338980",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_dog-like_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser dog-like bat, also known as Peters' sac-winged bat, is a species of bat from South and Central America. First described in 1826, it was renamed in 1843 because the original scientific name was already in use for another species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lesser_Dog-like_Bat_imported_from_iNaturalist_photo_129124225_on_2_December_2024.jpg"
+}

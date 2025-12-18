@@ -1,0 +1,26 @@
+{
+  "id": "hylaeamys-acritus",
+  "name": "Hylaeamys acritus",
+  "scientificName": "Hylaeamys acritus",
+  "wikibase_item": "Q2742004",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 655208,
+      "id": "Q655208"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2742004",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hylaeamys_acritus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hylaeamys acritus, formerly Oryzomys acritus, is an oryzomyine rodent of the family Cricetidae. The name is derived from the Greek word ακριτος 'confused, doubtful', because it could easily be confused with species such as H. megacephalus and Euryoryzomys nitidus. It is known only from northeastern Bolivia; its type locality is within Noel Kempff Mercado National Park. The rodent is terrestrial and is found in moist lowland semideciduous forest and savanna. It has olive brown coloration on its back; the cheeks and flanks are amber, and the top of the head is dark. The coat is 9 mm long at the center of the torso. Chest fur between the front legs is thick and 3 to 4 mm long. Abdominal hairs are gray at the base and white at the top.",
+  "image": null,
+  "_score": 2
+}

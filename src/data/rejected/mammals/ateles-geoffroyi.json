@@ -1,0 +1,26 @@
+{
+  "id": "ateles-geoffroyi",
+  "name": "Geoffroy's spider monkey",
+  "scientificName": "Ateles geoffroyi",
+  "wikibase_item": "Q388032",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q388032",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffroy's_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Geoffroy's spider monkey, also known as the black-handed spider monkey or the Central American spider monkey, is a species of spider monkey, a type of New World monkey, from Central America, parts of Mexico and possibly a small portion of Colombia. There are at least five subspecies. Some primatologists classify the black-headed spider monkey (A. fusciceps), found in Panama, Colombia, and Ecuador as the same species as Geoffroy's spider monkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Geoffroy%27s_spider_monkey_%28Ateles_geoffroyi_yucatanensis%29_male_Peten.jpg",
+  "_score": 2
+}

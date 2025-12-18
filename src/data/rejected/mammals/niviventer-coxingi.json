@@ -1,0 +1,26 @@
+{
+  "id": "niviventer-coxingi",
+  "name": "Niviventer coxingi",
+  "scientificName": "Niviventer coxingi",
+  "wikibase_item": "Q10898758",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10898758",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coxing's_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Coxing's white-bellied rat, also known as the spiny Taiwan niviventer, is a species of rodent in the family Muridae. The species was first described by Robert Swinhoe in 1864 and is endemic to Taiwan. It occurs in broad-leaf forests and their edges and in scrub. It is more common at elevations below 1,300 m (4,300 ft) but can be found up to 2,000 m (6,600 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Niviventer_coxingi.jpg",
+  "_score": 1
+}

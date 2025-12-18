@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-caracolus",
+  "name": "Oryzomys caracolus",
+  "scientificName": "Oryzomys caracolus",
+  "wikibase_item": "Q27442436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27442436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_caracolus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys caracolus, also known as the Costa Central oryzomys or caracol rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. It is found in cloud forest in the Cordillera de la Costa Central of Aragua, Miranda, and the Distrito Federal in north-central Venezuela at elevations from 1000 to 2500 m. It is nocturnal and terrestrial, and has a varied diet. In most Nephelomys species, the posterolateral palatal pits, perforations of the palate near the third molar, are conspicuous and receded into a fossa, but in N. caracolus and the Ecuadorian species N. nimbosus, the pits are much smaller.",
+  "image": null,
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "elephantulus-myurus",
+  "name": "Eastern rock elephant shrew",
+  "scientificName": "Elephantulus myurus",
+  "wikibase_item": "Q1768481",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768481",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_rock_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern rock elephant shrew or eastern rock sengi is a species of elephant shrew in the family Macroscelididae. It is found in Botswana, Mozambique, South Africa, and Zimbabwe. Its natural habitats are subtropical or tropical dry lowland grassland and rocky areas. Their foraging habitat mainly consists of rocky areas, and they prefer to eat insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Eastern_Rock_Elephant_Shrew.jpg",
+  "_score": 2
+}

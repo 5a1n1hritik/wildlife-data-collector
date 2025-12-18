@@ -1,0 +1,28 @@
+{
+  "id": "octomys-mimax",
+  "name": "Viscacha rat",
+  "scientificName": "Octomys mimax",
+  "wikibase_item": "Q631698",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12264988,
+      "id": "Q12264988"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q631698",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viscacha_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Viscacha rats are a group of rodents in the family Octodontidae. All species are found in Argentina. They are placed in the following genera:Genus Octomys\nO. mimax , mountain viscacha rat, found in the Andes\nGenus Pipanacoctomys\nP. aureus, the golden viscacha rat, found near a salt flat\nGenus Tympanoctomys, found in desert shrubland near salt flats\nT. barrerae, the plains viscacha rat\nT. kirchnerorum, Kirchner's viscacha rat,\nT. loschalchalerosorum, the Chalchalero viscacha rat\n†T. cordubensis\n\n",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

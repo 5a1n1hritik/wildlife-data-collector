@@ -1,0 +1,26 @@
+{
+  "id": "histiotus-colombiae",
+  "name": "Histiotus colombiae",
+  "scientificName": "Histiotus colombiae",
+  "wikibase_item": "Q106314761",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225886,
+      "id": "Q225886"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106314761"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

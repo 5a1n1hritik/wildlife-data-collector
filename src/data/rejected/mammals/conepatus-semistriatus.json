@@ -1,0 +1,26 @@
+{
+  "id": "conepatus-semistriatus",
+  "name": "Conepatus semistriatus",
+  "scientificName": "Conepatus semistriatus",
+  "wikibase_item": "Q688635",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1145450,
+      "id": "Q1145450"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q688635",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_hog-nosed_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped hog-nosed skunk is a skunk species that is found in Central and South America. It is distributed from southern Mexico to northern Peru, and in a pocket in the extreme east of Brazil. They live in a wide range of habitats such as dry forests, orchards, and occasionally in rainforests. It is classified as least concern in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Conepatus_semistriatus_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02689.JPG",
+  "_score": 2
+}

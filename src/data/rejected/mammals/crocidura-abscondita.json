@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-abscondita",
+  "name": "Crocidura abscondita",
+  "scientificName": "Crocidura absconditus",
+  "wikibase_item": "Q21253879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21253879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_hidden_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan hidden shrew or Javan long-tailed shrew is a species of mammal in the family Soricidae. It is endemic to the island of Java in Indonesia.",
+  "image": null,
+  "_score": 0
+}

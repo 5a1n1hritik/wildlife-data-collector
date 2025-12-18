@@ -1,0 +1,26 @@
+{
+  "id": "mustela-erminea",
+  "name": "Mustela erminea",
+  "scientificName": "Mustela erminea",
+  "wikibase_item": "Q25345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25345",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stoat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The stoat, also known as the Eurasian ermine or ermine, is a species of mustelid native to Eurasia and the northern regions of North America. Because of its wide circumpolar distribution, it is listed as Least Concern on the IUCN Red List. The name ermine is used especially in its pure white winter coat of the stoat or its fur. Ermine fur was used in the 15th century by Catholic monarchs, who sometimes used it as the mozzetta cape. It has long been used on the ceremonial robes of members of the United Kingdom House of Lords. It was also used in capes on images such as the Infant Jesus of Prague.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/R%C3%B8yskatt_%28Mustela_erminea_erminea%29%2C_Lista%2C_Norway.jpg",
+  "_score": 2
+}

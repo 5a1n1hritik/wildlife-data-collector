@@ -1,0 +1,26 @@
+{
+  "id": "hyperacrius-wynnei",
+  "name": "Murree Vole",
+  "scientificName": "Hyperacrius wynnei",
+  "wikibase_item": "Q306732",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 847189,
+      "id": "Q847189"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306732",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murree_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Murree vole is a species of rodent in the family Cricetidae. It is endemic to the Himalayas in Pakistan and India. It was named by William Thomas Blanford after its collector, geologist Arthur Beavor Wynne.",
+  "image": null,
+  "_score": 0
+}

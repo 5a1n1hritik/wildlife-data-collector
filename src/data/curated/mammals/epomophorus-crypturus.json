@@ -1,0 +1,25 @@
+{
+  "id": "epomophorus-crypturus",
+  "name": "Peters's Epauletted Fruit Bat",
+  "scientificName": "Epomophorus crypturus",
+  "wikibase_item": "Q1762005",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135238,
+      "id": "Q135238"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_epauletted_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peters's epauletted fruit bat is a species of megabat in the family Pteropodidae. It is found in Angola, Botswana, Democratic Republic of the Congo, Eswatini, Malawi, Mozambique, Namibia, Tanzania, Zambia, and Zimbabwe. Its natural habitat is in riverine or evergreen forest, or moist woodland, where there are fruit-bearing trees.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Epauletted_Fruit_Bat_%28Epomophorus_wahlbergi_or_crypturus%29_%286042096470%29.jpg"
+}

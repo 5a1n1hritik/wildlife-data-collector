@@ -1,0 +1,25 @@
+{
+  "id": "cuniculus-hernandezi",
+  "name": "Cuniculus hernandezi",
+  "scientificName": "Cuniculus hernandezi",
+  "wikibase_item": "Q18387902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 202697,
+      "id": "Q202697"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18387902",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_paca"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain paca is a small burrow-dwelling rodent whose habitats are high altitude South American forests. Pacas are nocturnal, sedentary, and solitary animals with territorial tendencies. It eats mostly fruits and seeds. The mountain paca primarily inhabits higher Andean montane forest regions in Venezuela, Colombia, Ecuador, Peru and Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cuniculus_taczanowskii.jpg"
+}

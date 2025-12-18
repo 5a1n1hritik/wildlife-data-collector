@@ -1,0 +1,25 @@
+{
+  "id": "castor-canadensis",
+  "name": "Canadian beaver",
+  "scientificName": "Castor canadensis",
+  "wikibase_item": "Q81056",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 47542,
+      "id": "Q47542"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81056",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_American_beaver"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North American beaver is one of two extant beaver species, along with the Eurasian beaver. It is native to North America and has been introduced in South America (Patagonia) and Europe. The North American beaver is one of the national symbols of Canada and the official state mammal of Oregon and New York. North American (Canadian) beavers are widespread across the continental United States, Canada, southern Alaska, and some parts of northern Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg"
+}

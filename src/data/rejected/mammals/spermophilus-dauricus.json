@@ -1,0 +1,26 @@
+{
+  "id": "spermophilus-dauricus",
+  "name": "Daurian ground squirrel",
+  "scientificName": "Spermophilus dauricus",
+  "wikibase_item": "Q1768705",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768705",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daurian_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Daurian ground squirrel is a species of rodent in the family Sciuridae. It is found in China, Mongolia, and Russia.",
+  "image": null,
+  "_score": 0
+}

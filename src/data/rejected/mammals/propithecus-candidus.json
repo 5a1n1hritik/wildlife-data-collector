@@ -1,0 +1,26 @@
+{
+  "id": "propithecus-candidus",
+  "name": "Silky sifaka",
+  "scientificName": "Propithecus candidus",
+  "wikibase_item": "Q763853",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q763853",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silky_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silky sifaka is a large lemur characterized by long, silky, white fur. It has a very restricted range in northeastern Madagascar, where it is known locally as the simpona. It is one of the rarest mammals on Earth. The silky sifaka is one of nine sifaka species, and one of four former subspecies of diademed sifaka (P. diadema). Studies in 2004 and 2007 compared external proportions, genetics, and craniodental anatomy supporting full species status, which has generally been accepted.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Propithecus_candidus_001.jpg",
+  "_score": 2
+}

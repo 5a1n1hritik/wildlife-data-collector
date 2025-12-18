@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-dracula",
+  "name": "Crocidura dracula",
+  "scientificName": "Crocidura dracula",
+  "wikibase_item": "Q41082398",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dracula_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dracula shrew, also known as the large white-toothed shrew, is a species of mammal in the family Soricidae. It is found in Vietnam, Laos, and adjacent southern China, with possible range extension into Cambodia east of the Mekong River. Because it is so visually similar to the Southeast Asian shrew, it has historically been considered part of the same species complex and the range delineation between the two species is still being resolved. Recent genetic evidence strongly supports that the Dracula shrew is in fact a uniquely diverged species.",
+  "image": null,
+  "_score": 1
+}

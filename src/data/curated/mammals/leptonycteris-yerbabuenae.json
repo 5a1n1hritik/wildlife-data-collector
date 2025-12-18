@@ -1,0 +1,25 @@
+{
+  "id": "leptonycteris-yerbabuenae",
+  "name": "Lesser long-nosed bat",
+  "scientificName": "Leptonycteris yerbabuenae",
+  "wikibase_item": "Q730486",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2636803,
+      "id": "Q2636803"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q730486",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_long-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser long-nosed bat is a medium-sized bat found in Central and North America. It is sometimes known as Sanborn's long-nosed bat or the Mexican long-nosed bat, though the latter name is better avoided since it is also used for the entire genus Leptonycteris and for one of the other species in it, the greater long-nosed bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Leptonycteris_yerbabuenae_5502051.jpg"
+}

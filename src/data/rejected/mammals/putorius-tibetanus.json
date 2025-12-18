@@ -1,0 +1,26 @@
+{
+  "id": "putorius-tibetanus",
+  "name": "Putorius tibetanus",
+  "scientificName": "Putorius tibetanus",
+  "wikibase_item": "Q41167633",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157735,
+      "id": "Q41157735"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167633"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

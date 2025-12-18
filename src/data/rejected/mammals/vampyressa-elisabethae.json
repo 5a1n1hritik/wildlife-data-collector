@@ -1,0 +1,26 @@
+{
+  "id": "vampyressa-elisabethae",
+  "name": "Vampyressa elisabethae",
+  "scientificName": "Vampyressa elisabethae",
+  "wikibase_item": "Q18420678",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703837,
+      "id": "Q2703837"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18420678",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalko's_yellow-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kalko's yellow-eared bat is a species of bat in the family Phyllostomidae. It is found in northern Panama.",
+  "image": null,
+  "_score": 0
+}

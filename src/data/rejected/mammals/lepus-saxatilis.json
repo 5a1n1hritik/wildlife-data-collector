@@ -1,0 +1,26 @@
+{
+  "id": "lepus-saxatilis",
+  "name": "Lepus saxatilis",
+  "scientificName": "Lepus saxatilis",
+  "wikibase_item": "Q1017365",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1017365",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_scrub_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape scrub hare is a species of hare found in South Africa and Namibia. Although it is listed as a least concern species, the population has been declining and is expected to decline by 20% over the next 100 years, according to a 2004 report.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Scrub_Hare_%28Lepus_saxatilis%29_close-up_%2830544290256%29_%282%29.jpg/3648px-Scrub_Hare_%28Lepus_saxatilis%29_close-up_%2830544290256%29_%282%29.jpg",
+  "_score": 1
+}

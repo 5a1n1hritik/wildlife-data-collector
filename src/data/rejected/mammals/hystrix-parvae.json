@@ -1,0 +1,26 @@
+{
+  "id": "hystrix-parvae",
+  "name": "Hystrix parvae",
+  "scientificName": "Hystrix parvae",
+  "wikibase_item": "Q125026569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650703,
+      "id": "Q650703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125026569"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

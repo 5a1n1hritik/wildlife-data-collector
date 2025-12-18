@@ -1,0 +1,26 @@
+{
+  "id": "cnephaeus-hottentotus",
+  "name": "Cnephaeus hottentotus",
+  "scientificName": "Cnephaeus hottentotus",
+  "wikibase_item": "Q125880621",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125207648,
+      "id": "Q125207648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125880621",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_house_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed house bat or long-tailed serotine bat is a species of vesper bat found in Kenya, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia, and Zimbabwe. It is found in savanna, subtropical or tropical dry shrubland, Mediterranean-type shrubby vegetation, rocky areas, and caves.",
+  "image": null,
+  "_score": 0
+}

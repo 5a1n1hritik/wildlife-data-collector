@@ -1,0 +1,26 @@
+{
+  "id": "vampyressa-bidens",
+  "name": "Vampyressa bidens",
+  "scientificName": "Vampyressa bidens",
+  "wikibase_item": "Q1829994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703837,
+      "id": "Q2703837"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829994",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bidentate_yellow-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bidentate yellow-eared bat is a species of bat in the family Phyllostomidae, native to South America. Formerly classified in the Vampyressa genus, phylogenetic analyses support its inclusion in Vampyriscus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vampyriscus_bidens_438610107.jpg",
+  "_score": 1
+}

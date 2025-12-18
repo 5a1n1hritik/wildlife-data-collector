@@ -1,0 +1,26 @@
+{
+  "id": "eonycteris-major",
+  "name": "Eonycteris major",
+  "scientificName": "Eonycteris major",
+  "wikibase_item": "Q304951",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 890680,
+      "id": "Q890680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304951",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater nectar bat or greater dawn bat is a species of megabat within the genus Eonycteris. It is found in Brunei, Indonesia, Malaysia, and the Philippines. Its range is limited and includes Luzon to Maripipi in the Philippines and scattered parts of Borneo including Tuaran and Ranau in Sabah; Bau, Kuching and Bintulu in Sarawak.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Greater_Nectar_Bat_area.png",
+  "_score": 1
+}

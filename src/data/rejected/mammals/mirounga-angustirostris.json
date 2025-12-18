@@ -1,0 +1,26 @@
+{
+  "id": "mirounga-angustirostris",
+  "name": "northern elephant seal",
+  "scientificName": "Mirounga angustirostris",
+  "wikibase_item": "Q626023",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185231,
+      "id": "Q185231"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626023",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_elephant_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern elephant seal or northern sea elephant, is one of two species of elephant seal. It is a member of the family Phocidae. Elephant seals derive their name from their great size and from the male's large proboscis, which is used in making extraordinarily loud roaring noises, especially during the mating competition. Sexual dimorphism in size is great. Correspondingly, the mating system is highly polygynous; a successful male is able to impregnate up to 50 females in one season.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mating_scene_with_elevated_Alpha_Male._Elephant_Seals_of_Piedras_Blancas.jpg",
+  "_score": 2
+}

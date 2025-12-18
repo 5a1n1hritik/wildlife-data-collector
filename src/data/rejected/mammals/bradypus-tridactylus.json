@@ -1,0 +1,26 @@
+{
+  "id": "bradypus-tridactylus",
+  "name": "Pale-throated Three-toed Sloth",
+  "scientificName": "Bradypus tridactylus",
+  "wikibase_item": "Q142715",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185167,
+      "id": "Q185167"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q142715",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale-throated_sloth"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale-throated sloth, occasionally known as the ai, is a species of three-toed sloth that inhabits tropical rainforests in northern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bradypus_tridactylus_-Parque_del_Este%2C_Caracas%2C_Venezuela-8_%282%29.jpg",
+  "_score": 1
+}

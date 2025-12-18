@@ -1,0 +1,26 @@
+{
+  "id": "camelus-sp.",
+  "name": "Camelus sp.",
+  "scientificName": "Camelus sp.",
+  "wikibase_item": "Q40329432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7375,
+      "id": "Q7375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40329432"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

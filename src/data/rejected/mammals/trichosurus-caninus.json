@@ -1,0 +1,26 @@
+{
+  "id": "trichosurus-caninus",
+  "name": "short-eared possum",
+  "scientificName": "Trichosurus caninus",
+  "wikibase_item": "Q209519",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656173,
+      "id": "Q656173"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209519",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-eared_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-eared possum is a species of marsupial in the family Phalangeridae, endemic to Australia. Found north of Sydney, New South Wales, on Australia's eastern coast, the species was once classed under the mountain brushtail possum, its closest relative.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Trichosurus_caninus_Gould.jpg",
+  "_score": 1
+}

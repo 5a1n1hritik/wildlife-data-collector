@@ -1,0 +1,26 @@
+{
+  "id": "salanoia-concolor",
+  "name": "brown-tailed mongoose",
+  "scientificName": "Salanoia concolor",
+  "wikibase_item": "Q790653",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258485,
+      "id": "Q258485"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q790653",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown-tailed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown-tailed mongoose, brown-tailed vontsira, Malagasy brown-tailed mongoose, or salano is a species of mammal in the family Eupleridae. It is endemic to Madagascar. Its natural habitat is moist lowland tropical forest. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Galidia_olivacea_Geoffroy.png",
+  "_score": 3
+}

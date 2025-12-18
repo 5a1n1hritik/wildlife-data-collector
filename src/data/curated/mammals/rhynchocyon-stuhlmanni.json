@@ -1,0 +1,25 @@
+{
+  "id": "rhynchocyon-stuhlmanni",
+  "name": "Rhynchocyon stuhlmanni",
+  "scientificName": "Rhynchocyon stuhlmanni",
+  "wikibase_item": "Q37816398",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q37816398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stuhlmann's_sengi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Stuhlmann's sengi or white-tailed sengi is a species of elephant shrew that lives in the forests and savannas of Africa. It was discovered in 1893 and declared a new species. In the 1960s, however, it was downgraded to a subspecies of checkered sengi. In 2018, following genetic tests, scientists re-evaluated the mammal as a full species again.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/The_Congo_Expedition_of_the_American_Museum_of_Natural_History_%281919%29_%2820687278031%29.jpg"
+}

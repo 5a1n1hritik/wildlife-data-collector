@@ -1,0 +1,26 @@
+{
+  "id": "myosorex-schalleri",
+  "name": "Schaller's Mouse Shrew",
+  "scientificName": "Myosorex schalleri",
+  "wikibase_item": "Q1765199",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765199",
+    "wikipedia": "https://en.wikipedia.org/wiki/Schaller's_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Schaller's mouse shrew is a species of mammal in the family Soricidae endemic to the Democratic Republic of Congo. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Schaller%27s_Mouse_Shrew_area.png",
+  "_score": 2
+}

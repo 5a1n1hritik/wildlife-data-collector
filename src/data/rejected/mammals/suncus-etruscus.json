@@ -1,0 +1,26 @@
+{
+  "id": "suncus-etruscus",
+  "name": "Etruscan shrew",
+  "scientificName": "Suncus etruscus",
+  "wikibase_item": "Q369889",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q369889",
+    "wikipedia": "https://en.wikipedia.org/wiki/Etruscan_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Etruscan shrew, also known as the Etruscan pygmy shrew, white-toothed pygmy shrew and Savi's pygmy shrew, is the smallest known extant mammal by mass, weighing only about 1.8 g (0.063 oz) on average - as much as a paperclip.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Suncus_etruscus.jpg",
+  "_score": 1
+}

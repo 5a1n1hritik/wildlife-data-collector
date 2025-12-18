@@ -1,0 +1,28 @@
+{
+  "id": "nurocyon-chonokhariensis",
+  "name": "Nurocyon chonokhariensis",
+  "scientificName": "Nurocyon chonokhariensis",
+  "wikibase_item": "Q3879909",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16947997,
+      "id": "Q16947997"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3879909",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nurocyon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nurocyon is an extinct member of the dog family (Canidae) from the Pliocene of Mongolia. Nurocyon chonokhariensis is the only species in the genus. The teeth of Nurocyon show adaptations to an omnivorous diet, comparable to the living raccoon dog. The overall structure of the skull is similar to the more primitive Eucyon.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

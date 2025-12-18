@@ -1,0 +1,26 @@
+{
+  "id": "pteropus-poliocephalus",
+  "name": "Pteropus poliocephalus",
+  "scientificName": "Pteropus poliocephalus",
+  "wikibase_item": "Q551930",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q551930",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey-headed_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grey-headed flying fox is a megabat native to Australia. The species shares mainland Australia with three other members of the genus Pteropus: the little red P. scapulatus, spectacled P. conspicillatus, and the black P. alecto. The grey-headed flying fox is the largest bat in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Grey_headed_flying_fox_-_Mating_behaviour_-_AndrewMercer_-_DSC11277_-_crop.jpg",
+  "_score": 1
+}

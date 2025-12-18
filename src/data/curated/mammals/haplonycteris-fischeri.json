@@ -1,0 +1,25 @@
+{
+  "id": "haplonycteris-fischeri",
+  "name": "Fischer's pygmy fruit bat",
+  "scientificName": "Haplonycteris fischeri",
+  "wikibase_item": "Q301117",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10765554,
+      "id": "Q10765554"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301117",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fischer's_pygmy_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Fischer's pygmy fruit bat or Philippine pygmy fruit bat is a species of megabat in the family Pteropodidae. It is monotypic within the genus Haplonycteris. It is endemic to the Philippines. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Haplonycteris_fischeri.jpg"
+}

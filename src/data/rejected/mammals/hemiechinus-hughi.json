@@ -1,0 +1,26 @@
+{
+  "id": "hemiechinus-hughi",
+  "name": "Hemiechinus hughi",
+  "scientificName": "Hemiechinus hughi",
+  "wikibase_item": "Q11106645",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1482566,
+      "id": "Q1482566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11106645"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

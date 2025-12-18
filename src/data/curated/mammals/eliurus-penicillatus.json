@@ -1,0 +1,25 @@
+{
+  "id": "eliurus-penicillatus",
+  "name": "White-tipped tufted-tailed rat",
+  "scientificName": "Eliurus penicillatus",
+  "wikibase_item": "Q307055",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307055",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-tipped_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-tipped tufted-tailed rat is a rodent endemic to Madagascar. It is known from only two specimens, one collected from Ampitambe forest in 1895 or 1896 and the second in 2000. It is listed by the International Union for Conservation of Nature (IUCN) as an endangered species due to habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eliurus_penicillatus_range_map.svg/2324px-Eliurus_penicillatus_range_map.svg.png"
+}

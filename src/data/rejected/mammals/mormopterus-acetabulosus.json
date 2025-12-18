@@ -1,0 +1,26 @@
+{
+  "id": "mormopterus-acetabulosus",
+  "name": "Natal Free-Tailed Bat",
+  "scientificName": "Mormopterus acetabulosus",
+  "wikibase_item": "Q741241",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q741241",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natal_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Natal free-tailed bat is a species of bat in the family Molossidae, the free-tailed bats. It is endemic to the island of Mauritius. It is known from fewer than five locations in its range, but it is common at a few sites. It roosts in caves, and it is considered to be an endangered species due to disturbance of its cave habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mormopterus_acetabulosus_type_illustration.jpg",
+  "_score": 2
+}

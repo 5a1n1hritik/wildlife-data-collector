@@ -1,0 +1,26 @@
+{
+  "id": "euoticus-pallidus",
+  "name": "Northern needle-clawed bushbaby",
+  "scientificName": "Euoticus pallidus",
+  "wikibase_item": "Q1206148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1193762,
+      "id": "Q1193762"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1206148",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_needle-clawed_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern needle-clawed bushbaby is a species of strepsirrhine primate in the family Galagidae. It is found in the coastal region of Cameroon and Nigeria, and on the island of Bioko, Equatorial Guinea in lower-elevation forests that provide its specialized diet of tree gum and resins.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/OtogalePallidaWolf.jpg",
+  "_score": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": "oryzomys-bolivaris",
+  "name": "Oryzomys bolivaris",
+  "scientificName": "Oryzomys bolivaris",
+  "wikibase_item": "Q27335672",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27335672",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transandinomys_bolivaris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Transandinomys bolivaris, also known as the long-whiskered rice rat, is a rodent in the family Cricetidae. It is found in humid forest from northeastern Honduras to western Ecuador, up to 1,800 m (5,900 ft) above sea level. Since it was first described in 1901 from Ecuador, six scientific names have been introduced for it, but their common identity was not documented until 1998 and the species has long been known under the name Oryzomys bombycinus, described from Panama in 1912. The name Oryzomys bolivaris was used before it was moved to the new genus Transandinomys with Transandinomys talamancae in 2006.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Oryzomys_bombycinus_bombycinus_dorsal.png",
+  "_score": 2
+}

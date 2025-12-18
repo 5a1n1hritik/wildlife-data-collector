@@ -1,0 +1,26 @@
+{
+  "id": "potorous-gilbertii",
+  "name": "Potorous gilbertii",
+  "scientificName": "Potorous gilbertii",
+  "wikibase_item": "Q210073",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475146,
+      "id": "Q1475146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210073",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert's_potoroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gilbert's potoroo or ngilkat is Australia's most endangered marsupial, the rarest marsupial in the world, and one of the world's rarest critically endangered mammals, found in south-western Western Australia. It is a small nocturnal macropod that lives in small groups.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/GilbertsPotoroo.JPG",
+  "_score": 1
+}

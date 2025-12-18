@@ -1,0 +1,26 @@
+{
+  "id": "cynogale-lowei",
+  "name": "Cynogale lowei",
+  "scientificName": "Cynogale lowei",
+  "wikibase_item": "Q6652290",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817078,
+      "id": "Q19817078"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6652290",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otter_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The otter civet is a semiaquatic viverrid native to Thailand, Malaysia, Indonesia and Brunei. It is believed to be undergoing severe population decline due to habitat destruction and is classified as an endangered species by the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Stavenn_Otter_Civet_%28Cynogale_bennettii%29.jpg",
+  "_score": 2
+}

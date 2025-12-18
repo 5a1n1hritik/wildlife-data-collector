@@ -1,0 +1,26 @@
+{
+  "id": "neomys-fodiens",
+  "name": "Eurasian water shrew",
+  "scientificName": "Neomys fodiens",
+  "wikibase_item": "Q465986",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1352331,
+      "id": "Q1352331"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q465986",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eurasian_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eurasian water shrew, known in the United Kingdom as the water shrew, is a relatively large shrew, up to 10 cm (4 in) long, with a tail up to three-quarters as long again. It has short, dark fur, often with a few white tufts, a white belly, and a few stiff hairs around the feet and tail. It lives close to fresh water, hunting aquatic prey in the water and nearby. Its fur traps bubbles of air in the water which greatly aids its buoyancy, but requires it to anchor itself to remain underwater for more than the briefest of dives.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Neomys_fodiens_%28Varsinais-Suomi%2C_Finland%29_1_%28cropped%29.jpg",
+  "_score": 2
+}

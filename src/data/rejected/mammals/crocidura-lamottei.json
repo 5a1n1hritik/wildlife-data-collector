@@ -1,0 +1,26 @@
+{
+  "id": "crocidura-lamottei",
+  "name": "Lamotte's Shrew",
+  "scientificName": "Crocidura lamottei",
+  "wikibase_item": "Q1768865",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768865",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamotte's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lamotte's shrew is a species of mammal in the family Soricidae. It is found in Benin, Burkina Faso, Cameroon, Ivory Coast, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Nigeria, Senegal, Sierra Leone, and Togo. Its natural habitat is primarily savanna, though it may also be found in mixed forest and savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lamotte%27s_Shrew_area.png",
+  "_score": 2
+}

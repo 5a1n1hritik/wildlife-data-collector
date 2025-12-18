@@ -1,0 +1,26 @@
+{
+  "id": "cavia-tschudii",
+  "name": "Cavia tschudii",
+  "scientificName": "Cavia tschudii",
+  "wikibase_item": "Q162203",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q162203",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_guinea_pig"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane guinea pig is a species of caviid rodent found in the Andes in South America. The montane guinea pig is the likely main ancestor of Cavia porcellus, the domestic guinea pig or domestic cavy, which appears to be a hybrid that includes lesser genetic contributions from other Cavia species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cavia_tschudii_104314763_%28cropped%29.jpg",
+  "_score": 1
+}

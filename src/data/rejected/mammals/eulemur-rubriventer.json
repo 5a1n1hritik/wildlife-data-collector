@@ -1,0 +1,26 @@
+{
+  "id": "eulemur-rubriventer",
+  "name": "Eulemur rubriventer",
+  "scientificName": "Eulemur rubriventer",
+  "wikibase_item": "Q845974",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q845974",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-bellied_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-bellied lemur is a medium-sized strepsirrhine primate with a luxuriant chestnut brown coat. This lemur is endemic to eastern Madagascan rainforests and is distinguished by patches of white skin below the eyes, giving rise to a \"teardrop\" effect, particularly conspicuous in the male.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Eulemur_rubriventer_001.jpg",
+  "_score": 1
+}

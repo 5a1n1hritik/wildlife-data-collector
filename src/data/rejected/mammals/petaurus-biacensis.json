@@ -1,0 +1,26 @@
+{
+  "id": "petaurus-biacensis",
+  "name": "Petaurus biacensis",
+  "scientificName": "Petaurus biacensis",
+  "wikibase_item": "Q209820",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209820",
+    "wikipedia": "https://en.wikipedia.org/wiki/Biak_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Biak glider is a species of marsupial in the family Petauridae. It is endemic to the Schouten Islands in the western region of Papua Province, Indonesia. It was formerly considered to be a subspecies of Petaurus breviceps ; there is still uncertainty regarding its status as a distinct species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Biak_Glider_area.png",
+  "_score": 1
+}

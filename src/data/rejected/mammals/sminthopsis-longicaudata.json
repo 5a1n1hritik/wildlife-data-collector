@@ -1,0 +1,26 @@
+{
+  "id": "sminthopsis-longicaudata",
+  "name": "Sminthopsis longicaudata",
+  "scientificName": "Sminthopsis longicaudata",
+  "wikibase_item": "Q194127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194127",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed dunnart is an Australian dunnart that, like the little long-tailed dunnart, has a tail longer than its body. It is also one of the larger dunnarts at a length from snout to tail of 260–306 mm (10.2–12.0 in) of which head to anus is 80–96 mm (3.1–3.8 in) and tail 180–210 mm (7.1–8.3 in) long. Hind foot size is 18 mm (0.71 in), ear length of 21 mm (0.83 in) and with a weight of 15–20 g (0.53–0.71 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sminthopsis_longicaudata.jpg",
+  "_score": 2
+}

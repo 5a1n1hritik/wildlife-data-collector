@@ -1,0 +1,26 @@
+{
+  "id": "emballonura-atrata",
+  "name": "Peters's sheath-tailed bat",
+  "scientificName": "Emballonura atrata",
+  "wikibase_item": "Q305551",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15286375,
+      "id": "Q15286375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305551",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's sheath-tailed bat is a species of sac-winged bat in the family Emballonuridae. It is found only in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Paremballonura_atrata.jpg",
+  "_score": 1
+}

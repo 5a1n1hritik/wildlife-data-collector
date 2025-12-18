@@ -1,0 +1,26 @@
+{
+  "id": "tamias-quadrimaculatus",
+  "name": "Tamias quadrimaculatus",
+  "scientificName": "Tamias quadrimaculatus",
+  "wikibase_item": "Q1761298",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761298",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-eared_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-eared chipmunk, also called the Sacramento chipmunk or the four-banded chipmunk, is a species of rodent in the squirrel family, Sciuridae. It is endemic to the central and northern Sierra Nevada of California and Nevada in the United States. Long-eared chipmunks have the longest ears of all species of chipmunks.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Long-eared_Chipmunk.jpg",
+  "_score": 1
+}

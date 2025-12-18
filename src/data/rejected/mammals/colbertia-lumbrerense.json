@@ -1,0 +1,26 @@
+{
+  "id": "colbertia-lumbrerense",
+  "name": "Colbertia lumbrerense",
+  "scientificName": "Colbertia lumbrerense",
+  "wikibase_item": "Q122812791",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16550186,
+      "id": "Q16550186"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122812791"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "oryzomys-chapmani",
+  "name": "Oryzomys chapmani",
+  "scientificName": "Oryzomys chapmani",
+  "wikibase_item": "Q27335752",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27335752",
+    "wikipedia": "https://en.wikipedia.org/wiki/Handleyomys_chapmani"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Handleyomys chapmani, also known as Chapman's oryzomys or Chapman's rice rat, is a species of rodent in the genus Handleyomys of family Cricetidae. It is found only in Mexico. It was previously placed in Oryzomys as Oryzomys chapmani, but has been provisionally transferred to the genus Handleyomys pending the description of a new genus to contain it.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Handleyomys_chapmani_59761469.jpg"
+}

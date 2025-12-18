@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-pohlei",
+  "name": "Pteropus pohlei",
+  "scientificName": "Pteropus pohlei",
+  "wikibase_item": "Q1768965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768965",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geelvink_Bay_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Geelvink Bay flying fox or Geelvink Bay fruit bat is a species of flying fox in the family Pteropodidae. It is endemic to the islands of Yapen, Numfor, and Rani, which lie north of New Guinea in Indonesia's Papua Province. The name comes from Geelvink Bay, now Cenderawasih Bay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Geelvink_Bay_Flying_Fox_area.png"
+}

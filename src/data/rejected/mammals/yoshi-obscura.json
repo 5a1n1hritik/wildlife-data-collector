@@ -1,0 +1,28 @@
+{
+  "id": "yoshi-obscura",
+  "name": "Yoshi obscura",
+  "scientificName": "Yoshi obscura",
+  "wikibase_item": "Q122047315",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28432831,
+      "id": "Q28432831"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122047315",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshi_(genus)"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Yoshi is an extinct genus of machairodontine sabertooth cat in the tribe Metailurini. Its remains were first discovered in Pikermi, Greece, and were assigned by Reinhold Friedrich Hensel to Machairodus. In 1938, Miklós Kretzoi assigned it to a new genus, Pikermia. Subsequently, it was realised that the Greek taxon was closely related to another from China, then called Parapseudailurus minor, and both were synonymised. In 2014, a new genus, Yoshi, was erected to encompass the two, resurrecting Y. minor as a valid species. As M. parvulus was a nomen dubium, a new species, Yoshi garevskii, was designated as the type. In the intervening years, three more species have been assigned to the genus: Y. faie, Y. obscura, and Y. yongdengenesis.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "carollia-perspicillata",
+  "name": "Seba's short-tailed bat",
+  "scientificName": "Carollia perspicillata",
+  "wikibase_item": "Q302191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seba's_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Seba's short-tailed bat is a common and widespread bat species in the family Phyllostomidae. They are found in Central America, the northern parts of South America, and in the Antilles islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Carolliapiper.jpg",
+  "_score": 1
+}

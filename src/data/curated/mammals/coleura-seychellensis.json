@@ -1,0 +1,26 @@
+{
+  "id": "coleura-seychellensis",
+  "name": "Seychelles Sheath-tailed Bat",
+  "scientificName": "Coleura seychellensis",
+  "wikibase_item": "Q1830874",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2440514,
+      "id": "Q2440514"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830874",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seychelles_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Seychelles sheath-tailed bat is a sac-winged bat found in the central granitic islands of the Seychelles. They are nocturnal insectivores that roost communally in caves. The species was previously abundant across much of the archipelago, but has since seen a substantial loss of habitat. The International Union for Conservation of Nature has listed the species as being critically endangered, due to population decline. This is mainly due to an increase in land development and the introduction of invasive species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Seychelles_sheath-tailed_bat_-_dead.jpg",
+  "_score": 3
+}

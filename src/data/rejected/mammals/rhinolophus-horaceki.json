@@ -1,0 +1,26 @@
+{
+  "id": "rhinolophus-horaceki",
+  "name": "Rhinolophus horaceki",
+  "scientificName": "Rhinolophus horaceki",
+  "wikibase_item": "Q16596093",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16596093",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hor%C3%A1%C4%8Dek's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Horáček's horseshoe bat is a species of bat in the family Rhinolophidae, which is endemic to Cyrenaica, Libya.",
+  "image": null,
+  "_score": 0
+}

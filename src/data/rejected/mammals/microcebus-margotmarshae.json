@@ -1,0 +1,26 @@
+{
+  "id": "microcebus-margotmarshae",
+  "name": "Margot Marsh's mouse lemur",
+  "scientificName": "Microcebus margotmarshae",
+  "wikibase_item": "Q865539",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q865539",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margot_Marsh's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Margot Marsh's mouse lemur or the Antafondro mouse lemur is a species of mouse lemur endemic to Madagascar. Its holotype was first collected on 21 May 2006, proposed in 2006 by Andriantompohavana et al., and was formally described in 2008 by E. Lewis, Jr., et al. According to genetic tests, it is genetically distinct from its closest sister taxon, Claire's mouse lemur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Microcebus_margotmarshae_range_map.svg/960px-Microcebus_margotmarshae_range_map.svg.png",
+  "_score": 1
+}

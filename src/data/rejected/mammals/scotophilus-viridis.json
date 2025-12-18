@@ -1,0 +1,26 @@
+{
+  "id": "scotophilus-viridis",
+  "name": "Greenish yellow bat",
+  "scientificName": "Scotophilus viridis",
+  "wikibase_item": "Q1833123",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833123",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_greenish_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern greenish yellow bat is a species of vesper bat. It is found in Botswana, Central African Republic, Eswatini, Ethiopia, Kenya, Malawi, Mozambique, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitats are dry and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Naturalis_Biodiversity_Center_-_RMNH.MAM.28651.b_dor_-_Scotophilus_viridis_-_skin.jpeg",
+  "_score": 2
+}

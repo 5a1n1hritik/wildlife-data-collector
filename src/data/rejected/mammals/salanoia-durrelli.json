@@ -1,0 +1,26 @@
+{
+  "id": "salanoia-durrelli",
+  "name": "Salanoia durrelli",
+  "scientificName": "Salanoia durrelli",
+  "wikibase_item": "Q131697",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258485,
+      "id": "Q258485"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131697",
+    "wikipedia": "https://en.wikipedia.org/wiki/Durrell's_vontsira"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Durrell's vontsira is a small, reddish-brown, fox-like mammal native to the island of Madagascar. Discovered in 2004, it lives only in the biodiverse wetlands of Lake Alaotra. Durrell's vontsira belongs to the family Eupleridae, a group of meat-eating, cat- or fox-like mammals found only on Madagascar. The species is closely related to the brown-tailed mongoose, with which it forms the genus Salanoia. The two are genetically similar, but morphologically distinct, and S. durrelli was described as a new species in 2010.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Alaotra_carnivore_credit_Fidimalala_Bruno_Ralainasolo.jpg",
+  "_score": 2
+}

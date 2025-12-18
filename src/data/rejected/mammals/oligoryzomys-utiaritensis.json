@@ -1,0 +1,26 @@
+{
+  "id": "oligoryzomys-utiaritensis",
+  "name": "Oligoryzomys utiaritensis",
+  "scientificName": "Oligoryzomys utiaritensis",
+  "wikibase_item": "Q29347853",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29347853"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

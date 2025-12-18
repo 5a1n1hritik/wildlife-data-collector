@@ -1,0 +1,26 @@
+{
+  "id": "sorex-antinorii",
+  "name": "Valais Shrew",
+  "scientificName": "Sorex antinorii",
+  "wikibase_item": "Q1770403",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770403",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valais_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Valais shrew is a species of mammal in the family Soricidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Soricidae_-_Sorex_antinorii.jpg",
+  "_score": 1
+}

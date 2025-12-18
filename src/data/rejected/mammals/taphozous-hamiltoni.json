@@ -1,0 +1,26 @@
+{
+  "id": "taphozous-hamiltoni",
+  "name": "Hamilton's Tomb Bat",
+  "scientificName": "Taphozous hamiltoni",
+  "wikibase_item": "Q1832408",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11931981,
+      "id": "Q11931981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832408",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamilton's_tomb_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hamilton's tomb bat is a species of sac-winged bat in the family Emballonuridae. It is found in Chad, Kenya, Somalia, South Sudan, Tanzania, and Uganda. Its natural habitat is savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hamilton%27s_Tomb_Bat_area.png",
+  "_score": 2
+}

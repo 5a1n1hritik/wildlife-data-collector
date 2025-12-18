@@ -1,0 +1,28 @@
+{
+  "id": "oryzomys-gorgasi",
+  "name": "Oryzomys gorgasi",
+  "scientificName": "Oryzomys gorgasi",
+  "wikibase_item": "Q1764034",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764034",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oryzomys_gorgasi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oryzomys gorgasi, also known as Gorgas's oryzomys or Gorgas's rice rat, is a rodent in the genus Oryzomys of family Cricetidae. First recorded in 1967, it is known from only a few localities, including a freshwater swamp in the lowlands of northwestern Colombia and a mangrove islet in northwestern Venezuela. It reportedly formerly occurred on the island of Curaçao off northwestern Venezuela; this extinct population has been described as a separate species, O. curasoae, but does not differ morphologically from mainland populations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Oryzomys_distribution_S_America.png",
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

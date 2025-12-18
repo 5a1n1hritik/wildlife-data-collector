@@ -1,0 +1,26 @@
+{
+  "id": "myoictis-wavicus",
+  "name": "Tate's three-striped dasyure",
+  "scientificName": "Myoictis wavicus",
+  "wikibase_item": "Q724336",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1479606,
+      "id": "Q1479606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q724336",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tate's_three-striped_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tate's three-striped dasyure is a member of the order Dasyuromorphia. This marsupial carnivore lives in New Guinea. It inhabits primary montane forest. Like its congeners, it is thought to be diurnal and largely terrestrial.",
+  "image": null,
+  "_score": 0
+}

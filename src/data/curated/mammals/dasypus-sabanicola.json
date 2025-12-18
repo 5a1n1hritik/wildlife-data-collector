@@ -1,0 +1,26 @@
+{
+  "id": "dasypus-sabanicola",
+  "name": "Llanos long-nosed armadillo",
+  "scientificName": "Dasypus sabanicola",
+  "wikibase_item": "Q1761916",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761916",
+    "wikipedia": "https://en.wikipedia.org/wiki/Llanos_long-nosed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Llanos long-nosed armadillo or northern long-nosed armadillo is a species of armadillo in the family Dasypodidae. It is endemic to Colombia and Venezuela, where its habitat is the intermittently flooded grassland of the Llanos. The species is closely related to the nine-banded armadillo and the great long-nosed armadillo. It has very little hair and can weigh up to 22 pounds (9.5 kg), and can grow to about 2.1 feet (60 cm) long. It lives in dense cover near limestone formations. Like most other armadillos, it eats ants.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dasypus_sabanicola_-_Feijo_et_al_2018_holotype.tif/lossy-page1-1748px-Dasypus_sabanicola_-_Feijo_et_al_2018_holotype.tif.jpg",
+  "_score": 3
+}

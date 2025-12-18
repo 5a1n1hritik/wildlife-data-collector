@@ -1,0 +1,26 @@
+{
+  "id": "glauconycteris-argentata",
+  "name": "Silvered Bat",
+  "scientificName": "Glauconycteris argentata",
+  "wikibase_item": "Q1832018",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832018",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silvered bat is a species of vesper bat in the family Vespertilionidae. It is found in Angola, Burundi, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Kenya, Malawi, Rwanda, and Tanzania. Its natural habitats are subtropical or tropical moist lowland forests and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Glauconycteris_argentata.jpg",
+  "_score": 2
+}

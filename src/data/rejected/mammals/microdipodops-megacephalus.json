@@ -1,0 +1,26 @@
+{
+  "id": "microdipodops-megacephalus",
+  "name": "Dark kangaroo mouse",
+  "scientificName": "Microdipodops megacephalus",
+  "wikibase_item": "Q1266041",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 922132,
+      "id": "Q922132"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1266041",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_kangaroo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark kangaroo mouse is a species of rodent in the family Heteromyidae. It is found in California, Idaho, Nevada, Oregon and Utah in the United States.",
+  "image": null,
+  "_score": 0
+}

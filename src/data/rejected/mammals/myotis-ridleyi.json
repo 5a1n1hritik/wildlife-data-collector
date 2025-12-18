@@ -1,0 +1,26 @@
+{
+  "id": "myotis-ridleyi",
+  "name": "Myotis ridleyi",
+  "scientificName": "Myotis ridleyi",
+  "wikibase_item": "Q2393046",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2393046",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ridley's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ridley's bat is a species of vesper bat. It is found in Indonesia and Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Myotis_ridleyi_distribution.png",
+  "_score": 1
+}

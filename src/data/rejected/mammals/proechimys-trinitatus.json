@@ -1,0 +1,26 @@
+{
+  "id": "proechimys-trinitatus",
+  "name": "Trinidad Spiny Rat",
+  "scientificName": "Proechimys trinitatus",
+  "wikibase_item": "Q1768970",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768970",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trinidad_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Trinidad spiny rat is a species of rodent in the family Echimyidae. It is found in Trinidad and Tobago and northern Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Proechimys_trinitatus_distribution_%28gray%29.png",
+  "_score": 1
+}

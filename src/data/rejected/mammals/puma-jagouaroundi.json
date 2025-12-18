@@ -1,0 +1,26 @@
+{
+  "id": "puma-jagouaroundi",
+  "name": "Puma jagouaroundi",
+  "scientificName": "Puma jagouaroundi",
+  "wikibase_item": "Q21355817",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 270748,
+      "id": "Q270748"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21355817"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pharotis-imogene",
+  "name": "New Guinea Big-eared Bat",
+  "scientificName": "Pharotis imogene",
+  "wikibase_item": "Q137630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10805180,
+      "id": "Q10805180"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137630",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Guinea_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Guinea big-eared bat or Papuan big-eared bat,, is a vesper bat endemic to Papua New Guinea. It is listed as a critically endangered species due to ongoing habitat loss. It is the only known member of the genus Pharotis, which is closely related to Nyctophilus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Distribution_of_Pharotis_imogene.png"
+}

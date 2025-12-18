@@ -1,0 +1,26 @@
+{
+  "id": "chaerephon-jobimena",
+  "name": "Chaerephon jobimena",
+  "scientificName": "Chaerephon jobimena",
+  "wikibase_item": "Q2280051",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2280051",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mops_jobimena"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mops jobimena, commonly known as the black and red free-tailed bat, is a species of bat in the family Molossidae. It is endemic to western Madagascar. With a forearm length of 45 to 48 mm,",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tadarida_jobimena_range_map.svg/2324px-Tadarida_jobimena_range_map.svg.png",
+  "_score": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "miniopterus-pallidus",
+  "name": "Miniopterus pallidus",
+  "scientificName": "Miniopterus pallidus",
+  "wikibase_item": "Q67150244",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67150244",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_pallidus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus pallidus, the pale bent-wing bat, is a species of bat found in Middle-East. Until 2010, it was considered as a sub-species of M. schreibersii.",
+  "image": null,
+  "_score": 0
+}

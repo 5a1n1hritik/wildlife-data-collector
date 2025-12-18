@@ -1,0 +1,26 @@
+{
+  "id": "myrmecophaga-afra",
+  "name": "Myrmecophaga afra",
+  "scientificName": "Myrmecophaga afra",
+  "wikibase_item": "Q109646819",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10795875,
+      "id": "Q10795875"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646819"
+  },
+  "lastUpdated": "2025-12-17",
+  "_rejectReasons": [
+    "no_description",
+    "no_wikipedia"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "namafelis-minor",
+  "name": "Namafelis minor",
+  "scientificName": "Namafelis minor",
+  "wikibase_item": "Q3870029",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21368812,
+      "id": "Q21368812"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3870029",
+    "wikipedia": "https://en.wikipedia.org/wiki/Namafelis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Namafelis is an extinct genus of felids that lived in what is now Namibia during the Early Miocene. It contains a single species, Namafelis minor. Closely related to Diamantofelis, it is of \"Pseudaelurus-grade\", and therefore a rather basal member of the cat family.",
+  "image": null,
+  "_rejectReasons": [
+    "extinct_or_fossil"
+  ]
+}

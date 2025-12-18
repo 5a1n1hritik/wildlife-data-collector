@@ -1,0 +1,26 @@
+{
+  "id": "rhizomys-sinensis",
+  "name": "Chinese bamboo rat",
+  "scientificName": "Rhizomys sinensis",
+  "wikibase_item": "Q2583168",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 805992,
+      "id": "Q805992"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2583168",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_bamboo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese bamboo rat is a species of rodent in the family Spalacidae found in southern China, northern Myanmar, and northern Vietnam. Its habitat is bamboo thickets usually at high elevations, pine forests, and plantations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Rhizomys_sinensis_-_Kunming_Natural_History_Museum_of_Zoology_-_DSC02460.JPG",
+  "_score": 2
+}

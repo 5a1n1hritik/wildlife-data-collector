@@ -1,0 +1,26 @@
+{
+  "id": "pseudohydromys-sandrae",
+  "name": "Pseudohydromys sandrae",
+  "scientificName": "Pseudohydromys sandrae",
+  "wikibase_item": "Q3924896",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311292,
+      "id": "Q311292"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924896",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-bellied_moss_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-bellied moss mouse is a species of mouse endemic to Papua New Guinea. It was first described in 2009. The type specimen was an adult male found between 800 and 850 m, in Southern Highlands Province of Papua New Guinea.",
+  "image": null,
+  "_score": 0
+}

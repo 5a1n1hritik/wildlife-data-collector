@@ -1,0 +1,26 @@
+{
+  "id": "ochotona-nubrica",
+  "name": "Nubra pika",
+  "scientificName": "Ochotona nubrica",
+  "wikibase_item": "Q311579",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q311579",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nubra_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nubra pika is a species of pika found in Bhutan, China, India, Nepal, and Pakistan. It is a small diurnal mammal with a fur coat that changes color across seasons and regions, ranging from gray to brownish red. It has blackish ears with a distinctive pale patch on the back, a very small tail, and a flat, narrow skull. It is closely related to the plateau pika and Sikkim pika, and is widely distributed across the Himalayas. It is among the burrowing species of pika, and eats a variety of plants. This pika's range overlaps with that of the Sikkim pika, one subspecies of Moupin pika, and the large-eared pika. One subspecies of the Nubra pika is restricted to part of the southeastern Tibet Autonomous Region.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nubra_Pika_imported_from_iNaturalist_photo_280695445_on_14_February_2024.jpg",
+  "_score": 3
+}
