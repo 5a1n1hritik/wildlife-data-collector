@@ -1,0 +1,22 @@
+{
+  "id": "promops-trumbulli",
+  "name": "Promops trumbulli",
+  "scientificName": "Promops trumbulli",
+  "wikibase_item": "Q109647444",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702004,
+      "id": "Q2702004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647444"
+  },
+  "lastUpdated": "2025-12-17"
+}

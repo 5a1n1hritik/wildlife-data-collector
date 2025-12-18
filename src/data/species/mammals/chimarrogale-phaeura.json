@@ -1,0 +1,25 @@
+{
+  "id": "chimarrogale-phaeura",
+  "name": "Bornean water shrew",
+  "scientificName": "Chimarrogale phaeura",
+  "wikibase_item": "Q306725",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856254,
+      "id": "Q856254"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306725",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornean_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bornean water shrew is a species of mammal in the family Soricidae. It is endemic to Malaysia. Its natural habitat is rivers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bornean_Water_Shrew_area.png"
+}

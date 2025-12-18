@@ -1,0 +1,22 @@
+{
+  "id": "leontopithecus-fuscus",
+  "name": "Leontopithecus fuscus",
+  "scientificName": "Leontopithecus fuscus",
+  "wikibase_item": "Q125922918",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857486,
+      "id": "Q857486"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125922918"
+  },
+  "lastUpdated": "2025-12-17"
+}

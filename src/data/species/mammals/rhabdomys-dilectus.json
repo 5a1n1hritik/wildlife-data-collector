@@ -1,0 +1,25 @@
+{
+  "id": "rhabdomys-dilectus",
+  "name": "Rhabdomys dilectus",
+  "scientificName": "Rhabdomys dilectus",
+  "wikibase_item": "Q611467",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386648,
+      "id": "Q386648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q611467",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhabdomys_dilectus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rhabdomys dilectus, the mesic four-striped grass rat, is a species of rodent in the family Muridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Muridae_-_Rhabdomys_dilectus.JPG"
+}

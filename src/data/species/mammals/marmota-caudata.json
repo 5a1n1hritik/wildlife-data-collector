@@ -1,0 +1,25 @@
+{
+  "id": "marmota-caudata",
+  "name": "long-tailed marmot",
+  "scientificName": "Marmota caudata",
+  "wikibase_item": "Q1470628",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1470628",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed marmot or golden marmot is a marmot species in the family Sciuridae.\nIt occurs in mountainous regions in the central parts of Asia where it lives in open or lightly wooded habitats, often among rocks where dwarf junipers grow. It is IUCN Red Listed as Least Concern. As suggested by its name, it is a relatively long-tailed species of marmot.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Long-tailed_Marmot_-_Shreeram_M_V_-_Suru_Valley.jpg"
+}

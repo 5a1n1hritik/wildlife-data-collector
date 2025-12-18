@@ -1,0 +1,25 @@
+{
+  "id": "oryzomys-childi",
+  "name": "Oryzomys childi",
+  "scientificName": "Oryzomys childi",
+  "wikibase_item": "Q41010253",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41010253",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_childi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys childi is a species of rodent in the genus Nephelomys of family Cricetidae. The type locality is at Bogotá, Colombia, and the type locality of its junior synonym, oconnelli, is at a place known as Buenavista, about 50 miles (80 km) southeast of Bogotá. It was named after Mr. George D. Child, who assisted in obtaining the type series.",
+  "image": null
+}

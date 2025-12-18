@@ -1,0 +1,25 @@
+{
+  "id": "myotis-izecksohni",
+  "name": "Myotis izecksohni",
+  "scientificName": "Myotis izecksohni",
+  "wikibase_item": "Q3869100",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3869100",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myotis_izecksohni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Myotis izecksohni is a species of mouse-eared bat that is endemic to Brazil and Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Distribution_of_Myotis_izecksohni.png"
+}

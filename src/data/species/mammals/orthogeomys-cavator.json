@@ -1,0 +1,25 @@
+{
+  "id": "orthogeomys-cavator",
+  "name": "Chiriqui pocket gopher",
+  "scientificName": "Orthogeomys cavator",
+  "wikibase_item": "Q1768066",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871738,
+      "id": "Q20871738"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768066",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiriqui_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chiriqui pocket gopher is a species of rodent in the family Geomyidae. It is found in Costa Rica and Panama. Some authors classify it in the genus Orthogeomys, but recent research has allowed this and its related species to be classified in the genus Heterogeomys.",
+  "image": null
+}

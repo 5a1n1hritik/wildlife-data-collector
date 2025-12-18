@@ -1,0 +1,22 @@
+{
+  "id": "procyon-pumilus",
+  "name": "Procyon pumilus",
+  "scientificName": "Procyon pumilus",
+  "wikibase_item": "Q125565498",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125565498"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chaetodipus-intermedius",
+  "name": "Rock pocket mouse",
+  "scientificName": "Chaetodipus intermedius",
+  "wikibase_item": "Q172372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q172372",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rock pocket mouse is one of 19 species of pocket mice in the genus Chaetodipus. It is sometimes grouped in the genus Perognathus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chaetodipus_intermedius_intermedius_351159.jpg"
+}

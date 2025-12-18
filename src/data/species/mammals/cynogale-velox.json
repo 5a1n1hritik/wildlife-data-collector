@@ -1,0 +1,22 @@
+{
+  "id": "cynogale-velox",
+  "name": "Cynogale velox",
+  "scientificName": "Cynogale velox",
+  "wikibase_item": "Q122196868",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817078,
+      "id": "Q19817078"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122196868"
+  },
+  "lastUpdated": "2025-12-17"
+}

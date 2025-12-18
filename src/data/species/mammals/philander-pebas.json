@@ -1,0 +1,25 @@
+{
+  "id": "philander-pebas",
+  "name": "Philander pebas",
+  "scientificName": "Philander pebas",
+  "wikibase_item": "Q51077165",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q51077165",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pebas_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pebas four-eyed opossum is a species of opossum from South America.",
+  "image": null
+}

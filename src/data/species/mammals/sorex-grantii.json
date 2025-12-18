@@ -1,0 +1,25 @@
+{
+  "id": "sorex-grantii",
+  "name": "Sorex grantii",
+  "scientificName": "Sorex grantii",
+  "wikibase_item": "Q41088378",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088378",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sorex_araneus_grantii"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sorex araneus grantii is a subspecies of the shrew Sorex araneus, found only on the Scottish island of Islay. It was previously considered a separate species, Sorex grantii. It is distinguished from mainland shrews by its very grey flanks and different dentition.",
+  "image": null
+}

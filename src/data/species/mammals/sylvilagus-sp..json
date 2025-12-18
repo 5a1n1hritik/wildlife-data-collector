@@ -1,0 +1,22 @@
+{
+  "id": "sylvilagus-sp.",
+  "name": "Sylvilagus sp.",
+  "scientificName": "Sylvilagus sp.",
+  "wikibase_item": "Q40698246",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40698246"
+  },
+  "lastUpdated": "2025-12-17"
+}

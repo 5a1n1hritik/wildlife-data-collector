@@ -1,0 +1,25 @@
+{
+  "id": "echiothrix-centrosa",
+  "name": "Central Sulawesi spiny rat",
+  "scientificName": "Echiothrix centrosa",
+  "wikibase_item": "Q1761138",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371164,
+      "id": "Q371164"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761138",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_Sulawesi_echiothrix"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The central Sulawesi echiothrix is a species of rodent in the family Muridae. It is found only in Sulawesi, Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Distribution_of_Echiothrix_centrosa.PNG"
+}

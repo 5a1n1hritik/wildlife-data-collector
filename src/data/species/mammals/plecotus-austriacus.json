@@ -1,0 +1,25 @@
+{
+  "id": "plecotus-austriacus",
+  "name": "Plecotus austriacus",
+  "scientificName": "Plecotus austriacus",
+  "wikibase_item": "Q220958",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q220958",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The grey long-eared bat is a fairly large European bat. It has distinctive ears, long and with a distinctive fold. It hunts above woodland, often by day, and mostly for moths. In captivity, it has also been recorded to eat small lizards. It is extremely similar to the more common brown long-eared bat, and was only distinguished in the 1960s, but has a paler belly.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Plecotus_austriacus2.jpg"
+}

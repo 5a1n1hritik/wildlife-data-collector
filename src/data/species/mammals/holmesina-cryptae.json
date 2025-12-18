@@ -1,0 +1,25 @@
+{
+  "id": "holmesina-cryptae",
+  "name": "Holmesina cryptae",
+  "scientificName": "Holmesina cryptae",
+  "wikibase_item": "Q66979103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140865,
+      "id": "Q140865"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66979103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holmesina"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Holmesina is an extinct genus of pampathere, a group of armadillo-like xenarthrans that were distantly related to extant armadillos. Like armadillos, and unlike the other extinct branch of megafaunal cingulates the glyptodonts, the shell was made up of flexible plates which allowed the animal to move more easily.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gyptodon_Cosmo_Caixa.JPG"
+}

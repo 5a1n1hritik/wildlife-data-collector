@@ -1,0 +1,25 @@
+{
+  "id": "bullimus-bagobus",
+  "name": "Bagobo rat",
+  "scientificName": "Bullimus bagobus",
+  "wikibase_item": "Q307908",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 851908,
+      "id": "Q851908"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307908",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bagobo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bagobo rat is one of four species of rodent in the genus Bullimus in the Muridae family.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bullimus_bagobus.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aethosciurus-poensis",
+  "name": "Aethosciurus poensis",
+  "scientificName": "Aethosciurus poensis",
+  "wikibase_item": "Q41162381",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41150468,
+      "id": "Q41150468"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162381"
+  },
+  "lastUpdated": "2025-12-17"
+}

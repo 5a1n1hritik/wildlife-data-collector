@@ -1,0 +1,25 @@
+{
+  "id": "cryptotis-mexicana",
+  "name": "Mexican small-eared shrew",
+  "scientificName": "Cryptotis mexicana",
+  "wikibase_item": "Q1764783",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764783",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican small-eared shrew is a species of mammal in the family Soricidae. It is endemic to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mexican_Small-eared_Shrew_area.png"
+}

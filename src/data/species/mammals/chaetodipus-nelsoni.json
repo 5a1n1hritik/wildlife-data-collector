@@ -1,0 +1,25 @@
+{
+  "id": "chaetodipus-nelsoni",
+  "name": "Nelson's pocket mouse",
+  "scientificName": "Chaetodipus nelsoni",
+  "wikibase_item": "Q172555",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q172555",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson's_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nelson's pocket mouse is a species of rodent in the family Heteromyidae. It is found in Mexico and in New Mexico and Texas in United States. It is named in honor of the American naturalist Edward William Nelson.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chaetodipus_nelsoni_imported_from_iNaturalist_photo_27682025_on_13_June_2019.jpg"
+}

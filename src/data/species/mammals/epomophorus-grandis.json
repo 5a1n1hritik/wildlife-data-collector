@@ -1,0 +1,25 @@
+{
+  "id": "epomophorus-grandis",
+  "name": "Lesser Angolan epauletted fruit bat",
+  "scientificName": "Epomophorus grandis",
+  "wikibase_item": "Q305668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135238,
+      "id": "Q135238"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305668",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_Angolan_epauletted_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser Angolan epauletted fruit bat is a species of megabat in the family Pteropodidae. It is found in Angola and the Republic of the Congo. Its natural habitats are subtropical or tropical dry and moist lowland forest, and savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lesser_Angolan_Epauletted_Fruit_Bat_area.png"
+}

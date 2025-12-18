@@ -1,0 +1,25 @@
+{
+  "id": "promops-centralis",
+  "name": "Big crested mastiff bat",
+  "scientificName": "Promops centralis",
+  "wikibase_item": "Q1829340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702004,
+      "id": "Q2702004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829340",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_crested_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big crested mastiff bat is a species of bat native to Central and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Promops_centralis_map.svg/960px-Promops_centralis_map.svg.png"
+}

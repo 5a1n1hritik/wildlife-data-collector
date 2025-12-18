@@ -1,0 +1,25 @@
+{
+  "id": "mesocapromys-auritus",
+  "name": "Eared hutia",
+  "scientificName": "Mesocapromys auritus",
+  "wikibase_item": "Q1767882",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244182,
+      "id": "Q244182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767882",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eared_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eared hutia or large-eared hutia is a small, endangered, rat-like mammal found only on the Caribbean island of Cayo Fragoso, off the north coast of Cuba. It lives in coastal mangrove forests and swamps and is threatened by habitat loss. It is a member of the hutia subfamily (Capromyinae), a group of rodents native to the Caribbean that are mostly endangered or extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mesocapromys_auritus_Map.jpg"
+}

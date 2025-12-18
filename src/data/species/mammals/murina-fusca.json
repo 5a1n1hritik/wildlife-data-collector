@@ -1,0 +1,25 @@
+{
+  "id": "murina-fusca",
+  "name": "Dusky tube-nosed bat",
+  "scientificName": "Murina fusca",
+  "wikibase_item": "Q2558188",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2558188",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky tube-nosed bat is a species of vesper bat in the family Vespertilionidae.\nIt is found only in China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Murina_fusca.jpg"
+}

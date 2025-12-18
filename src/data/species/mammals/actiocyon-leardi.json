@@ -1,0 +1,22 @@
+{
+  "id": "actiocyon-leardi",
+  "name": "Actiocyon leardi",
+  "scientificName": "Actiocyon leardi",
+  "wikibase_item": "Q119343941",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 65141617,
+      "id": "Q65141617"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119343941"
+  },
+  "lastUpdated": "2025-12-17"
+}

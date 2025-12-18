@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-livingstonii",
+  "name": "Pteropus livingstonii",
+  "scientificName": "Pteropus livingstonii",
+  "wikibase_item": "Q1049623",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1049623",
+    "wikipedia": "https://en.wikipedia.org/wiki/Livingstone's_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Livingstone's fruit bat, also called the Comoro flying fox, is a megabat in the genus Pteropus. It is an Old World fruit bat found only in the Anjouan and Mohéli islands in the Union of the Comoros in the western Indian Ocean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bristol.zoo.livfruitbat.arp.jpg"
+}

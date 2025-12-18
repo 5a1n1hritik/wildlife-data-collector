@@ -1,0 +1,25 @@
+{
+  "id": "dactylopsila-tatei",
+  "name": "Tate's Triok",
+  "scientificName": "Dactylopsila tatei",
+  "wikibase_item": "Q209786",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 368980,
+      "id": "Q368980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209786",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tate's_triok"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tate's triok, also known as the Fergusson Island striped possum, is a species of marsupial in the family Petauridae. It is endemic to Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Dactylopsila_tatei%2CSkin_Dorsal.jpg"
+}

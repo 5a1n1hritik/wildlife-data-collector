@@ -1,0 +1,25 @@
+{
+  "id": "aethomys-ineptus",
+  "name": "Tete veld aethomys",
+  "scientificName": "Aethomys ineptus",
+  "wikibase_item": "Q648942",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385933,
+      "id": "Q385933"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q648942",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tete_veld_aethomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tete veld aethomys or Tete veld rat is a species of rodent in the family Muridae.\nIt is found in South Africa and Eswatini. Its natural habitats are temperate forests, shrubland, and grassland. The common name refers to the type locality, Tete, on the Zambesi River.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Aethomys_ineptus_39871248_%28cropped%29.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mormopterus-whitleyi",
+  "name": "Mormopterus whitleyi",
+  "scientificName": "Mormopterus whitleyi",
+  "wikibase_item": "Q109647368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16992105,
+      "id": "Q16992105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647368"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "anoura-aequatoris",
+  "name": "Anoura aequatoris",
+  "scientificName": "Anoura aequatoris",
+  "wikibase_item": "Q17774791",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17774791",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anoura_aequatoris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anoura aequatoris is a species of microbat that lives in South America in the countries of Bolivia, Colombia, Ecuador, and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Anoura_aequatoris_map.svg/1181px-Anoura_aequatoris_map.svg.png"
+}

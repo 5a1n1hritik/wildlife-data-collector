@@ -1,0 +1,25 @@
+{
+  "id": "blarina-brevicauda",
+  "name": "Blarina brevicauda",
+  "scientificName": "Blarina brevicauda",
+  "wikibase_item": "Q1766543",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468813,
+      "id": "Q468813"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766543",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_short-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern short-tailed shrew is the largest shrew in the genus Blarina, and occurs in the northeastern region of North America. It is a semifossorial, highly active, and voracious insectivore and is present in a variety of habitats like broadleaved and pine forests among shrubs and hedges as well as grassy river banks. It is notable in that it is one of the few venomous mammals. The specific epithet, brevicauda, is a combination of the Latin brevis and cauda, meaning \"short tail\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Blarina_brevicauda.jpg"
+}

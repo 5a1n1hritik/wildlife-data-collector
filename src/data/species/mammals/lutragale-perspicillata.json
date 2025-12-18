@@ -1,0 +1,22 @@
+{
+  "id": "lutragale-perspicillata",
+  "name": "Lutragale perspicillata",
+  "scientificName": "Lutragale perspicillata",
+  "wikibase_item": "Q41165778",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155138,
+      "id": "Q41155138"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165778"
+  },
+  "lastUpdated": "2025-12-17"
+}

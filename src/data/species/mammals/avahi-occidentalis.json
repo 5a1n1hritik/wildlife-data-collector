@@ -1,0 +1,25 @@
+{
+  "id": "avahi-occidentalis",
+  "name": "Western woolly lemur",
+  "scientificName": "Avahi occidentalis",
+  "wikibase_item": "Q1194866",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1194866",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western woolly lemur or western avahi is a species of woolly lemur native to western Madagascar, where they live in dry deciduous forests. These nocturnal animals weigh 0.7–0.9 kg (1.5–2.0 lb). It is a folivorous species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Avahi_occidentalis.jpg"
+}

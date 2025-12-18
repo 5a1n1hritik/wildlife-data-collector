@@ -1,0 +1,25 @@
+{
+  "id": "lemmus-amurensis",
+  "name": "Amur lemming",
+  "scientificName": "Lemmus amurensis",
+  "wikibase_item": "Q1766211",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 525589,
+      "id": "Q525589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766211",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amur_lemming"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Amur lemming is a species of lemmings found near the Amur River in Siberia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lemmus_amurensis_distribution.svg/960px-Lemmus_amurensis_distribution.svg.png"
+}

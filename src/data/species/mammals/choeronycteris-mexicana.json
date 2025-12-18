@@ -1,0 +1,25 @@
+{
+  "id": "choeronycteris-mexicana",
+  "name": "Mexican long-tongued bat",
+  "scientificName": "Choeronycteris mexicana",
+  "wikibase_item": "Q309117",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10747561,
+      "id": "Q10747561"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309117",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican long-tongued bat is a species of bat in the family Phyllostomidae. It is the only species within the genus Choeronycteris. It is found in El Salvador, Guatemala, Honduras, Mexico, and the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Choeronycteris_mexicana%2C_Mexican_long-tongued_bat_%287371567444%29_2.jpg"
+}

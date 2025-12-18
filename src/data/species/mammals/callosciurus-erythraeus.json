@@ -1,0 +1,25 @@
+{
+  "id": "callosciurus-erythraeus",
+  "name": "Callosciurus erythraeus",
+  "scientificName": "Callosciurus erythraeus",
+  "wikibase_item": "Q860603",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q860603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pallas's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pallas's squirrel, also known as the red-bellied tree squirrel, is a species of squirrel native to China, Taiwan, India, Bhutan, and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/A_Sciuridae_in_Taipei_4.JPG"
+}

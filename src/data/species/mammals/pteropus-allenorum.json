@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-allenorum",
+  "name": "Pteropus allenorum",
+  "scientificName": "Pteropus allenorum",
+  "wikibase_item": "Q2165818",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2165818",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_Samoan_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small Samoan flying fox is a species of fruit-eating megabat whose type specimen was originally collected in Samoa in 1856, but was not identified as a new species until 2009. Its wingspan was at least two feet, and it weighed around 8 oz. As the type specimen is dead, and no other examples of the species are known, it is believed to be extinct.",
+  "image": null
+}

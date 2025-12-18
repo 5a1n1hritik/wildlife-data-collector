@@ -1,0 +1,25 @@
+{
+  "id": "arielulus-torquatus",
+  "name": "Necklace Pipistrelle",
+  "scientificName": "Arielulus torquatus",
+  "wikibase_item": "Q1832238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 777103,
+      "id": "Q777103"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832238",
+    "wikipedia": "https://en.wikipedia.org/wiki/Necklace_sprite"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The necklace sprite or necklace pipistrelle is a species of vesper bat that is endemic to Taiwan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Arielulus_torquatus_distribution_%28colored%29.png"
+}

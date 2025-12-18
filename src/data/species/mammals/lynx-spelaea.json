@@ -1,0 +1,25 @@
+{
+  "id": "lynx-spelaea",
+  "name": "Cave lynx",
+  "scientificName": "Lynx spelaea",
+  "wikibase_item": "Q30693238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 677014,
+      "id": "Q677014"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30693238",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cave_lynx"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cave lynx or Mediterranean cave lynx is an extinct felid species that lived during the Pleistocene. It is controversially discussed to be a subspecies of the modern Iberian lynx and to be a junior synonym of this species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lynx_spelaea_Cueva_de_los_Moros.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-macowi",
+  "name": "Nyiro Shrew",
+  "scientificName": "Crocidura macowi",
+  "wikibase_item": "Q307298",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307298",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyiro_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nyiro shrew is a species of mammal in the family Soricidae. It is endemic to Mount Nyiro in northern Kenya. This is a small shrew with dark brown dorsal pelage and grayish brown or slate gray ventral pelage.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nyiro_Shrew_area.png"
+}

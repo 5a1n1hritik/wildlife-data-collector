@@ -1,0 +1,25 @@
+{
+  "id": "wynyardia-bassiana",
+  "name": "Wynyardia bassiana",
+  "scientificName": "Wynyardia bassiana",
+  "wikibase_item": "Q124605050",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2595715,
+      "id": "Q2595715"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124605050",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wynyardiidae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wynyardiidae is an extinct family of possum-like marsupials from the early Miocene of Wynyard in Tasmania, long been considered to display skeletal features that are intermediate between the primitive polyprotodont and the advanced diprotodont marsupials.",
+  "image": null
+}

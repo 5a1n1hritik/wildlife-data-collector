@@ -1,0 +1,22 @@
+{
+  "id": "tolypeutes-muriei",
+  "name": "Tolypeutes muriei",
+  "scientificName": "Tolypeutes muriei",
+  "wikibase_item": "Q41088633",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1080942,
+      "id": "Q1080942"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088633"
+  },
+  "lastUpdated": "2025-12-17"
+}

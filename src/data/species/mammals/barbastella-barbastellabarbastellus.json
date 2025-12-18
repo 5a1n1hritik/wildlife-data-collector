@@ -1,0 +1,22 @@
+{
+  "id": "barbastella-barbastellabarbastellus",
+  "name": "Barbastella barbastellabarbastellus",
+  "scientificName": "Barbastella barbastellabarbastellus",
+  "wikibase_item": "Q41080588",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 338951,
+      "id": "Q338951"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080588"
+  },
+  "lastUpdated": "2025-12-17"
+}

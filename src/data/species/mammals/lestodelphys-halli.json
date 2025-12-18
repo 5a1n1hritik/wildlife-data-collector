@@ -1,0 +1,25 @@
+{
+  "id": "lestodelphys-halli",
+  "name": "Patagonian opossum",
+  "scientificName": "Lestodelphys",
+  "wikibase_item": "Q692361",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816269,
+      "id": "Q19816269"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q692361",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patagonian_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Patagonian opossum (Lestodelphys halli) is the sole species in genus Lestodelphys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Patagonian_Opossum_area.png"
+}

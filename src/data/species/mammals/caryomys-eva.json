@@ -1,0 +1,25 @@
+{
+  "id": "caryomys-eva",
+  "name": "Ganzu vole",
+  "scientificName": "Caryomys eva",
+  "wikibase_item": "Q305819",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858812,
+      "id": "Q858812"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305819",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ganzu_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ganzu vole, Eva's red-backed vole, Eva's vole, Gansu vole, or Taozhou vole is a species of rodent in the family Cricetidae.\nIt is found in mountain forests in China. The IUCN has assessed it as being of \"least concern\".",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dorcopsis-auranticus",
+  "name": "Dorcopsis auranticus",
+  "scientificName": "Dorcopsis auranticus",
+  "wikibase_item": "Q41082984",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909045,
+      "id": "Q909045"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082984"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "felis-bieti",
+  "name": "Felis bieti",
+  "scientificName": "Felis silvestris bieti",
+  "wikibase_item": "Q204322",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q204322",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_mountain_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese mountain cat, also known as Chinese desert cat and Chinese steppe cat, is a small wild Felis species with sand-coloured fur, faint dark stripes on the face and legs and black tipped ears. It is endemic to the Tibetan Plateau of western China, where it lives in grassland above elevations of 2,500 m (8,200 ft). It has been listed as vulnerable on the IUCN Red List since 2002.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Chinese_Mountain_Cat_%28Felis_Bieti%29_in_XiNing_Wild_Zoo_2.jpg"
+}

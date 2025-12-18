@@ -1,0 +1,22 @@
+{
+  "id": "wombatus-fossor",
+  "name": "Wombatus fossor",
+  "scientificName": "Wombatus fossor",
+  "wikibase_item": "Q110080791",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122789639,
+      "id": "Q122789639"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110080791"
+  },
+  "lastUpdated": "2025-12-17"
+}

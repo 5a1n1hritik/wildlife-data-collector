@@ -1,0 +1,25 @@
+{
+  "id": "oxymycterus-hucucha",
+  "name": "Oxymycterus hucucha",
+  "scientificName": "Oxymycterus hucucha",
+  "wikibase_item": "Q549957",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q549957",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oxymycterus_hucucha"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oxymycterus hucucha, also known as the Quechuan hocicudo, is a species of rodent in the genus Oxymycterus of family Cricetidae from South America. It is found only in a small region of the Andes in central Bolivia, where it lives in cloud forest at altitudes from 2600 to 3000 m.",
+  "image": null
+}

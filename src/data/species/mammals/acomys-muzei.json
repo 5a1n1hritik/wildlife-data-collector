@@ -1,0 +1,25 @@
+{
+  "id": "acomys-muzei",
+  "name": "Acomys muzei",
+  "scientificName": "Acomys muzei",
+  "wikibase_item": "Q23030146",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268608,
+      "id": "Q268608"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23030146",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muze_spiny_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Muze spiny mouse is a species of rodent in the family Muridae found in the Democratic Republic of Congo, Zambia, and Tanzania.",
+  "image": null
+}

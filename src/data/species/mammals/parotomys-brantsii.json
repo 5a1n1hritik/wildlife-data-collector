@@ -1,0 +1,25 @@
+{
+  "id": "parotomys-brantsii",
+  "name": "Parotomys brantsii",
+  "scientificName": "Parotomys brantsii",
+  "wikibase_item": "Q1761613",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 617189,
+      "id": "Q617189"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761613",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brants's_whistling_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brants's whistling rat or Brants' whistling rat is one of two species of murid rodent in the genus Parotomys. It is found in Botswana, Namibia, and South Africa where its natural habitats are subtropical or tropical dry shrubland and pastureland. It was first described in 1834 by the Scottish zoologist Andrew Smith who named it in honour of the Dutch zoologist and author Anton Brants.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Brants%27s_Whistling_Rat-001.jpg"
+}

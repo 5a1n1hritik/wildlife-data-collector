@@ -1,0 +1,25 @@
+{
+  "id": "pardofelis-marmorata",
+  "name": "Pardofelis marmorata",
+  "scientificName": "Pardofelis",
+  "wikibase_item": "Q80191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134690,
+      "id": "Q134690"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q80191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marbled_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The marbled cat is a small wild cat native from the eastern Himalayas to Southeast Asia, where it inhabits forests up to an elevation of 2,500 m (8,200 ft). As it is present in a large range, it has been listed as Near Threatened on the IUCN Red List since 2015.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marbled_cat_borneo.jpg"
+}

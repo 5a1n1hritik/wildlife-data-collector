@@ -1,0 +1,25 @@
+{
+  "id": "anoura-geoffroyi",
+  "name": "Anoura geoffroyi",
+  "scientificName": "Anoura geoffroyi",
+  "wikibase_item": "Q83592",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83592",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffroy's_tailless_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Geoffroy's tailless bat is a species of phyllostomid bat from the American tropics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Intro_wide_polls_intro_vertebrate_species_3.jpg"
+}

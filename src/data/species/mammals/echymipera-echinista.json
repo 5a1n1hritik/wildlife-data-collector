@@ -1,0 +1,25 @@
+{
+  "id": "echymipera-echinista",
+  "name": "Echymipera echinista",
+  "scientificName": "Echymipera echinista",
+  "wikibase_item": "Q194886",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668149,
+      "id": "Q668149"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194886",
+    "wikipedia": "https://en.wikipedia.org/wiki/Menzies'_echymipera"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Menzies' echymipera, or Menzies' spiny bandicoot or Fly River bandicoot, is a species of marsupial in the family Peramelidae. It is endemic to Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Menzies%27_Spiny_Bandicoot_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hemiechinus-collaris",
+  "name": "Indian long-eared hedgehog",
+  "scientificName": "Hemiechinus collaris",
+  "wikibase_item": "Q1763709",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1482566,
+      "id": "Q1482566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763709",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_long-eared_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian long-eared hedgehog is a small species of mammal native to northern India and Pakistan. It is insectivorous and nocturnal. It has been noted as a carrier of tick-borne diseases.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hemiechinus_collaris_-_Indian_long-eared_hedgehog.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "macrotis-leucura",
+  "name": "lesser bilby",
+  "scientificName": "Macrotis leucura",
+  "wikibase_item": "Q531915",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 617087,
+      "id": "Q617087"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q531915",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_bilby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser bilby, also known as the yallara, the lesser rabbit-eared bandicoot or the white-tailed rabbit-eared bandicoot, is an extinct rabbit-like marsupial. The species was first described by Oldfield Thomas as Peregale leucura in 1887 from a single specimen from a collection of mammals of the British Museum. Reaching the size of a young rabbit, this species lived in the deserts of Central Australia. Since the 1950s–1960s, it has been believed to be extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Macrotis_leucura_lesser_bilby_museum_specimen.png"
+}

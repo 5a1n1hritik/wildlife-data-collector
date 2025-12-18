@@ -1,0 +1,25 @@
+{
+  "id": "leptailurus-serval",
+  "name": "serval",
+  "scientificName": "Leptailurus",
+  "wikibase_item": "Q42699",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10859013,
+      "id": "Q10859013"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42699",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serval"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The serval is a wild small cat native to Africa. It is widespread in sub-Saharan countries, where it inhabits grasslands, wetlands, moorlands and bamboo thickets. Across its range, it occurs in protected areas, and hunting it is either prohibited or regulated in range countries.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Leptailurus_serval_61666728%2C_crop.jpg"
+}

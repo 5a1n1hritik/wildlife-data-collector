@@ -1,0 +1,25 @@
+{
+  "id": "scutisorex-somereni",
+  "name": "hero shrew",
+  "scientificName": "Scutisorex somereni",
+  "wikibase_item": "Q596208",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10819100,
+      "id": "Q10819100"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q596208",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hero_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hero shrew, also known as the armored shrew, is a large shrew native to the Congo Basin of Africa. Its features are typical of a white-toothed shrew − short legs, slender snout, dense fur − except for a highly unusual spinal column. It has corrugated interlocking vertebrae that are unique among mammals except for its sister species, Thor's hero shrew. This unique adaptation allows the animal to bear a huge amount of weight on its back − 72 kg (159 lb) according to an expedition team.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Scutisorex_somereni.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dendrohyrax-arboreus",
+  "name": "Southern tree hyrax",
+  "scientificName": "Dendrohyrax arboreus",
+  "wikibase_item": "Q608652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1761200,
+      "id": "Q1761200"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q608652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_tree_hyrax"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern tree hyrax, also known as the southern tree dassie, is a species of mammal in the family Procaviidae. The southern tree hyrax is mainly found in the south central eastern side of Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Tree-hyrax.jpg"
+}

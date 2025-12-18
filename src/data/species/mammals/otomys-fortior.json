@@ -1,0 +1,25 @@
+{
+  "id": "otomys-fortior",
+  "name": "Otomys fortior",
+  "scientificName": "Otomys fortior",
+  "wikibase_item": "Q99194694",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194694",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charada_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Charada vlei rat is a species of rodent in the family of Muridae. It is endemic to southwestern Ethiopia.",
+  "image": null
+}

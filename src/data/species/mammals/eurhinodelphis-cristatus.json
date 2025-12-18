@@ -1,0 +1,22 @@
+{
+  "id": "eurhinodelphis-cristatus",
+  "name": "Xiphiacetus cristatus",
+  "scientificName": "Eurhinodelphis cristatus",
+  "wikibase_item": "Q20731965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 919342,
+      "id": "Q919342"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20731965"
+  },
+  "lastUpdated": "2025-12-17"
+}

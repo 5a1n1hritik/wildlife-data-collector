@@ -22,5 +22,29 @@
     },
     "reason": "taxon rank = subspecies",
     "timestamp": "2025-12-15T10:20:20.900Z"
+  },
+  {
+    "subspecies": {
+      "qid": "Q20907665",
+      "scientificName": null,
+      "label": "Arctonyx collaris albogularis",
+      "source": {
+        "wikidata": "https://www.wikidata.org/wiki/Q20907665",
+        "wikipedia": "https://en.wikipedia.org/wiki/Arctonyx_collaris_albogularis"
+      },
+      "image": null
+    },
+    "parentSpecies": {
+      "qid": "Q744382",
+      "scientificName": "Arctonyx collaris",
+      "label": "Hog badger",
+      "source": {
+        "wikidata": "https://www.wikidata.org/wiki/Q744382",
+        "wikipedia": "https://en.wikipedia.org/wiki/Greater_hog_badger"
+      },
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arctonyx-collaris-hog-badger-2.jpg"
+    },
+    "reason": "taxon rank = subspecies",
+    "timestamp": "2025-12-17T17:12:37.725Z"
   }
 ]

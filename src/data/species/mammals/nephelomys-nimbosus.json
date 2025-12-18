@@ -1,0 +1,25 @@
+{
+  "id": "nephelomys-nimbosus",
+  "name": "Nephelomys nimbosus",
+  "scientificName": "Nephelomys nimbosus",
+  "wikibase_item": "Q6995003",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6995003",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_nimbosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys nimbosus is a species of rodent in the genus Nephelomys of family Cricetidae. Its type locality is at San Antonio on the northeastern slope of the Tungurahua in the Andes of Ecuador, at an altitude of about 6,700 feet (2,000 m). The type series included five individuals.",
+  "image": null
+}

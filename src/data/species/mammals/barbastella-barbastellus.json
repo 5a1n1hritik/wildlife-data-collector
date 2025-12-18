@@ -1,0 +1,25 @@
+{
+  "id": "barbastella-barbastellus",
+  "name": "Barbastelle",
+  "scientificName": "Barbastella barbastellus",
+  "wikibase_item": "Q215907",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 338951,
+      "id": "Q338951"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q215907",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbastella"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Barbastella is a genus of vespertilionid bats. There are seven extant species in this genus and one only known from fossil remains. It literally means \"starbeard\", and comes from the Latin words barba, 'beard', and stella, 'star', referring to the clusters of stiff hairs that some bats of this genus have around their nostrils, which may resemble a beard or, perhaps, the arrangement of the rays of a star. Furthermore, the Italian term barbastello is common for bats in northeastern Italy, especially in Ferrara and Bologna; this regional use of Italian could have influenced or been related to the choice of the scientific name. Barbastello is also believed to have originated from the Latin vespertilio, the classical word for 'bat'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mopsfledermaus-drawing.jpg"
+}

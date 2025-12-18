@@ -1,0 +1,22 @@
+{
+  "id": "uroderma-sp.",
+  "name": "Uroderma sp.",
+  "scientificName": "Uroderma sp.",
+  "wikibase_item": "Q41088781",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703698,
+      "id": "Q2703698"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088781"
+  },
+  "lastUpdated": "2025-12-17"
+}

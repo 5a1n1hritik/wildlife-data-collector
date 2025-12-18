@@ -1,0 +1,22 @@
+{
+  "id": "gulo-arcticus",
+  "name": "Gulo arcticus",
+  "scientificName": "Gulo arcticus",
+  "wikibase_item": "Q122781774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16894566,
+      "id": "Q16894566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122781774"
+  },
+  "lastUpdated": "2025-12-17"
+}

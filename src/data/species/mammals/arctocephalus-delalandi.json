@@ -1,0 +1,22 @@
+{
+  "id": "arctocephalus-delalandi",
+  "name": "Arctocephalus delalandi",
+  "scientificName": "Arctocephalus delalandi",
+  "wikibase_item": "Q40318734",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40318734"
+  },
+  "lastUpdated": "2025-12-17"
+}

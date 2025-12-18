@@ -1,0 +1,22 @@
+{
+  "id": "arcticonus-thibetanus",
+  "name": "Arcticonus thibetanus",
+  "scientificName": "Arcticonus thibetanus",
+  "wikibase_item": "Q122451771",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122451732,
+      "id": "Q122451732"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122451771"
+  },
+  "lastUpdated": "2025-12-17"
+}

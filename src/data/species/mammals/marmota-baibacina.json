@@ -1,0 +1,25 @@
+{
+  "id": "marmota-baibacina",
+  "name": "gray marmot",
+  "scientificName": "Marmota baibacina",
+  "wikibase_item": "Q326994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q326994",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray marmot, grey marmot, or Altai marmot is a species of rodent in the squirrel family Sciuridae. It is one of the larger marmots in the genus Marmota. It occurs in mountainous grasslands and shrub lands of central Asia, and is one of the 9 Palearctic (Eurasia) species. It is found in Xinjiang Province in China, southeastern Kazakhstan, Kyrgyzstan, Mongolia, and in the Altai and Tien Shan Mountains in southeastern Siberia in Russia. In the Mongolian Altai, its range overlaps with that of the Tarbagan marmot. Gray marmots form social groups, live in burrows, and hibernate.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Marmota_baibacina.jpg"
+}

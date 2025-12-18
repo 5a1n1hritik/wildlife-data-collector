@@ -1,0 +1,25 @@
+{
+  "id": "erophylla-sezekorni",
+  "name": "Buffy flower bat",
+  "scientificName": "Erophylla sezekorni",
+  "wikibase_item": "Q304392",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 310743,
+      "id": "Q310743"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304392",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buffy_flower_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The buffy flower bat is a species of bat in the leaf-nosed bat family, Phyllostomidae. It is found in the Bahamas, the Cayman Islands, Cuba, and Jamaica.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erophylla_sezekorni.jpg"
+}

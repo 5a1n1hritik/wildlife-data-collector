@@ -1,0 +1,22 @@
+{
+  "id": "alionoctula-babu",
+  "name": "Alionoctula babu",
+  "scientificName": "Alionoctula babu",
+  "wikibase_item": "Q135914505",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134953928,
+      "id": "Q134953928"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135914505"
+  },
+  "lastUpdated": "2025-12-17"
+}

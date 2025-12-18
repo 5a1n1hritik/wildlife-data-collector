@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-willardi",
+  "name": "Rhinolophus willardi",
+  "scientificName": "Rhinolophus willardi",
+  "wikibase_item": "Q15918670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15918670",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhinolophus_willardi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Willard's horseshoe bat is a newly described species of bat in the family Rhinolophidae. It is endemic to a small area in the Democratic Republic of the Congo. It is listed as endangered by the IUCN Red List.",
+  "image": null
+}

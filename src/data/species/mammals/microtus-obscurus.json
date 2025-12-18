@@ -1,0 +1,25 @@
+{
+  "id": "microtus-obscurus",
+  "name": "Microtus obscurus",
+  "scientificName": "Microtus obscurus",
+  "wikibase_item": "Q10584958",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10584958",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common vole is a European rodent.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Feldmaus_Microtus_arvalis.jpg"
+}

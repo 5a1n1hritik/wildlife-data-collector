@@ -1,0 +1,22 @@
+{
+  "id": "lasiurus-arequipae",
+  "name": "Lasiurus arequipae",
+  "scientificName": "Lasiurus arequipae",
+  "wikibase_item": "Q90504648",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 116317,
+      "id": "Q116317"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q90504648"
+  },
+  "lastUpdated": "2025-12-17"
+}

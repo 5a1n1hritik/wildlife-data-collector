@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-madurensis",
+  "name": "Madura horseshoe bat",
+  "scientificName": "Rhinolophus madurensis",
+  "wikibase_item": "Q2757500",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2757500",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madura_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Madura horseshoe bat is a species of bat from the family Rhinolophidae. Current taxonomy treats the Madura horseshoe bat as a species separate of the Sulawesi horseshoe bat and not including parvus, but Csorba et al. (2003) recognizes both as subspecies of the Sulawesi horseshoe bat. It is known only from seven specimens from Madura Island and the Kangean Islands in Indonesia, and its type locality is Soemenep, Madura Island. The species is listed as Vulnerable on the IUCN Red List, and it suffers from habitat loss due to limestone excavation and deforestation for logging and agriculture in its habitat. It is also unknown whether or not the Madura horseshoe bat lives in any protected areas. The species is cave-roosting and most likely independent of water, foraging in primary forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rhinolophus_madurensis_area.png"
+}

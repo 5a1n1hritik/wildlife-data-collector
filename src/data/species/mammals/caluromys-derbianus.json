@@ -1,0 +1,25 @@
+{
+  "id": "caluromys-derbianus",
+  "name": "Derby's woolly opossum",
+  "scientificName": "Caluromys derbianus",
+  "wikibase_item": "Q194243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20869935,
+      "id": "Q20869935"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194243",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derby's_woolly_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Derby's woolly opossum, or the Central American woolly opossum, is an opossum found in deciduous and moist evergreen forests of Central America, from southern Mexico to western Ecuador and Colombia. It was first described by English naturalist George Robert Waterhouse, and named in honor of Edward Smith-Stanley, 13th Earl of Derby. Derby's woolly opossum is the largest in its genus, with a total length of 60 to 70 centimetres and weight between 200 and 400 grams. The coat is brown and the underside white-buff to golden-brown. The opossum is nocturnal, arboreal (tree-living) and solitary. Diet consists of fruits, nectar, small invertebrates and vertebrates. The time when breeding takes place varies geographically. The litter size ranges from one to six. The IUCN classifies this opossum as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Central_American_woolly_opossum_%28Caluromys_derbianus%29_male.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "scapteromys-gnambiquarae",
+  "name": "Scapteromys gnambiquarae",
+  "scientificName": "Scapteromys gnambiquarae",
+  "wikibase_item": "Q41219722",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139896,
+      "id": "Q139896"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41219722"
+  },
+  "lastUpdated": "2025-12-17"
+}

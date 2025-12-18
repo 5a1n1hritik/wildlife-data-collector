@@ -1,0 +1,25 @@
+{
+  "id": "myrmecobius-fasciatus",
+  "name": "numbat",
+  "scientificName": "Myrmecobius fasciatus",
+  "wikibase_item": "Q242419",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10795872,
+      "id": "Q10795872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q242419",
+    "wikipedia": "https://en.wikipedia.org/wiki/Numbat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The numbat, also known as the noombat or walpurti, is an insectivorous marsupial. It is diurnal and its diet consists almost exclusively of termites.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg"
+}

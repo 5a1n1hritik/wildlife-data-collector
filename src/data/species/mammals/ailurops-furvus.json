@@ -1,0 +1,22 @@
+{
+  "id": "ailurops-furvus",
+  "name": "Ailurops furvus",
+  "scientificName": "Ailurops furvus",
+  "wikibase_item": "Q50409703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 905312,
+      "id": "Q905312"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50409703"
+  },
+  "lastUpdated": "2025-12-17"
+}

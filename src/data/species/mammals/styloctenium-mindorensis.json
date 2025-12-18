@@ -1,0 +1,25 @@
+{
+  "id": "styloctenium-mindorensis",
+  "name": "Mindoro stripe-faced fruit bat",
+  "scientificName": "Styloctenium mindorensis",
+  "wikibase_item": "Q1970678",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953340,
+      "id": "Q953340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1970678",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mindoro_stripe-faced_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mindoro stripe-faced fruit bat, nicknamed the \"flying fox\" for its foxlike face, is a species of large megabat that is endemic to the island of Mindoro. The Mindoro stripe-faced fruit bat ranked sixth in the top ten species of 2008, selected by the International Institute for Species Exploration.",
+  "image": null
+}

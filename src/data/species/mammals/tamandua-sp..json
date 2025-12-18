@@ -1,0 +1,22 @@
+{
+  "id": "tamandua-sp.",
+  "name": "Tamandua sp.",
+  "scientificName": "Tamandua sp.",
+  "wikibase_item": "Q40701754",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 428197,
+      "id": "Q428197"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40701754"
+  },
+  "lastUpdated": "2025-12-17"
+}

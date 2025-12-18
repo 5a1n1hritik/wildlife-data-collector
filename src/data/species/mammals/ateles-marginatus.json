@@ -1,0 +1,25 @@
+{
+  "id": "ateles-marginatus",
+  "name": "Ateles marginatus",
+  "scientificName": "Ateles marginatus",
+  "wikibase_item": "Q944704",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258244,
+      "id": "Q258244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q944704",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-cheeked_spider_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-cheeked spider monkey is a species of spider monkey, a type of New World monkey, endemic to Brazil. It moves around the forest canopy in small family groups of two to four, part of larger groups of a few dozen animals. This monkey feeds on leaves, flowers, fruits, bark, honey and small insects, and it is an important means of seed dispersal for forest trees. Females give birth after a 230-day gestation period. The population of this monkey is decreasing as its forest habitat is lost to soybean production, deforestation and road construction. It is also regarded as a delicacy and hunted for food. For these reasons, the International Union for Conservation of Nature has assessed the animal's conservation status as being \"endangered\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ateles_marginatus3.jpg"
+}

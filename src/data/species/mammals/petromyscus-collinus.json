@@ -1,0 +1,25 @@
+{
+  "id": "petromyscus-collinus",
+  "name": "Pygmy rock mouse",
+  "scientificName": "Petromyscus collinus",
+  "wikibase_item": "Q1762196",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386068,
+      "id": "Q386068"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762196",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_rock_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy rock mouse is a species of rodent in the family Nesomyidae.\nIt is found in Angola, Namibia, and South Africa.\nIts natural habitat is subtropical or tropical dry shrubland.",
+  "image": null
+}

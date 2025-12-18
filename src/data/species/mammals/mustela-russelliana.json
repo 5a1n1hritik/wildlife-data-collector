@@ -1,0 +1,25 @@
+{
+  "id": "mustela-russelliana",
+  "name": "Mustela russelliana",
+  "scientificName": "Mustela russelliana",
+  "wikibase_item": "Q41085323",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085323",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mustela_aistoodonnivalis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mustela aistoodonnivalis, the missing-toothed pygmy weasel or Sichuan weasel, is a species of weasel that inhabits mountains in the Shaanxi and Sichuan provinces of China.",
+  "image": null
+}

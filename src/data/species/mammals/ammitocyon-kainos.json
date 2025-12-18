@@ -1,0 +1,22 @@
+{
+  "id": "ammitocyon-kainos",
+  "name": "Ammitocyon kainos",
+  "scientificName": "Ammitocyon kainos",
+  "wikibase_item": "Q109264590",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 115382200,
+      "id": "Q115382200"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109264590"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "thylamys-velutinus",
+  "name": "Dwarf fat-tailed mouse opossum",
+  "scientificName": "Thylamys velutinus",
+  "wikibase_item": "Q194988",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194988",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf fat-tailed mouse opossum, also known as the velvety fat-tailed opossum, is an opossum species from South America. It is endemic to Brazil, where it is found in cerrado and caatinga habitats. Its head-and-body length ranges from 141 to 212 mm, with an average of 173 mm (6.8 in), and its tail length ranges from 73 to 85 mm with an average 78 mm (3.1 in). Its diet is 44% arthropods; 75% of its diet consists of animals and animal products. Its ventral fur is entirely gray-based. Its hind foot is less than 14 mm (0.55 in), which is short for the genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Dwarf_Fat-tailed_Mouse_Opossum_imported_from_iNaturalist_photo_351995812_on_19_October_2024.jpg"
+}

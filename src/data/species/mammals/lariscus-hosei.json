@@ -1,0 +1,25 @@
+{
+  "id": "lariscus-hosei",
+  "name": "Lariscus hosei",
+  "scientificName": "Lariscus hosei",
+  "wikibase_item": "Q309128",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 301584,
+      "id": "Q301584"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309128",
+    "wikipedia": "https://en.wikipedia.org/wiki/Four-striped_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The four-striped ground squirrel is a species of rodent in the family Sciuridae. It is endemic to Borneo. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss.",
+  "image": null
+}

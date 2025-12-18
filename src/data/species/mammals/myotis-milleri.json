@@ -1,0 +1,25 @@
+{
+  "id": "myotis-milleri",
+  "name": "Myotis milleri",
+  "scientificName": "Myotis milleri",
+  "wikibase_item": "Q9047569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9047569",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-eared_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-eared myotis is a species of vesper bat in the suborder Microchiroptera. It can be found in western Canada, the western United States, and Baja California in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Long-eared_myotis.jpg"
+}

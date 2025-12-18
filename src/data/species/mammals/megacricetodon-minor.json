@@ -1,0 +1,22 @@
+{
+  "id": "megacricetodon-minor",
+  "name": "Megacricetodon minor",
+  "scientificName": "Megacricetodon minor",
+  "wikibase_item": "Q117085057",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6009075,
+      "id": "Q6009075"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117085057"
+  },
+  "lastUpdated": "2025-12-17"
+}

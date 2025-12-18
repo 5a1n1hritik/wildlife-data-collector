@@ -1,0 +1,25 @@
+{
+  "id": "macrotis-lagotis",
+  "name": "greater bilby",
+  "scientificName": "Macrotis lagotis",
+  "wikibase_item": "Q371667",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 617087,
+      "id": "Q617087"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q371667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_bilby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater bilby or often simply bilby, is a long-eared, rabbit-like mammal native to Australia. It lives in burrows and is active at night, feeding on insects, fruit, or fungi. The bilby is a marsupial and carries its young in a pouch. Threats include habitat loss, disease, and introduced predators such as foxes. Formerly widespread, bilbies are now restricted to arid parts of northwestern and central Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bilby_at_Sydney_Wildlife_World.jpg"
+}

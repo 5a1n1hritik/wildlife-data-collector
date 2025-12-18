@@ -1,0 +1,25 @@
+{
+  "id": "dyacopterus-brooksi",
+  "name": "Brooks's Dyak Fruit Bat",
+  "scientificName": "Dyacopterus brooksi",
+  "wikibase_item": "Q1763518",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 578934,
+      "id": "Q578934"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763518",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooks's_dyak_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brooks's dyak fruit bat is a species of megabat in the family Pteropodidae endemic to Sumatra. It was formerly included as a subspecies of the dayak fruit bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Brooks%E2%80%99s_Dyak_Fruit_Bat_area.png"
+}

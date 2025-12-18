@@ -1,0 +1,25 @@
+{
+  "id": "zygodontomys-brunneus",
+  "name": "Zygodontomys brunneus",
+  "scientificName": "Zygodontomys brunneus",
+  "wikibase_item": "Q1770113",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 227934,
+      "id": "Q227934"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770113",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zygodontomys_brunneus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Zygodontomys brunneus, also known as the brown zygodont, brown cane mouse, or Colombian cane mouse, is a rodent species in the genus Zygodontomys of tribe Oryzomyini. It is found only in Colombia.",
+  "image": null
+}

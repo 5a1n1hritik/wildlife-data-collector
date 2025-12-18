@@ -1,0 +1,22 @@
+{
+  "id": "marmosa-nicaraguae",
+  "name": "Marmosa nicaraguae",
+  "scientificName": "Marmosa nicaraguae",
+  "wikibase_item": "Q110052719",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2592705,
+      "id": "Q2592705"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110052719"
+  },
+  "lastUpdated": "2025-12-17"
+}

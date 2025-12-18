@@ -1,0 +1,25 @@
+{
+  "id": "chalinolobus-nigrogriseus",
+  "name": "Hoary wattled bat",
+  "scientificName": "Chalinolobus nigrogriseus",
+  "wikibase_item": "Q302568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134516,
+      "id": "Q134516"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hoary_wattled_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hoary wattled bat is a species of vesper bat found in northern Australia and Papua New Guinea. Two subspecies are currently recognised:C. n. nigrogriseus \nC. n. rogersi ",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Distribution_of_Chalinolobus_nigrogriseus.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pronolagus-crassicaudatus",
+  "name": "Pronolagus crassicaudatus",
+  "scientificName": "Pronolagus crassicaudatus",
+  "wikibase_item": "Q1050155",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 685653,
+      "id": "Q685653"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1050155",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natal_red_rock_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Natal red rock hare or greater red rock hare is a species of mammal in the family Leporidae. It has a slightly grizzled, grayish brown head and reddish brown upperparts. The dense fur is thick and rougher than other rock hares. It is endemic to Africa, and found in southeastern provinces of South Africa, eastern Lesotho, Eswatini, and southern Mozambique. It is a herbivore, primarily feeding on grass. It breeds throughout the year, and one or two pups are usually born in the summer. It is rated as a species of least concern on the IUCN Red List of Endangered Species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Natal_red_rock_hare%2C_Pronolagus_crassicaudatus_I._Geoffroy%2C_1832.jpg"
+}

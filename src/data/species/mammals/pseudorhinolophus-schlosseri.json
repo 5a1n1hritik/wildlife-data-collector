@@ -1,0 +1,22 @@
+{
+  "id": "pseudorhinolophus-schlosseri",
+  "name": "Pseudorhinolophus schlosseri",
+  "scientificName": "Pseudorhinolophus schlosseri",
+  "wikibase_item": "Q70342971",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 63975763,
+      "id": "Q63975763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70342971"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "myremecophaga-tridactyla",
+  "name": "Myremecophaga tridactyla",
+  "scientificName": "Myremecophaga tridactyla",
+  "wikibase_item": "Q41166238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155911,
+      "id": "Q41155911"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166238"
+  },
+  "lastUpdated": "2025-12-17"
+}

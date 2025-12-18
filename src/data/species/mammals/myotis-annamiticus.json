@@ -1,0 +1,25 @@
+{
+  "id": "myotis-annamiticus",
+  "name": "Annamit myotis",
+  "scientificName": "Myotis annamiticus",
+  "wikibase_item": "Q652330",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q652330",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annamit_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Annamit myotis is a species of mouse-eared bat in the family Vespertilionidae, described in 2001, and indigenous to the Minh Hóa Districton the northern coast of Vietnam. Following its description, investigators succeeded in locating M. annamiticus only in Phong Nha-Kẻ Bàng National Park, and the data regarding the distribution, population, and range of the species is otherwise inadequate to determine its conservation requirements. However it is protected by Phong Nha-Kẻ Bàng National Park.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Myotis_annamiticus_distribution_%28colored%29.png"
+}

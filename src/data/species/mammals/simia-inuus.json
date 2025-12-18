@@ -1,0 +1,22 @@
+{
+  "id": "simia-inuus",
+  "name": "Simia inuus",
+  "scientificName": "Simia inuus",
+  "wikibase_item": "Q122258604",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1427112,
+      "id": "Q1427112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122258604"
+  },
+  "lastUpdated": "2025-12-17"
+}

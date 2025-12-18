@@ -1,0 +1,25 @@
+{
+  "id": "notamacropus-agilis",
+  "name": "agile wallaby",
+  "scientificName": "Notamacropus agilis",
+  "wikibase_item": "Q109262313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 108675804,
+      "id": "Q108675804"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109262313",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agile_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The agile wallaby, also known as the sandy wallaby, is a species of wallaby found in northern Australia and southern New Guinea. It is the most common wallaby in north Australia. The agile wallaby is a sandy colour, becoming paler below. It is sometimes solitary and at other times sociable and grazes on grasses and other plants. The agile wallaby is not considered threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Agile_Wallaby_pair_-_East_Point_Reserve.jpg"
+}

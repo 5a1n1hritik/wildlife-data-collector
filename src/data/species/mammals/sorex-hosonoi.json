@@ -1,0 +1,25 @@
+{
+  "id": "sorex-hosonoi",
+  "name": "Azumi shrew",
+  "scientificName": "Sorex hosonoi",
+  "wikibase_item": "Q1761835",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761835",
+    "wikipedia": "https://en.wikipedia.org/wiki/Azumi_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Azumi shrew is a species of mammal in the family Soricidae. It is endemic to Japan, where it is found in the mountainous regions of central Honshu Island. It is a close relative of the Eurasian least shrew. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Azumi_Shrew_area.png"
+}

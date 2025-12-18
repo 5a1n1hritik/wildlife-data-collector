@@ -1,0 +1,25 @@
+{
+  "id": "cryptochloris-wintoni",
+  "name": "De Winton's golden mole",
+  "scientificName": "Cryptochloris wintoni",
+  "wikibase_item": "Q1770353",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 137989,
+      "id": "Q137989"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770353",
+    "wikipedia": "https://en.wikipedia.org/wiki/De_Winton's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "De Winton's golden mole is a species of mammal in the family Chrysochloridae. It is endemic to South Africa. Its natural habitats are subtropical dry shrubland, Mediterranean-type shrubby vegetation, and sandy shores. It is threatened by habitat destruction and is \"critically endangered\". It was named after British zoologist William Edward de Winton.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De_Winton%27s_golden_mole_%28Cryptochloris_wintoni%29.jpg"
+}

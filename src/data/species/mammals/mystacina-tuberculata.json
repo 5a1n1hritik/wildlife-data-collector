@@ -1,0 +1,25 @@
+{
+  "id": "mystacina-tuberculata",
+  "name": "New Zealand lesser short-tailed bat",
+  "scientificName": "Mystacina tuberculata",
+  "wikibase_item": "Q955340",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 368565,
+      "id": "Q368565"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q955340",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Zealand_lesser_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Zealand lesser short-tailed bat is a small-sized omnivorous mammal endemic to the islands of New Zealand. It is one of two extant and three overall terrestrial mammal species unique to New Zealand. Its closest relative, the New Zealand greater short-tailed bat, was last seen in 1965 and is presumed extinct due to intense predation from ship rats introduced in the last few centuries. These bats are also commonly referred to as pekapeka, their Māori-language name. Lesser short-tailed bats have unique adaptations that differentiate them from bats found in other parts of the world. For example, they are fully capable of moving along the ground to search for food, and the males sing to attract partners, taking turns to do so. Lesser short-tailed bats are a vulnerable species, so extensive conservation work and research are being done to prevent extinction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mystacina_tuberculata.jpg"
+}

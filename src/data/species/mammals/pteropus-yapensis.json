@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-yapensis",
+  "name": "Pteropus yapensis",
+  "scientificName": "Pteropus yapensis",
+  "wikibase_item": "Q663157",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q663157",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pelew_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pelew flying fox is a species of megabat from the genus Pteropus found in the Palau Islands. A subspecies found on Yap, the Yap flying fox, is considered as a separate species by some authorities. The species is listed as vulnerable by the IUCN due to commercial and small-scale hunting. Commercial hunting for the species was banned in 1994, but local exploitation is common. The species is listed on CITES appendix I.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pteropus_pelewensis_yapensis.jpg"
+}

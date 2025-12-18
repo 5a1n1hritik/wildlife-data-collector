@@ -1,0 +1,22 @@
+{
+  "id": "pachysoma-jagorii",
+  "name": "Pachysoma jagorii",
+  "scientificName": "Pachysoma jagorii",
+  "wikibase_item": "Q125570428",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125570476,
+      "id": "Q125570476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125570428"
+  },
+  "lastUpdated": "2025-12-17"
+}

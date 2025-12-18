@@ -1,0 +1,25 @@
+{
+  "id": "grammomys-selousi",
+  "name": "Grammomys selousi",
+  "scientificName": "Grammomys selousi",
+  "wikibase_item": "Q3774287",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3774287",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selous_thicket_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Selous thicket rat is a species of rodent endemic to Tanzania.",
+  "image": null
+}

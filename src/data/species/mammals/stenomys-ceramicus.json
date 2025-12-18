@@ -1,0 +1,25 @@
+{
+  "id": "stenomys-ceramicus",
+  "name": "Stenomys ceramicus",
+  "scientificName": "Stenomys ceramicus",
+  "wikibase_item": "Q21205690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3498373,
+      "id": "Q3498373"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21205690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ceram_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ceram rat, also known as the Seram Island mountain rat, is a species of rodent in the family Muridae.\nIt is found only in Seram Island, Indonesia, where it has been recorded on Mount Mansuela. It is the only species of its genus, Nesoromys.",
+  "image": null
+}

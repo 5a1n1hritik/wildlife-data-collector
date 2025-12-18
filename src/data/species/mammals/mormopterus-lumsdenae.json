@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-lumsdenae",
+  "name": "Mormopterus lumsdenae",
+  "scientificName": "Mormopterus lumsdenae",
+  "wikibase_item": "Q18419326",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18419326",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_lumsdenae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ozimops lumsdenae is a species of molossid bat found in Australia, the largest of the genus Ozimops.",
+  "image": null
+}

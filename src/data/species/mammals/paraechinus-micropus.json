@@ -1,0 +1,25 @@
+{
+  "id": "paraechinus-micropus",
+  "name": "Indian hedgehog",
+  "scientificName": "Paraechinus micropus",
+  "wikibase_item": "Q1770532",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650378,
+      "id": "Q650378"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770532",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian hedgehog is a species of hedgehog native to India and Pakistan. It mainly lives in sandy desert areas but can be found in other environments.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Paraechinus_micropus.jpg"
+}

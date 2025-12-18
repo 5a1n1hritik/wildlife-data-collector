@@ -1,0 +1,25 @@
+{
+  "id": "megaloglossus-azagnyi",
+  "name": "Megaloglossus azagnyi",
+  "scientificName": "Megaloglossus azagnyi",
+  "wikibase_item": "Q31072941",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10792288,
+      "id": "Q10792288"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31072941",
+    "wikipedia": "https://en.wikipedia.org/wiki/Azagnyi_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Azagnyi fruit bat, also called the western Woermann’s fruit bat, is a species of megabat found in Africa.",
+  "image": null
+}

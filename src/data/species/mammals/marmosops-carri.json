@@ -1,0 +1,25 @@
+{
+  "id": "marmosops-carri",
+  "name": "Marmosops carri",
+  "scientificName": "Marmosops carri",
+  "wikibase_item": "Q59614165",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59614165",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky slender opossum is a species of opossum in the family Didelphidae. It is found in Colombia, Trinidad and Tobago, and Venezuela. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gray-bellied_Slender_Mouse_Opossum_area.png"
+}

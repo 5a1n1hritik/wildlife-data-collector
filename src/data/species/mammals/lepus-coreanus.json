@@ -1,0 +1,25 @@
+{
+  "id": "lepus-coreanus",
+  "name": "Korean hare",
+  "scientificName": "Lepus coreanus",
+  "wikibase_item": "Q1154116",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3734504,
+      "id": "Q3734504"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1154116",
+    "wikipedia": "https://en.wikipedia.org/wiki/Korean_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Korean hare is a species of hare native to the Korean Peninsula and adjoining parts of northeastern China. The Korean hare inhabits diverse habitats within its range, from remote mountain forests to cultivated land. Fur colour varies slightly among individuals, but is generally some shade of liver brown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Lepus_coreanus.jpg"
+}

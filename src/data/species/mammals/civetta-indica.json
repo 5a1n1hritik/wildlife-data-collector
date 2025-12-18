@@ -1,0 +1,22 @@
+{
+  "id": "civetta-indica",
+  "name": "Civetta indica",
+  "scientificName": "Civetta indica",
+  "wikibase_item": "Q122789523",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122789529,
+      "id": "Q122789529"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122789523"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "zenkerella-insignis",
+  "name": "Cameroon Scaly-tail",
+  "scientificName": "Zenkerella insignis",
+  "wikibase_item": "Q1031137",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19717489,
+      "id": "Q19717489"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1031137",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameroon_scaly-tail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cameroon scaly-tail, also referred to as the Cameroon anomalure, flightless anomalure or flightless scaly-tail, is a rodent species endemic to West Central Africa. The scientific literature has never reported observations of live individuals. The taxonomic classification of the species has been subject to recent revision.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aethurus_glirinus.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "atelerix-algirus",
+  "name": "North African hedgehog",
+  "scientificName": "Atelerix algirus",
+  "wikibase_item": "Q840762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 205065,
+      "id": "Q205065"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q840762",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_African_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North African hedgehog or Algerian hedgehog, is a mammal species in the family Erinaceidae native to Algeria, Libya, Malta, Morocco, Spain, and Tunisia. Little is known about this hedgehog, even though the most common breed of domesticated hedgehogs is a result of crossing a four-toed hedgehog with a North African hedgehog. Because this species of hedgehog is native to Africa, it has been suggested that it was introduced by humans to the other countries where it is now found, including Spain and the Canary Islands. Of the four African hedgehog species, the North African hedgehog is the only one of these hedgehogs that occurs outside Africa. Because the North African hedgehog has such a wide habitat range and has a seemingly stable population, both in the wild and in the domesticated capacity, it does not appear to currently be at risk.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Atelerix_algirus.jpg"
+}

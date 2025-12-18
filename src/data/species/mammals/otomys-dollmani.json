@@ -1,0 +1,25 @@
+{
+  "id": "otomys-dollmani",
+  "name": "Dollman's vlei rat",
+  "scientificName": "Otomys dollmani",
+  "wikibase_item": "Q1765562",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765562",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dollman's_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dollman's vlei rat is a species of rodent in the family Muridae.\nIt is found only in Kenya. Its natural habitats are subtropical or tropical high-altitude grassland and swamps. It is threatened by habitat loss. Some authorities, including the IUCN, regard it as a synonym of Otomys tropicalis.",
+  "image": null
+}

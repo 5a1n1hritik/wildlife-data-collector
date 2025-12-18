@@ -1,0 +1,25 @@
+{
+  "id": "marmosa-demerarae",
+  "name": "Marmosa demerarae",
+  "scientificName": "Marmosa demerarae",
+  "wikibase_item": "Q28173768",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28173768",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woolly_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The woolly mouse opossum or long-furred woolly mouse opossum, known locally as the cuíca, is a South American marsupial of the family Didelphidae. Its range includes central Colombia, Venezuela, French Guiana, Guyana, Suriname, eastern Peru, northern Bolivia, and northern Brazil. It was formerly assigned to the genus Micoureus, which was made a subgenus of Marmosa in 2009.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/North-eastern_Woolly_Mouse_Opossum_imported_from_iNaturalist_photo_417123381_on_18_October_2024.jpg"
+}

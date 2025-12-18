@@ -1,0 +1,25 @@
+{
+  "id": "pronolagus-randensis",
+  "name": "Pronolagus randensis",
+  "scientificName": "Pronolagus radensis",
+  "wikibase_item": "Q543227",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 685653,
+      "id": "Q685653"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q543227",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jameson's_red_rock_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Jameson's red rock hare is a species of rabbit in the family Leporidae found in rocky habitats in Zimbabwe, Angola, Namibia, South Africa, Botswana, and Mozambique. It is rufous and brown-furred, nocturnal, 42 to 50 cm in length and 1.82 to 2.95 kg in weight—slightly smaller than the largest of the red rock hare species, the Natal red rock hare.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pronolagus_randensis_Rudloff_%28cropped%29.jpg"
+}

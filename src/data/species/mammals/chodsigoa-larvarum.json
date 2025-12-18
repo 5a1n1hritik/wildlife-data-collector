@@ -1,0 +1,22 @@
+{
+  "id": "chodsigoa-larvarum",
+  "name": "Chodsigoa larvarum",
+  "scientificName": "Chodsigoa larvarum",
+  "wikibase_item": "Q41081970",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135091,
+      "id": "Q135091"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41081970"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dasycercus-marlowi",
+  "name": "Dasycercus marlowi",
+  "scientificName": "Dasycercus marlowi",
+  "wikibase_item": "Q124293784",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475367,
+      "id": "Q1475367"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124293784",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_mulgara"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little mulgara is a newly described species of mulgara. The species is named posthumously after Basil Marlow the Australian mammalogist and former curator of mammals at the Australian Museum.",
+  "image": null
+}

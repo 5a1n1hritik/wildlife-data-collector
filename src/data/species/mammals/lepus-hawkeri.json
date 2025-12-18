@@ -1,0 +1,22 @@
+{
+  "id": "lepus-hawkeri",
+  "name": "Lepus hawkeri",
+  "scientificName": "Lepus hawkeri",
+  "wikibase_item": "Q40494848",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40494848"
+  },
+  "lastUpdated": "2025-12-17"
+}

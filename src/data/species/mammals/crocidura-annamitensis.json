@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-annamitensis",
+  "name": "Crocidura annamitensis",
+  "scientificName": "Crocidura annamitensis",
+  "wikibase_item": "Q19596555",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19596555",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocidura_annamitensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crocidura annamitensis is a small species of shrew from Vietnam, where it is found in the Annamite Range. It is a small shrew- no more than 60 mm in head and body length, and is gray in color. It has a relatively short tail.",
+  "image": null
+}

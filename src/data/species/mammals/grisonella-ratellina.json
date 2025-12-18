@@ -1,0 +1,22 @@
+{
+  "id": "grisonella-ratellina",
+  "name": "Grisonella ratellina",
+  "scientificName": "Grisonella ratellina",
+  "wikibase_item": "Q41165025",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41153947,
+      "id": "Q41153947"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165025"
+  },
+  "lastUpdated": "2025-12-17"
+}

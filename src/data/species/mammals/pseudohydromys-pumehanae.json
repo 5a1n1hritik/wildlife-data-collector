@@ -1,0 +1,25 @@
+{
+  "id": "pseudohydromys-pumehanae",
+  "name": "Southern small-toothed moss-mouse",
+  "scientificName": "Pseudohydromys pumehanae",
+  "wikibase_item": "Q3924897",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311292,
+      "id": "Q311292"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924897",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_small-toothed_moss_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern small-toothed moss mouse is a species of rodent in the family Muridae found on the slopes of Mount Bosavi, Papua New Guinea.",
+  "image": null
+}

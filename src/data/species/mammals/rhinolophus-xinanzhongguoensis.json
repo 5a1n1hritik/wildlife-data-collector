@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-xinanzhongguoensis",
+  "name": "Rhinolophus xinanzhongguoensis",
+  "scientificName": "Rhinolophus xinanzhongguoensis",
+  "wikibase_item": "Q10360333",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10360333",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhinolophus_xinanzhongguoensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rhinolophus xinanzhongguoensis, the wedge-sellaed horseshoe bat or southwestern China horseshoe bat, is a species of horseshoe bat from China.",
+  "image": null
+}

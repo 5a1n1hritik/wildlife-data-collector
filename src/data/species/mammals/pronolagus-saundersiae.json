@@ -1,0 +1,25 @@
+{
+  "id": "pronolagus-saundersiae",
+  "name": "Hewitt's red rock hare",
+  "scientificName": "Pronolagus saundersiae",
+  "wikibase_item": "Q2924081",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 685653,
+      "id": "Q685653"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2924081",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hewitt's_red_rock_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hewitt's red rock hare is a species of rabbit in the family Leporidae found in South Africa, Eswatini, and Lesotho. It is a medium-sized, densely furred rufous and brown rabbit that behaves similarly to other red rock hares, with a preference for higher elevated rocky habitats. Previously classified as a subspecies of Smith's red rock hare, it is now regarded as its own species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pronolagus_saundersiae_328690117.jpg"
+}

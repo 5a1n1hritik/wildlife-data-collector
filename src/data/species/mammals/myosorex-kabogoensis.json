@@ -1,0 +1,25 @@
+{
+  "id": "myosorex-kabogoensis",
+  "name": "Myosorex kabogoensis",
+  "scientificName": "Myosorex kabogoensis",
+  "wikibase_item": "Q31073128",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31073128",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kabogo_mouse_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kabogo mouse shrew is a species of mammal in the family Soricidae endemic to Democratic Republic of Congo. Its natural habitat is forests and inland wetlands. It eats insects, as well as small birds and mammals.",
+  "image": null
+}

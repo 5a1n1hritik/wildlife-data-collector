@@ -1,0 +1,22 @@
+{
+  "id": "nasillus-investigator",
+  "name": "Nasillus investigator",
+  "scientificName": "Nasillus investigator",
+  "wikibase_item": "Q41166277",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155983,
+      "id": "Q41155983"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166277"
+  },
+  "lastUpdated": "2025-12-17"
+}

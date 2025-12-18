@@ -1,0 +1,25 @@
+{
+  "id": "hapalemur-alaotrensis",
+  "name": "Hapalemur alaotrensis",
+  "scientificName": "Hapalemur alaotrensis",
+  "wikibase_item": "Q575671",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544028,
+      "id": "Q544028"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q575671",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lac_Alaotra_bamboo_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lac Alaotra bamboo lemur, also known as the Lac Alaotra gentle lemur, Alaotran bamboo lemur, Alaotran gentle lemur, Alaotra reed lemur, or locally as the bandro, is a bamboo lemur. It is endemic to the reed beds in and around Lac Alaotra, in northeast Madagascar. It is about 40 cm (16 in) long, with a similar length tail, and is a brownish-gray colour. It is the only bamboo lemur to live in and feed on papyrus reeds, and other reeds and grasses, and some authorities argue that it should be regarded as a subspecies of the eastern lesser bamboo lemur. The population of this lemur has been declining because of habitat destruction and the International Union for Conservation of Nature has rated it as being \"critically endangered\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hapalemur_alaotrensis_JJLM.JPG"
+}

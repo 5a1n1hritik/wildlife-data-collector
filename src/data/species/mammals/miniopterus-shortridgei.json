@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-shortridgei",
+  "name": "Miniopterus shortridgei",
+  "scientificName": "Miniopterus shortridgei",
+  "wikibase_item": "Q2494131",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2494131",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shortridge's_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shortridge's long-fingered bat is a bat in the genus Miniopterus which occurs throughout Indonesia. It was described by Eleanor Mary Ord Laurie and John Edwards Hill in 1957.",
+  "image": null
+}

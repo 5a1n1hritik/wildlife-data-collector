@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-pallasi",
+  "name": "Pallas's pika",
+  "scientificName": "Ochotona pallasi",
+  "wikibase_item": "Q1765269",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765269",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pallas's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pallas's pika, also known as the Mongolian pika, is a species of small mammals in the pika family, Ochotonidae. It is found mainly in the mountains of western Mongolia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ochotona_pallasi.jpg"
+}

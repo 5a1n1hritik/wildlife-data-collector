@@ -1,0 +1,25 @@
+{
+  "id": "gerbillus-jamesi",
+  "name": "Gerbillus jamesi",
+  "scientificName": "Gerbillus jamesi",
+  "wikibase_item": "Q22079606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22079606",
+    "wikipedia": "https://en.wikipedia.org/wiki/James's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "James's gerbil is a species of rodent endemic to the eastern coast of Tunisia.",
+  "image": null
+}

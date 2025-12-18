@@ -1,0 +1,25 @@
+{
+  "id": "martes-caurina",
+  "name": "Martes caurina",
+  "scientificName": "Martes caurina",
+  "wikibase_item": "Q25427460",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26533,
+      "id": "Q26533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25427460",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pacific_marten"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pacific marten is a species of North American mammal, a member of the family Mustelidae. It is found throughout western North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pacific_marten_Martes_caurina.jpg"
+}

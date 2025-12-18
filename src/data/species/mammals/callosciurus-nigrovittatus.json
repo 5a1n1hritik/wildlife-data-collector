@@ -1,0 +1,25 @@
+{
+  "id": "callosciurus-nigrovittatus",
+  "name": "Black-striped squirrel",
+  "scientificName": "Callosciurus nigrovittatus",
+  "wikibase_item": "Q3733424",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3733424",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-striped_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-striped squirrel is a species of rodent in the family Sciuridae.\nIt is found throughout Java, Sumatra, southern Thailand, the Malay Peninsula, and numerous small islands. This taxon consists of four subspecies: C. n. nigrovittatus, C. n. bilimitatus, C. n. bocki, and C. n. klossi. It is listed as \"least concern\" by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Black-striped_squirrel.jpg"
+}

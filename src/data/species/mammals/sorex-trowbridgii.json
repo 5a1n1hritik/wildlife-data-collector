@@ -1,0 +1,25 @@
+{
+  "id": "sorex-trowbridgii",
+  "name": "Trowbridge's Shrew",
+  "scientificName": "Sorex trowbridgii",
+  "wikibase_item": "Q1767462",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767462",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trowbridge's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Trowbridge's shrew is a species of mammal in the family Soricidae. It is found in southern British Columbia in Canada and in Washington, Oregon, and California in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Trowbridge%27s_Shrew_%28Sorex_trowbridgii%29_observed_by_bob-dodge.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "proechimys-urichi",
+  "name": "Sucre Spiny-rat",
+  "scientificName": "Proechimys urichi",
+  "wikibase_item": "Q1762031",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762031",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sucre_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sucre spiny-rat is a species of rodent in the family Echimyidae. It is endemic to Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Proechimys_urichi_distribution_%28colored%29.png"
+}

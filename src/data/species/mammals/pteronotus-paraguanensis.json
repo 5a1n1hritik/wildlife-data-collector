@@ -1,0 +1,25 @@
+{
+  "id": "pteronotus-paraguanensis",
+  "name": "Pteronotus paraguanensis",
+  "scientificName": "Pteronotus paraguanensis",
+  "wikibase_item": "Q2971360",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 916924,
+      "id": "Q916924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2971360",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paraguana_moustached_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Paraguana moustached bat occurs only on the Paraguaná Peninsula of Venezuela. The entire population uses three caves, one of which is subject to human vandalism. Their total range is less than 400 km2 (150 sq mi). In 2008, the caves where the bat is found were protected by the creation of the Cuevas de Paraguaná Wildlife Sanctuary–the first wildlife sanctuary in Venezuela.",
+  "image": null
+}

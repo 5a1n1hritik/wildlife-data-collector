@@ -1,0 +1,25 @@
+{
+  "id": "murina-silvatica",
+  "name": "Forest tube-nosed bat",
+  "scientificName": "Murina silvatica",
+  "wikibase_item": "Q518268",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q518268",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ussuri_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ussuri tube-nosed bat or Forest tube-nosed bat is a species of vesper bat in the family Vespertilionidae. It is threatened by habitat loss.\nIt is the only species of bat that hibernates in snowbanks.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Murina_ussuriensis.jpg"
+}

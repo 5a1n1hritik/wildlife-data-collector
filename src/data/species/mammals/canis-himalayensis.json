@@ -1,0 +1,25 @@
+{
+  "id": "canis-himalayensis",
+  "name": "Himalayan wolf",
+  "scientificName": "Canis himalayensis",
+  "wikibase_item": "Q2468673",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2468673",
+    "wikipedia": "https://en.wikipedia.org/wiki/Himalayan_wolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Himalayan wolf is a canine of debated taxonomy. It is distinguished by its genetic markers, with mitochondrial DNA indicating that it is genetically basal to the Holarctic grey wolf, genetically the same wolf as the Tibetan and Mongolian wolf, and has an association with the African wolf. No striking morphological differences are seen between the wolves from the Himalayas and those from Tibet. The Himalayan wolf lineage can be found living in Ladakh in the Himalayas, the Tibetan Plateau, and the mountains of Central Asia predominantly above 4,000 m (13,000 ft) in elevation because it has adapted to a low-oxygen environment, compared with other wolves that are found only at lower elevations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Himalayan_wolf%2C_Annapurna_Conservation_Area.jpg"
+}

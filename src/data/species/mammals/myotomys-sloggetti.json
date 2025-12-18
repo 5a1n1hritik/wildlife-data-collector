@@ -1,0 +1,25 @@
+{
+  "id": "myotomys-sloggetti",
+  "name": "Myotomys sloggetti",
+  "scientificName": "Myotomys sloggetti",
+  "wikibase_item": "Q27431466",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 144870,
+      "id": "Q144870"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27431466",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sloggett's_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sloggett's vlei rat or ice rat is a species of rodent in the family Muridae. \nIt is found in southern Lesotho and South Africa where its natural habitats are subtropical or tropical high-altitude grassland, swamps, and rocky areas. Its name commemorates Col. Arthur Sloggett who served in South Africa and collected at Deelfontein in 1902. This is a common species and the International Union for Conservation of Nature has rated it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Otomys_sloggetti.png"
+}

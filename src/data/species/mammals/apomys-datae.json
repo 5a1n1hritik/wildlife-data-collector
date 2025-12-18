@@ -1,0 +1,25 @@
+{
+  "id": "apomys-datae",
+  "name": "Luzon Montane Forest Mouse",
+  "scientificName": "Apomys datae",
+  "wikibase_item": "Q307898",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307898",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luzon_montane_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Luzon montane forest mouse is a species of rodent in the family Muridae, from the genus Apomys.\nIt occurs only in the Philippines, where it has been found on the large northern island Luzon. It is most closely related to the large Mindoro forest mouse, which occurs on Mindoro. There may be another related species in the Sierra Madre, but this species is yet undescribed. The Luzon montane forest mouse is a relatively large, ground-dwelling rat with a tail that is quite short for its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Apomys_datae_2008_stamp_of_the_Philippines.jpg"
+}

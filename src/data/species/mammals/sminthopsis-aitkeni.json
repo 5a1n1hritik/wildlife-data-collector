@@ -1,0 +1,25 @@
+{
+  "id": "sminthopsis-aitkeni",
+  "name": "Kangaroo Island dunnart",
+  "scientificName": "Sminthopsis aitkeni",
+  "wikibase_item": "Q134083",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134083",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kangaroo_Island_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kangaroo Island dunnart is a dark sooty-grey coloured dunnart species first described in 1969, with paler underparts of its body. It has an average body length of 170–198 mm (6.7–7.8 in), a snout to anus length of 80–93 mm (3.1–3.7 in), a tail measurement of 90–105 mm (3.5–4.1 in), a hind foot of 17.5 mm (0.69 in), ear length of 18 mm (0.71 in) and a weight of 20–25 grams (0.71–0.88 oz). The thin tail is also gray, but lighter on the bottom. The tail is longer than the body. Kangaroo Island dunnarts are dimorphic, with males larger than females.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SminthopsisAitkeni.webp/1200px-SminthopsisAitkeni.webp.png"
+}

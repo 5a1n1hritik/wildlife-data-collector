@@ -1,0 +1,25 @@
+{
+  "id": "monachus-schauinslandi",
+  "name": "Hawaiian Monk Seal",
+  "scientificName": "Monachus schauinslandi",
+  "wikibase_item": "Q695199",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 676454,
+      "id": "Q676454"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q695199",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawaiian_monk_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hawaiian monk seal is an endangered species of earless seal in the family Phocidae that is endemic to the Hawaiian Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Monachus_schauinslandi.jpg"
+}

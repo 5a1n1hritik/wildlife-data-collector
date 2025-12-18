@@ -1,0 +1,25 @@
+{
+  "id": "melomys-fraterculus",
+  "name": "Manusela Mosaic-tailed Rat",
+  "scientificName": "Melomys fraterculus",
+  "wikibase_item": "Q1763523",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763523",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manusela_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Manusela mosaic-tailed rat is a species of rodent in the family Muridae. It is found only in Indonesia. It lives in the rainforests on the island of Seram in Indonesia. Specimens of it weigh 66.5g and have a head and body length of 118-135mm and a tail length of 126–140mm.",
+  "image": null
+}

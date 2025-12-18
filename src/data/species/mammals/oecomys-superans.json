@@ -1,0 +1,25 @@
+{
+  "id": "oecomys-superans",
+  "name": "Oecomys superans",
+  "scientificName": "Oecomys superans",
+  "wikibase_item": "Q1768831",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768831",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_superans"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys superans, also known as the large oecomys or foothill arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. It is found along the eastern slope of the Andes in southern Colombia, Ecuador, and Peru and east into the Amazon basin, including parts of Brazil. Its distribution is poorly known, and it may also occur further south, into Bolivia.",
+  "image": null
+}

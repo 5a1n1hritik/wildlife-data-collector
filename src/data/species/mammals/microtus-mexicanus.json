@@ -1,0 +1,25 @@
+{
+  "id": "microtus-mexicanus",
+  "name": "Microtus mexicanus",
+  "scientificName": "Microtus mexicanus",
+  "wikibase_item": "Q1764689",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764689",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican vole is a species of vole.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Microtus_mexicanus.jpg"
+}

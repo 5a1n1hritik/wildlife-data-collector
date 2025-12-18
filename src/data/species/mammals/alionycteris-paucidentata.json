@@ -1,0 +1,25 @@
+{
+  "id": "alionycteris-paucidentata",
+  "name": "Mindanao pygmy fruit bat",
+  "scientificName": "Alionycteris paucidentata",
+  "wikibase_item": "Q301098",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 13429033,
+      "id": "Q13429033"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301098",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mindanao_pygmy_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mindanao pygmy fruit bat is a species of megabat in the family Pteropodidae. It is the only species within the genus Alionycteris. It is endemic to the Philippines. Its natural habitat is subtropical or tropical dry forests at high elevations that are either scarce or overtaken by tourist hotspots. As a result, this species may be seeking new elevated habitats likely in the southern region of the Philippines and along the islands of Sulawesi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mindanao_Pygmy_Fruit_Bat_area.png"
+}

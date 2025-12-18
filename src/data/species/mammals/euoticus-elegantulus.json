@@ -1,0 +1,25 @@
+{
+  "id": "euoticus-elegantulus",
+  "name": "Southern needle-clawed bushbaby",
+  "scientificName": "Euoticus elegantulus",
+  "wikibase_item": "Q1365863",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1193762,
+      "id": "Q1193762"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1365863",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_needle-clawed_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern needle-clawed bushbaby is a species of strepsirrhine primate in the family Galagidae. Found in Cameroon, Central African Republic, Republic of the Congo, and possibly Democratic Republic of the Congo, its natural habitat is tropical moist forests. While the species is not threatened or endangered, some local populations may be threatened by habitat destruction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euoticus_elegantulus_30281428_%28cropped%29.jpg"
+}

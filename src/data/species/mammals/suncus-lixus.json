@@ -1,0 +1,25 @@
+{
+  "id": "suncus-lixus",
+  "name": "Greater Dwarf Shrew",
+  "scientificName": "Suncus lixus",
+  "wikibase_item": "Q1768012",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768012",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_dwarf_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater dwarf shrew is a species of mammal in the family Soricidae. It is found in Angola, Botswana, Democratic Republic of the Congo, Kenya, Malawi, Namibia, Tanzania, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical dry forests and dry savanna. It is present in several protected areas, including the Kruger National Park. The main threat to greater dwarf shrews is the loss or degradation of moist, productive areas such as wetlands and rank grasslands within suitable habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Suncus_lixus_dead.jpeg"
+}

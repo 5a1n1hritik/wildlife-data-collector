@@ -1,0 +1,25 @@
+{
+  "id": "rousettus-linduensis",
+  "name": "Linduan rousette",
+  "scientificName": "Rousettus linduensis",
+  "wikibase_item": "Q1767079",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19716600,
+      "id": "Q19716600"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767079",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linduan_rousette"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Linduan rousette is a species of megabat in the Rousettus genus of the family Pteropodidae. It is endemic to Indonesia and is known only from four specimens collected in the swamp forest of Lore Lindu National Park, in central Sulawesi. It was first described in 2003.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Linduan_Rousette_area.png"
+}

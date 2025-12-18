@@ -1,0 +1,25 @@
+{
+  "id": "surdisorex-norae",
+  "name": "Aberdare mole shrew",
+  "scientificName": "Surdisorex norae",
+  "wikibase_item": "Q1769856",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1911147,
+      "id": "Q1911147"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769856",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aberdare_mole_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Aberdare mole shrew is a species of mammal in the family Soricidae endemic to the Aberdare Mountains in Kenya. Its natural habitat is tropical high-elevation bamboo and grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Aberdare_Mole_Shrew_area.png"
+}

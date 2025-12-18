@@ -1,0 +1,25 @@
+{
+  "id": "erinaceus-concolor",
+  "name": "Southern white-breasted hedgehog",
+  "scientificName": "Erinaceus concolor",
+  "wikibase_item": "Q748436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498993,
+      "id": "Q498993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q748436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_white-breasted_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern white-breasted hedgehog, sometimes referred to as white-bellied hedgehog or white-chested hedgehog, is a hedgehog native to Eastern Europe and Southwestern Asia. These hedgehogs are becomingly increasingly popular as pets in the United States and Iran.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/2008_Hedgehog_1020932.jpg"
+}

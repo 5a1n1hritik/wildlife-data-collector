@@ -1,0 +1,22 @@
+{
+  "id": "scotophilus-gigas",
+  "name": "Scotophilus gigas",
+  "scientificName": "Scotophilus gigas",
+  "wikibase_item": "Q41088229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088229"
+  },
+  "lastUpdated": "2025-12-17"
+}

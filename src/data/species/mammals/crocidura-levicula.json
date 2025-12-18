@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-levicula",
+  "name": "Sulawesi Tiny Shrew",
+  "scientificName": "Crocidura levicula",
+  "wikibase_item": "Q1767397",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767397",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sulawesi_tiny_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sulawesi tiny shrew is a species of mammal in the family Soricidae. It is endemic to the island of Sulawesi in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sulawesi_Tiny_Shrew_area.png"
+}

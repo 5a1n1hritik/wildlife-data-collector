@@ -1,0 +1,25 @@
+{
+  "id": "neoromicia-roseveari",
+  "name": "Neoromicia roseveari",
+  "scientificName": "Neoromicia roseveari",
+  "wikibase_item": "Q8096223",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8096223",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosevear's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rosevear's serotine is a species of vesper bat that lives in Guinea and Liberia. It was described as a new species in 2013. It is listed as endangered by the IUCN.",
+  "image": null
+}

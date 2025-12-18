@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-sinicus",
+  "name": "Chinese rufous horseshoe bat",
+  "scientificName": "Rhinolophus sinicus",
+  "wikibase_item": "Q1767536",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767536",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_rufous_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese rufous horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Bhutan, China, India, Nepal, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Naturalis_Biodiversity_Center_-_RMNH.MAM.33160.b_ven_-_Rhinolophus_sinicus_-_skin.jpeg"
+}

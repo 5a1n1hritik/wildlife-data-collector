@@ -1,0 +1,25 @@
+{
+  "id": "mops-nanulus",
+  "name": "Dwarf free-tailed bat",
+  "scientificName": "Mops nanulus",
+  "wikibase_item": "Q1831185",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19717467,
+      "id": "Q19717467"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831185",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf free-tailed bat is a species of bat in the family Molossidae. It is found in Cameroon, Democratic Republic of the Congo, Ivory Coast, Ethiopia, Ghana, Guinea, Kenya, Nigeria, Sierra Leone, South Sudan, and Uganda. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical moist lowland forests.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "scapanus-anthonyi",
+  "name": "Scapanus anthonyi",
+  "scientificName": "Scapanus anthonyi",
+  "wikibase_item": "Q106248280",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2091646,
+      "id": "Q2091646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106248280",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican mole is a species of mammal in the family Talpidae. It is endemic to Baja California in Mexico, where it is restricted to the highlands of the Sierra de San Pedro Mártir mountain range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Scapanus_anthonyi_distribution_map.svg/960px-Scapanus_anthonyi_distribution_map.svg.png"
+}

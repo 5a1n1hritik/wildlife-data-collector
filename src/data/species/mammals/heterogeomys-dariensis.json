@@ -1,0 +1,25 @@
+{
+  "id": "heterogeomys-dariensis",
+  "name": "Heterogeomys dariensis",
+  "scientificName": "Heterogeomys dariensis",
+  "wikibase_item": "Q27998455",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 27996196,
+      "id": "Q27996196"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27998455",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darien_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Darien pocket gopher is a species of rodent in the family Geomyidae. It occurs in Panama and Colombia. Some authors classify it in the genus Orthogeomys, but later research has allowed this and its related species to be classified in the genus Heterogeomys.",
+  "image": null
+}

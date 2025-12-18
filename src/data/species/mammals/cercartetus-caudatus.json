@@ -1,0 +1,22 @@
+{
+  "id": "cercartetus-caudatus",
+  "name": "long-tailed pygmy possum",
+  "scientificName": "Cercartetus caudatus",
+  "wikibase_item": "Q209747",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 576870,
+      "id": "Q576870"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209747"
+  },
+  "lastUpdated": "2025-12-17"
+}

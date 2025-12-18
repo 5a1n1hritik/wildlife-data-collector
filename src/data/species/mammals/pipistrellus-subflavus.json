@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-subflavus",
+  "name": "Eastern pipistrelle",
+  "scientificName": "Pipistrellus subflavus",
+  "wikibase_item": "Q478631",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q478631",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tricolored_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tricolored bat or American perimyotis is a species of microbat native to eastern North America. Formerly known as the eastern pipistrelle, based on the incorrect belief that it was closely related to European Pipistrellus species, the closest known relative of the tricolored bat is now recognized as the canyon bat. Its common name \"tricolored bat\" derives from the coloration of the hairs on its back, which have three distinct color bands. It is the smallest bat species in the eastern and midwestern US, with individuals weighing only 4.6–7.9 g (0.16–0.28 oz). This species mates in the fall before hibernation, though due to sperm storage, females do not become pregnant until the spring. Young are born helpless, though rapidly develop, flying and foraging for themselves by four weeks old. It has a relatively long lifespan, and can live nearly fifteen years.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/221205-F-KN521-0087.jpg"
+}

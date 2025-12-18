@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-lekaguli",
+  "name": "Hipposideros lekaguli",
+  "scientificName": "Hipposideros lekaguli",
+  "wikibase_item": "Q1767005",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_Asian_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large Asian roundleaf bat is a species of bat in the family Hipposideridae. It is found in Malaysia, the Philippines, and Thailand. The specific name commemorates Thai zoologist and conservationist Boonsong Lekagul.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Large_Asian_Roundleaf_Bat_area.png"
+}

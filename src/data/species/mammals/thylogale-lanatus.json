@@ -1,0 +1,25 @@
+{
+  "id": "thylogale-lanatus",
+  "name": "Mountain pademelon",
+  "scientificName": "Thylogale lanatus",
+  "wikibase_item": "Q135878",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668527,
+      "id": "Q668527"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135878",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_pademelon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain pademelon is one of seven species of the genus Thylogale. It is found only in Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1928.10.1.4_Skin_Dorsal_Skins-1_MG_1438-S.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "caluromys-philander",
+  "name": "bare-tailed woolly opossum",
+  "scientificName": "Caluromys philander",
+  "wikibase_item": "Q194440",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20869932,
+      "id": "Q20869932"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194440",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bare-tailed_woolly_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bare-tailed woolly opossum is an opossum from South America. It was first described by Swedish zoologist Carl Linnaeus in 1758. The bare-tailed woolly opossum is characterized by a gray head, brown to gray coat, orange to gray underside and a partially naked tail. It is nocturnal and solitary; there is hardly any social interaction except between mother and juveniles and in mating pairs. The opossum constructs nests in tree cavities, and its litter size ranges from one to seven. Gestation lasts 25 days, and the juveniles exit the pouch after three months; weaning occurs a month later. The bare-tailed woolly opossum inhabits subtropical forests, rainforests, secondary forests, and plantations; its range extends from northern Venezuela to northeastern and southcentral Brazil. The IUCN classifies this opossum as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Caluromys_philander_284958705.jpg"
+}

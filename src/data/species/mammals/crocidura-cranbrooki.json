@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-cranbrooki",
+  "name": "Crocidura cranbrooki",
+  "scientificName": "Crocidura cranbrooki",
+  "wikibase_item": "Q19596557",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19596557",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocidura_cranbrooki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crocidura cranbrooki is a species of shrew from Northern Myanmar.",
+  "image": null
+}

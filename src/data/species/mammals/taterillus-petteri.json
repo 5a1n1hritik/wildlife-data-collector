@@ -1,0 +1,25 @@
+{
+  "id": "taterillus-petteri",
+  "name": "Petter's gerbil",
+  "scientificName": "Taterillus petteri",
+  "wikibase_item": "Q1765874",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111842,
+      "id": "Q111842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765874",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petter's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Petter's gerbil or Petter's tateril is a species of rodent found in Burkina Faso, Mali, and Niger. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, arable land, and rural gardens.",
+  "image": null
+}

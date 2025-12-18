@@ -1,0 +1,25 @@
+{
+  "id": "hypsugo-arabicus",
+  "name": "Arabian pipistrelle",
+  "scientificName": "Hypsugo arabicus",
+  "wikibase_item": "Q1829599",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829599",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arabian_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arabian pipistrelle is a species of vesper bat in the family Vespertilionidae. It is found only in Iran and Oman.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Distribution_of_Hypsugo_arabicus.png"
+}

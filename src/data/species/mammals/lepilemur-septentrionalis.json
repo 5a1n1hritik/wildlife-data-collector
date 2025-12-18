@@ -1,0 +1,25 @@
+{
+  "id": "lepilemur-septentrionalis",
+  "name": "Lepilemur septentrionalis",
+  "scientificName": "Lepilemur septentrionalis",
+  "wikibase_item": "Q233936",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q233936",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern sportive lemur, also known as the Sahafary sportive lemur or northern weasel lemur, is a species of lemur in the family Lepilemuridae. It is endemic to Madagascar. As a result of severe ecological and human pressures, the lemur is classified as Critically Endangered (CR) by the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lepilemur_septentrionalis.jpg"
+}

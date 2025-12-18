@@ -1,0 +1,22 @@
+{
+  "id": "antrozous-koopmani",
+  "name": "Antrozous koopmani",
+  "scientificName": "Antrozous koopmani",
+  "wikibase_item": "Q133273892",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10734383,
+      "id": "Q10734383"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133273892"
+  },
+  "lastUpdated": "2025-12-17"
+}

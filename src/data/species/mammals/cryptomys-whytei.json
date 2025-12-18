@@ -1,0 +1,22 @@
+{
+  "id": "cryptomys-whytei",
+  "name": "Cryptomys whytei",
+  "scientificName": "Cryptomys whytei",
+  "wikibase_item": "Q41648494",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41648494"
+  },
+  "lastUpdated": "2025-12-17"
+}

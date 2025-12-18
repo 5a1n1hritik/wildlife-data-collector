@@ -1,0 +1,25 @@
+{
+  "id": "nyctimene-minutus",
+  "name": "Nyctimene minutus",
+  "scientificName": "Nyctimene minutus",
+  "wikibase_item": "Q1765915",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765915",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser tube-nosed bat is a species of megabat in the family Pteropodidae. It is native to two of the Maluku Islands in northern Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lesser_Tube-nosed_Bat_area.png"
+}

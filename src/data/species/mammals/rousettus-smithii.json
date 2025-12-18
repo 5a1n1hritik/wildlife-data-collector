@@ -1,0 +1,22 @@
+{
+  "id": "rousettus-smithii",
+  "name": "Rousettus smithii",
+  "scientificName": "Rousettus smithi",
+  "wikibase_item": "Q40677367",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1189557,
+      "id": "Q1189557"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40677367"
+  },
+  "lastUpdated": "2025-12-17"
+}

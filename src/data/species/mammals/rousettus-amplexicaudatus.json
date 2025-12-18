@@ -1,0 +1,25 @@
+{
+  "id": "rousettus-amplexicaudatus",
+  "name": "Rousettus amplexicaudatus",
+  "scientificName": "Rousettus amplexicaudatus",
+  "wikibase_item": "Q1443996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19716600,
+      "id": "Q19716600"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1443996",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffroy's_rousette"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Geoffroy's rousette is a species of megabat or Old World fruit bats. It is one of ten species in the genus Rousettus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pteropus_amplexicaudatus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20700035.tif/lossy-page1-4505px-Pteropus_amplexicaudatus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20700035.tif.jpg"
+}

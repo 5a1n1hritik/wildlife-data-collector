@@ -1,0 +1,25 @@
+{
+  "id": "nycteris-arge",
+  "name": "Bate's slit-faced bat",
+  "scientificName": "Nycteris arge",
+  "wikibase_item": "Q1831239",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831239",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bates's_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bates's slit-faced bat is a species of slit-faced bat frequently confused with Nycteris major. It is broadly distributed and common, living throughout many parts of Africa in forests and savannas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Naturalis_Biodiversity_Center_-_RMNH.MAM.16366.b_ven_-_Nycteris_arge_-_skin.jpeg"
+}

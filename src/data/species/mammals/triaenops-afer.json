@@ -1,0 +1,25 @@
+{
+  "id": "triaenops-afer",
+  "name": "Triaenops afer",
+  "scientificName": "Triaenops afer",
+  "wikibase_item": "Q10384544",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 649924,
+      "id": "Q649924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10384544",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African trident bat is a species of rhinonycterid bat found in Africa, from western Central Africa east to coastal Kenya and Mozambique.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Naturalis_Biodiversity_Center_-_RMNH.MAM.32126.b_ven_-_Triaenops_persicus_afer_-_skin.jpeg"
+}

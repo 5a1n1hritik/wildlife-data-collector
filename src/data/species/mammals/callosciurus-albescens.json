@@ -1,0 +1,25 @@
+{
+  "id": "callosciurus-albescens",
+  "name": "Callosciurus albescens",
+  "scientificName": "Callosciurus albescens",
+  "wikibase_item": "Q3727326",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3727326",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kloss's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kloss's squirrel or Kloss squirrel is a species of rodent in the family Sciuridae. It is endemic to northern Sumatra in Indonesia. Population data is insufficient to assess its conservation status according to the IUCN. It is sometimes considered a subspecies of C. notatus.",
+  "image": null
+}

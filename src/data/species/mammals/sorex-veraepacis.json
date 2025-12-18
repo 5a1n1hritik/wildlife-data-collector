@@ -1,0 +1,25 @@
+{
+  "id": "sorex-veraepacis",
+  "name": "Verapaz shrew",
+  "scientificName": "Sorex veraepacis",
+  "wikibase_item": "Q1767469",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767469",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verapaz_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Verapaz shrew is a species of mammal in the family Soricidae. It is found in Guatemala and Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Verapaz_Shrew_area.png"
+}

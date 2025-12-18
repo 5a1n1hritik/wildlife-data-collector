@@ -1,0 +1,25 @@
+{
+  "id": "chiroderma-vizottoi",
+  "name": "Chiroderma vizottoi",
+  "scientificName": "Chiroderma vizottoi",
+  "wikibase_item": "Q15059414",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702286,
+      "id": "Q2702286"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15059414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiroderma_vizottoi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Chiroderma vizottoi is a species of frugivorous bat found in the northeast of Brazil.",
+  "image": null
+}

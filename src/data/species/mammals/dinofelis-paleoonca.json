@@ -1,0 +1,25 @@
+{
+  "id": "dinofelis-paleoonca",
+  "name": "Dinofelis paleoonca",
+  "scientificName": "Dinofelis paleoonca",
+  "wikibase_item": "Q5278583",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133364,
+      "id": "Q133364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5278583",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dinofelis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dinofelis is an extinct genus of machairodontine, usually classified in the tribe Metailurini. It was widespread in Europe, Asia, Africa and North America from 5 million to about 1.2 million years ago. Fossils very similar to Dinofelis from Lothagam range back to around 8 million years ago, in the Late Miocene.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dinofelis15DB.jpg"
+}

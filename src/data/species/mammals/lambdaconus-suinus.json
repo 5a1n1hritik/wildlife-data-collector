@@ -1,0 +1,25 @@
+{
+  "id": "lambdaconus-suinus",
+  "name": "Lambdaconus suinus",
+  "scientificName": "Lambdaconus suinus",
+  "wikibase_item": "Q111839006",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111838995,
+      "id": "Q111838995"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111839006",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lambdaconus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lambdaconus is a genus of proterotheriid from the Late Oligocene to Early Miocene of Argentina. The type species of Lambdaconus genus is L. suinus. It was named in 1897 by Ameghino. The referred species include L. lacerum, named as Proterotherium lacerum in 1902 by Ameghino, and L. inaqeuifacies.",
+  "image": null
+}

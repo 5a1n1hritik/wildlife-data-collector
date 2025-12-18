@@ -1,0 +1,25 @@
+{
+  "id": "grammomys-surdaster",
+  "name": "Grammomys surdaster",
+  "scientificName": "Grammomys surdaster",
+  "wikibase_item": "Q128051856",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128051856",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodland_thicket_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The woodland thicket rat is a species of rodent in the family Muridae.\nIt is found in Angola, Burundi, Republic of the Congo, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Mozambique, Rwanda, South Africa, South Sudan, Eswatini, Tanzania, Zambia, and Zimbabwe.\nIts natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical dry shrubland, subtropical or tropical moist shrubland, subtropical or tropical high-altitude shrubland, subtropical or tropical dry lowland grassland, arable land, pastureland, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Woodland_Thicket-Rat_%28Grammomys_dolichurus%29_%286042197622%29.jpg"
+}

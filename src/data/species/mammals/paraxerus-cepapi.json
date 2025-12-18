@@ -1,0 +1,25 @@
+{
+  "id": "paraxerus-cepapi",
+  "name": "Smith's bush squirrel",
+  "scientificName": "Paraxerus cepapi",
+  "wikibase_item": "Q1764869",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764869",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smith's_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Smith's bush squirrel, also known as the yellow-footed squirrel or tree squirrel, is an African bush squirrel which is native to woodlands of the southern Afrotropics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Smith%27s_Bush_Squirrel.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "taphozous-kapalgensis",
+  "name": "Arnhem sheath-tailed bat",
+  "scientificName": "Taphozous kapalgensis",
+  "wikibase_item": "Q1832983",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832983",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnhem_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arnhem sheath-tailed bat or Arnhem tomb bat is an emballonurid bat found at the Top End of Australia. The species is also referred to as the white-striped sheathtail for the distinguishing marks at the flank, a feature observable beneath the wing when the animal is in flight. Records of the species are rare.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Arnham_Tomb_Bat_area.png"
+}

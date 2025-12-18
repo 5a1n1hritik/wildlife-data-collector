@@ -1,0 +1,25 @@
+{
+  "id": "dobsonia-anderseni",
+  "name": "Andersen's naked-backed fruit bat",
+  "scientificName": "Dobsonia anderseni",
+  "wikibase_item": "Q137635",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137635",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andersen's_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andersen's naked-backed fruit bat or Andersen's bare-backed fruit bat is a large cave-dwelling species of megabat in the family Pteropodidae. It is endemic to the Bismarck Archipelago including the Admiralty Islands in Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Andersen%27s_Bare-backed_Fruit_Bat_area.png"
+}

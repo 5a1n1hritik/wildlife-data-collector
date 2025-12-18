@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirulus-caroli",
+  "name": "Weyland ringtail possum",
+  "scientificName": "Pseudochirulus caroli",
+  "wikibase_item": "Q209571",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209571",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weyland_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Weyland ringtail possum is a species of marsupial in the family Pseudocheiridae. It is endemic to the western Central Cordillera, including the Weyland and Star Mountains, of Papua Province, Indonesia. P. caroli is also \"known from four localities west of the Star Mountains\" and tends to live in montane forest or other hilly areas. Currently, the Weyland ringtail is not endangered but should be \"monitored [because] it could rapidly become threatened if either human encroachment or hunting were to increase significantly.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/1921.8.1.15_Skin_Dorsal_Skins-3_MG_1905-S.jpg"
+}

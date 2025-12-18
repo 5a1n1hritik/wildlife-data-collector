@@ -1,0 +1,22 @@
+{
+  "id": "rhabdomys-chakae",
+  "name": "Rhabdomys chakae",
+  "scientificName": "Rhabdomys chakae",
+  "wikibase_item": "Q125904445",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386648,
+      "id": "Q386648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125904445"
+  },
+  "lastUpdated": "2025-12-17"
+}

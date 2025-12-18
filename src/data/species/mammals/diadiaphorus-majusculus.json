@@ -1,0 +1,22 @@
+{
+  "id": "diadiaphorus-majusculus",
+  "name": "Diadiaphorus majusculus",
+  "scientificName": "Diadiaphorus majusculus",
+  "wikibase_item": "Q108060494",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2551515,
+      "id": "Q2551515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108060494"
+  },
+  "lastUpdated": "2025-12-17"
+}

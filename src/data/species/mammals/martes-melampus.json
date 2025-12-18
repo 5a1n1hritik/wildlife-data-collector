@@ -1,0 +1,25 @@
+{
+  "id": "martes-melampus",
+  "name": "Martes melampus",
+  "scientificName": "Martes melampus",
+  "wikibase_item": "Q1052830",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26533,
+      "id": "Q26533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1052830",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_marten"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese marten is a marten species endemic to Japan. It is native to the forested regions of Honshu, Kyushu, Shikoku, and Tsushima, Japan. It is agile, territorial, and is important in seed dispersal in northern Japan's shrublands. Its coat varies depending on the region from yellow to brown. It is least concerned in conservations status despite habitat loss from logging and forest fragmentation. Conservation efforts include legal protection and habitat restoration. Additionally, it is associated with shapeshifting and omens in Japanese folklore.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Inokashira_Park_Zoo_PC053197.jpg/1920px-Inokashira_Park_Zoo_PC053197.jpg"
+}

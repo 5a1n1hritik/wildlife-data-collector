@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-maclaudi",
+  "name": "Maclaud's Horseshoe Bat",
+  "scientificName": "Rhinolophus maclaudi",
+  "wikibase_item": "Q1765750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maclaud's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Maclaud's horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to Guinea. Its natural habitats are moist savanna, caves and other subterranean habitats. It is one of five African microbat species to be listed as endangered by the IUCN. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Maclaud%27s_Horseshoe_Bat_area.png"
+}

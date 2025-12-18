@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-marshalli",
+  "name": "Marshall's Horseshoe Bat",
+  "scientificName": "Rhinolophus marshalli",
+  "wikibase_item": "Q1762614",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762614",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marshall's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Marshall's horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Laos, Malaysia, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Marshall%27s_Horseshoe_Bat_area.png"
+}

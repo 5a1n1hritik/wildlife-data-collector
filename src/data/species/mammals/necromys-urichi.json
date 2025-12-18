@@ -1,0 +1,25 @@
+{
+  "id": "necromys-urichi",
+  "name": "Northern grass mouse",
+  "scientificName": "Necromys urichi",
+  "wikibase_item": "Q309329",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309329",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_grass_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern grass mouse, or northern akodont, is a species of rodent in the family Cricetidae. It is found in Brazil, Colombia, Venezuela and Trinidad and Tobago.",
+  "image": null
+}

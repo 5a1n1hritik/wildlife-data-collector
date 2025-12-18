@@ -1,0 +1,25 @@
+{
+  "id": "sorex-ugyunak",
+  "name": "Barren ground shrew",
+  "scientificName": "Sorex ugyunak",
+  "wikibase_item": "Q146514",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146514",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barren_ground_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The barren ground shrew is a small shrew found in northern Canada west of Hudson Bay and in Alaska. At one time, this species was considered to be a subspecies of the similar cinereus shrew. It is similar in appearance and thought to be closely related to the Saint Lawrence Island shrew and Pribilof Island shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Barren_Ground_Shrew_area.png"
+}

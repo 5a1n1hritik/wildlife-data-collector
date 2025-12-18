@@ -1,0 +1,25 @@
+{
+  "id": "myotis-badius",
+  "name": "Chestnut myotis",
+  "scientificName": "Myotis badius",
+  "wikibase_item": "Q17636887",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17636887",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chestnut_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chestnut myotis is a species of mouse-eared bat in the family Vespertilionidae. It is found in South Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Distribution_of_Myotis_badius.png"
+}

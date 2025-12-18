@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-johnsoni",
+  "name": "Central pebble-mound mouse",
+  "scientificName": "Pseudomys johnsoni",
+  "wikibase_item": "Q146485",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146485",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_pebble-mound_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The central pebble-mound mouse is a species of rodent in the family Muridae, native to Australia. The Kimberley mouse was, until recently, considered distinct from P. johnsoni, but they are now known to be conspecific. It is one of the pebble-mound mice.",
+  "image": null
+}

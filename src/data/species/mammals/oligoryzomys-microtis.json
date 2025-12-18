@@ -1,0 +1,25 @@
+{
+  "id": "oligoryzomys-microtis",
+  "name": "Oligoryzomys microtis",
+  "scientificName": "Oligoryzomys microtis",
+  "wikibase_item": "Q1769195",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769195",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_microtis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys microtis, also known as the small-eared colilargo or small-eared pygmy rice rat, is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is found in western Brazil, eastern Peru, Bolivia, and northern Paraguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Oligoryzomys_microtis.jpg"
+}

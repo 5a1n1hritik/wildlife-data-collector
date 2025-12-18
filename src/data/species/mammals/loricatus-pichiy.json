@@ -1,0 +1,25 @@
+{
+  "id": "loricatus-pichiy",
+  "name": "Loricatus pichiy",
+  "scientificName": "Loricatus pichiy",
+  "wikibase_item": "Q122789773",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122789090,
+      "id": "Q122789090"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122789773",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pichi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pichi, dwarf armadillo or pygmy armadillo is an armadillo native to Argentina and Chile. It is the only living member of the genus Zaedyus, and the only armadillo to hibernate. Fossil remains from the Cerro Azul Formation indicate this species had already evolved during the late Miocene epoch.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Zaedyus_pichiy_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03056.JPG"
+}

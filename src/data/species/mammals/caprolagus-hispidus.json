@@ -1,0 +1,25 @@
+{
+  "id": "caprolagus-hispidus",
+  "name": "Hispid hare",
+  "scientificName": "Caprolagus hispidus",
+  "wikibase_item": "Q301068",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10744387,
+      "id": "Q10744387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301068",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispid_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hispid hare, also known as the Assam rabbit and bristly rabbit, is a species of rabbit native to South Asia. It is the only species in the genus Caprolagus. Named for its bristly fur coat, the hispid hare is a rabbit with dark-brown fur and a large nose. It has small ears compared to the Indian hare, a lagomorph that occurs in the same regions as the hispid hare.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Caprolagus_hispidus_Chitwan_Rediscovery_2017.jpg"
+}

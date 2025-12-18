@@ -1,0 +1,25 @@
+{
+  "id": "myomys-yemeni",
+  "name": "Myomys yemeni",
+  "scientificName": "Myomys yemeni",
+  "wikibase_item": "Q24276736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1954643,
+      "id": "Q1954643"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24276736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yemeni_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yemeni mouse is a species of rodent in the family Muridae.\nIt is found in Saudi Arabia and Yemen. It is the only modern member of the tribe Praomyini to be found outside of Africa.",
+  "image": null
+}

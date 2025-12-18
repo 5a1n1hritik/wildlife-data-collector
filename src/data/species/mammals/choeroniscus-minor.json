@@ -1,0 +1,25 @@
+{
+  "id": "choeroniscus-minor",
+  "name": "Lesser long-tongued bat",
+  "scientificName": "Choeroniscus minor",
+  "wikibase_item": "Q137623",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 138574,
+      "id": "Q138574"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137623",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser long-tongued bat, also called the lesser long-tailed bat, is a bat species from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Choeroniscus_minor_map.png"
+}

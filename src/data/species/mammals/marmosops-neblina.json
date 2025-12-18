@@ -1,0 +1,25 @@
+{
+  "id": "marmosops-neblina",
+  "name": "Neblina slender opossum",
+  "scientificName": "Marmosops neblina",
+  "wikibase_item": "Q195025",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q195025",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neblina_slender_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The neblina slender opossum is an opossum species from South America. It is found in Brazil, Ecuador, Venezuela, and perhaps Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Marmosops_neblina_area.png"
+}

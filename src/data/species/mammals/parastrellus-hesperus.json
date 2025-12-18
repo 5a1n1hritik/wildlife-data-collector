@@ -1,0 +1,25 @@
+{
+  "id": "parastrellus-hesperus",
+  "name": "Canyon bat",
+  "scientificName": "Parastrellus hesperus",
+  "wikibase_item": "Q47544901",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19819884,
+      "id": "Q19819884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47544901",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canyon_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The canyon bat, also known as the western pipistrelle, or American parastrelle is a species of vesper bat. It is found in Mexico and in the western United States. The species has historically been placed in the genus Pipistrellus, but molecular evidence does not show any close relationship with that genus, and accordingly it was classified into its own genus, Parastrellus, in 2006.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Western_pipistrelle.jpg"
+}

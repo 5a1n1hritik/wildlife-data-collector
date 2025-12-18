@@ -1,0 +1,25 @@
+{
+  "id": "mops-bakarii",
+  "name": "Mops bakarii",
+  "scientificName": "Mops bakarii",
+  "wikibase_item": "Q5391989",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287351,
+      "id": "Q287351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5391989",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mops_bakarii"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mops bakarii is a species of mastiff bat, described in 2008. It is endemic to Pemba Island, which lies in the Indian Ocean off the coast of Tanzania.",
+  "image": null
+}

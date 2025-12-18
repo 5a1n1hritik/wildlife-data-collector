@@ -1,0 +1,25 @@
+{
+  "id": "dasyurus-spartacus",
+  "name": "Bronze quoll",
+  "scientificName": "Dasyurus spartacus",
+  "wikibase_item": "Q133184",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 379740,
+      "id": "Q379740"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133184",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bronze_quoll"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": " The bronze quoll is a species of quoll found only in the Trans-Fly savanna and grasslands of Papua New Guinea and South Papua in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bronze_Quoll.jpg"
+}

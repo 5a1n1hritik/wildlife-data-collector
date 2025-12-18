@@ -1,0 +1,22 @@
+{
+  "id": "ictides-ater",
+  "name": "Ictides ater",
+  "scientificName": "Ictides ater",
+  "wikibase_item": "Q122252816",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122253173,
+      "id": "Q122253173"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122252816"
+  },
+  "lastUpdated": "2025-12-17"
+}

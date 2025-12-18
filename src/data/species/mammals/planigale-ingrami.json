@@ -1,0 +1,25 @@
+{
+  "id": "planigale-ingrami",
+  "name": "Long-tailed planigale",
+  "scientificName": "Planigale ingrami",
+  "wikibase_item": "Q194198",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541538,
+      "id": "Q541538"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194198",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_planigale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed planigale, also known as Ingram's planigale or the northern planigale, is the smallest of all marsupials, and one of the smallest of all mammals. It is rarely seen but is a quite common inhabitant of the blacksoil plains, clay-soiled woodlands, and seasonally flooded grasslands of Australia's Top End.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Long-tailed_planigale.jpg"
+}

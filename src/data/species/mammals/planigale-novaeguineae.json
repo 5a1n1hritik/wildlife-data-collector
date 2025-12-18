@@ -1,0 +1,25 @@
+{
+  "id": "planigale-novaeguineae",
+  "name": "New Guinean planigale",
+  "scientificName": "Planigale novaeguineae",
+  "wikibase_item": "Q194759",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541538,
+      "id": "Q541538"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194759",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Guinean_planigale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Guinean planigale, also known as the Papuan planigale, is a species of small marsupial carnivore native to the Trans-Fly savanna and grasslands of New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/New_Guinean_Planigale_area.png"
+}

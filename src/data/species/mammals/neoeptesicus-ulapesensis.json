@@ -1,0 +1,22 @@
+{
+  "id": "neoeptesicus-ulapesensis",
+  "name": "Neoeptesicus ulapesensis",
+  "scientificName": "Neoeptesicus ulapesensis",
+  "wikibase_item": "Q125403434",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 124210949,
+      "id": "Q124210949"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125403434"
+  },
+  "lastUpdated": "2025-12-17"
+}

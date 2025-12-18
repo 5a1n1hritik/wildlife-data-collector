@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-minahassae",
+  "name": "Minahassa Pipistrelle",
+  "scientificName": "Pipistrellus minahassae",
+  "wikibase_item": "Q574262",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q574262",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minahassa_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Minahassa pipistrelle is a species of vesper bat found in Indonesia.",
+  "image": null
+}

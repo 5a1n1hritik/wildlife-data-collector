@@ -1,0 +1,25 @@
+{
+  "id": "aepyprymnus-rufescens",
+  "name": "Rufous rat-kangaroo",
+  "scientificName": "Aepyprymnus rufescens",
+  "wikibase_item": "Q1334561",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816315,
+      "id": "Q19816315"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1334561",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufous_rat-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rufous rat-kangaroo or rufous bettong is a small, jumping, rat-like marsupial native to eastern Australia. It is the only species in the genus Aepyprymnus. The largest member of the potoroo/bettong family (Potoroidae), it is about the size of a rabbit. The rufous rat-kangaroo is active at night when it digs for plant roots and fungi, and like other marsupials it carries its young in a pouch. Though its range is reduced, the population is healthy and stable.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rufous_Bettong_%28Aepyprymnus_rufescens%29_%289855539716%29.jpg"
+}

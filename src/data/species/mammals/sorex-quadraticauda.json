@@ -1,0 +1,22 @@
+{
+  "id": "sorex-quadraticauda",
+  "name": "Sorex quadraticauda",
+  "scientificName": "Sorex quadraticauda",
+  "wikibase_item": "Q20717171",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 728174,
+      "id": "Q728174"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20717171"
+  },
+  "lastUpdated": "2025-12-17"
+}

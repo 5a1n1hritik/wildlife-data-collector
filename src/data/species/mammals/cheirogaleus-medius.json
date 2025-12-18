@@ -1,0 +1,25 @@
+{
+  "id": "cheirogaleus-medius",
+  "name": "fat-tailed dwarf lemur",
+  "scientificName": "Cheirogaleus medius",
+  "wikibase_item": "Q205837",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q205837",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fat-tailed_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fat-tailed dwarf lemur, also known as the lesser dwarf lemur, western fat-tailed dwarf lemur, or spiny forest dwarf lemur, is endemic to Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cheirogaleus-medius.jpg"
+}

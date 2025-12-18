@@ -1,0 +1,25 @@
+{
+  "id": "ectophylla-alba",
+  "name": "Honduran white bat",
+  "scientificName": "Ectophylla alba",
+  "wikibase_item": "Q301286",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10757941,
+      "id": "Q10757941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Honduran_white_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Honduran white bat, also called the Caribbean white tent-making bat, is a species of bat in the family Phyllostomatidae. It is the only member of the genus Ectophylla. The genus and the species were both scientifically described for the first time in 1892. It has distinctive, entirely white fur, which is only found in six of the roughly 1,300 known species of bat. It constructs \"tents\" out of understory plant leaves by strategically cutting the leaf ribs with its teeth; it roosts in these tents during the day. It is a specialist frugivore, consuming almost exclusively the fruits of one species of fig. Females can likely become pregnant twice per year, giving birth to one offspring at a time.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ectophylla_alba_Costa_Rica.jpg"
+}

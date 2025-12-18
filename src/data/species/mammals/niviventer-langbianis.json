@@ -1,0 +1,25 @@
+{
+  "id": "niviventer-langbianis",
+  "name": "Lang Bian white-bellied rat",
+  "scientificName": "Niviventer langbianis",
+  "wikibase_item": "Q1763406",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763406",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lang_Bian_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lang Bian white-bellied rat is a species of rodent in the family Muridae.\nIt is found in India, Laos, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Range_Niviventer_langbianis.png"
+}

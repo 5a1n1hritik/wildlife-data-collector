@@ -1,0 +1,25 @@
+{
+  "id": "microtus-agrestis",
+  "name": "field vole",
+  "scientificName": "Microtus agrestis",
+  "wikibase_item": "Q264793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 130224537,
+      "id": "Q130224537"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q264793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_field_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed field vole, short-tailed vole, or simply field vole is a grey-brown vole, around 10 cm in length, with a short tail. It is one of the most common mammals in Europe, with a range extending from the Atlantic coast to Lake Baikal. These voles are found in moist grassy habitats, such as woodland, marsh or on river banks. Although they make shallow burrows, they usually build nests above ground. They are an important food source for owls and some other predators and their population size tends to peak and trough cyclically. Field voles breed prolifically, mainly in summer, but often all year round, even under snow. Females produce up to seven litters a year, each averaging from four to six young which are weaned after about fourteen days. The short-tailed field vole is both widespread and common and is listed as being of \"Least Concern\" by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Field_Vole_by_Bruce_McAdam.jpg"
+}

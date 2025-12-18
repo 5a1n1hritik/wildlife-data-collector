@@ -1,0 +1,22 @@
+{
+  "id": "altililemur-medius",
+  "name": "Altililemur medius",
+  "scientificName": "Altililemur medius",
+  "wikibase_item": "Q122227506",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122227465,
+      "id": "Q122227465"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122227506"
+  },
+  "lastUpdated": "2025-12-17"
+}

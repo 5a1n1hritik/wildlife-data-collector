@@ -1,0 +1,25 @@
+{
+  "id": "lemmus-trimucronatus",
+  "name": "North American brown lemming",
+  "scientificName": "Lemmus trimucronatus",
+  "wikibase_item": "Q1769625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 525589,
+      "id": "Q525589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769625",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canadian_lemming"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Canadian lemming or Nearctic brown lemming is a small North American lemming.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Lemmus_trimucronatus_85585318_%28cropped%29.jpg"
+}

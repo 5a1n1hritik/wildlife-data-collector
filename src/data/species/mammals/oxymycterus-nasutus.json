@@ -1,0 +1,25 @@
+{
+  "id": "oxymycterus-nasutus",
+  "name": "Long-nosed Hocicudo",
+  "scientificName": "Oxymycterus nasutus",
+  "wikibase_item": "Q1762449",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762449",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_hocicudo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed hocicudo is a South American rodent species found in southeastern Brazil and Uruguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Oxymycterus_nasutus_%28The_zoology_of_the_voyage_of_H.M.S._Beagle_%28Pl._17%29_BHL40299903%29.jpg"
+}

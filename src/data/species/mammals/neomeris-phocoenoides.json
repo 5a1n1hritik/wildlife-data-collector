@@ -1,0 +1,22 @@
+{
+  "id": "neomeris-phocoenoides",
+  "name": "Neomeris phocoenoides",
+  "scientificName": "Neomeris phocoenoides",
+  "wikibase_item": "Q41166306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156046,
+      "id": "Q41156046"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166306"
+  },
+  "lastUpdated": "2025-12-17"
+}

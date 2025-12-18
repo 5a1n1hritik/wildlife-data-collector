@@ -1,0 +1,25 @@
+{
+  "id": "tarsomys-orientalis",
+  "name": "Tarsomys orientalis",
+  "scientificName": "Tarsomys orientalis",
+  "wikibase_item": "Q127425594",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134954,
+      "id": "Q134954"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127425594",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kampalili_moss_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kampalili moss mouse, also known as the Kampalili tarsomys, is a species of rodent in the family Muridae. At just 5 in (130 mm) long, it is the smallest species of the Mindanao-endemic genus Tarsomys, and the third to be discovered. The species was distinguished from the other members of its genus, namely Tarsomys apoensis and T. echinatus, by the smaller size of its body, significantly shorter tail, smaller size of hind feet, the soft and dense pelage that is darker in color, its smaller skull that has a broader zygomatic plate, shorter incisive foramina, and much longer auditory bullae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ph_locator_davao_de_oro.svg/4096px-Ph_locator_davao_de_oro.svg.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hesperoptenus-gaskelli",
+  "name": "Gaskell's false serotine",
+  "scientificName": "Hesperoptenus gaskelli",
+  "wikibase_item": "Q305382",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17622502,
+      "id": "Q17622502"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305382",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaskell's_false_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gaskell's false serotine is a species of vesper bat. It is found only in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Distribution_of_Hesperoptenus_gaskelli.png"
+}

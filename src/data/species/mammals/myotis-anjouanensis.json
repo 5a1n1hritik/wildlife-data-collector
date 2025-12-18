@@ -1,0 +1,25 @@
+{
+  "id": "myotis-anjouanensis",
+  "name": "Anjouan myotis",
+  "scientificName": "Myotis anjouanensis",
+  "wikibase_item": "Q1834144",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834144",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anjouan_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Anjouan myotis is a species of vesper bat. It is found only in Comoros.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Myotis_anjouanensis_range_map.svg/2324px-Myotis_anjouanensis_range_map.svg.png"
+}

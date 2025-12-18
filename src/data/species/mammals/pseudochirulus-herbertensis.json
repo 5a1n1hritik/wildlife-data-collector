@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirulus-herbertensis",
+  "name": "Herbert River ringtail possum",
+  "scientificName": "Pseudochirulus herbertensis",
+  "wikibase_item": "Q210165",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210165",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_River_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Herbert River ringtail possum is a species of possum found in northeastern Queensland, Australia. It is a dark brown to black species, sometimes with a white belly. The Herbert River ringtail possum was long considered conspecific with the cinereus ringtail possum, despite the fact that they are very different in appearance. They are, however, the only members of their New Guinea-centred genus found in Australia. The Herbert River ringtail possum is restricted to tropical rainforest from Mount Lee, west of Ingham, to the Lamb Range, west of Cairns.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/PhalangistaHerbertensisSmit.jpg"
+}

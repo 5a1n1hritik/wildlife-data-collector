@@ -1,0 +1,25 @@
+{
+  "id": "myotis-oxyotus",
+  "name": "Montane myotis",
+  "scientificName": "Myotis oxyotus",
+  "wikibase_item": "Q1829418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane myotis is a species of vesper bat. It is found in Bolivia, Colombia, Costa Rica, Ecuador, Panama, Peru, and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Myotis_oxyotus_distribution.png"
+}

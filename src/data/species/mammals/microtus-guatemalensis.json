@@ -1,0 +1,25 @@
+{
+  "id": "microtus-guatemalensis",
+  "name": "Guatemalan vole",
+  "scientificName": "Microtus guatemalensis",
+  "wikibase_item": "Q1761930",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761930",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guatemalan_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guatemalan vole is a species of rodent in the family Cricetidae.\nIt is found in Guatemala and Chiapas, Mexico, in montane pine-oak forest and meadow at elevations between 2600 and 3100 m above sea level. It is terrestrial and probably diurnal or crepuscular.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "murina-harrisoni",
+  "name": "Harrison's tube-nosed bat",
+  "scientificName": "Murina harrisoni",
+  "wikibase_item": "Q2314638",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2314638",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harrison's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Harrison's tube-nosed bat is a species of vesper bats (Vespertilionidae). Within the genus Murina, it belongs to the so-called 'cyclotis-group'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Murinaharrisoni.jpg"
+}

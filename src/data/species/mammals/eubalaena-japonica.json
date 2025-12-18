@@ -1,0 +1,25 @@
+{
+  "id": "eubalaena-japonica",
+  "name": "North Pacific right whale",
+  "scientificName": "Eubalaena japonica",
+  "wikibase_item": "Q506604",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1527843,
+      "id": "Q1527843"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q506604",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_Pacific_right_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North Pacific right whale is a very large, thickset baleen whale species that is extremely rare and endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Eubalaena_japonica_drawing.jpg"
+}

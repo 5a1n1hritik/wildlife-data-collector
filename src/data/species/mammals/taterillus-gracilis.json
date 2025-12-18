@@ -1,0 +1,25 @@
+{
+  "id": "taterillus-gracilis",
+  "name": "Gracile tateril",
+  "scientificName": "Taterillus gracilis",
+  "wikibase_item": "Q1765887",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111842,
+      "id": "Q111842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765887",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gracile_tateril"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gracile tateril or slender gerbil is a species of rodent found in Burkina Faso, Chad, Gambia, Ghana, Guinea, Ivory Coast, Mali, Niger, Nigeria, Senegal, Togo, and possibly Cameroon. Its natural habitats are dry savanna, arable land, pastureland, and rural gardens. It is a common species, sometimes considered an agricultural pest, and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "image": null
+}

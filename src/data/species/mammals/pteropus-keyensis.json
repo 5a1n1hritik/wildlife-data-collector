@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-keyensis",
+  "name": "Pteropus keyensis",
+  "scientificName": "Pteropus keyensis",
+  "wikibase_item": "Q1766186",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766186",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kei_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kei flying fox is a species of megabat in the genus Pteropus found in the Kai Islands of Indonesia. It was formerly considered a subspecies of the black-bearded flying fox. Very little is known about the species, its habitat, or threats to it.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kei_Flying-fox%2C_Kai_Kecil_Airport_Rd%2C_Sotheast_Maluku_Regency%2C_Maluku%2C_Indonesia_imported_from_iNaturalist_photo_247416279.jpg"
+}

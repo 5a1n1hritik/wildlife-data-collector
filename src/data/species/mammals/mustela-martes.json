@@ -1,0 +1,25 @@
+{
+  "id": "mustela-martes",
+  "name": "Mustela martes",
+  "scientificName": "Mustela martes",
+  "wikibase_item": "Q122171654",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122171654",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_pine_marten"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European pine marten, also known as the pine marten, is a mustelid native to and widespread in most of Europe, Asia Minor, the Caucasus, and parts of Iran, Iraq, and Syria. It is listed as Least Concern on the IUCN Red List.\nIt is less commonly known as baum marten or sweet marten.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pine_Marten_%2848173751702%29.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "neoromicia-bemainty",
+  "name": "Neoromicia bemainty",
+  "scientificName": "Neoromicia bemainty",
+  "wikibase_item": "Q125849890",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125849890"
+  },
+  "lastUpdated": "2025-12-17"
+}

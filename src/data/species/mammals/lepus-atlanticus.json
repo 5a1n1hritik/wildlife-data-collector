@@ -1,0 +1,22 @@
+{
+  "id": "lepus-atlanticus",
+  "name": "Lepus atlanticus",
+  "scientificName": "Lepus atlanticus",
+  "wikibase_item": "Q40493601",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40493601"
+  },
+  "lastUpdated": "2025-12-17"
+}

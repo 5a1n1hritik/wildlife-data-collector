@@ -1,0 +1,25 @@
+{
+  "id": "nesolagus-timminsi",
+  "name": "Annamite striped rabbit",
+  "scientificName": "Nesolagus timminsi",
+  "wikibase_item": "Q564479",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913660,
+      "id": "Q913660"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564479",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annamite_striped_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Annamite striped rabbit is a species of rabbit native to the Annamite mountain range on the Laos-Vietnam border. The rabbit has short ears, black or dark brown stripes, and a red rump. It resembles the Sumatran striped rabbit, a closely related species that lives in the Barisan Mountains of Indonesia. The species was first observed in 1996 by biologist Rob Timmins in a market in Bak Lak in Laos, and was described in 2000, when it was named after Timmins' find. It is known as the thỏ vằn in Vietnamese and ka tai lai seua in Lao.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Annamite_striped_rabbit_%28Nesolagus_timminsi%29.jpg"
+}

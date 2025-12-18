@@ -1,0 +1,25 @@
+{
+  "id": "pseudoromicia-brunnea",
+  "name": "Pseudoromicia brunnea",
+  "scientificName": "Pseudoromicia brunnea",
+  "wikibase_item": "Q99838103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99836920,
+      "id": "Q99836920"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99838103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark-brown_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark-brown serotine is a species of vesper bat found in Central and West Africa.",
+  "image": null
+}

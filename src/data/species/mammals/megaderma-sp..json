@@ -1,0 +1,22 @@
+{
+  "id": "megaderma-sp.",
+  "name": "Megaderma sp.",
+  "scientificName": "Megaderma sp.",
+  "wikibase_item": "Q40509889",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221073,
+      "id": "Q221073"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40509889"
+  },
+  "lastUpdated": "2025-12-17"
+}

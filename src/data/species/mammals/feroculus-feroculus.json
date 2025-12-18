@@ -1,0 +1,25 @@
+{
+  "id": "feroculus-feroculus",
+  "name": "Kelaart's long-clawed shrew",
+  "scientificName": "Feroculus feroculus",
+  "wikibase_item": "Q302979",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15402212,
+      "id": "Q15402212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302979",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelaart's_long-clawed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kelaart's long-clawed shrew is a species of mammal in the family Soricidae. It is the only species within the genus Feroculus. It is endemic to Sri Lanka and southern India. Its natural habitats are subtropical or tropical dry forests and grassland, and swamps. It is threatened by habitat loss. The species is named for zoologist Edward Frederick Kelaart.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kelaart%27s_Long-clawed_Shrew_area.png"
+}

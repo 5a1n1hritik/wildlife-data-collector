@@ -1,0 +1,25 @@
+{
+  "id": "lasiurus-cinereus",
+  "name": "Lasiurus cinereus",
+  "scientificName": "Lasiurus cinereus",
+  "wikibase_item": "Q587145",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 39081027,
+      "id": "Q39081027"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q587145",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hoary_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hoary bat is a species of bat in the vesper bat family, Vespertilionidae. It lives throughout most of North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hoary_bat_Lasiurus_cinereus_%28cropped%29.jpg"
+}

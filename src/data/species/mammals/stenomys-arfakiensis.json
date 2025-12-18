@@ -1,0 +1,22 @@
+{
+  "id": "stenomys-arfakiensis",
+  "name": "Stenomys arfakiensis",
+  "scientificName": "Stenomys arfakiensis",
+  "wikibase_item": "Q3973106",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3498373,
+      "id": "Q3498373"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3973106"
+  },
+  "lastUpdated": "2025-12-17"
+}

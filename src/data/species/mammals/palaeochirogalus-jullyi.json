@@ -1,0 +1,22 @@
+{
+  "id": "palaeochirogalus-jullyi",
+  "name": "Palaeochirogalus jullyi",
+  "scientificName": "Palaeochirogalus jullyi",
+  "wikibase_item": "Q122233214",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122232876,
+      "id": "Q122232876"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122233214"
+  },
+  "lastUpdated": "2025-12-17"
+}

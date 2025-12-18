@@ -1,0 +1,25 @@
+{
+  "id": "tupaia-glis",
+  "name": "common treeshrew",
+  "scientificName": "Tupaia glis",
+  "wikibase_item": "Q581661",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q581661",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common treeshrew is a small mammal in the treeshrew family Tupaiidae, and is native to Thailand, Malaysia, Singapore and Indonesia. It has been listed as Least Concern by IUCN as it remains common and displays some adaptability to ongoing habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Common_treeshrew_in_Latpanchar_January_2024_by_Tisha_Mukherjee_01.jpg"
+}

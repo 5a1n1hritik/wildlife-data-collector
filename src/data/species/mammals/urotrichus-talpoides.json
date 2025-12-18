@@ -1,0 +1,25 @@
+{
+  "id": "urotrichus-talpoides",
+  "name": "Japanese shrew mole",
+  "scientificName": "Urotrichus talpoides",
+  "wikibase_item": "Q1769241",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3552445,
+      "id": "Q3552445"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769241",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese shrew mole or himizu (ヒミズ) is a species of mammal in the family Talpidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Urotrichus_talpoides_-_Berjeau.jpg"
+}

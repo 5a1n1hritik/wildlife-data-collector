@@ -1,0 +1,25 @@
+{
+  "id": "antrozous-dubiaquercus",
+  "name": "Antrozous dubiaquercus",
+  "scientificName": "Antrozous dubiaquercus",
+  "wikibase_item": "Q10413815",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10734383,
+      "id": "Q10734383"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10413815",
+    "wikipedia": "https://en.wikipedia.org/wiki/Van_Gelder's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Van Gelder's bat or Van Gelder's big-eared bat is a species of vesper bat in the family Vespertilionidae. It is found in Belize, Costa Rica, Honduras, and Mexico. The species is monotypic within its genus. It is part of the tribe Antrozoini within the subfamily Vespertilioninae and is related to the pallid bat. The bat is found in forest habitat from sea level to elevations as high as 2300 m, although not usually above 1300 m, and is insectivorous and crepuscular. It apparently has a fragmented distribution, and is threatened by deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bauerus_dubiaquercus.jpg"
+}

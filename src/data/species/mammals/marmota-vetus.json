@@ -1,0 +1,22 @@
+{
+  "id": "marmota-vetus",
+  "name": "Arctomys vetus",
+  "scientificName": "Marmota vetus",
+  "wikibase_item": "Q125026553",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125026553"
+  },
+  "lastUpdated": "2025-12-17"
+}

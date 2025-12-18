@@ -1,0 +1,22 @@
+{
+  "id": "phascogale-bella",
+  "name": "Phascogale bella",
+  "scientificName": "Phascogale bella",
+  "wikibase_item": "Q41086938",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754387,
+      "id": "Q1754387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41086938"
+  },
+  "lastUpdated": "2025-12-17"
+}

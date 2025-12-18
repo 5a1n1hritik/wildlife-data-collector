@@ -1,0 +1,22 @@
+{
+  "id": "echidna-aculeata",
+  "name": "Echidna aculeata",
+  "scientificName": "Echidna aculeata",
+  "wikibase_item": "Q125498685",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125498507,
+      "id": "Q125498507"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125498685"
+  },
+  "lastUpdated": "2025-12-17"
+}

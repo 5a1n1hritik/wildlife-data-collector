@@ -1,0 +1,25 @@
+{
+  "id": "neogale-vison",
+  "name": "American mink",
+  "scientificName": "Neovison vison",
+  "wikibase_item": "Q27179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2600180,
+      "id": "Q2600180"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27179",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_mink"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American mink is a semiaquatic species of mustelid native to North America, though human introduction has expanded its range to many parts of Europe, Asia, and South America. Because of range expansion, the American mink is classed as a least-concern species by the IUCN. The American mink was formerly thought to be the only extant member of the genus Neovison following the extinction of the sea mink (N. macrodon), but recent studies, followed by taxonomic authorities, have reclassified it and the sea mink within the genus Neogale, which also contains a few New World weasel species. The American mink is a carnivore that feeds on rodents, fish, crustaceans, frogs, and birds. In its introduced range in Europe it has been classified as an invasive species linked to declines in European mink, Pyrenean desman, and water vole populations. It is the animal most frequently farmed for its fur, exceeding the silver fox, sable, marten, and skunk in economic importance.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/MinkforWiki.jpg"
+}

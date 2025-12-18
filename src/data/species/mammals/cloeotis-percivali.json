@@ -1,0 +1,25 @@
+{
+  "id": "cloeotis-percivali",
+  "name": "Percival's Trident Bat",
+  "scientificName": "Cloeotis percivali",
+  "wikibase_item": "Q304401",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10749108,
+      "id": "Q10749108"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304401",
+    "wikipedia": "https://en.wikipedia.org/wiki/Percival's_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Percival's trident bat is a species of bat in the family Hipposideridae. It is monotypic within the genus Cloeotis. It is found in Sub-Saharan Africa, with its core distribution in Southern Africa. It has been reported from Botswana, Democratic Republic of the Congo, Eswatini, Kenya, Mozambique, South Africa, Tanzania, Zambia, and Zimbabwe. Its natural habitats are savannas where there are suitable caves and mine tunnels that it can use for roosting. Colonies are never large. Local numbers fluctuate greatly. Colonies can disappear, perhaps because they move to another place or go extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Percival%27s_Trident_Bat_area.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pardalina-warwickii",
+  "name": "Pardalina warwickii",
+  "scientificName": "Pardalina warwickii",
+  "wikibase_item": "Q41166779",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156682,
+      "id": "Q41156682"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166779"
+  },
+  "lastUpdated": "2025-12-17"
+}

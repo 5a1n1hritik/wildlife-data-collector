@@ -1,0 +1,22 @@
+{
+  "id": "ailurus-ochraceus",
+  "name": "Ailurus ochraceus",
+  "scientificName": "Ailurus ochraceus",
+  "wikibase_item": "Q41162408",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817309,
+      "id": "Q19817309"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162408"
+  },
+  "lastUpdated": "2025-12-17"
+}

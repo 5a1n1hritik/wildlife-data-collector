@@ -1,0 +1,25 @@
+{
+  "id": "tylomys-mirae",
+  "name": "Mira climbing rat",
+  "scientificName": "Tylomys mirae",
+  "wikibase_item": "Q1764760",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 604917,
+      "id": "Q604917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764760",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mira_climbing_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mira climbing rat is a species of rodent in the family Cricetidae.\nIt is found in Colombia and Ecuador.",
+  "image": null
+}

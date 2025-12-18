@@ -1,0 +1,25 @@
+{
+  "id": "stenonycteris-lanosa",
+  "name": "Stenonycteris lanosa",
+  "scientificName": "Stenonycteris lanosa",
+  "wikibase_item": "Q125912543",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125912552,
+      "id": "Q125912552"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125912543",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-haired_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-haired fruit bat, also known as the long-haired rousette, is a species of megabat in the family Pteropodidae. It is the only member of the genus Stenonycteris. It was formerly classified in the genus Rousettus until a 2013 phylogenetic study found it to belong to its own genus and tribe.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Rousettus_lanosus_Ruwenzori_Expedition_Reports_1910.jpg"
+}

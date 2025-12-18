@@ -1,0 +1,25 @@
+{
+  "id": "nephelomys-devius",
+  "name": "Nephelomys devius",
+  "scientificName": "Nephelomys devius",
+  "wikibase_item": "Q1763256",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763256",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_devius"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys devius, also known as the Talamancan oryzomys, Boquete rice rat, Chiriqui rice rat, or montane rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. It is found in cloud forest in the highlands of Costa Rica and western Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nephelomys_devius_186304475.jpg"
+}

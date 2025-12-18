@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-mohavensis",
+  "name": "Mohave ground squirrel",
+  "scientificName": "Xerospermophilus mohavensis",
+  "wikibase_item": "Q1769414",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohave_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mohave ground squirrel is a species of ground squirrel found only in the Mojave Desert in California. The squirrel was first described in 1886 by Frank Stephens of San Diego. It is listed as a threatened species under the California Endangered Species Act, but not under the federal Endangered Species Act. The IUCN lists this species as near threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mohave_Ground_Squirrel_%28Louis_Agassiz_Fuertes%2C_1918%29.jpg"
+}

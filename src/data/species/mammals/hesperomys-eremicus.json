@@ -1,0 +1,22 @@
+{
+  "id": "hesperomys-eremicus",
+  "name": "Hesperomys eremicus",
+  "scientificName": "Hesperomys eremicus",
+  "wikibase_item": "Q109647309",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5746022,
+      "id": "Q5746022"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647309"
+  },
+  "lastUpdated": "2025-12-17"
+}

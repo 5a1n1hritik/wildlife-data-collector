@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-nilkaensis",
+  "name": "Spermophilus nilkaensis",
+  "scientificName": "Spermophilus nilkaensis",
+  "wikibase_item": "Q99194711",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194711",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tian_Shan_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tian Shan ground squirrel is a species of squirrel found in the grasslands of western China, Kazakhstan, and Kyrgyzstan. A close relative of Spermophilus relictus, it was formerly considered the same species. It was formerly known as Spermophilus ralli, but that name is now known to be a synonym of S. relictus.",
+  "image": null
+}

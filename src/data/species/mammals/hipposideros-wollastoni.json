@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-wollastoni",
+  "name": "Hipposideros wollastoni",
+  "scientificName": "Hipposideros wollastoni",
+  "wikibase_item": "Q1831018",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831018",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wollaston's_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wollaston's roundleaf bat is a species of bat in the family Hipposideridae. It is found in West Papua, Indonesia and Papua New Guinea. It was named after the explorer Sandy Wollaston.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wollaston%27s_Roundleaf_Bat_area.png"
+}

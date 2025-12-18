@@ -1,0 +1,25 @@
+{
+  "id": "euryoryzomys-nitidus",
+  "name": "Euryoryzomys nitidus",
+  "scientificName": "Euryoryzomys nitidus",
+  "wikibase_item": "Q1766518",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 752973,
+      "id": "Q752973"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766518",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euryoryzomys_nitidus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Euryoryzomys nitidus, also known as the elegant oryzomys or elegant rice rat, is a rodent species in the family Cricetidae. Previously it was known as Oryzomys nitidus, but it is not closely related to Oryzomys as that genus is now constructed. Its range includes Bolivia, Brazil and Peru to the east of the Andes, in lowland tropical rainforest as well as forest in the eastern foothills of the mountains, at elevations from 50 to 2,000 m.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/HesperomysSmit.jpg"
+}

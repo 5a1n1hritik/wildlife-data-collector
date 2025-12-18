@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-endoi",
+  "name": "Pipistrellus endoi",
+  "scientificName": "Pipistrellus endoi",
+  "wikibase_item": "Q558025",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558025",
+    "wikipedia": "https://en.wikipedia.org/wiki/Endo's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Endo's pipistrelle is a species of vesper bat that is endemic to Japan. It is found in temperate forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pipistrellus_endoi_distribution.png"
+}

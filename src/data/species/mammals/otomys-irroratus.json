@@ -1,0 +1,25 @@
+{
+  "id": "otomys-irroratus",
+  "name": "Southern African Vlei Rat",
+  "scientificName": "Otomys irroratus",
+  "wikibase_item": "Q1770872",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770872",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_African_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Southern African vlei rat is a species of rodent in the vlei rat genus, Otomys, of the family Muridae in the order Rodentia. This is the type species of the genus. It is native to the grasslands and swamps of southern Africa where it is a common species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Otomys_irroratus_EOS_00619s.JPG"
+}

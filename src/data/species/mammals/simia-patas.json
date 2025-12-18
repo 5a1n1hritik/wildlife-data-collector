@@ -1,0 +1,22 @@
+{
+  "id": "simia-patas",
+  "name": "Simia patas",
+  "scientificName": "Simia patas",
+  "wikibase_item": "Q122307368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1427112,
+      "id": "Q1427112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122307368"
+  },
+  "lastUpdated": "2025-12-17"
+}

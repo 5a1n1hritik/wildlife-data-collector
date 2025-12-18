@@ -1,0 +1,25 @@
+{
+  "id": "eptesicus-pachyotis",
+  "name": "Thick-eared Bat",
+  "scientificName": "Eptesicus pachyotis",
+  "wikibase_item": "Q302299",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302299",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thick-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The thick-eared bat is a species of vesper bat native to China, India, Myanmar, Bangladesh and Thailand. Very little is known about the status and ecology of this bat, except that it may prefer to inhabit tropical moist deciduous forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Range_Eptesicus_pachyotis.png"
+}

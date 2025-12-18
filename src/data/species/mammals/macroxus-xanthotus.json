@@ -1,0 +1,22 @@
+{
+  "id": "macroxus-xanthotus",
+  "name": "Macroxus xanthotus",
+  "scientificName": "Macroxus xanthotus",
+  "wikibase_item": "Q41004289",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19798875,
+      "id": "Q19798875"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41004289"
+  },
+  "lastUpdated": "2025-12-17"
+}

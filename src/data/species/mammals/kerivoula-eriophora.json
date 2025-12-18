@@ -1,0 +1,25 @@
+{
+  "id": "kerivoula-eriophora",
+  "name": "Ethiopian woolly bat",
+  "scientificName": "Kerivoula eriophora",
+  "wikibase_item": "Q303222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ethiopian woolly bat is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Ethiopia.",
+  "image": null
+}

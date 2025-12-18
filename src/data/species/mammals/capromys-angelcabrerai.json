@@ -1,0 +1,25 @@
+{
+  "id": "capromys-angelcabrerai",
+  "name": "Capromys angelcabrerai",
+  "scientificName": "Capromys angelcabrerai",
+  "wikibase_item": "Q59282513",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858255,
+      "id": "Q858255"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59282513",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cabrera's_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cabrera's hutia is a small, critically endangered, rat-like mammal found only in Cuba. It lives in communal shelters in swamps and coastal mangrove forests, and is threatened by habitat loss. It is a member of the hutia subfamily (Capromyinae), a group of rodents native to the Caribbean that are mostly endangered or extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mesocapromys_angelcabrerai.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hesperoptenus-tickelli",
+  "name": "Tickell's Bat",
+  "scientificName": "Hesperoptenus tickelli",
+  "wikibase_item": "Q302847",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17622502,
+      "id": "Q17622502"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302847",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tickell's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tickell's bat is a species of vesper bat. It can be found in Bangladesh Bhutan, Cambodia, possibly China, India, Myanmar, Nepal, Sri Lanka and Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Hesperoptenus_tickelli_skull.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dusicyon-fulvipes",
+  "name": "Dusicyon fulvipes",
+  "scientificName": "Dusicyon fulvipes",
+  "wikibase_item": "Q41164484",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2896244,
+      "id": "Q2896244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164484",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darwin's_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Darwin's fox or Darwin's zorro is an endangered canid from the genus Lycalopex. It is also known as the zorro chilote or zorro de Darwin in Spanish and lives in Nahuelbuta National Park, the Cordillera de Oncol, Cordillera Pelada in mainland Chile and Chiloé Island. This small, dark canine weighs 1.8 to 3.95 kg, has a head-and-body length of 48 to 59 cm and a tail that is 17.5 to 25.5 cm. Darwin's fox displays no key differences between male and female other than the fact that the male has a broader muzzle. Males display no territorial behavior and are not aggressive towards other males roaming around their territory.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pseudalopex_fulvipes.jpg"
+}

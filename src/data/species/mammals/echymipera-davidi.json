@@ -1,0 +1,25 @@
+{
+  "id": "echymipera-davidi",
+  "name": "Echymipera davidi",
+  "scientificName": "Echymipera davidi",
+  "wikibase_item": "Q194918",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668149,
+      "id": "Q668149"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194918",
+    "wikipedia": "https://en.wikipedia.org/wiki/David's_echymipera"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "David's echymipera, or David's spiny bandicoot, is a species of marsupial in the family Peramelidae. It is found on the island of Kiriwina, in the Trobriand Islands of Papua New Guinea, and may be present on other nearby islands also.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/David%27s_Spiny_Bandicoot_area.png"
+}

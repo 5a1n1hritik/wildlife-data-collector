@@ -1,0 +1,25 @@
+{
+  "id": "eliurus-myoxinus",
+  "name": "Dormouse tufted-tailed rat",
+  "scientificName": "Eliurus myoxinus",
+  "wikibase_item": "Q307037",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307037",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dormouse_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dormouse tufted-tailed rat is a species of rodent in the family Nesomyidae. It is found only in Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dormouse_Tufted-tailed_Rat_%28Eliurus_myoxinus%29_%289579527484%29.jpg"
+}

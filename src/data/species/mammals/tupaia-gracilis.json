@@ -1,0 +1,25 @@
+{
+  "id": "tupaia-gracilis",
+  "name": "Slender treeshrew",
+  "scientificName": "Tupaia gracilis",
+  "wikibase_item": "Q1762978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762978",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender treeshrew is a treeshrew species within the Tupaiidae. It is native to Borneo and inhabits foremost lowland old forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Slender_Treeshrew_area.png"
+}

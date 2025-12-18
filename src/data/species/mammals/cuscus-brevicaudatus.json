@@ -1,0 +1,22 @@
+{
+  "id": "cuscus-brevicaudatus",
+  "name": "Cuscus brevicaudatus",
+  "scientificName": "Cuscus brevicaudatus",
+  "wikibase_item": "Q41164091",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41152912,
+      "id": "Q41152912"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164091"
+  },
+  "lastUpdated": "2025-12-17"
+}

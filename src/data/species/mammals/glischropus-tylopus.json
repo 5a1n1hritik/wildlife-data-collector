@@ -1,0 +1,25 @@
+{
+  "id": "glischropus-tylopus",
+  "name": "Common thick-thumbed bat",
+  "scientificName": "Glischropus tylopus",
+  "wikibase_item": "Q306394",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753700,
+      "id": "Q753700"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306394",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_thick-thumbed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common thick-thumbed bat is a species of vesper bat found in Brunei, Indonesia, Malaysia, Philippines, and Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Glischropus_tylopus.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "suncus-montanus",
+  "name": "Asian highland shrew",
+  "scientificName": "Suncus montanus",
+  "wikibase_item": "Q608013",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q608013",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_highland_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian highland shrew is a species of mammal in the family Soricidae. It is found in India and Sri Lanka. Its habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Asian_Highland_Shrew%2C_Tamil_Nadu%2C_IN_imported_from_iNaturalist_photo_234831746.jpg"
+}

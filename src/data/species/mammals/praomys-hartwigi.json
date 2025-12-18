@@ -1,0 +1,25 @@
+{
+  "id": "praomys-hartwigi",
+  "name": "Hartwig's soft-furred mouse",
+  "scientificName": "Praomys hartwigi",
+  "wikibase_item": "Q1770150",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770150",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hartwig's_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hartwig's soft-furred mouse or Hartwig's praomys is a species of rodent in the family Muridae.\nIt is found only in Cameroon.\nIts natural habitat is subtropical or tropical moist montane forest.\nIt is threatened by habitat loss.",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "citellus-erythrogenys",
+  "name": "Citellus erythrogenys",
+  "scientificName": "Citellus erythrogenys",
+  "wikibase_item": "Q15232918",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26156044,
+      "id": "Q26156044"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15232918"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-chiloensis",
+  "name": "Chilean myotis",
+  "scientificName": "Myotis chiloensis",
+  "wikibase_item": "Q1830919",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830919",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chilean_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chilean myotis is a species of vesper bat found in southern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Myotis_chiloensis_1467762.jpg"
+}

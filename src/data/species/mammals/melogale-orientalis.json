@@ -1,0 +1,25 @@
+{
+  "id": "melogale-orientalis",
+  "name": "Javan ferret-badger",
+  "scientificName": "Melogale orientalis",
+  "wikibase_item": "Q912020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1366503,
+      "id": "Q1366503"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q912020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_ferret-badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan ferret-badger is a mustelid endemic to Java and Bali, Indonesia. It is listed as Least Concern on the IUCN Red List and occurs from at least 260 to 2,230 m elevation in or close to forested areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zoological_researches_in_Java%2C_and_the_neighbouring_islands_BHL47293022.jpg"
+}

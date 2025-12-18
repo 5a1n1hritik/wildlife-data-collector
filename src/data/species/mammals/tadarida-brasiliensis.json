@@ -1,0 +1,25 @@
+{
+  "id": "tadarida-brasiliensis",
+  "name": "Mexican Free-tailed Bat",
+  "scientificName": "Tadarida brasiliensis",
+  "wikibase_item": "Q913930",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607105,
+      "id": "Q607105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q913930",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican free-tailed bat or Brazilian free-tailed bat is a medium-sized bat native to North, Central, and South America and the Caribbean, so named because its tail can be almost half its total length and is not attached to its uropatagium. It has been claimed to have the fastest horizontal speed of any animal, reaching top ground speeds over 99 mph (160 km/h). It also flies the highest among bats, at altitudes around 3,300 m (10,800 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mexican_free-tailed_bat_%288006856842%29.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "subparictis-gilpini",
+  "name": "Subparictis gilpini",
+  "scientificName": "Subparictis gilpini",
+  "wikibase_item": "Q119328313",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 119320064,
+      "id": "Q119320064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119328313"
+  },
+  "lastUpdated": "2025-12-17"
+}

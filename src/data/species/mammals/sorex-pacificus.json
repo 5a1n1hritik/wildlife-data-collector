@@ -1,0 +1,25 @@
+{
+  "id": "sorex-pacificus",
+  "name": "Sorex pacificus",
+  "scientificName": "Sorex pacificus",
+  "wikibase_item": "Q692332",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q692332",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pacific_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pacific shrew is a species of mammal in the family Soricidae. It is endemic to western Oregon in the United States. The Pacific shrew is native to western Oregon, more specifically from the Siltcoos lake to the coast going from the border line of Douglas and Lane counties continuing south to the northern parts of California. The first documented Pacific shrew to be caught was found at the mouth of the Umpqua River in 1858. They are normally found in damp areas along creeks in forests and sometimes near collapsed trees. Their refuge is of the utmost importance and they are seldom found far from it. This includes collapsed trees or dense vegetation. They use the flora to build a nest, gathering small plants such as grass, moss, lichen, or leaves into a pile and pushing themselves into the middle.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sorex_pacificus.jpg"
+}

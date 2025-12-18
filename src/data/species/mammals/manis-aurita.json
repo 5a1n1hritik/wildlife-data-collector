@@ -1,0 +1,25 @@
+{
+  "id": "manis-aurita",
+  "name": "Manis aurita",
+  "scientificName": "Manis aurita",
+  "wikibase_item": "Q41084621",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25397,
+      "id": "Q25397"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084621",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indo_Burmese_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Manis aurita, the Indo-Burmese pangolin, is a pangolin in the family Manidae native to India, Myanmar, Nepal, and possibly Bhutan. It was recently described as Manis indoburmanica, but the oldest available name for the species is Manis aurita.",
+  "image": null
+}

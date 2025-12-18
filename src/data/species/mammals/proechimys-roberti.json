@@ -1,0 +1,25 @@
+{
+  "id": "proechimys-roberti",
+  "name": "Roberto's Spiny-rat",
+  "scientificName": "Proechimys roberti",
+  "wikibase_item": "Q1766118",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766118",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert's_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Robert's spiny-rat or Para spiny rat, is a spiny rat species found in Brazil. This species is named after the collector Alphonso Robert, who collected the holotype of this species in 1901.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Proechimys_roberti_distribution_%28colored%29.png"
+}

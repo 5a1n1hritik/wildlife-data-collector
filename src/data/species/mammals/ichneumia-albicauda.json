@@ -1,0 +1,25 @@
+{
+  "id": "ichneumia-albicauda",
+  "name": "White-tailed mongoose",
+  "scientificName": "Ichneumia albicauda",
+  "wikibase_item": "Q906945",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10772632,
+      "id": "Q10772632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q906945",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-tailed_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-tailed mongoose is a species in the mongoose family Herpestidae. It is the only member of the genus Ichneumia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/White-tailed_mongoose_%28Ichneumia_albicauda%29%2C_crop.jpg"
+}

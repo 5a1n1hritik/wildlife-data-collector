@@ -1,0 +1,25 @@
+{
+  "id": "myosorex-jejei",
+  "name": "Myosorex jejei",
+  "scientificName": "Myosorex jejei",
+  "wikibase_item": "Q25432214",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386788,
+      "id": "Q386788"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25432214",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kahuzi_swamp_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kahuzi swamp shrew is a species of mammal in the family Soricidae found in the Democratic Republic of the Congo. Its natural habitat is swampland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kahuzi_Swamp_Shrew.svg/1200px-Kahuzi_Swamp_Shrew.svg.png"
+}

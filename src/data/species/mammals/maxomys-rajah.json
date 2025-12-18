@@ -1,0 +1,25 @@
+{
+  "id": "maxomys-rajah",
+  "name": "Rajah Spiny Rat",
+  "scientificName": "Maxomys rajah",
+  "wikibase_item": "Q1763546",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763546",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rajah_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Rajah spiny rat also known as the brown spiny rat is endemic to Thailand and Malaysia, Sumatra, Borneo, and adjacent islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Range_Maxomys_rajah.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-sorex",
+  "name": "Southern red-sided opossum",
+  "scientificName": "Monodelphis sorex",
+  "wikibase_item": "Q194478",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194478",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-sided_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-sided opossum is an opossum species from South America found in Argentina, Brazil and Uruguay. They have grey fur on their dorsal side with orangish fur on the lateral side that continues down to the feet. It is one of the few semelparous mammals in the word, as it breeds only once during its short anual life cycle. Preserving native grasslands is important for their conservation.\nThey show marked sexual dimorphism: adult males are much larger and show large and exposed canine teeth.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Monodelphis_dimidiata.jpg"
+}

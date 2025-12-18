@@ -1,0 +1,25 @@
+{
+  "id": "pteronura-brasiliensis",
+  "name": "giant otter",
+  "scientificName": "Pteronura brasiliensis",
+  "wikibase_item": "Q83774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10809475,
+      "id": "Q10809475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant otter or giant river otter is a South American carnivorous mammal. It is the longest member of the weasel family, Mustelidae, a globally successful group of predators, reaching up to 1.8 m. Atypical of mustelids, the giant otter is a social species, with family groups typically supporting three to eight members. The groups are centered on a dominant breeding pair and are extremely cohesive and cooperative. Although generally peaceful, the species is territorial, and aggression has been observed between groups. The giant otter is diurnal, being active exclusively during daylight hours. It is the noisiest otter species, and distinct vocalizations have been documented that indicate alarm, aggression, and reassurance.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gracilinanus-emiliae",
+  "name": "Emilia's gracile opossum",
+  "scientificName": "Gracilinanus emiliae",
+  "wikibase_item": "Q194405",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311603,
+      "id": "Q311603"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194405",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilia's_gracile_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Emilia's gracile opossum is an opossum species from South America. It is found in Brazil, Colombia, French Guiana, and Suriname.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Emilia%27s_Gracile_Mouse_Opossum_area.png"
+}

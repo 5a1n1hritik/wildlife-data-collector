@@ -1,0 +1,25 @@
+{
+  "id": "felis-pardoides",
+  "name": "Felis pardoides",
+  "scientificName": "Felis pardoides",
+  "wikibase_item": "Q41083460",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083460",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puma_pardoides"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Puma pardoides is an extinct prehistoric cat belonging to the genus Puma known from fossils found in Europe and West Asia during the late Pliocene and Early Pleistocene epochs, spanning from around 3 million to 800,000 years ago.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Puma_schaubi.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-occidentalis",
+  "name": "Western Mouse",
+  "scientificName": "Pseudomys occidentalis",
+  "wikibase_item": "Q1766353",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766353",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western mouse or walyadji is a species of rodent in the family Muridae. Once widespread across a larger range, it has become restricted to around ten reserves of remnant bushland in Southwest Australia and declared near threatened by extinction. They are small and robust mice that live in burrows in sandy soil, venturing out at night to forage in nearby area.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pseudomys_occidentalis.jpg"
+}

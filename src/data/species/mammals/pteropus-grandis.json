@@ -1,0 +1,22 @@
+{
+  "id": "pteropus-grandis",
+  "name": "Pteropus grandis",
+  "scientificName": "Pteropus grandis",
+  "wikibase_item": "Q40656574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40656574"
+  },
+  "lastUpdated": "2025-12-17"
+}

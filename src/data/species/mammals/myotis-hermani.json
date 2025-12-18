@@ -1,0 +1,25 @@
+{
+  "id": "myotis-hermani",
+  "name": "Herman's myotis",
+  "scientificName": "Myotis hermani",
+  "wikibase_item": "Q1834600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834600",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herman's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Herman's myotis is a species of vesper bat. It is found only in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Distribution_of_Myotis_hermani.png"
+}

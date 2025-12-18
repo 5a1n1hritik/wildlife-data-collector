@@ -1,0 +1,25 @@
+{
+  "id": "taphozous-melanopogon",
+  "name": "Black-bearded Tomb Bat",
+  "scientificName": "Taphozous melanopogon",
+  "wikibase_item": "Q1831688",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831688",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-bearded_tomb_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-bearded tomb bat is a species of sac-winged bat found in South and South East Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Black-bearded_tomb_bat_%28Taphozous_melanopogon%29%2C_male_with_prominent_black_beard_2.jpg"
+}

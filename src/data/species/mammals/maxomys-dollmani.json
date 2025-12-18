@@ -1,0 +1,25 @@
+{
+  "id": "maxomys-dollmani",
+  "name": "Dollman's spiny rat",
+  "scientificName": "Maxomys dollmani",
+  "wikibase_item": "Q1766778",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766778",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dollman's_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dollman's spiny rat or Dollman's Sulawesi Maxomys is a species of rodent in the family Muridae.\nIt is found only on Sulawesi.",
+  "image": null
+}

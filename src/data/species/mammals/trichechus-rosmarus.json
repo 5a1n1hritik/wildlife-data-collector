@@ -1,0 +1,25 @@
+{
+  "id": "trichechus-rosmarus",
+  "name": "Trichechus rosmarus",
+  "scientificName": "Trichechus rosmarus",
+  "wikibase_item": "Q122259072",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 42797,
+      "id": "Q42797"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122259072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walrus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The walrus is a large pinniped marine mammal with discontinuous distribution about the North Pole in the Arctic Ocean and subarctic seas of the Northern Hemisphere. It is the only extant species in the family Odobenidae and genus Odobenus. This species is subdivided into two subspecies: the Atlantic walrus, which lives in the Atlantic Ocean, and the Pacific walrus, which lives in the Pacific Ocean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
+}

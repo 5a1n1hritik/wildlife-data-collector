@@ -1,0 +1,22 @@
+{
+  "id": "syconycteris-crassa",
+  "name": "Syconycteris crassa",
+  "scientificName": "Syconycteris crassa",
+  "wikibase_item": "Q122878740",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2434332,
+      "id": "Q2434332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122878740"
+  },
+  "lastUpdated": "2025-12-17"
+}

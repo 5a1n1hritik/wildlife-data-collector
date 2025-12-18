@@ -1,0 +1,25 @@
+{
+  "id": "myoictis-wallacei",
+  "name": "Wallace's Dasyure",
+  "scientificName": "Myoictis wallacei",
+  "wikibase_item": "Q194742",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1479606,
+      "id": "Q1479606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194742",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace's_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wallace's dasyure or Wallace's three-striped dasyure is a member of the order Dasyuromorphia. This marsupial carnivore is found in Indonesia and Papua New Guinea. Specifically, it is found on the Aru Islands of the Maluku Province of Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Myoictis_wallacei.jpg"
+}

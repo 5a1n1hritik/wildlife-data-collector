@@ -1,0 +1,25 @@
+{
+  "id": "myotis-ciliolabrum",
+  "name": "Western small-footed bat",
+  "scientificName": "Myotis ciliolabrum",
+  "wikibase_item": "Q1833362",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833362",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_small-footed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western small-footed bat, also known as the western small-footed myotis, is a species of vesper bat native to North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Myotis_ciliolabrum.jpg"
+}

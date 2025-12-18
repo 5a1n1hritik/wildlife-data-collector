@@ -1,0 +1,25 @@
+{
+  "id": "neophoca-cinerea",
+  "name": "Australian sea lion",
+  "scientificName": "Neophoca cinerea",
+  "wikibase_item": "Q744392",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715939,
+      "id": "Q19715939"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q744392",
+    "wikipedia": "https://en.wikipedia.org/wiki/Australian_sea_lion"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Australian sea lion, also known as the Australian sea-lion or Australian sealion, is a species of sea lion that is the only endemic pinniped in Australia. It is currently monotypic in the genus Neophoca, with the extinct Pleistocene New Zealand sea lion Neophoca palatina the only known congener. With a population estimated at 14,730 animals, the Wildlife Conservation Act of Western Australia (1950) has listed them as \"in need of special protection\". Their conservation status is listed as endangered. These pinnipeds are specifically known for their abnormal breeding cycles, which are varied between a 5-month breeding cycle and a 17-18-month aseasonal breeding cycle, compared to other pinnipeds, which fit into a 12-month reproductive cycle. Females are either silver or fawn with a cream underbelly, and males are dark brown with a yellow mane and are bigger than the females.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Australian_sea_lion_02.JPG"
+}

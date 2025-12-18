@@ -1,0 +1,22 @@
+{
+  "id": "epipeltephilus-kanti",
+  "name": "Epipeltephilus kanti",
+  "scientificName": "Epipeltephilus kanti",
+  "wikibase_item": "Q21258824",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21334498,
+      "id": "Q21334498"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21258824"
+  },
+  "lastUpdated": "2025-12-17"
+}

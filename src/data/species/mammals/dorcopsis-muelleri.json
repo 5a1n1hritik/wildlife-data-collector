@@ -1,0 +1,25 @@
+{
+  "id": "dorcopsis-muelleri",
+  "name": "Brown dorcopsis",
+  "scientificName": "Dorcopsis muelleri",
+  "wikibase_item": "Q209618",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909045,
+      "id": "Q909045"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209618",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_dorcopsis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown dorcopsis, also known as the brown forest wallaby, is a species of marsupial in the family Macropodidae. It is endemic to the lowlands of West New Guinea and the nearby Indonesian islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dorcopsis_muelleri_bbksda.webp/1152px-Dorcopsis_muelleri_bbksda.webp.png"
+}

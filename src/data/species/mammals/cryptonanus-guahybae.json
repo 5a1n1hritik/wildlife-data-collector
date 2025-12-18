@@ -1,0 +1,25 @@
+{
+  "id": "cryptonanus-guahybae",
+  "name": "Guahiba gracile opossum",
+  "scientificName": "Cryptonanus guahybae",
+  "wikibase_item": "Q593587",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311590,
+      "id": "Q311590"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q593587",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guahiba_gracile_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guahiba gracile opossum is a species of opossum in the family Didelphidae. It is endemic to southern Brazil, where it is known only from three islands, Guahiba, São Lourenço, and Taquara, in the state of Rio Grande do Sul. The poorly studied species is presumed to inhabit subtropical forests, and thus to be threatened by deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cryptonanus_guahybae_area.png"
+}

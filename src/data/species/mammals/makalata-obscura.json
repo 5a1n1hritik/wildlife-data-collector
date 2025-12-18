@@ -1,0 +1,25 @@
+{
+  "id": "makalata-obscura",
+  "name": "Dusky Spiny Tree Rat",
+  "scientificName": "Makalata obscura",
+  "wikibase_item": "Q931408",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846012,
+      "id": "Q846012"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q931408",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_spiny_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky spiny tree-rat is a species of rodent in the family Echimyidae. It is endemic to Brazil.",
+  "image": null
+}

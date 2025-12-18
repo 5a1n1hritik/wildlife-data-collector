@@ -1,0 +1,25 @@
+{
+  "id": "lycopsis-padillai",
+  "name": "Lycopsis padillai",
+  "scientificName": "Lycopsis padillai",
+  "wikibase_item": "Q64850495",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3840985,
+      "id": "Q3840985"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64850495",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lycopsis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lycopsis is an extinct genus of South American metatherian that lived during the Miocene in Argentina and Colombia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lycopsis_longirostris_AMNH.jpg"
+}

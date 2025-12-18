@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-grandiceps",
+  "name": "Large-headed Shrew",
+  "scientificName": "Crocidura grandiceps",
+  "wikibase_item": "Q1768502",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768502",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-headed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Large-headed shrew may refer to:Crocidura grandiceps, a species of white-toothed shrew also known as the large-headed forest shrew\nParacrocidura, a genus of three white-toiothed shrew species\n\n",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "otomys-typus",
+  "name": "Typical Vlei Rat",
+  "scientificName": "Otomys typus",
+  "wikibase_item": "Q1768394",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768394",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ethiopian vlei rat is a species of vlei rat in the rodent family Muridae.\nIt is found only in Ethiopia and is considered endemic.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-tansaniana",
+  "name": "Tanzanian Shrew",
+  "scientificName": "Crocidura tansaniana",
+  "wikibase_item": "Q307094",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307094",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanzanian_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tanzanian shrew is a species of mammal in the family Soricidae. It is endemic to Tanzania. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tanzanian_Shrew_area.png"
+}

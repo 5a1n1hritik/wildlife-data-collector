@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-molossinus",
+  "name": "Pteropus molossinus",
+  "scientificName": "Pteropus molossinus",
+  "wikibase_item": "Q1767035",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767035",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caroline flying fox or Pohnpei flying fox is a species of megabat in the genus Pteropus, endemic to Micronesia. Its natural habitat is subtropical or tropical dry forests. Prior to a ban on commercial exploitation, it was hunted for export, substantially impacting its abundance. It is threatened by habitat loss due to expanding plantations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pteropus_molossinus_illustration.jpg"
+}

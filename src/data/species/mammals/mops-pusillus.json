@@ -1,0 +1,25 @@
+{
+  "id": "mops-pusillus",
+  "name": "Mops pusillus",
+  "scientificName": "Mops pusillus",
+  "wikibase_item": "Q125912666",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131457380,
+      "id": "Q131457380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125912666",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mops_pusillus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mops pusillus is a species of bat in the family Molossidae. It is found on islands off the coast of east Africa.",
+  "image": null
+}

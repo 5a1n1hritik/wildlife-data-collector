@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-angulatus",
+  "name": "Angulate pipistrelle",
+  "scientificName": "Pipistrellus angulatus",
+  "wikibase_item": "Q1830772",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830772",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angulate_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The angulate pipistrelle, also known as the New Guinea pipistrelle, is a species of vesper bat found in Papua New Guinea and the Solomon Islands.",
+  "image": null
+}

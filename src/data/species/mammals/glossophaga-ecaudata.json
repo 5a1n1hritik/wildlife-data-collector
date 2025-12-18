@@ -1,0 +1,22 @@
+{
+  "id": "glossophaga-ecaudata",
+  "name": "Glossophaga ecaudata",
+  "scientificName": "Glossophaga ecaudata",
+  "wikibase_item": "Q64822951",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571718,
+      "id": "Q1571718"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64822951"
+  },
+  "lastUpdated": "2025-12-17"
+}

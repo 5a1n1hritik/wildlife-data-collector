@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-flamarioni",
+  "name": "Flamarion's tuco-tuco",
+  "scientificName": "Ctenomys flamarioni",
+  "wikibase_item": "Q1765606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765606",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flamarion's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Flamarion's tuco-tuco or the tuco-tuco of the dunes is a rodent species of the family Ctenomyidae Its karyotype has 2n = 48 and FN = 50–78. It is endemic to the coastal dunes of Rio Grande do Sul state, southern Brazil. The species is threatened by habitat loss due to dune removal and urbanization. It is named after Brazilian biologist Luiz Flamarion B. de Oliveira.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ctenomys_flamarioni.jpg"
+}

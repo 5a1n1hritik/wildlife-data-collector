@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-schistaceus",
+  "name": "Hipposideros schistaceus",
+  "scientificName": "Hipposideros schistaceus",
+  "wikibase_item": "Q11844127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11844127",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian roundleaf bat, also known as the large Ceylon leaf-nosed bat or Kelaart's leaf‐nosed bat is a species of bat in the family Hipposideridae. It is endemic to the Indian subcontinent, with marginal populations also detected in Southeast Asia. Its natural habitats are subtropical or tropical dry forests and caves. The bat has three subspecies that occur in India, Sri Lanka, and Myanmar. The Indian subspecies, H. l. indus, is smaller than the ones found in Sri Lanka and Myanmar, although there are no other characteristics that differentiate the subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hipposideros_lankadiva_Kelaart%27s_leaf-nosed_bat_1.jpg"
+}

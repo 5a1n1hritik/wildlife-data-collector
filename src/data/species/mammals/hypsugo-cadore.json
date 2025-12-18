@@ -1,0 +1,22 @@
+{
+  "id": "hypsugo-cadore",
+  "name": "Hypsugo cadore",
+  "scientificName": "Hypsugo cadore",
+  "wikibase_item": "Q112613995",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112613995"
+  },
+  "lastUpdated": "2025-12-17"
+}

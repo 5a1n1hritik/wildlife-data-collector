@@ -1,0 +1,25 @@
+{
+  "id": "sorex-longirostris",
+  "name": "Southeastern Shrew",
+  "scientificName": "Sorex longirostris",
+  "wikibase_item": "Q1769703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southeastern_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southeastern shrew is a species of mammal in the family Soricidae. It is found in the southeastern United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dismal_Swamp_southeastern_shrew.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "proechimys-chrysaeolus",
+  "name": "Boyacá spiny rat",
+  "scientificName": "Proechimys chrysaeolus",
+  "wikibase_item": "Q1765495",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765495",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boyac%C3%A1_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Boyacá spiny rat is a species of rodent in the family Echimyidae. It is endemic to Colombia; it is found primary forest in Carare River valley, Boyacá Department, 100 to 500 meters above sea level. Nocturnal, terrestrial and solitary, it feeds on seeds, fruit and some leaves and insects. It is threatened by habitat loss for mining and agriculture.",
+  "image": null
+}

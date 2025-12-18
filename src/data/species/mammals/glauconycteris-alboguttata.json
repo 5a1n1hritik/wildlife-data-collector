@@ -1,0 +1,25 @@
+{
+  "id": "glauconycteris-alboguttata",
+  "name": "Allen's striped bat",
+  "scientificName": "Glauconycteris alboguttata",
+  "wikibase_item": "Q1830353",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830353",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen's_striped_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Allen's striped bat is a species of bat in the family Vespertilionidae, the vesper bats. It is native to Africa, where it occurs in Cameroon and the Democratic Republic of the Congo.\nThis species can be found in lowland tropical moist forests. Little else is known about it.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glauconycteris_alboguttata.jpg"
+}

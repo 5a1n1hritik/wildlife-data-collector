@@ -1,0 +1,25 @@
+{
+  "id": "chalinolobus-tuberculatus",
+  "name": "New Zealand long-tailed bat",
+  "scientificName": "Chalinolobus tuberculata",
+  "wikibase_item": "Q587667",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134516,
+      "id": "Q134516"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q587667",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Zealand_long-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Chalinolobus tuberculatus, known more commonly as the New Zealand long-tailed bat, the long-tailed wattle bat or pekapeka tou-roa, is a small insectivorous mammal within the genus Chalinolobus. The long-tailed bat is one of 7 species belonging to the genus Chalinolobus, which are commonly referred to as \"wattled bats,\" \"pied bats\" and \"long-tailed bats.\" The genus Chalinolobus is characterised by fleshy lobes located on their lower lips and at the bottom of their ears. Some zoologists claim there is overlap between the Chalinolobus genus and the Glauconycteris genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/ScotophilusTuberculatusFord.jpg"
+}

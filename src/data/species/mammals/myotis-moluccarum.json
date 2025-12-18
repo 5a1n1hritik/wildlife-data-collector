@@ -1,0 +1,25 @@
+{
+  "id": "myotis-moluccarum",
+  "name": "Myotis moluccarum",
+  "scientificName": "Myotis moluccarum",
+  "wikibase_item": "Q964531",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q964531",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maluku_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Maluku myotis, also commonly known as the Arafura large-footed bat, is a species of mouse-eared bat. Native to Indonesia, and possibly New Guinea and northern Australia, it one of several species known as \"fishing bats\" because they catch their prey on the surface of water, scooping it up with their large feet.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Myotis_moluccarum_distribution_%28gray%29.png"
+}

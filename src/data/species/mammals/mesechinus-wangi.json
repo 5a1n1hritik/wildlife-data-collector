@@ -1,0 +1,25 @@
+{
+  "id": "mesechinus-wangi",
+  "name": "Mesechinus wangi",
+  "scientificName": "Mesechinus wangi",
+  "wikibase_item": "Q54958595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1545952,
+      "id": "Q1545952"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54958595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaoligong_forest_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gaoligong forest hedgehog or Wang's forest hedgehog is a species of hedgehog in the family Erinaceidae found only in China. It is endemic to the slopes of Mt. Gaoligong in the Yunnan Province, where it lives in subtropical evergreen broad-leaved forest at elevations between 2,200 and 2,680 m. This distribution is disjunct from that of the other species in this genus.",
+  "image": null
+}

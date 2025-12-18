@@ -1,0 +1,22 @@
+{
+  "id": "procavia-marmota",
+  "name": "Procavia marmota",
+  "scientificName": "Procavia marmota",
+  "wikibase_item": "Q125811315",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2733577,
+      "id": "Q2733577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125811315"
+  },
+  "lastUpdated": "2025-12-17"
+}

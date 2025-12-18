@@ -1,0 +1,25 @@
+{
+  "id": "chaerephon-aloysiisabaudiae",
+  "name": "Duke of Abruzzi's free-tailed bat",
+  "scientificName": "Chaerephon aloysiisabaudiae",
+  "wikibase_item": "Q1830181",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830181",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duke_of_Abruzzi's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Duke of Abruzzi's free-tailed bat is a species of bat in the family Molossidae. It is found in Cameroon, Central African Republic, Democratic Republic of the Congo, Ivory Coast, Gabon, Ghana, South Sudan, and Uganda. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, and moist savanna. It is threatened by habitat loss.",
+  "image": null
+}

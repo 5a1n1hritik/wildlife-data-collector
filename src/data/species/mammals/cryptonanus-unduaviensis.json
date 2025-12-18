@@ -1,0 +1,25 @@
+{
+  "id": "cryptonanus-unduaviensis",
+  "name": "Unduavi gracile opossum",
+  "scientificName": "Cryptonanus unduaviensis",
+  "wikibase_item": "Q2162307",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311590,
+      "id": "Q311590"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2162307",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unduavi_gracile_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Unduavi gracile opossum is a species of opossum in the family Didelphidae. It is native to northern Bolivia, where it has been found in seasonally flooded grassland. Some of the specimens recognized by Voss et al. as belonging to this species were previously classified as the unduaviensis or buenavistae subspecies of Gracilinanus agilis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cryptonanus_unduaviensis_area.png"
+}

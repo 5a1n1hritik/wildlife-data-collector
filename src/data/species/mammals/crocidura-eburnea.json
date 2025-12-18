@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-eburnea",
+  "name": "Crocidura eburnea",
+  "scientificName": "Crocidura eburnea",
+  "wikibase_item": "Q81850162",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81850162",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivory_Coast_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ivory Coast white-toothed shrew is a species of mammal in the family Soricidae. It is native to the Ivory Coast, Liberia, and Guinea.",
+  "image": null
+}

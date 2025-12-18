@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-emiliae",
+  "name": "Emilia's short-tailed opossum",
+  "scientificName": "Monodelphis emiliae",
+  "wikibase_item": "Q194902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194902",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilia's_short-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Emilia's short-tailed opossum is an opossum species from South America. It is found south of the Amazon River from eastern Peru, through Bolivia, to central Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Emilia%27s_Short-tailed_Opossum_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-pusillus",
+  "name": "Small bent-winged bat",
+  "scientificName": "Miniopterus pusillus",
+  "wikibase_item": "Q2044372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2044372",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_bent-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small bent-winged bat is a species in the bat family Miniopteridae, which has similarities and distinctive differences from the family of vesper bats. A novel version of coronavirus has been identified in this species. It can be found in Bangladesh, Bhutan, India, Indonesia, Laos, Malaysia, Nepal, Philippines, Thailand and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Range_Miniopterus_pusillus.png"
+}

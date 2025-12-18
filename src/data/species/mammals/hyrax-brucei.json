@@ -1,0 +1,22 @@
+{
+  "id": "hyrax-brucei",
+  "name": "Hyrax brucei",
+  "scientificName": "Hyrax brucei",
+  "wikibase_item": "Q41165423",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41154543,
+      "id": "Q41154543"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165423"
+  },
+  "lastUpdated": "2025-12-17"
+}

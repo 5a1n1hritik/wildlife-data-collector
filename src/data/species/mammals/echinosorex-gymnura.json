@@ -1,0 +1,25 @@
+{
+  "id": "echinosorex-gymnura",
+  "name": "Moonrat",
+  "scientificName": "Echinosorex gymnura",
+  "wikibase_item": "Q754046",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10757917,
+      "id": "Q10757917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754046",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moonrat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The moonrat is a southeast Asian species of mammal in the family Erinaceidae. It is the only species in the genus Echinosorex. The moonrat is a fairly small, primarily carnivorous animal which, despite its name, is not closely related to rats or other rodents. The scientific name is sometimes given as Echinosorex gymnurus, but this is incorrect.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Haarigel_%28Echinosorex_gymnura%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "paratriaenops-pauliani",
+  "name": "Paratriaenops pauliani",
+  "scientificName": "Paratriaenops pauliani",
+  "wikibase_item": "Q3895323",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1230003,
+      "id": "Q1230003"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3895323",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paratriaenops_pauliani"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Paratriaenops pauliani is a species of bat in the family Hipposideridae. It is endemic to Aldabra Atoll of the western Seychelles, where it was found on Picard Island. It was formerly considered to be part of the species Triaenops furculus, known from Madagascar, and was initially assigned as a new species within the genus Triaenops. Later it as well as T. furculus were placed in the separate genus Paratriaenops. A related species, Paratriaenops auritus, also of Madagascar, was similarly reassigned.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Paratriaenops_distribution.png"
+}

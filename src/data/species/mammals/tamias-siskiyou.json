@@ -1,0 +1,25 @@
+{
+  "id": "tamias-siskiyou",
+  "name": "Tamias siskiyou",
+  "scientificName": "Tamias siskiyou",
+  "wikibase_item": "Q1763338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siskiyou_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Siskiyou chipmunk is a species of rodent in the family Sciuridae. It is endemic to northern California and central Oregon in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Siskiyou_Chipmunk_iNaturalist.jpg"
+}

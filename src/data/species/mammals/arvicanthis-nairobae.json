@@ -1,0 +1,25 @@
+{
+  "id": "arvicanthis-nairobae",
+  "name": "Nairobi Grass Rat",
+  "scientificName": "Arvicanthis nairobae",
+  "wikibase_item": "Q304606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 277877,
+      "id": "Q277877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304606",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nairobi_grass_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nairobi grass rat is a species of rodent in the family Muridae.\nIt is found in Kenya, Tanzania, and possibly Ethiopia.\nIts natural habitat is dry savanna.",
+  "image": null
+}

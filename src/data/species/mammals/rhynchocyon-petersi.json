@@ -1,0 +1,25 @@
+{
+  "id": "rhynchocyon-petersi",
+  "name": "black and rufous elephant shrew",
+  "scientificName": "Rhynchocyon petersi",
+  "wikibase_item": "Q1422628",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1422628",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_and_rufous_sengi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black and rufous sengi, the black and rufous elephant shrew, or the Zanj elephant shrew is one of the 17 species of elephant shrew found only in Africa. It is native to the lowland montane and dense forests of Kenya and Tanzania. Like other members of the genus Rhynchocyon, it is a relatively large species, with adults averaging about 28 cm (11 in) in length and 450–700 g (16–25 oz) in weight.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Rhynchocyon_petersi_from_side_cropped_mirror.png"
+}

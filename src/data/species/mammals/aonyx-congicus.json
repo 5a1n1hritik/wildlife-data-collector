@@ -1,0 +1,25 @@
+{
+  "id": "aonyx-congicus",
+  "name": "Aonyx congicus",
+  "scientificName": "Aonyx congicus",
+  "wikibase_item": "Q46605397",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1291566,
+      "id": "Q1291566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46605397",
+    "wikipedia": "https://en.wikipedia.org/wiki/Congo_clawless_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Congo clawless otter, also known as the Cameroon clawless otter, is a species in the family Mustelidae. It was formerly recognised as a subspecies of the African clawless otter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mazu_from_Congo.jpg"
+}

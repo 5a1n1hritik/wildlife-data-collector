@@ -1,0 +1,25 @@
+{
+  "id": "sorex-unguiculatus",
+  "name": "Long-clawed Shrew",
+  "scientificName": "Sorex unguiculatus",
+  "wikibase_item": "Q1763026",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763026",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-clawed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-clawed shrew is a species of shrew. An adult long-clawed shrew has a weight of less than 20 grams (0.71 oz) and a body length of 54 millimetres (2.1 in) to 97 millimetres (3.8 in), with a tail of 40 millimetres (1.6 in) to 53 millimetres (2.1 in). It is distributed through the uplands of northeastern Asia, including northeastern North Korea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sorex_unguiculatus.jpg"
+}

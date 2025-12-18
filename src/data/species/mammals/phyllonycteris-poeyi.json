@@ -1,0 +1,25 @@
+{
+  "id": "phyllonycteris-poeyi",
+  "name": "Cuban flower bat",
+  "scientificName": "Phyllonycteris poeyi",
+  "wikibase_item": "Q784983",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11941395,
+      "id": "Q11941395"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q784983",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuban_flower_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cuban flower bat, also called Poey's flower bat, is a species of bat in the family Phyllostomidae. It is found on the Caribbean islands of Cuba and Hispaniola.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Phyllonycteris_poeyi_map.png"
+}

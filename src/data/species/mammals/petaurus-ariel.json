@@ -1,0 +1,25 @@
+{
+  "id": "petaurus-ariel",
+  "name": "Petaurus ariel",
+  "scientificName": "Petaurus ariel",
+  "wikibase_item": "Q125810314",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125810314",
+    "wikipedia": "https://en.wikipedia.org/wiki/Savanna_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The savanna glider is a species of arboreal gliding possum in the genus Petaurus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Petaurus_breviceps_3_Gould.jpg"
+}

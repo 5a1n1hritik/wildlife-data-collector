@@ -1,0 +1,25 @@
+{
+  "id": "epomophorus-minor",
+  "name": "Minor Epauletted Fruit Bat",
+  "scientificName": "Epomophorus minor",
+  "wikibase_item": "Q1762670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135238,
+      "id": "Q135238"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762670",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minor_epauletted_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The minor epauletted fruit bat is a species of megabat in the family Pteropodidae. It is found in Zambia, Tanzania, Mozambique and Kenya.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Epomophorus_minor.jpg"
+}

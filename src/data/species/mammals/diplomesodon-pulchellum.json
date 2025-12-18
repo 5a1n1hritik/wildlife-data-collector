@@ -1,0 +1,25 @@
+{
+  "id": "diplomesodon-pulchellum",
+  "name": "Piebald Shrew",
+  "scientificName": "Diplomesodon pulchellum",
+  "wikibase_item": "Q1250357",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10755837,
+      "id": "Q10755837"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1250357",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piebald_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The piebald shrew is a shrew found in the Turan Lowland east of the Caspian Sea in Iran, Turkmenistan and Uzbekistan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/%D0%9F%D0%B5%D0%B3%D0%B8%D0%B9_%D0%BF%D1%83%D1%82%D0%BE%D1%80%D0%B0%D0%BA_%28Diplomesodon_pulchellum%29%2C_Gescheckte_W%C3%BCstenspitzmaus%2C_Piebald_Shrew%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA_%28Moscow_zoo%29%2C_18.11.2008.jpg"
+}

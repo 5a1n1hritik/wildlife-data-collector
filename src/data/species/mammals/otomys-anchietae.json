@@ -1,0 +1,25 @@
+{
+  "id": "otomys-anchietae",
+  "name": "Angolan vlei rat",
+  "scientificName": "Otomys anchietae",
+  "wikibase_item": "Q598010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q598010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan vlei rat is a species of rodent in the family Muridae.\nIt is found only in Angola.\nIts natural habitats are dry savanna, moist savanna, and subtropical or tropical seasonally wet or flooded lowland grassland.\nIt is threatened by habitat loss.",
+  "image": null
+}

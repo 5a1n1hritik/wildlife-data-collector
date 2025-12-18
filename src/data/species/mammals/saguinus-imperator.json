@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-imperator",
+  "name": "emperor tamarin",
+  "scientificName": "Saguinus imperator",
+  "wikibase_item": "Q114937",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114937",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emperor_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The emperor tamarin is a species of tamarin monkey allegedly named for its beard's resemblance to the German emperor Wilhelm II. It lives in the north Brazilian states of Acre and Amazonas and the southwest Amazon Basin, in east Peru, north Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tamarin_portrait.JPG"
+}

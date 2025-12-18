@@ -1,0 +1,25 @@
+{
+  "id": "avahi-unicolor",
+  "name": "Sambirano woolly lemur",
+  "scientificName": "Avahi unicolor",
+  "wikibase_item": "Q1365845",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1365845",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sambirano_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sambirano woolly lemur, also known as the Sambirano avahi or unicolor woolly lemur, is a species of woolly lemur native to western Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Avahi_unicolor.png"
+}

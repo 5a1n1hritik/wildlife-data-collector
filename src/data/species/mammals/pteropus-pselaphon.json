@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-pselaphon",
+  "name": "Pteropus pselaphon",
+  "scientificName": "Pteropus pselaphon",
+  "wikibase_item": "Q557468",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q557468",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonin_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bonin flying fox, also known as Bonin fruit bat, is a species of flying fox in the family Pteropodidae. It is endemic to four islands of the Bonin Islands group, Japan. Its natural habitat is subtropical forests. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pteropus_pselaphon_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07053_2.jpg"
+}

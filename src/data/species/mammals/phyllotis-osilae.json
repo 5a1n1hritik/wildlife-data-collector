@@ -1,0 +1,25 @@
+{
+  "id": "phyllotis-osilae",
+  "name": "Bunchgrass leaf-eared mouse",
+  "scientificName": "Phyllotis osilae",
+  "wikibase_item": "Q1764437",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764437",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bunchgrass_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bunchgrass leaf-eared mouse is a species of rodent in the family Cricetidae.\nIt is found in Argentina, Bolivia, and Peru.",
+  "image": null
+}

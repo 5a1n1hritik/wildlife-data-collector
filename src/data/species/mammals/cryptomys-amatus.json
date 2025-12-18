@@ -1,0 +1,25 @@
+{
+  "id": "cryptomys-amatus",
+  "name": "Cryptomys amatus",
+  "scientificName": "Cryptomys amatus",
+  "wikibase_item": "Q892386",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136488,
+      "id": "Q136488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q892386",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zambian_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zambian mole-rat is a species of rodent in the family Bathyergidae. It is found in Zambia and the Democratic Republic of the Congo. It was formerly considered a subspecies of Cryptomys hottentotus.",
+  "image": null
+}

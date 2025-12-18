@@ -1,0 +1,25 @@
+{
+  "id": "murina-tubinaris",
+  "name": "Murina tubinaris",
+  "scientificName": "Murina tubinaris",
+  "wikibase_item": "Q2043006",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2043006",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scully's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Scully's tube-Nosed bat is a species of vesper bat in the family Vespertilionidae.\nIt can be found in the following countries: India, Laos, Myanmar, Pakistan, Thailand, and Viet Nam.",
+  "image": null
+}

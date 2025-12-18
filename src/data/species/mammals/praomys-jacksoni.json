@@ -1,0 +1,25 @@
+{
+  "id": "praomys-jacksoni",
+  "name": "Jackson's soft-furred mouse",
+  "scientificName": "Praomys jacksoni",
+  "wikibase_item": "Q1768076",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768076",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackson's_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Jackson's soft-furred mouse or Jackson's praomys is a species of rodent in the family Muridae.\nIt is found in Angola, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Kenya, Nigeria, Rwanda, South Sudan, Tanzania, Uganda, and Zambia.\nIts natural habitats are subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, arable land, and heavily degraded former forest.",
+  "image": null
+}

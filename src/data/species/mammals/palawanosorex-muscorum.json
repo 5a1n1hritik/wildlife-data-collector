@@ -1,0 +1,25 @@
+{
+  "id": "palawanosorex-muscorum",
+  "name": "Palawanosorex muscorum",
+  "scientificName": "Palawanosorex muscorum",
+  "wikibase_item": "Q53617726",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 53617900,
+      "id": "Q53617900"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53617726",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palawan_moss_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Palawan moss shrew is a species of shrew found on Mount Mantalingajan in the Philippines. The shrew is one of two other unique species only found on Mount Mantalingajan.",
+  "image": null
+}

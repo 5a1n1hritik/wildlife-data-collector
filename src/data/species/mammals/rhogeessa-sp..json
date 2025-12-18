@@ -1,0 +1,22 @@
+{
+  "id": "rhogeessa-sp.",
+  "name": "Rhogeessa sp.",
+  "scientificName": "Rhogeessa sp.",
+  "wikibase_item": "Q41088153",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608576,
+      "id": "Q608576"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088153"
+  },
+  "lastUpdated": "2025-12-17"
+}

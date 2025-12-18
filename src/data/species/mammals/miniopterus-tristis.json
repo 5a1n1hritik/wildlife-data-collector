@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-tristis",
+  "name": "Great bent-winged bat",
+  "scientificName": "Miniopterus tristis",
+  "wikibase_item": "Q2118503",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2118503",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_bent-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great bent-winged bat is a species of vesper bat in the family Miniopteridae. It can be found in Indonesia, Papua New Guinea, Philippines, Solomon Islands, and Vanuatu.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Range_Miniopterus_tristis.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-lokobensis",
+  "name": "Microcebus lokobensis",
+  "scientificName": "Microcebus lokobensis",
+  "wikibase_item": "Q9300371",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9300371",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claire's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Claire's mouse lemur, or the Nosy Be mouse lemur, is a newly described species of lemur from the genus of the mouse lemurs (Microcebus). It lives on the island Nosy Bé in the Antsiranana province of Madagascar, and on the mainland near the village of Manehoka, including Lokobe Reserve. The scientific type name, mamiratra, comes from Malagasy and means \"clear and bright\"; this refers the Theodore F. and Claire M. Hubbard Family Foundation, which has contributed to genetic research on Madagascar. This species is closely related to another new species, \"M. species nova # 5\"; which is related to the Sambirano mouse lemur, Microcebus sambiranensis, and the northern rufous mouse lemur, Microcebus tavaratra.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nosy_Be_mouse_lemur_%28Microcebus_mamiratra%29.jpg"
+}

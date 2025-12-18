@@ -1,0 +1,25 @@
+{
+  "id": "philander-deltae",
+  "name": "Deltaic four-eyed opossum",
+  "scientificName": "Philander deltae",
+  "wikibase_item": "Q2420315",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2420315",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deltaic_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The deltaic four-eyed opossum or delta opossum is a species of opossum found in the Orinoco River delta region of Venezuela, South America, first described in 2006. It inhabits perennially flooded swamp forest or seasonally flooded marsh forest of the adjacent deltas of the Orinoco and nearby rivers. Its dorsal fur is gray. Its ventral fur is cream-colored, but is restricted by the hairs on the sides, which are gray at the base. Its ears are colored only along the margins. The spots above its eyes are small. The spots behind its ears are small and inconspicuous.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Philander_deltae_area.png"
+}

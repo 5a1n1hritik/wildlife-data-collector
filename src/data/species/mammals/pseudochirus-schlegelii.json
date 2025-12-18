@@ -1,0 +1,22 @@
+{
+  "id": "pseudochirus-schlegelii",
+  "name": "Pseudochirus schlegelii",
+  "scientificName": "Pseudochirus schlegelii",
+  "wikibase_item": "Q125857600",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157589,
+      "id": "Q41157589"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125857600"
+  },
+  "lastUpdated": "2025-12-17"
+}

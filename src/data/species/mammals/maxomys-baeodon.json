@@ -1,0 +1,25 @@
+{
+  "id": "maxomys-baeodon",
+  "name": "Maxomys baeodon",
+  "scientificName": "Maxomys baeodon",
+  "wikibase_item": "Q1765714",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765714",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxomys_baeodon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Maxomys baeodon, also known as the small Bornean maxomys or small spiny rat, is a species of rodent in the family Muridae. It is known only from Sarawak and Sabah in the Malaysian part of Borneo.",
+  "image": null
+}

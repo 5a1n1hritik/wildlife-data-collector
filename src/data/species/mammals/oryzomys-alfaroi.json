@@ -1,0 +1,25 @@
+{
+  "id": "oryzomys-alfaroi",
+  "name": "Oryzomys alfaroi",
+  "scientificName": "Oryzomys alfaroi",
+  "wikibase_item": "Q1763461",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763461",
+    "wikipedia": "https://en.wikipedia.org/wiki/Handleyomys_alfaroi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Handleyomys alfaroi, also known as Alfaro's rice rat or Alfaro's oryzomys, is a species of rodent in the genus Handleyomys of family Cricetidae. It is found in Belize, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and Panama. It was previously included in Oryzomys as Oryzomys alfaroi. Its natural habitats are subtropical and tropical lowland or montane dry forests at elevations ranging from sea level to 2500 m.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Handleyomys_alfaroi_70730164.jpg"
+}

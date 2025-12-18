@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-gloveri",
+  "name": "Glover's pika",
+  "scientificName": "Ochotona gloveri",
+  "wikibase_item": "Q1761829",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761829",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glover's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Glover's pika is a species of mammal in the family Ochotonidae. It was first described in 1922, by Michael Rogers Oldfield Thomas. The summer dorsal pelage is grayish rufous, grayish brown, or tea brown in colour. The winter pelage is similar to the summer pelage, but is lighter in tone. Endemic to China, it is found in high altitudes of northeastern Tibet, southwestern Qinghai, western Sichuan, and northwestern Yunnan. It is a generalist herbivore, and is known to construct haypiles. It is rated as a species of least concern by the International Union for Conservation of Nature. It is also regionally red listed as least concern in China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Glover%27s_Pika_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chibchanomys-trichotis",
+  "name": "Chibchan water mouse",
+  "scientificName": "Chibchanomys trichotis",
+  "wikibase_item": "Q307304",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 654669,
+      "id": "Q654669"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307304",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chibchan_water_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chibchan water mouse is a species of rodent in the family Cricetidae. It is found in the Andean highlands of Colombia, Peru, and Venezuela. Its natural habitats are tropical cloud forests and streams at elevations from 2,500 to 2,700 m. It feeds on snails and possibly small fish. It is the only currently described species in the genus Chibchanomys.",
+  "image": null
+}

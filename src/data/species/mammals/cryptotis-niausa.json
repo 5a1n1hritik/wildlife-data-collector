@@ -1,0 +1,22 @@
+{
+  "id": "cryptotis-niausa",
+  "name": "Cryptotis niausa",
+  "scientificName": "Cryptotis niausa",
+  "wikibase_item": "Q21259338",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21259338"
+  },
+  "lastUpdated": "2025-12-17"
+}

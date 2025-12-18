@@ -1,0 +1,22 @@
+{
+  "id": "myotis-barquezi",
+  "name": "Myotis barquezi",
+  "scientificName": "Myotis barquezi",
+  "wikibase_item": "Q125219883",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125219883"
+  },
+  "lastUpdated": "2025-12-17"
+}

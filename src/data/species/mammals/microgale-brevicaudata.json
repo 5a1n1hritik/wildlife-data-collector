@@ -1,0 +1,25 @@
+{
+  "id": "microgale-brevicaudata",
+  "name": "Short-tailed shrew tenrec",
+  "scientificName": "Microgale brevicaudata",
+  "wikibase_item": "Q783928",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q783928",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed shrew tenrec is a species of mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitats are subtropical and tropical dry and moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Microgale_brevicaudata_range_map.svg/1850px-Microgale_brevicaudata_range_map.svg.png"
+}

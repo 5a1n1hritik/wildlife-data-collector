@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-formosae",
+  "name": "Formosan woolly horseshoe bat",
+  "scientificName": "Rhinolophus formosae",
+  "wikibase_item": "Q2191106",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2191106",
+    "wikipedia": "https://en.wikipedia.org/wiki/Formosan_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Formosan woolly horseshoe bat is a species of bat from the family Rhinolophidae. It is endemic to Taiwan and occurs in primary forests in low to middle altitudes of central areas of Taiwan. Its roosting locations include caves, buildings, tunnels, and irrigation conduits. The species is listed as Least concern by the IUCN Red List, and it almost qualifies as a threatened species under criteria B1: extent of occurrence for geographic range. Its population is decreasing due to deforestation in Taiwanese lowlands, although it occurs in at least one protected area. The Formosan woolly horseshoe bat was formerly considered to be a subspecies of the woolly horseshoe bat, but is distinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Rhinolophus_formosae.jpg"
+}

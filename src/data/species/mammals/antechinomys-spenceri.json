@@ -1,0 +1,25 @@
+{
+  "id": "antechinomys-spenceri",
+  "name": "Antechinomys spenceri",
+  "scientificName": "Antechinomys spenceri",
+  "wikibase_item": "Q41080283",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816281,
+      "id": "Q19816281"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080283",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kultarr"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The kultarr is a small insectivorous nocturnal marsupial inhabiting the arid interior of Australia. Preferred habitat includes stony deserts, shrubland, woodland, grassland and open plains. The kultarr has a range of adaptations to help cope with Australia's harsh arid environment including torpor similar to hibernation that helps conserve energy. The species has declined across its former range since European settlement due to changes in land management practices and introduced predators.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Antechinomys_laniger_2.jpg"
+}

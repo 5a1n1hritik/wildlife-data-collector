@@ -1,0 +1,25 @@
+{
+  "id": "podogymnura-truei",
+  "name": "Mindanao gymnure",
+  "scientificName": "Podogymnura truei",
+  "wikibase_item": "Q1767886",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1091110,
+      "id": "Q1091110"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767886",
+    "wikipedia": "https://en.wikipedia.org/wiki/Podogymnura_truei"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Podogymnura truei, also known as the Mindanao gymnure, Mindanao moonrat, or Mindanao wood shrew, is a mammal of the family Erinaceidae. It is endemic to the Mindanao islands of the Philippines. Erinaceidae is a family of small mammals that include the gymnures, also known as the silky furred moonrats, and the hedgehogs. Animals belonging to this family are significant because they are among the oldest known placental mammals that are alive. Gymnures are relatives of hedgehogs but lack the prickly spines. Four species are categorized in the genus Podogymnura: P. aureospinula, P. intermedia, P. minima, and P. truei. All share a close resemblance to the moonrat Echinosorex gymnura, which is commonly found on the Borneo, Sumatra, and the Malay Peninsulas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Podogymnura_truei.jpg"
+}

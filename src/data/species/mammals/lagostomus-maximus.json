@@ -1,0 +1,25 @@
+{
+  "id": "lagostomus-maximus",
+  "name": "Lagostomus maximus",
+  "scientificName": "Lagostomus maximus",
+  "wikibase_item": "Q1162447",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1071820,
+      "id": "Q1071820"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1162447",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plains_viscacha"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The plains viscacha or plains vizcacha is a species of viscacha, a rodent in the family Chinchillidae. It is the only living species within the genus Lagostomus. It is found in Argentina, Bolivia, and Paraguay. The plains viscacha is the largest species in its family. They construct elaborate burrows that house successive colonies for decades.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lagostomus_maximus%2C_Plains_Viscacha.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-longimembris",
+  "name": "Little pocket mouse",
+  "scientificName": "Perognathus longimembris",
+  "wikibase_item": "Q1764601",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764601",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little pocket mouse is a species of rodent in the family Heteromyidae. It is found in Baja California and Sonora in Mexico and in Arizona, California, Idaho, Nevada, Oregon and Utah in the United States. Its natural habitat is subtropical or tropical dry lowland grassland. It is a common species and faces no particular threats; the IUCN has listed it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Perognathus_longimembris-Little_Pocket_Mouse.jpg"
+}

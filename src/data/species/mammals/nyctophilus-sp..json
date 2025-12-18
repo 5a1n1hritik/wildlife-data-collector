@@ -1,0 +1,22 @@
+{
+  "id": "nyctophilus-sp.",
+  "name": "Nyctophilus sp.",
+  "scientificName": "Nyctophilus sp.",
+  "wikibase_item": "Q41085606",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085606"
+  },
+  "lastUpdated": "2025-12-17"
+}

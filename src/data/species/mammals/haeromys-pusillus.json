@@ -1,0 +1,25 @@
+{
+  "id": "haeromys-pusillus",
+  "name": "Lesser Ranee mouse",
+  "scientificName": "Haeromys pusillus",
+  "wikibase_item": "Q303812",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244057,
+      "id": "Q244057"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303812",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_ranee_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser ranee mouse is a species of rodent in the family Muridae. It is found on the island of Borneo and the Palawan region (Philippines). Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Range_Haeromys_pusillus.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hylomys-parvus",
+  "name": "Dwarf gymnure",
+  "scientificName": "Hylomys parvus",
+  "wikibase_item": "Q682527",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1392810,
+      "id": "Q1392810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q682527",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf gymnure is a gymnure found only at Mount Kerinci, Sumatra, Indonesia. It is listed by the International Union for Conservation of Nature as a vulnerable species due to a restricted range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Dwarf_Gymnure_area.png"
+}

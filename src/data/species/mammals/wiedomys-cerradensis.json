@@ -1,0 +1,25 @@
+{
+  "id": "wiedomys-cerradensis",
+  "name": "Cerrado red-nosed mouse",
+  "scientificName": "Wiedomys cerradensis",
+  "wikibase_item": "Q4033672",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845337,
+      "id": "Q845337"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4033672",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerrado_red-nosed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cerrado red-nosed mouse is a rodent species from South America. It is known from one locality in Bahia, eastern Brazil. The species was found in semi-deciduous forest in the cerrado ecoregion.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cerrado_Red-nosed_Mouse%2C_Pedra_Preta_-_RN%2C_Brasil_imported_from_iNaturalist_photo_355879003.jpg"
+}

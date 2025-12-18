@@ -1,0 +1,25 @@
+{
+  "id": "lagidium-ahuacaense",
+  "name": "Lagidium ahuacaense",
+  "scientificName": "Lagidium ahuacaense",
+  "wikibase_item": "Q1999949",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1195501,
+      "id": "Q1195501"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1999949",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lagidium_ahuacaense"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lagidium ahuacaense is a rodent in the mountain viscacha genus (Lagidium) that occurs in southern Ecuador. First observed in 2005 and formally described in 2009, it occurs more than 500 km (310 mi) north of the nearest previously known population of mountain viscachas in central Peru. Only a single population is known. It is found on rocky habitats on Cerro El Ahuaca, an isolated granite mountain in southern Ecuador; as few as several dozen individuals remain. The species is threatened by fires and grazing cattle; the discoverers recommended its conservation status be assessed as critically endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lagidium_ahuacaense_distribution.png"
+}

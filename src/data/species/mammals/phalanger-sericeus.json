@@ -1,0 +1,25 @@
+{
+  "id": "phalanger-sericeus",
+  "name": "Silky cuscus",
+  "scientificName": "Phalanger sericeus",
+  "wikibase_item": "Q209566",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209566",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silky_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silky cuscus is a species of marsupial in the family Phalangeridae. It is found in Indonesia and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Silky_Cuscus_area.png"
+}

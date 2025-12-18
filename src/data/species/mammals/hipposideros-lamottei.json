@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-lamottei",
+  "name": "Hipposideros lamottei",
+  "scientificName": "Hipposideros lamottei",
+  "wikibase_item": "Q308983",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308983",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamotte's_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lamotte's roundleaf bat is a species of bat found only at Mount Nimba on the border of Côte d'Ivoire, Guinea and Liberia. It is critically endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lamotte%27s_Roundleaf_Bat_area.png"
+}

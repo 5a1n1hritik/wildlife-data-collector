@@ -1,0 +1,25 @@
+{
+  "id": "chilonycteris-macleayii",
+  "name": "Chilonycteris macleayii",
+  "scientificName": "Chilonycteris macleayii",
+  "wikibase_item": "Q109647143",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11913680,
+      "id": "Q11913680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647143",
+    "wikipedia": "https://en.wikipedia.org/wiki/Macleay's_mustached_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Macleay's mustached bat is a species of bat in the family Mormoopidae. It is found in Cuba and Jamaica, and is threatened by habitat loss. The species is named for William Sharp Macleay, who collected the type specimen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Pteronotus_macleayii_Annals_of_natural_history_%281840%29_%2818226066730%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "episoriculus-fumidus",
+  "name": "Taiwanese brown-toothed shrew",
+  "scientificName": "Episoriculus fumidus",
+  "wikibase_item": "Q1766010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894104,
+      "id": "Q2894104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiwanese_brown-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Taiwanese brown-toothed shrew is a species of shrew in the tribe Nectogalini. It is found only in Taiwan. It prefers dense ground cover in forests and subalpine shrublands in high mountains of central Taiwan. Its placement in Episoriculus has been questioned, with genetic analysis finding that it is more basal within Nectogalini than other members of Episoriculus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Taiwanese_Brown-toothed_Shrew_area.png"
+}

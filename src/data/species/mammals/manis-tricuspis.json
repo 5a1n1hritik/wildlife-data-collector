@@ -1,0 +1,25 @@
+{
+  "id": "manis-tricuspis",
+  "name": "Manis tricuspis",
+  "scientificName": "Manis tricuspis",
+  "wikibase_item": "Q752350",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25397,
+      "id": "Q25397"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q752350",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-bellied_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-bellied pangolin is one of eight extant species of pangolins, and is native to equatorial Africa. Also known as the tree pangolin or three-cusped pangolin, it is the most common of the African forest pangolins.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_pangolin_%28Phataginus_tricuspis%29_Nyamebe_Bepo.jpg"
+}

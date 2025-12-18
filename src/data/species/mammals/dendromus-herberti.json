@@ -1,0 +1,22 @@
+{
+  "id": "dendromus-herberti",
+  "name": "Dendromus herberti",
+  "scientificName": "Dendromus herberti",
+  "wikibase_item": "Q40991907",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40991907"
+  },
+  "lastUpdated": "2025-12-17"
+}

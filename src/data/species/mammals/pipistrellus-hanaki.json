@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-hanaki",
+  "name": "Pipistrellus hanaki",
+  "scientificName": "Pipistrellus hanaki",
+  "wikibase_item": "Q2127214",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2127214",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pipistrellus_hanaki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hanak's dwarf bat or Hanak's pipistrelle is a species of bat only found in Cyrenaica, Libya and Crete, Greece.",
+  "image": null
+}

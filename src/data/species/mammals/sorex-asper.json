@@ -1,0 +1,25 @@
+{
+  "id": "sorex-asper",
+  "name": "Tien Shan Shrew",
+  "scientificName": "Sorex asper",
+  "wikibase_item": "Q1770008",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770008",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tien_Shan_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tien Shan shrew is a species of mammal in the family Soricidae. It is found in China and Kazakhstan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tien_Shan_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mustela-tonkinensis",
+  "name": "Tonkin weasel",
+  "scientificName": "Mustela tonkinensis",
+  "wikibase_item": "Q55636015",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55636015",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tonkin_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tonkin weasel or Vietnamese mountain weasel is a species of weasel from Vietnam. The species was described by Swedish biologist Berkil Björkegren in 1941, from a single specimen obtained in Vietnam in 1939. It was classified as a subspecies of common weasel until 2007, when it was re-classified as a separate species. It is not classified in the IUCN Red List and is listed as data deficient.",
+  "image": null
+}

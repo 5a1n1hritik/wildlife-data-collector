@@ -1,0 +1,25 @@
+{
+  "id": "lariscus-niobe",
+  "name": "Lariscus niobe",
+  "scientificName": "Lariscus niobe",
+  "wikibase_item": "Q2429623",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 301584,
+      "id": "Q301584"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2429623",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niobe_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Niobe ground squirrel is a species of rodent in the family Sciuridae. It is endemic to the mountains of western Sumatra, and eastern Java, in Indonesia. Its natural habitat is subtropical or tropical dry forests.",
+  "image": null
+}

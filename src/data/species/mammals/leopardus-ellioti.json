@@ -1,0 +1,22 @@
+{
+  "id": "leopardus-ellioti",
+  "name": "Leopardus ellioti",
+  "scientificName": "Leopardus ellioti",
+  "wikibase_item": "Q41084131",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084131"
+  },
+  "lastUpdated": "2025-12-17"
+}

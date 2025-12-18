@@ -1,0 +1,25 @@
+{
+  "id": "microperoryctes-aplini",
+  "name": "Arfak pygmy bandicoot",
+  "scientificName": "Microperoryctes aplini",
+  "wikibase_item": "Q729714",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1541877,
+      "id": "Q1541877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q729714",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arfak_pygmy_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arfak pygmy bandicoot is a species of marsupial in the family Peramelidae. It is endemic to the Arfak mountains in the Vogelkop Peninsula of West Papua, in Indonesia. Its natural habitat is subtropical or tropical moist montane forests. The population is unknown and threats may be human expansion and hunting but it is protected by Arfak Reserve.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Arfak_Pygmy_Bandicoot_area.png"
+}

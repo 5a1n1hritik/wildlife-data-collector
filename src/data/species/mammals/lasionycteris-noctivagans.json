@@ -1,0 +1,25 @@
+{
+  "id": "lasionycteris-noctivagans",
+  "name": "silver-haired bat",
+  "scientificName": "Lasionycteris noctivagans",
+  "wikibase_item": "Q28972",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343787,
+      "id": "Q17343787"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28972",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver-haired_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silver-haired bat is a solitary migratory species of vesper bat in the family Vespertilionidae and the only member of the genus Lasionycteris.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Silver-haired_bat.JPG"
+}

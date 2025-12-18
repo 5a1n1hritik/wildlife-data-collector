@@ -1,0 +1,25 @@
+{
+  "id": "kerivoula-krauensis",
+  "name": "Kerivoula krauensis",
+  "scientificName": "Kerivoula krauensis",
+  "wikibase_item": "Q588582",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q588582",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krau_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Krau woolly bat is a species of bat in the family Vespertilionidae. It is found in Southeast Asia, Brunei, and Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Range_Kerivoula_krauensis.png"
+}

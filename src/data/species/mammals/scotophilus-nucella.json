@@ -1,0 +1,25 @@
+{
+  "id": "scotophilus-nucella",
+  "name": "Robbins's Yellow Bat",
+  "scientificName": "Scotophilus nucella",
+  "wikibase_item": "Q1832904",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832904",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robbins's_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Robbins's yellow bat is a species of vesper bat. It is found in Ivory Coast, Ghana, and Uganda.",
+  "image": null
+}

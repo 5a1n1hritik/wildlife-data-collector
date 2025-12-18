@@ -1,0 +1,25 @@
+{
+  "id": "taeromys-microbullatus",
+  "name": "Small-eared rat",
+  "scientificName": "Taeromys microbullatus",
+  "wikibase_item": "Q1768175",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135072,
+      "id": "Q135072"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768175",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small-eared_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small-eared rat, is an extant species of Old World rodent that inhabits the southeast of Sulawesi, an Indonesian island. The rat is found in the Mekongga Mountains of southeastern Sulawesi. Following the identification of Taeromys microbullatus in 1935, the species was associated with the R. xanthurus in 1941, P. dominator from 1949, and later T. callitrichus from 1970. In Mammal Species of the World, a more contemporary record suggests that T. microbullatus is closer to T. callitrichus than other species within the genus Taeromys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Taeromys_microbullatus_distribution.png"
+}

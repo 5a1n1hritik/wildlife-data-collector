@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-roylii",
+  "name": "Royle's pika",
+  "scientificName": "Ochotona roylii",
+  "wikibase_item": "Q1762352",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762352",
+    "wikipedia": "https://en.wikipedia.org/wiki/Royle's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Royle's pika, also called the Himalayan hare or hui shutu, is a species of pika. It is found in Bhutan, China, India, Nepal, and Pakistan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Royle%27s_Pika_in_it%27s_home.jpg"
+}

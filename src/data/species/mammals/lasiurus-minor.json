@@ -1,0 +1,25 @@
+{
+  "id": "lasiurus-minor",
+  "name": "Minor red bat",
+  "scientificName": "Lasiurus minor",
+  "wikibase_item": "Q2218421",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2218421",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minor_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The minor red bat is a species of bat from the family Vespertilioninae. It is found in the Bahamas, Hispaniola, and Puerto Rico in the Caribbean, though there are only six known individuals in the latter.",
+  "image": null
+}

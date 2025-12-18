@@ -1,0 +1,25 @@
+{
+  "id": "hydromys-neobritannicus",
+  "name": "New Britain Water Rat",
+  "scientificName": "Hydromys neobrittanicus",
+  "wikibase_item": "Q303992",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668884,
+      "id": "Q668884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303992",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Britain_water_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Britain water rat is a species of semiaquatic rodent in the family Muridae.\nIt is found only on the island of New Britain in Papua New Guinea. It is threatened by habitat loss.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dendrolagus-dorianus",
+  "name": "Doria's tree-kangaroo",
+  "scientificName": "Dendrolagus dorianus",
+  "wikibase_item": "Q183489",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q183489",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doria's_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Doria's tree-kangaroo is a long-tailed, furry, bear-like mammal found only in tropical mountain forests on the island of New Guinea. It is one of the largest tree-kangaroos, living alone in trees and active at night to feed on leaves or fruit. It belongs to the macropod family (Macropodidae) with kangaroos, and carries its young in a pouch like other marsupials. Threats include hunting and habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Macropodidae_-_Dendrolagus_dorianus.JPG"
+}

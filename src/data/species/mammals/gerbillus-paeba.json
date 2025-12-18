@@ -1,0 +1,22 @@
+{
+  "id": "gerbillus-paeba",
+  "name": "Gerbillus paeba",
+  "scientificName": "Gerbillus paeba",
+  "wikibase_item": "Q41164950",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164950"
+  },
+  "lastUpdated": "2025-12-17"
+}

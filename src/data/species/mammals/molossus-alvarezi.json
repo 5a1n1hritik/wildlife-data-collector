@@ -1,0 +1,25 @@
+{
+  "id": "molossus-alvarezi",
+  "name": "Molossus alvarezi",
+  "scientificName": "Molossus alvarezi",
+  "wikibase_item": "Q12071700",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1723019,
+      "id": "Q1723019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12071700",
+    "wikipedia": "https://en.wikipedia.org/wiki/Molossus_alvarezi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Molossus alvarezi, or Alvarez's mastiff bat, is a species of bat in the family Molossidae, native to the Yucatán Peninsula. It lives within a relative homogenous environment within perennial forests, low forests, and a band of xeric vegetation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Molossus_alvarezi_map.svg/1052px-Molossus_alvarezi_map.svg.png"
+}

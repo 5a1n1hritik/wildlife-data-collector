@@ -1,0 +1,25 @@
+{
+  "id": "eumops-maurus",
+  "name": "Guianan bonneted bat",
+  "scientificName": "Eumops maurus",
+  "wikibase_item": "Q302012",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302012",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guianan_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guianan bonneted bat, or Thomas's mastiff bat, is a species of free-tailed bat from South America. It is poorly understood, because it is difficult to capture, and may be one of the rarest Neotropical bats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Distribution_of_Eumops_maurus.png"
+}

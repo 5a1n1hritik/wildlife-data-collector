@@ -1,0 +1,25 @@
+{
+  "id": "marmota-caligata",
+  "name": "hoary marmot",
+  "scientificName": "Marmota caligata",
+  "wikibase_item": "Q326998",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q326998",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hoary_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hoary marmot is a species of marmot that inhabits the mountains of northwest North America. Hoary marmots live near the tree line on slopes with grasses and forbs to eat and rocky areas for cover.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Marmota_caligata_%28EH%29.jpg"
+}

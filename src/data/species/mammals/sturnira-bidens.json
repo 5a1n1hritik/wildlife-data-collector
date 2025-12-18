@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-bidens",
+  "name": "Bidentate yellow-shouldered bat",
+  "scientificName": "Sturnira bidens",
+  "wikibase_item": "Q1592492",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20879326,
+      "id": "Q20879326"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1592492",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bidentate_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bidentate yellow-shouldered bat is a species of bat in the family Phyllostomidae. It is found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Distribution_of_Sturnira_bidens.png"
+}

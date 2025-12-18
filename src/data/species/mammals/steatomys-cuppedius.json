@@ -1,0 +1,25 @@
+{
+  "id": "steatomys-cuppedius",
+  "name": "Dainty fat mouse",
+  "scientificName": "Steatomys cuppedius",
+  "wikibase_item": "Q927397",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 513141,
+      "id": "Q513141"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q927397",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dainty_fat_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dainty fat mouse is a species of rodent in the family Nesomyidae.\nIt is found in Benin, Burkina Faso, Mali, Niger, Nigeria, and Senegal.\nIts natural habitat is subtropical or tropical dry shrubland.",
+  "image": null
+}

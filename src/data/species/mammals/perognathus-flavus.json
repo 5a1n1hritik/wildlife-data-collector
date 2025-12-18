@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-flavus",
+  "name": "Perognathus flavus",
+  "scientificName": "Perognathus flavus",
+  "wikibase_item": "Q586809",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q586809",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silky_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silky pocket mouse is a species of rodent in the family Heteromyidae. It is found in northern and central Mexico and the southwest region of the United States. It is a species of least concern, according to the IUCN, with no known major threats. The silky pocket mouse eats seeds, succulent parts of plants and nuts, and carries food in its cheek pouches. It lives in low valley bottoms with soft soils, among weeds and shrubs, where it burrows in the sand to bury seed caches. The species is more tolerant of harsh habitat conditions than other pocket mice.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Perognathus_flavus.jpg"
+}

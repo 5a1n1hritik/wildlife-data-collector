@@ -1,0 +1,25 @@
+{
+  "id": "nothrotheriops-shastensis",
+  "name": "Nothrotheriops shastensis",
+  "scientificName": "Nothrotheriops shastensis",
+  "wikibase_item": "Q124605343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1088778,
+      "id": "Q1088778"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124605343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nothrotheriops"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nothrotheriops is an extinct genus of ground sloths endemic to North America during the Pleistocene to early Holocene. The genus contains two species, N. shastensis and N. texanus, the former of which is also known as the Shasta ground sloth.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Shasta_ground_sloth_front.jpg"
+}

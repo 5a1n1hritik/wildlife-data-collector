@@ -1,0 +1,22 @@
+{
+  "id": "balaenoptera-sp.",
+  "name": "Balaenoptera sp.",
+  "scientificName": "Balaenoptera sp.",
+  "wikibase_item": "Q40322571",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133320,
+      "id": "Q133320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40322571"
+  },
+  "lastUpdated": "2025-12-17"
+}

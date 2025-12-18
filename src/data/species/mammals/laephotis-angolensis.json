@@ -1,0 +1,25 @@
+{
+  "id": "laephotis-angolensis",
+  "name": "Angolan Long-eared Bat",
+  "scientificName": "Laephotis angolensis",
+  "wikibase_item": "Q303234",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 599681,
+      "id": "Q599681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303234",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan long-eared bat is a species of vesper bat in the Vespertilionidae family. It can be found in moist savanna in Angola and Democratic Republic of the Congo.",
+  "image": null
+}

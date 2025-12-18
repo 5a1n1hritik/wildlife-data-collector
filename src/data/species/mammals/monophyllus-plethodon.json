@@ -1,0 +1,25 @@
+{
+  "id": "monophyllus-plethodon",
+  "name": "Insular single leaf bat",
+  "scientificName": "Monophyllus plethodon",
+  "wikibase_item": "Q937851",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1572763,
+      "id": "Q1572763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q937851",
+    "wikipedia": "https://en.wikipedia.org/wiki/Insular_single_leaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The insular single leaf bat or Lesser Antillean long-tongued bat is a species of leaf-nosed bat. It is found on the Lesser Antilles islands in the Caribbean Sea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Distribution_of_Monophyllus_plethodon.png"
+}

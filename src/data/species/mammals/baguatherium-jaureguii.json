@@ -1,0 +1,22 @@
+{
+  "id": "baguatherium-jaureguii",
+  "name": "Baguatherium jaureguii",
+  "scientificName": "Baguatherium jaureguii",
+  "wikibase_item": "Q55760745",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5716339,
+      "id": "Q5716339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55760745"
+  },
+  "lastUpdated": "2025-12-17"
+}

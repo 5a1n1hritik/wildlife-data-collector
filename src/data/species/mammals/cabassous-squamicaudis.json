@@ -1,0 +1,22 @@
+{
+  "id": "cabassous-squamicaudis",
+  "name": "Cabassous squamicaudis",
+  "scientificName": "Cabassous squamicaudis",
+  "wikibase_item": "Q125621938",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856879,
+      "id": "Q856879"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125621938"
+  },
+  "lastUpdated": "2025-12-17"
+}

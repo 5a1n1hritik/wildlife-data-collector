@@ -1,0 +1,25 @@
+{
+  "id": "eumops-underwoodi",
+  "name": "Underwood's bonneted bat",
+  "scientificName": "Eumops underwoodi",
+  "wikibase_item": "Q302387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302387",
+    "wikipedia": "https://en.wikipedia.org/wiki/Underwood's_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Underwood's bonneted bat is a species of bat in the family Molossidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Distribution_of_Eumops_underwoodi.png"
+}

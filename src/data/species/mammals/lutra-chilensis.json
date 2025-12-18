@@ -1,0 +1,22 @@
+{
+  "id": "lutra-chilensis",
+  "name": "Lutra chilensis",
+  "scientificName": "Lutra chilensis",
+  "wikibase_item": "Q41084263",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 446882,
+      "id": "Q446882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084263"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hypsugo-alaschanicus",
+  "name": "Hypsugo alaschanicus",
+  "scientificName": "Hypsugo alaschanicus",
+  "wikibase_item": "Q2308782",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2308782",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alashanian_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alashanian pipistrelle is a species of bat in the family Vespertilionidae. It is found in China, South Korea, Mongolia, Japan, and Russia.",
+  "image": null
+}

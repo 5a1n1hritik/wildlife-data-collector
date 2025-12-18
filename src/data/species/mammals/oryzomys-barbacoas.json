@@ -1,0 +1,22 @@
+{
+  "id": "oryzomys-barbacoas",
+  "name": "Oryzomys barbacoas",
+  "scientificName": "Oryzomys barbacoas",
+  "wikibase_item": "Q40657220",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40657220"
+  },
+  "lastUpdated": "2025-12-17"
+}

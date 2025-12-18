@@ -1,0 +1,25 @@
+{
+  "id": "rhogeessa-gracilis",
+  "name": "slender yellow bat",
+  "scientificName": "Rhogeessa gracilis",
+  "wikibase_item": "Q618575",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618575",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender yellow bat is a species of vesper bat. It is found only in Mexico. It ranges from Jalisco and Zacatecas to Oaxaca states, where it has been found in pine and pine-oak forests, tropical dry forest, and dry shrublands from 600 to 2,000 meters elevation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Distribution_of_Rhogeessa_gracilis.png"
+}

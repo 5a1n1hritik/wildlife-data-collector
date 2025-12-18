@@ -1,0 +1,25 @@
+{
+  "id": "myotis-federatus",
+  "name": "Myotis federatus",
+  "scientificName": "Myotis federatus",
+  "wikibase_item": "Q81849712",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81849712",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malaysian_whiskered_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malaysian whiskered myotis or Malayan whiskered myotis is a species of vesper bat endemic to Malaysia, although it may possibly also occur in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Distribution_of_Myotis_montivagus.png"
+}

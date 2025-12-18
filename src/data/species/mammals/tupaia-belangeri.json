@@ -1,0 +1,25 @@
+{
+  "id": "tupaia-belangeri",
+  "name": "Northern treeshrew",
+  "scientificName": "Tupaia belangeri",
+  "wikibase_item": "Q378959",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q378959",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern treeshrew is a treeshrew species native to Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tupaia_belangeri_99597342.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-gracilipes",
+  "name": "Peters's Musk Shrew",
+  "scientificName": "Crocidura gracilipes",
+  "wikibase_item": "Q306173",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306173",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peters's musk shrew is a species of mammal in the family Soricidae. It is endemic to Mount Kilimanjaro in northern Tanzania. Reports of the species near Murchison Falls in western Uganda haven't been verified.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Peters%27s_Musk_Shrew_area.png"
+}

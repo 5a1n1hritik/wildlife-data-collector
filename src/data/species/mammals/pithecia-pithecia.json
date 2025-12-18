@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-pithecia",
+  "name": "Pithecia pithecia",
+  "scientificName": "Pithecia pithecia",
+  "wikibase_item": "Q832345",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q832345",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-faced_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-faced saki, is a species of New World saki monkey. The small bodied neotropical primate can be found in Brazil, French Guiana, Guyana, Suriname, and Venezuela. This species feeds mostly on fruits, nuts, seeds, and insects. Although it is an arboreal species and is a specialist of brachiation, it is also terrestrial when foraging. Typical life expectancy is around 14 years in its natural habitat, although individuals have been recorded to live up to 36 years in captivity. The white faced saki is active in the day and sleeps highly elevated in trees with many leaves to shelter from weather and flying predators.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/1_white_faced_saki_2024.jpg"
+}

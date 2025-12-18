@@ -1,0 +1,25 @@
+{
+  "id": "neodon-leucurus",
+  "name": "Neodon leucurus",
+  "scientificName": "Neodon leucurus",
+  "wikibase_item": "Q99194690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427901,
+      "id": "Q427901"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blyth's_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Blyth's vole is a species of rodent in the family Cricetidae. It was previously the only species in the genus Phaiomys, but was moved to Neodon in 2016. It is found in mountainous regions in northern India, Nepal and China. It is a burrowing rodent and lives in small colonies. It has a wide distribution and faces no particular threats so the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/M_leucurus.jpg"
+}

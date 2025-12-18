@@ -1,0 +1,25 @@
+{
+  "id": "maxomys-whiteheadi",
+  "name": "Whitehead's Spiny Rat",
+  "scientificName": "Maxomys whiteheadi",
+  "wikibase_item": "Q1768136",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 262646,
+      "id": "Q262646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768136",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitehead's_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Whitehead's spiny rat is a species of rodent in the family Muridae.\nIt is found in Indonesia, Malaysia, and Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Maxomys-whiteheadi-1.jpeg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "murina-gracilis",
+  "name": "Murina gracilis",
+  "scientificName": "Murina gracilis",
+  "wikibase_item": "Q1815969",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1815969",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender tube-nosed bat is a species of vesper bat in the family Vespertilionidae found only in Taiwan.",
+  "image": null
+}

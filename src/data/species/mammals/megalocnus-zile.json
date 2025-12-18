@@ -1,0 +1,25 @@
+{
+  "id": "megalocnus-zile",
+  "name": "Megalocnus zile",
+  "scientificName": "Megalocnus zile",
+  "wikibase_item": "Q2126926",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141383,
+      "id": "Q141383"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2126926",
+    "wikipedia": "https://en.wikipedia.org/wiki/Megalocnus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Megalocnus is a genus of extinct ground sloths that were native to Cuba during the Pleistocene and Holocene epochs. They were among the largest of the Caribbean sloths (Megalocnidae), with individuals estimated to have weighed up to 270 kg to 200 kg, around the size of a black bear when alive. Its relatives include other megalocnid sloths, such as Acratocnus, Mesocnus, Miocnus, Neocnus and Parocnus. The former species M. zile from Hispaniola is currently thought to be a junior synonym of Parocnus serus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Megalocnus_AMNH.jpg"
+}

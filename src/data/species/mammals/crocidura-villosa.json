@@ -1,0 +1,22 @@
+{
+  "id": "crocidura-villosa",
+  "name": "Crocidura villosa",
+  "scientificName": "Crocidura villosa",
+  "wikibase_item": "Q41082622",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082622"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lasiopodomys-brandtii",
+  "name": "Brandt's vole",
+  "scientificName": "Lasiopodomys brandtii",
+  "wikibase_item": "Q307031",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 256953,
+      "id": "Q256953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307031",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandt's_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brandt's vole,, also known as the steppe vole, is a species of rodent in the family Cricetidae. It is native to shrublands and grasslands in Russia, Mongolia and northern China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lasiopodomys_brandtii%2C_Tsogt_sum%2C_Govi-Altay_province%2C_Mongolian_Altai%2C_Western_Mongolia_1.JPG"
+}

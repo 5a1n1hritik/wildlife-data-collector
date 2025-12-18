@@ -1,0 +1,25 @@
+{
+  "id": "zyzomys-argurus",
+  "name": "Common rock rat",
+  "scientificName": "Zyzomys argurus",
+  "wikibase_item": "Q681885",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 782897,
+      "id": "Q782897"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q681885",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common rock rat is a species of rodent in the family Muridae. It is found only in Australia, where it lives in the rocky areas of woodlands, grasslands and low open forests, particularly on the talus, or scree, of cliff slopes. As a nocturnal animal, it spends the daytime nesting in cool rock crevices. Direct exposure to the sun can quickly result in heat stroke and death.",
+  "image": null
+}

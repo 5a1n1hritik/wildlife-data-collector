@@ -1,0 +1,25 @@
+{
+  "id": "sciuropterus-fimbriatus",
+  "name": "Sciuropterus fimbriatus",
+  "scientificName": "Sciuropterus fimbriatus",
+  "wikibase_item": "Q66590651",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 66588680,
+      "id": "Q66588680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66590651",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kashmir_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kashmir flying squirrel is a species of rodent in the family Sciuridae. It is monotypic within the genus Eoglaucomys. It is found in Afghanistan, India and Pakistan. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss. The Afghan flying squirrel is usually considered a subspecies.",
+  "image": null
+}

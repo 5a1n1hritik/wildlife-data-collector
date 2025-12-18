@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-fuscicollis",
+  "name": "saddleback tamarin",
+  "scientificName": "Saguinus fuscicollis",
+  "wikibase_item": "Q338145",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q338145",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown-mantled_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown-mantled tamarin, also known as Spix's saddle-back tamarin, is a species of saddle-back tamarin. This New World monkey is found in the Southern American countries of Bolivia, Brazil and Peru. This omnivorous member of the Callitrichidae family is usually found in smaller groups ranging between 4 and 15 individuals. This species communicates vocally and largely relies on its olfactory system. The brown-mantled tamarin is considered a species of Least Concern by the International Union for Conservation of Nature, despite a decreasing population and being threatened by poaching, habitat loss and capture for the illegal pet trade.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Saguinus_fuscicollis_246375885.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-raceyi",
+  "name": "Pipistrellus raceyi",
+  "scientificName": "Pipistrellus raceyi",
+  "wikibase_item": "Q135261",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135261",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pipistrellus_raceyi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pipistrellus raceyi, also known as Racey's pipistrelle, is a bat from Madagascar, in the genus Pipistrellus. Although unidentified species of Pipistrellus had been previously reported from Madagascar since the 1990s, P. raceyi was not formally named until 2006. It is apparently most closely related to the Asian species P. endoi, P. paterculus, and P. abramus, and its ancestors probably reached Madagascar from Asia. P. raceyi has been recorded at four sites, two in the eastern and two in the western lowlands. In the east, it is found in open areas and has been found roosting in a building; in the west it occurs in dry forest. Because of uncertainties about its ecology, it is listed as \"Data Deficient\" on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pipistrellus_raceyi_range_map.svg/500px-Pipistrellus_raceyi_range_map.svg.png"
+}

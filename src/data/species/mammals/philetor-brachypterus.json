@@ -1,0 +1,25 @@
+{
+  "id": "philetor-brachypterus",
+  "name": "Rohu's bat",
+  "scientificName": "Philetor brachypterus",
+  "wikibase_item": "Q1829351",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17809502,
+      "id": "Q17809502"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829351",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rohu's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rohu's bat is a species of vesper bat. It is the only species in the genus Philetor. It is found in Brunei, Indonesia, Malaysia, Nepal, Papua New Guinea, and the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Naturalis_Biodiversity_Center_-_RMNH.MAM.32382.b_ven_-_Philetor_brachypterus_-_skin.jpeg"
+}

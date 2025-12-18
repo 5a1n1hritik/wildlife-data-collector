@@ -1,0 +1,25 @@
+{
+  "id": "lonchophylla-mordax",
+  "name": "Godman's nectar bat",
+  "scientificName": "Lonchophylla mordax",
+  "wikibase_item": "Q1832090",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832090",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goldman's_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goldman's nectar bat is a bat species found in Brazil, Colombia, Costa Rica, Ecuador and Panama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Lonchophylla_mordax_em_Pilosocereus_tuberculatus_EARMLucena2007-1.png"
+}

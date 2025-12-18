@@ -1,0 +1,25 @@
+{
+  "id": "apomys-lubangensis",
+  "name": "Apomys lubangensis",
+  "scientificName": "Apomys lubangensis",
+  "wikibase_item": "Q17620693",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17620693",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lubang_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lubang forest mouse is a forest mouse endemic to Lubang Island in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Range_Apomys_lubangensis.png"
+}

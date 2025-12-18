@@ -1,0 +1,25 @@
+{
+  "id": "chaetodipus-hispidus",
+  "name": "Hispid pocket mouse",
+  "scientificName": "Chaetodipus hispidus",
+  "wikibase_item": "Q167053",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167053",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispid_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hispid pocket mouse is a large pocket mouse native to the Great Plains region of North America. It is a member of the genus Chaetodipus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Chaetodipus_hispidus2.jpg"
+}

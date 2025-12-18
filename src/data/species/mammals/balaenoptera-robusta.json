@@ -1,0 +1,22 @@
+{
+  "id": "balaenoptera-robusta",
+  "name": "Balaenoptera robusta",
+  "scientificName": "Balaenoptera robusta",
+  "wikibase_item": "Q122981806",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133320,
+      "id": "Q133320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122981806"
+  },
+  "lastUpdated": "2025-12-17"
+}

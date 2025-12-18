@@ -1,0 +1,25 @@
+{
+  "id": "microtus-miurus",
+  "name": "Singing vole",
+  "scientificName": "Microtus miurus",
+  "wikibase_item": "Q1761683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761683",
+    "wikipedia": "https://en.wikipedia.org/wiki/Singing_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The singing vole, is a medium-sized vole found in northwestern North America, including Alaska and northwestern Canada.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Microtus_miurus_crop.jpg"
+}

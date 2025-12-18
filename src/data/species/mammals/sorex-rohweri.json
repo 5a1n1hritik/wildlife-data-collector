@@ -1,0 +1,25 @@
+{
+  "id": "sorex-rohweri",
+  "name": "Olympic shrew",
+  "scientificName": "Sorex rohweri",
+  "wikibase_item": "Q2232278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2232278",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olympic_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Olympic shrew is a rare species of shrew that lives in only 13 spots in northwest Washington state and, a recent discovery, in Burns Bog, located in Delta, BC.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Olympic_Shrew_area.png"
+}

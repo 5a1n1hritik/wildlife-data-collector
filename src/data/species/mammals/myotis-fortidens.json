@@ -1,0 +1,25 @@
+{
+  "id": "myotis-fortidens",
+  "name": "Myotis fortidens",
+  "scientificName": "Myotis fortidens",
+  "wikibase_item": "Q604306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q604306",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cinnamon_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cinnamon myotis is a species of vesper bat. It is found in Guatemala and Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Myotis_fortidens.jpg"
+}

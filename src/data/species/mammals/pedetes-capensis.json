@@ -1,0 +1,25 @@
+{
+  "id": "pedetes-capensis",
+  "name": "Pedetes capensis",
+  "scientificName": "Pedetes capensis",
+  "wikibase_item": "Q732890",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3027980,
+      "id": "Q3027980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q732890",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_African_springhare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The South African springhare is a medium-sized terrestrial and burrowing rodent. Despite the name, it is not a hare. It is one of two extant species in the genus Pedetes, and is native to southern Africa. Formerly, the genus was considered monotypic and the East African springhare was included in P. capensis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Spring_Hare_%28Pedetes_capensis%29_%286042009463%29.jpg"
+}

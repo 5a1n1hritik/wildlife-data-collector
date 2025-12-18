@@ -1,0 +1,22 @@
+{
+  "id": "macronycteris-commersonii",
+  "name": "Macronycteris commersonii",
+  "scientificName": "Macronycteris commersonii",
+  "wikibase_item": "Q122746316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 105062291,
+      "id": "Q105062291"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122746316"
+  },
+  "lastUpdated": "2025-12-17"
+}

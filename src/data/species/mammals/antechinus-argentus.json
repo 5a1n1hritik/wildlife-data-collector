@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-argentus",
+  "name": "Antechinus argentus",
+  "scientificName": "Antechinus argentus",
+  "wikibase_item": "Q18562266",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18562266",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver-headed_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silver-headed antechinus is a species of dasyurid marsupial of the genus Antechinus. Described in 2013, the species is known only from three locations so far: Blackdown Tableland National Park, Kroombit Tops National Park and Bulburin National Park in central Queensland. It is one of the most recently described Australian marsupials.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Silver-headed_Antechinus_Range.png"
+}

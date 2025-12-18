@@ -1,0 +1,25 @@
+{
+  "id": "phocoena-sinus",
+  "name": "Vaquita",
+  "scientificName": "Phocoena sinus",
+  "wikibase_item": "Q725493",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135955,
+      "id": "Q135955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q725493",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaquita"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The vaquita is a species of porpoise endemic to the northern end of the Gulf of California in Baja California, Mexico. Reaching a maximum body length of 150 cm (4.9 ft) (females) or 140 cm (4.6 ft) (males), it is the smallest of all living cetaceans. The species is currently on the brink of extinction, and is listed as Critically Endangered by the IUCN Red List; the steep decline in abundance is primarily due to bycatch in gillnets from the illegal totoaba fishery.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Vaquita_size.svg/960px-Vaquita_size.svg.png"
+}

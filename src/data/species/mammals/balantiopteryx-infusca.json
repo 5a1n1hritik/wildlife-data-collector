@@ -1,0 +1,25 @@
+{
+  "id": "balantiopteryx-infusca",
+  "name": "Ecuadorian sac-winged bat",
+  "scientificName": "Balantiopteryx infusca",
+  "wikibase_item": "Q1832804",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133688,
+      "id": "Q133688"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832804",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecuadorian_sac-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ecuadorian sac-winged bat is a species of sac-winged bat in the family Emballonuridae. It is found in Colombia and Ecuador. According to the IUCN Red List of Threatened Species, the population trend is decreasing for this species, due to habitat destruction through deforestation. In 2013, Bat Conservation International listed this species as one of the 35 species on its worldwide priority list for conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ecuadorian_Sac-Winged_Bat_area.png"
+}

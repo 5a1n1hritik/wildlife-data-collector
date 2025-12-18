@@ -1,0 +1,25 @@
+{
+  "id": "drymoreomys-albimaculatus",
+  "name": "Drymoreomys albimaculatus",
+  "scientificName": "Drymoreomys albimaculatus",
+  "wikibase_item": "Q21259543",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2484594,
+      "id": "Q2484594"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21259543",
+    "wikipedia": "https://en.wikipedia.org/wiki/Drymoreomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Drymoreomys is a rodent genus in the tribe Oryzomyini that lives in the Atlantic Forest of Brazil. The single species, D. albimaculatus, is known only from the states of São Paulo and Santa Catarina and was not named until 2011. It lives in the humid forest on the eastern slopes of the Serra do Mar and perhaps reproduces year-round. Although its range is relatively large and includes some protected areas, it is patchy and threatened, and the discoverers recommend that the animal be considered \"Near Threatened\" on the IUCN Red List. Within Oryzomyini, Drymoreomys appears to be most closely related to Eremoryzomys from the Andes of Peru, a biogeographically unusual relationship, in that the two populations are widely separated and each is adapted to an arid or a moist environment.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Drymoreomys_albimaculatus_002.jpg"
+}

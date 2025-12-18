@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-subtropicus",
+  "name": "Subtropical Antechinus",
+  "scientificName": "Antechinus subtropicus",
+  "wikibase_item": "Q135439",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135439",
+    "wikipedia": "https://en.wikipedia.org/wiki/Subtropical_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The subtropical antechinus is a species of small carnivorous marsupial of the family Dasyuridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Antechinus_subtropicus_342345391.jpg"
+}

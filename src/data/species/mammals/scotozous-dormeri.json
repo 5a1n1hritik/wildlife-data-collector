@@ -1,0 +1,25 @@
+{
+  "id": "scotozous-dormeri",
+  "name": "Dormer's bat",
+  "scientificName": "Scotozous dormeri",
+  "wikibase_item": "Q1811761",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817048,
+      "id": "Q19817048"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1811761",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dormer's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dormer's bat or Dormer's pipistrelle is a species of vesper bat. It is the only species in its genus. It is found in Bangladesh, Bhutan, India, and Pakistan. Its natural habitats are subtropical and tropical dry forests, arable land, plantations, rural gardens, and urban areas.",
+  "image": null
+}

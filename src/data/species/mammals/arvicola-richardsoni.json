@@ -1,0 +1,25 @@
+{
+  "id": "arvicola-richardsoni",
+  "name": "Arvicola richardsoni",
+  "scientificName": "Arvicola richardsoni",
+  "wikibase_item": "Q109646814",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 539670,
+      "id": "Q539670"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646814",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_American_water_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North American water vole or just water vole is the largest North American vole. It is found in the northwestern United States and southern parts of western Canada. This animal has been historically considered a member of genus Arvicola, but molecular evidence demonstrates that it is more closely related to North American Microtus species. Water voles are on the USDA Forest Service Region 2 sensitive species list because they maintain very small populations and there is high concern that their required habitat may be declining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Microtus_richardsoni_map.svg/1712px-Microtus_richardsoni_map.svg.png"
+}

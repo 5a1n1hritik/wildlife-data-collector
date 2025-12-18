@@ -1,0 +1,25 @@
+{
+  "id": "nyctophilus-gouldi",
+  "name": "Nyctophilus gouldi",
+  "scientificName": "Nyctophilus gouldi",
+  "wikibase_item": "Q1833138",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833138",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gould's_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gould's long-eared bat is a microbat found in southern regions of Australia. It occurs in eastern Australia, from Queensland to Victoria, and in a smaller isolated range in the south-west of Western Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chalinolobus_gouldi-Cayley_2.jpg"
+}

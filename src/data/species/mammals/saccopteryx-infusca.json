@@ -1,0 +1,22 @@
+{
+  "id": "saccopteryx-infusca",
+  "name": "Saccopteryx infusca",
+  "scientificName": "Saccopteryx infusca",
+  "wikibase_item": "Q109647465",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83577,
+      "id": "Q83577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647465"
+  },
+  "lastUpdated": "2025-12-17"
+}

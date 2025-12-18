@@ -1,0 +1,25 @@
+{
+  "id": "chaetophractus-villosus",
+  "name": "Big hairy armadillo",
+  "scientificName": "Chaetophractus villosus",
+  "wikibase_item": "Q1042139",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 611493,
+      "id": "Q611493"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1042139",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_hairy_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big hairy armadillo is one of the largest and most numerous armadillos in South America. It lives from sea level to altitudes of up to 1,300 meters across the southern portion of South America, and can be found in grasslands, forests, and savannahs, and has even started claiming agricultural areas as its home. It is an accomplished digger and spends most of its time below ground. It makes both temporary and long-term burrows, depending on its food source. In Spanish it is colloquially known as peludo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chaetophractus_villosus_%28Wroclaw_zoo%29.JPG"
+}

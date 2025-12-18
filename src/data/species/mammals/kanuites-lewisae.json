@@ -1,0 +1,22 @@
+{
+  "id": "kanuites-lewisae",
+  "name": "Kanuites lewisae",
+  "scientificName": "Kanuites lewisae",
+  "wikibase_item": "Q3812870",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 309741,
+      "id": "Q309741"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3812870"
+  },
+  "lastUpdated": "2025-12-17"
+}

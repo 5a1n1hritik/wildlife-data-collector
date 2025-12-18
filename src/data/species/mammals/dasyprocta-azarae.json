@@ -1,0 +1,25 @@
+{
+  "id": "dasyprocta-azarae",
+  "name": "Azara's agouti",
+  "scientificName": "Dasyprocta azarae",
+  "wikibase_item": "Q643741",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q643741",
+    "wikipedia": "https://en.wikipedia.org/wiki/Azara's_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Azara's agouti is an agouti species from the family Dasyproctidae. Found in Brazil, Paraguay, and Argentina, it is named after Spanish naturalist Félix de Azara. The population is unknown and may have gone locally extinct in some areas due to hunting; it is listed as vulnerable in Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Agouti_Azarae.JPG"
+}

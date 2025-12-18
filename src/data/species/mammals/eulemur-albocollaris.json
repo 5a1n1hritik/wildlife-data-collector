@@ -1,0 +1,25 @@
+{
+  "id": "eulemur-albocollaris",
+  "name": "Eulemur albocollaris",
+  "scientificName": "Eulemur albocollaris",
+  "wikibase_item": "Q10834093",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607497,
+      "id": "Q607497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10834093",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-headed_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-headed lemur, or gray-headed brown lemur, is a medium-sized primate, a cathemeral species of lemur in the family Lemuridae. Until a taxonomic revision in 2008, it was known as the white-collared brown lemur or white-collared lemur. It lives in south-eastern Madagascar. In 2005, satellite imagery estimates showed approximately 700 km2 (270 sq mi) of total remaining habitat within its geographic range. It is highly threatened by hunting and habitat loss, and was considered to be among the 25 most endangered primates in 2006–2008. It is currently listed as Critically Endangered by the International Union for Conservation of Nature (IUCN) due to a highly restricted range, and has been named one of \"The World's 25 Most Endangered Primates.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/White-collared_brown_lemur.jpg"
+}

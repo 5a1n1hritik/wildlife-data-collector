@@ -1,0 +1,25 @@
+{
+  "id": "tamias-bulleri",
+  "name": "Tamias bulleri",
+  "scientificName": "Neotamias bulleri",
+  "wikibase_item": "Q1762787",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762787",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buller's_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Buller's chipmunk is a species of rodent in the family Sciuridae. It is endemic to Mexico.",
+  "image": null
+}

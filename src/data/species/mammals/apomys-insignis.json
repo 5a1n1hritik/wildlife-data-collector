@@ -1,0 +1,25 @@
+{
+  "id": "apomys-insignis",
+  "name": "Mindanao Montane Forest Mouse",
+  "scientificName": "Apomys insignis",
+  "wikibase_item": "Q305499",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305499",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mindanao_montane_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mindanao montane forest mouse is a species of rodent in the family Muridae. It is found only in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Apomys_insignis.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "taterillus-congicus",
+  "name": "Congo gerbil",
+  "scientificName": "Taterillus congicus",
+  "wikibase_item": "Q1761658",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111842,
+      "id": "Q111842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761658",
+    "wikipedia": "https://en.wikipedia.org/wiki/Congo_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Congo gerbil or Congo tateril is a species of rodent found in Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Sudan, and possibly Uganda. Its natural habitat is dry savanna.",
+  "image": null
+}

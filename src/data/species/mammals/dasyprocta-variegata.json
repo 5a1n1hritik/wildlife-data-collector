@@ -1,0 +1,25 @@
+{
+  "id": "dasyprocta-variegata",
+  "name": "Dasyprocta variegata",
+  "scientificName": "Dasyprocta variegata",
+  "wikibase_item": "Q40654063",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40654063",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown agouti is a species of agouti in the family Dasyproctidae that is native to portions of central or southeastern Peru, east to western Brazil, south to a strip of Bolivia. It was originally regarded as conspecific with the Central American agouti, but revised as distinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Dasyprocta_variegata_226309947.jpg"
+}

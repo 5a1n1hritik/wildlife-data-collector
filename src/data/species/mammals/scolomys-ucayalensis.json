@@ -1,0 +1,25 @@
+{
+  "id": "scolomys-ucayalensis",
+  "name": "Scolomys ucayalensis",
+  "scientificName": "Scolomys ucayalensis",
+  "wikibase_item": "Q1768827",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469277,
+      "id": "Q469277"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768827",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scolomys_ucayalensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Scolomys ucayalensis, also known as the long-nosed scolomys or Ucayali spiny mouse is a nocturnal rodent species from South America. It is part of the genus Scolomys within the tribe Oryzomyini. It is found in Brazil, Colombia, Ecuador and Peru in various different habitats in the Amazon rainforest.",
+  "image": null
+}

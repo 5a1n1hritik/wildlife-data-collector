@@ -1,0 +1,25 @@
+{
+  "id": "thyroptera-discifera",
+  "name": "Peter's disk-winged bat",
+  "scientificName": "Thyroptera discifera",
+  "wikibase_item": "Q658691",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468638,
+      "id": "Q468638"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q658691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_disk-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's disk-winged bat is a bat species mainly found in South and Central America. It belongs to the family Thyropteridae, a small group of disk-winged bats. They have a distinguishing feature of circular, suction disks at the base of their thumbs and hind feet. They use these suction disks to cling onto young unfurling banana or heliconia leaves to roost while avoiding rain and predators. They are very similar in appearance and easily confused with Thyroptera tricolor which has a paler venter than dorsum, and two cartilaginous projections on the calcar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Thyroptera_discifera_216859954.jpg"
+}

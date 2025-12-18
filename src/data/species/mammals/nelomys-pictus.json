@@ -1,0 +1,22 @@
+{
+  "id": "nelomys-pictus",
+  "name": "Nelomys pictus",
+  "scientificName": "Nelomys pictus",
+  "wikibase_item": "Q70360067",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 70359307,
+      "id": "Q70359307"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70360067"
+  },
+  "lastUpdated": "2025-12-17"
+}

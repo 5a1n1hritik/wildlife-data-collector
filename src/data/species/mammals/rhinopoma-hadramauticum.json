@@ -1,0 +1,25 @@
+{
+  "id": "rhinopoma-hadramauticum",
+  "name": "Rhinopoma hadramauticum",
+  "scientificName": "Rhinopoma hadramauticum",
+  "wikibase_item": "Q10360339",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913927,
+      "id": "Q913927"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10360339",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yemeni_mouse-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yemeni mouse-tailed bat is an endangered species of bat found in Yemen. It is only known from one roost, and its population is estimated at 150 individuals.",
+  "image": null
+}

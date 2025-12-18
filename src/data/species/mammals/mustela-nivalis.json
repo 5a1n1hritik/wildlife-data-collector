@@ -1,0 +1,25 @@
+{
+  "id": "mustela-nivalis",
+  "name": "Mustela nivalis",
+  "scientificName": "Mustela nivalis",
+  "wikibase_item": "Q25311",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25311",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least weasel, little weasel, common weasel, or simply weasel is the smallest member of the genus Mustela, family Mustelidae and order Carnivora. It is native to Eurasia, North America and North Africa, and has been introduced to New Zealand, Malta, Crete, the Azores, and São Tomé. It is classified as least concern by the IUCN, due to its wide distribution and large population throughout the Northern Hemisphere. Eighteen subspecies are recognised.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg"
+}

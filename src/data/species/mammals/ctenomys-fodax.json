@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-fodax",
+  "name": "Lago Blanco tuco-tuco",
+  "scientificName": "Ctenomys fodax",
+  "wikibase_item": "Q1767913",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767913",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lago_Blanco_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lago Blanco tuco-tuco is a species of rodent in the family Ctenomyidae. It is known only from the Lago Blanco area in southern Argentina. Its karyotype has 2n = 28 and FN = 42.",
+  "image": null
+}

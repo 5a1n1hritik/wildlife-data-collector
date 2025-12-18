@@ -1,0 +1,25 @@
+{
+  "id": "melomys-talaudium",
+  "name": "Melomys talaudium",
+  "scientificName": "Melomys talaudium",
+  "wikibase_item": "Q684477",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q684477",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_Talaud_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed Talaud mosaic-tailed rat or the long-tailed Talaud melomys is a species of rodent in the family Muridae.\nIt is endemic to Karakelong and Salebabu in the Talaud Islands in Indonesia where it occurs in forest habitats. It is morphologically similar to the white-bellied mosaic-tailed rat and was at one time considered to be a subspecies but is now recognised as a distinct species. The short-tailed mosaic-tailed rat is also present on the islands and the shorter tail of that species means that it is likely to be mainly terrestrial whereas M. talaudium is largely arboreal.",
+  "image": null
+}

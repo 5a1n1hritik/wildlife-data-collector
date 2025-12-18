@@ -1,0 +1,25 @@
+{
+  "id": "cheirogaleus-lavasoensis",
+  "name": "Lavasoa dwarf lemur",
+  "scientificName": "Cheirogaleus lavasoensis",
+  "wikibase_item": "Q14376067",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14376067",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lavasoa_dwarf_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lavasoa dwarf lemur is a small, nocturnal strepsirrhine primate and a species of lemur that is endemic to three small, isolated patches of forest on the southern slopes of the Lavasoa Mountains in southern Madagascar. Fewer than 50 individuals are thought to exist. Its habitat lies in a transitional zone between three ecoregions: dry spiny bush, humid littoral forest, and humid forest. First collected in 2001 and thought to be a subpopulation of the furry-eared dwarf lemur (C. crossleyi), it was not formally described until 2013. It is one of six species of dwarf lemur, though the research that identified it also suggested the existence of many more new species.",
+  "image": null
+}

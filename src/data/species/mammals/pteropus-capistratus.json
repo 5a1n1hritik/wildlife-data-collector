@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-capistratus",
+  "name": "Pteropus capistratus",
+  "scientificName": "Pteropus capistratus",
+  "wikibase_item": "Q1763843",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bismarck_masked_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bismarck masked flying fox is a species of flying fox in the family Pteropodidae found in Papua New Guinea and named after the Bismarck Archipelago. It was once considered a subspecies of Pteropus temminckii before being reassessed in 2001. This species has two subspecies, P. c. capistratus and P. c. ennisae. The IUCN classified it as Near Threatened in 2009, noting that the rate of decline is almost high enough to reclassify the species as Vulnerable.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pteropus_capistratus_Matschie.jpg"
+}

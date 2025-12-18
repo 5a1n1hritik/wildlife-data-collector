@@ -1,0 +1,25 @@
+{
+  "id": "otomops-johnstonei",
+  "name": "Otomops johnstonei",
+  "scientificName": "Otomops johnstonei",
+  "wikibase_item": "Q1833498",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833498",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnstone's_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Johnstone's mastiff bat is a species of bat in the Molossidae family endemic to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Distribution_of_Otomops_johnstonei.png"
+}

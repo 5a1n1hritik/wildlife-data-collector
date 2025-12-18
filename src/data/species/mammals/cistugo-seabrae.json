@@ -1,0 +1,25 @@
+{
+  "id": "cistugo-seabrae",
+  "name": "Angolan hairy bat",
+  "scientificName": "Cistugo seabrae",
+  "wikibase_item": "Q867632",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845867,
+      "id": "Q845867"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q867632",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_hairy_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan hairy bat also known as Angolan wing-gland bat is a species of bat in the Cistugidae family.\nIt can be found in hot deserts in Angola, Namibia, and South Africa.",
+  "image": null
+}

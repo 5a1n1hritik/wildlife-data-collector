@@ -1,0 +1,25 @@
+{
+  "id": "myotis-phanluongi",
+  "name": "Myotis phanluongi",
+  "scientificName": "Myotis phanluongi",
+  "wikibase_item": "Q4493215",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4493215",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myotis_phanluongi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Myotis phanluongi is a species of mouse-eared bat. It was described by Borisenko et al. in 2008. It is known from Vietnam.\nVery small Myotis species with forearm length about 34–36 mm, closely related to Myotis siligorensis. Described from the Hon Ba mountain in the Vietnamese province Khanh Hoa; also found on Đà Lạt Plateau.",
+  "image": null
+}

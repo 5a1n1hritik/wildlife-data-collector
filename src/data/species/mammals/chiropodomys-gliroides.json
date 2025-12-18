@@ -1,0 +1,25 @@
+{
+  "id": "chiropodomys-gliroides",
+  "name": "Indomalayan pencil-tailed tree mouse",
+  "scientificName": "Chiropodomys gliroides",
+  "wikibase_item": "Q1763066",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 579868,
+      "id": "Q579868"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763066",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indomalayan_pencil-tailed_tree_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indomalayan pencil-tailed tree mouse or simply pencil-tailed tree mouse is a species of arboreal rodent in the family Muridae. It is found in northeastern India, southern China, Myanmar, Thailand, Laos, Cambodia, Vietnam, Peninsular Malaysia, and Indonesia. This locally abundant but patchily distributed species occurs in primary and secondary forests, without affinity to particular forest types. It can suffer from deforestation and is sometimes harvested for consumption.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Range_Chiropodomys_gliroides.png"
+}

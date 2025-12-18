@@ -1,0 +1,25 @@
+{
+  "id": "glyphonycteris-sylvestris",
+  "name": "Tricolored Big-eared Bat",
+  "scientificName": "Glyphonycteris sylvestris",
+  "wikibase_item": "Q1831353",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2897730,
+      "id": "Q2897730"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831353",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tricolored_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tricolored big-eared bat is a bat species from South and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Glyphonycteris_sylvestris.jpg"
+}

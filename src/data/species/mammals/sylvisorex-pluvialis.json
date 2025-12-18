@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-pluvialis",
+  "name": "Rain Forest Shrew",
+  "scientificName": "Sylvisorex pluvialis",
+  "wikibase_item": "Q1770300",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770300",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rain_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rain forest shrew is a species of mammal in the family Soricidae endemic to Cameroon. Its natural habitat is subtropical or tropical moist lowland forest. It is known only from its type locality, and from Kongana, Central African Republic.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Rain_Forest_Shrew_area.png"
+}

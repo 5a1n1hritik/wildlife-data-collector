@@ -1,0 +1,25 @@
+{
+  "id": "lontra-longicaudis",
+  "name": "Neotropical otter",
+  "scientificName": "Lontra longicaudis",
+  "wikibase_item": "Q839828",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1777275,
+      "id": "Q1777275"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q839828",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neotropical_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The neotropical otter or neotropical river otter is a near-threatened otter species found in freshwater systems from Mexico and Central America through mainland South America, as well as the island of Trinidad. It is physically similar to the northern and southern river otter, which occur directly north and south of this species' range, respectively. Its head-to-body length can range from 36–66 centimetres (14–26 in), plus a tail of 37–84 centimetres (15–33 in). Body weight ranges from 5–15 kilograms (11–33 lb).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lontra_longicaudis_4.jpeg"
+}

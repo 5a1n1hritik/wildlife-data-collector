@@ -1,0 +1,25 @@
+{
+  "id": "moschus-berezovskii",
+  "name": "Dwarf musk deer",
+  "scientificName": "Moschus berezovskii",
+  "wikibase_item": "Q277469",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3866060,
+      "id": "Q3866060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q277469",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_musk_deer"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf musk deer or Chinese forest musk deer is an artiodactyl native to southern and central China and northernmost Vietnam. The species name is after the collector Mikhail Mikhailovich Berezovsky. On June 14, 1976, China entered the dwarf musk deer onto its endangered species list. Four subspecies are recognized:Moschus berezovskii berezovskii Flerov, 1929\nMoschus berezovskii bijiangensis Wang & Li, 1993\nMoschus berezovskii caobangis Dao, 1969\nMoschus berezovskii yanguiensis Wang & Ma, 1993",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Moschus_berezovskii_-_Kunming_Natural_History_Museum_of_Zoology_-_DSC02453.JPG"
+}

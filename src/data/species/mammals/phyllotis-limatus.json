@@ -1,0 +1,25 @@
+{
+  "id": "phyllotis-limatus",
+  "name": "Lima leaf-eared mouse",
+  "scientificName": "Phyllotis limatus",
+  "wikibase_item": "Q1767738",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767738",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lima_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lima leaf-eared mouse or Lima pericote is a species of rodent in the family Cricetidae. It is found in a variety of habitats on the western slopes of the Andes from northern Chile to west-central Peru at elevations from sea level to 4000 m.",
+  "image": null
+}

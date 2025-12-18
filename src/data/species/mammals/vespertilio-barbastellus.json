@@ -1,0 +1,22 @@
+{
+  "id": "vespertilio-barbastellus",
+  "name": "Vespertilio barbastellus",
+  "scientificName": "Vespertilio barbastellus",
+  "wikibase_item": "Q106447911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106447911"
+  },
+  "lastUpdated": "2025-12-17"
+}

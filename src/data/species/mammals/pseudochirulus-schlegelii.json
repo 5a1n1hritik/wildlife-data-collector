@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirulus-schlegelii",
+  "name": "Vogelkop ringtail possum",
+  "scientificName": "Pseudochirulus schlegelii",
+  "wikibase_item": "Q209808",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209808",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vogelkop_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Vogelkop ringtail possum is a species of marsupial in the family Pseudocheiridae. It is endemic to the Vogelkop Peninsula, West Papua, Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vogelkop_Ringtail_Possum_area.png"
+}

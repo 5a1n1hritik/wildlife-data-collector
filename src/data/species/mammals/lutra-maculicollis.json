@@ -1,0 +1,25 @@
+{
+  "id": "lutra-maculicollis",
+  "name": "Lutra maculicollis",
+  "scientificName": "Lutra maculicollis",
+  "wikibase_item": "Q24266216",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 446882,
+      "id": "Q446882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24266216",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted-necked_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted-necked otter, or speckle-throated otter, is an otter native to sub-Saharan Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Spotted-necked_otter_1.jpg"
+}

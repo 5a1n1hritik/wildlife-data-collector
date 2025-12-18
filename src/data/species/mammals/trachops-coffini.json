@@ -1,0 +1,22 @@
+{
+  "id": "trachops-coffini",
+  "name": "Trachops coffini",
+  "scientificName": "Trachops coffini",
+  "wikibase_item": "Q128052668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10827756,
+      "id": "Q10827756"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128052668"
+  },
+  "lastUpdated": "2025-12-17"
+}

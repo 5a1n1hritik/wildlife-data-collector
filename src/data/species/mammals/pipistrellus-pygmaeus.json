@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-pygmaeus",
+  "name": "soprano Pipistrelle",
+  "scientificName": "Pipistrellus pygmaeus",
+  "wikibase_item": "Q304368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304368",
+    "wikipedia": "https://en.wikipedia.org/wiki/Soprano_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The soprano pipistrelle is a small species of bat. It is found in Europe and often roosts on buildings.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pipistrellus_pygmaeus01.jpg"
+}

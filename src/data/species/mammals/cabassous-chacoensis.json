@@ -1,0 +1,25 @@
+{
+  "id": "cabassous-chacoensis",
+  "name": "Chacoan naked-tailed armadillo",
+  "scientificName": "Cabassous chacoensis",
+  "wikibase_item": "Q1764906",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856879,
+      "id": "Q856879"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764906",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chacoan_naked-tailed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chacoan naked-tailed armadillo is a species of South American armadillo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cabassous_chacoensis_eating.jpg"
+}

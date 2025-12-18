@@ -1,0 +1,25 @@
+{
+  "id": "bunomys-karokophilus",
+  "name": "Bunomys karokophilus",
+  "scientificName": "Bunomys karokophilus",
+  "wikibase_item": "Q20721928",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 851992,
+      "id": "Q851992"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721928",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karoko_hill_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Karoko hill rat is a species of rodent in the family Muridae. It is found only in Sulawesi, Indonesia.",
+  "image": null
+}

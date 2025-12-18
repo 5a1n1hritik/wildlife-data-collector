@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-meridionalis",
+  "name": "Sciurus meridionalis",
+  "scientificName": "Sciurus meridionalis",
+  "wikibase_item": "Q28839592",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28839592",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calabrian_black_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Calabrian black squirrel is a species of tree squirrel in the genus Sciurus, endemic to the forests of the regions of Calabria and Basilicata, in the south of the Italian Peninsula.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sciurus_meridionalis.jpg"
+}

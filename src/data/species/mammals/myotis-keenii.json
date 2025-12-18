@@ -1,0 +1,25 @@
+{
+  "id": "myotis-keenii",
+  "name": "Keen's myotis",
+  "scientificName": "Myotis keenii",
+  "wikibase_item": "Q617765",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q617765",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keen's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Keen's myotis is a species of vesper bat. It is found in British Columbia in Canada and in Washington and Alaska in the United States. It is named after the Rev. John Henry Keen, who collected the specimen that formed the basis for the first scientific description of the species. Classification for Keen's myotis formerly included the northern long-eared myotis, resulting in older studies confusing the species for one another.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Keen%27s_Myotis.jpg"
+}

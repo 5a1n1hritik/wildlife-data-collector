@@ -1,0 +1,25 @@
+{
+  "id": "scotophilus-dinganii",
+  "name": "African yellow bat",
+  "scientificName": "Scotophilus dinganii",
+  "wikibase_item": "Q1833054",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833054",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African yellow bat is a species of bat in the family Vespertilionidae, the vesper bats. Other common names include African yellow house bat, yellow-bellied house bat, and Dingan's Bat. It is one of fifteen species in the genus Scotophilus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Yellow_bat_Scotophilus.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "camelus-ferus",
+  "name": "wild Bactrian camel",
+  "scientificName": "Camelus ferus",
+  "wikibase_item": "Q3030198",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7375,
+      "id": "Q7375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3030198",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wild_Bactrian_camel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The wild Bactrian camel or simply the wild camel is an endangered species of camel endemic to Northwest China and southwestern Mongolia. It is closely related but not ancestral to the domestic Bactrian camel. Genetic studies have established it as a separate species which diverged from the Bactrian camel about 0.7–1.1 million years ago.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Wild_Bactrian_camel_on_road_east_of_Yarkand.jpg"
+}

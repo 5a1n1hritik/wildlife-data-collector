@@ -1,0 +1,25 @@
+{
+  "id": "proechimys-canicollis",
+  "name": "Colombian spiny rat",
+  "scientificName": "Proechimys canicollis",
+  "wikibase_item": "Q1770368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770368",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colombian_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Colombian spiny-rat is a species of rodent in the family Echimyidae. It is found in Colombia and Venezuela.",
+  "image": null
+}

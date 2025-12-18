@@ -1,0 +1,25 @@
+{
+  "id": "trinomys-moojeni",
+  "name": "Moojen's Atlantic Spiny-rat",
+  "scientificName": "Trinomys moojeni",
+  "wikibase_item": "Q1766462",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766462",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moojen's_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Moojen's Atlantic spiny-rat, is a spiny rat species from South America. It is found in Brazil. It is named after twentieth-century Brazilian zoologist João Moojen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Trinomys_moojeni_distribution_%28colored%29.png"
+}

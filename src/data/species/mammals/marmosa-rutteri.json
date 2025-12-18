@@ -1,0 +1,22 @@
+{
+  "id": "marmosa-rutteri",
+  "name": "Marmosa rutteri",
+  "scientificName": "Marmosa rutteri",
+  "wikibase_item": "Q41084785",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084785"
+  },
+  "lastUpdated": "2025-12-17"
+}

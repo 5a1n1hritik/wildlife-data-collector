@@ -1,0 +1,22 @@
+{
+  "id": "helictis-everetti",
+  "name": "Helictis everetti",
+  "scientificName": "Helictis everetti",
+  "wikibase_item": "Q109647306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41154154,
+      "id": "Q41154154"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647306"
+  },
+  "lastUpdated": "2025-12-17"
+}

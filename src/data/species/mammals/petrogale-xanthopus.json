@@ -1,0 +1,25 @@
+{
+  "id": "petrogale-xanthopus",
+  "name": "yellow-footed rock-wallaby",
+  "scientificName": "Petrogale xanthopus",
+  "wikibase_item": "Q209497",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209497",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-footed_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-footed rock-wallaby, formerly known as the ring-tailed rock-wallaby, is a member of the macropod family.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Petrogale_xanthopus_-_Monarto_1.JPG"
+}

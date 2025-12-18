@@ -1,0 +1,25 @@
+{
+  "id": "centronycteris-maximiliani",
+  "name": "Shaggy Bat",
+  "scientificName": "Centronycteris maximiliani",
+  "wikibase_item": "Q301659",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1983292,
+      "id": "Q1983292"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301659",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaggy_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The shaggy bat is a bat species from northern South America. It appears to be a slow flier and has a rather regular pattern of foraging in its home range, a feature shared with other emballonurids. It is an aerial insectivore.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Naturalis_Biodiversity_Center_-_RMNH.MAM.12111.b_dor_-_Centronycteris_maximiliani_-_skin.jpeg"
+}

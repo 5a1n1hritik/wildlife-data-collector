@@ -1,0 +1,25 @@
+{
+  "id": "balaenoptera-ricei",
+  "name": "Rice's whale",
+  "scientificName": "Balaenoptera ricei",
+  "wikibase_item": "Q105014096",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133320,
+      "id": "Q133320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105014096",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rice's_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rice's whale, also known as the Gulf of Mexico whale, is a species of baleen whale endemic to the northern Gulf of Mexico. Initially identified as a subpopulation of the Bryde's whale, genetic and skeletal studies found it to be a distinct species by 2021. In outward appearance, it is virtually identical to the Bryde's whale. Its body is streamlined and sleek, with a uniformly dark charcoal gray dorsal and pale to pinkish underside. A diagnostic feature often used by field scientists to distinguish Rice's whales from whales other than the Bryde's whale is the three prominent ridges that line the top of its head. The species can be distinguished from the Bryde's whale by the shape of the nasal bones, which have wider gaps due to a unique wrapping by the frontal bones, its unique vocal repertoire, and genetic differences.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SEFSC-PAM-Rices-whale.png"
+}

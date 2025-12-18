@@ -1,0 +1,25 @@
+{
+  "id": "poiana-leightoni",
+  "name": "Leighton's linsang",
+  "scientificName": "Poiana leightoni",
+  "wikibase_item": "Q1968390",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11846972,
+      "id": "Q11846972"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1968390",
+    "wikipedia": "https://en.wikipedia.org/wiki/West_African_oyan"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The West African oyan, also known as the West African linsang, is a linsang species native to the Upper Guinean forests in West Africa.\nIt is one of the least known small carnivores in Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/American_types_of_animal_life_%281894%29_%2818158249382%29.jpg"
+}

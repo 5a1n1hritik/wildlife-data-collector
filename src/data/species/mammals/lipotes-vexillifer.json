@@ -1,0 +1,25 @@
+{
+  "id": "lipotes-vexillifer",
+  "name": "baiji",
+  "scientificName": "Lipotes vexillifer",
+  "wikibase_item": "Q188130",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10786368,
+      "id": "Q10786368"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q188130",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baiji"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The baiji is a possibly extinct species of river dolphin native to the Yangtze river system in China. It is thought to possibly be the first dolphin species driven to extinction due to the impact of humans. This dolphin is listed as \"critically endangered: possibly extinct\" by the IUCN, has not been definitively seen in over 20 years, and several surveys of the Yangtze have failed to find it. The species is also called the Chinese river dolphin, Yangtze river dolphin, Yangtze dolphin, and whitefin dolphin. The genus name Lipotes means \"left behind\" and the species epithet vexillifer means \"flag bearer\". It is nicknamed the \"Goddess of the Yangtze\" and was regarded as the goddess of protection by local fishermen and boatmen. It is not to be confused with the Chinese white dolphin or the finless porpoise. This is the only species in the genus Lipotes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Baiji_1.jpg"
+}

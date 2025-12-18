@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-gaoligongensis",
+  "name": "Gaoligong pika",
+  "scientificName": "Ochotona gaoligongensis",
+  "wikibase_item": "Q311582",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q311582",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaoligong_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gaoligong pika is a color morph of Forrest's pika, a species of mammal in the family Ochotonidae. It is endemic to China. Many of the general physical characteristics of the pika species are shared by Gaoligong pikas. However, the Gaoligong pika is specifically characterized by unique physical characteristics, including a red-brown colored crown around the neck and black behind the ears. They can produce one litter per year and can live up to three years. Their behavior is currently undetermined due to limited information available about the species. This is due to the inaccessibility of their habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gaoligong_Pika_area.png"
+}

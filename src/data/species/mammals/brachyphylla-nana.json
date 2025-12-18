@@ -1,0 +1,25 @@
+{
+  "id": "brachyphylla-nana",
+  "name": "Cuban fruit-eating bat",
+  "scientificName": "Brachyphylla nana",
+  "wikibase_item": "Q135160",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 577045,
+      "id": "Q577045"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135160",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuban_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cuban fruit-eating bat is a species of bat in the family Phyllostomidae found in the Cayman Islands, Cuba, and Hispaniola .It has been extirpated from the Bahamas and Jamaica.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brachyphylla_nana_map.png"
+}

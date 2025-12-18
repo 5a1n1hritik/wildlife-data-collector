@@ -1,0 +1,25 @@
+{
+  "id": "marmosops-caucae",
+  "name": "Marmosops caucae",
+  "scientificName": "Marmosops caucae",
+  "wikibase_item": "Q18474200",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1755963,
+      "id": "Q1755963"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18474200",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marmosops_caucae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Marmosops caucae, the Cauca slender opossum, is a species of opossum from the Marmosops genus endemic to the eastern and western Andes. It is a diminutive species and its coat is 7 to 8 mm thick. The ventral fur is a dark brown with shades of gray. The species was scientifically described in 1900 by Oldfield Thomas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Marmosops_caucae.jpg"
+}

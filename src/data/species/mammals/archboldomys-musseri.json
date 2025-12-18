@@ -1,0 +1,25 @@
+{
+  "id": "archboldomys-musseri",
+  "name": "Archboldomys musseri",
+  "scientificName": "Archboldomys musseri",
+  "wikibase_item": "Q25614",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135054,
+      "id": "Q135054"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25614",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Madre_shrew_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sierra Madre shrew mouse is a species of mammal from the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Range_Soricomys_musseri.png"
+}

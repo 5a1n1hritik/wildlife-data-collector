@@ -1,0 +1,22 @@
+{
+  "id": "viverra-semistriata",
+  "name": "Viverra semistriata",
+  "scientificName": "Viverra semistriata",
+  "wikibase_item": "Q109647684",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762710,
+      "id": "Q1762710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647684"
+  },
+  "lastUpdated": "2025-12-17"
+}

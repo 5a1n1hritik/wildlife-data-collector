@@ -1,0 +1,25 @@
+{
+  "id": "mephitis-macroura",
+  "name": "hooded skunk",
+  "scientificName": "Mephitis macroura",
+  "wikibase_item": "Q1068616",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207714,
+      "id": "Q1207714"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1068616",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hooded_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hooded skunk is a species of mammal in the family Mephitidae. Mephītis in Latin means \"foul odor\", μακρός (makrós) in Greek translates to \"long\" and οὐρά (ourá) translates to \"tail\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hooded_Skunk_side_%28Gelsenkirchen%29.jpg"
+}

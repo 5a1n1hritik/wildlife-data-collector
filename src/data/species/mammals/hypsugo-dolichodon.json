@@ -1,0 +1,25 @@
+{
+  "id": "hypsugo-dolichodon",
+  "name": "Hypsugo dolichodon",
+  "scientificName": "Hypsugo dolichodon",
+  "wikibase_item": "Q18613303",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18613303",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-toothed_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-toothed pipistrelle is a species of bat of the genus Hypsugo. It is a small bat, with a length of 35.2–38.4 mm of forearm, and 5.9–7 mm of foot. It feeds on insects and has especially long canines compared to others of its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Distribution_of_Hypsugo_dolichodon.png"
+}

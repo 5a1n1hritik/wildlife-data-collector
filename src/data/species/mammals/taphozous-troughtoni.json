@@ -1,0 +1,25 @@
+{
+  "id": "taphozous-troughtoni",
+  "name": "Troughton's Sheath-tailed Bat",
+  "scientificName": "Taphozous troughtoni",
+  "wikibase_item": "Q1829306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829306",
+    "wikipedia": "https://en.wikipedia.org/wiki/Troughton's_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Troughton's sheath-tailed bat is a species of sheathtail bat in the family Emballonuridae, found only in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Troughton%27s_Sheath-tailed_Bat_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lutreolina-massoia",
+  "name": "Lutreolina massoia",
+  "scientificName": "Lutreolina massoia",
+  "wikibase_item": "Q16335777",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16335775,
+      "id": "Q16335775"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16335777",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massoia's_lutrine_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Massoia's lutrine opossum is a species of opossum native to South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lutreolina_massoia_area.png"
+}

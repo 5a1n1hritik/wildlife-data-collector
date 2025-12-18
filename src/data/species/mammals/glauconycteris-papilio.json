@@ -1,0 +1,22 @@
+{
+  "id": "glauconycteris-papilio",
+  "name": "Glauconycteris papilio",
+  "scientificName": "Glauconycteris papilio",
+  "wikibase_item": "Q122889450",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122889450"
+  },
+  "lastUpdated": "2025-12-17"
+}

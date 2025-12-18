@@ -1,0 +1,25 @@
+{
+  "id": "yingabalanara-richardsoni",
+  "name": "Yingabalanara richardsoni",
+  "scientificName": "Yingabalanara richardsoni",
+  "wikibase_item": "Q4022763",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21368854,
+      "id": "Q21368854"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4022763",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yingabalanara"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Yingabalanara is an extinct mammal from the Miocene of Australia. Known only from a few teeth, its affinities with other mammal groups remain unresolved.",
+  "image": null
+}

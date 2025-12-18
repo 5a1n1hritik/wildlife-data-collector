@@ -1,0 +1,25 @@
+{
+  "id": "callicebus-miltoni",
+  "name": "Callicebus miltoni",
+  "scientificName": "Callicebus miltoni",
+  "wikibase_item": "Q19279592",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203649,
+      "id": "Q203649"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19279592",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milton's_titi_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Milton's titi monkey is a species of titi monkey, a type of New World monkey, from southern Amazon rainforest, Brazil. It was named after the Brazilian primatologist Milton Thiago de Mello. Milton's titi was discovered in 2011 by Julio César Dalponte, and recognized as a new species in 2014.",
+  "image": null
+}

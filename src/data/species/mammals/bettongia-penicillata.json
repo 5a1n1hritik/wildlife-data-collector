@@ -1,0 +1,25 @@
+{
+  "id": "bettongia-penicillata",
+  "name": "Bettongia penicillata",
+  "scientificName": "Bettongia penicillata",
+  "wikibase_item": "Q210070",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 945387,
+      "id": "Q945387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210070",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woylie"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The woylie or brush-tailed bettong is a small, near threatened mammal native to forests and shrubland of Australia. A member of the rat-kangaroo family (Potoroidae), it moves by hopping and is active at night, digging for fungi to eat. It is also a marsupial and carries its young in a pouch. Once widespread, the woylie mostly died out from habitat loss and introduced predators such as foxes and feral cats. It is currently restricted to two small areas in Western Australia. There were two subspecies: B. p. ogilbyi in the west, and the now-extinct B. p. penicillata in the southeast.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bettongia_penicillata_%28Woylie%291.jpg"
+}

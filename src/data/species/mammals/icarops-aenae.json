@@ -1,0 +1,22 @@
+{
+  "id": "icarops-aenae",
+  "name": "Icarops aenae",
+  "scientificName": "Icarops aenae",
+  "wikibase_item": "Q21276376",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5985076,
+      "id": "Q5985076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21276376"
+  },
+  "lastUpdated": "2025-12-17"
+}

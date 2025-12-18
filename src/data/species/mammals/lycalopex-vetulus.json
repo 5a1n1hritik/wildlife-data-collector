@@ -1,0 +1,25 @@
+{
+  "id": "lycalopex-vetulus",
+  "name": "Hoary fox",
+  "scientificName": "Lycalopex vetulus",
+  "wikibase_item": "Q257432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132687,
+      "id": "Q132687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q257432",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hoary_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hoary fox or hoary zorro, also known as raposinha-do-campo in Brazil, is a species of zorro or \"false\" fox endemic to Brazil. Unlike many other foxes, it feeds primarily on small invertebrates such as insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_5.jpg"
+}

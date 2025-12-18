@@ -1,0 +1,25 @@
+{
+  "id": "zelotomys-hildegardeae",
+  "name": "Hildegarde's broad-headed mouse",
+  "scientificName": "Zelotomys hildegardeae",
+  "wikibase_item": "Q1768645",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 513435,
+      "id": "Q513435"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768645",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hildegarde's_broad-headed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hildegarde's broad-headed mouse or Hildegarde's zelotomys is a species of rodent in the family Muridae.\nIt is found in Central Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Zelotomys_hildegardeae_distribution.png"
+}

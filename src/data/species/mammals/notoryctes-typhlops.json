@@ -1,0 +1,25 @@
+{
+  "id": "notoryctes-typhlops",
+  "name": "Notoryctes typhlops",
+  "scientificName": "Notoryctes typhlops",
+  "wikibase_item": "Q209750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 234792,
+      "id": "Q234792"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_marsupial_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern marsupial mole, also known as the itjaritjari or itjari-itjari, is a mole-like marsupial found in the western central deserts of Australia. It is extremely adapted to a burrowing way of life. It has large, shovel-like forepaws and silky fur, which helps it move easily. It also lacks complete eyes as it has little need for them. It feeds on earthworms and larvae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Notoryctes_typhlops.jpg"
+}

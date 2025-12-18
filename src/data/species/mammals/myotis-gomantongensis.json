@@ -1,0 +1,25 @@
+{
+  "id": "myotis-gomantongensis",
+  "name": "Gomantong myotis",
+  "scientificName": "Myotis gomantongensis",
+  "wikibase_item": "Q1834212",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834212",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gomantong_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Gomantong myotis is a species of bat in the family Vespertilionidae that is endemic to Sabah district of Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Distribution_of_Myotis_gomantongensis.png"
+}

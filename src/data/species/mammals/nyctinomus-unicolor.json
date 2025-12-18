@@ -1,0 +1,22 @@
+{
+  "id": "nyctinomus-unicolor",
+  "name": "Nyctinomus unicolor",
+  "scientificName": "Nyctinomus unicolor",
+  "wikibase_item": "Q122230864",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24268903,
+      "id": "Q24268903"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122230864"
+  },
+  "lastUpdated": "2025-12-17"
+}

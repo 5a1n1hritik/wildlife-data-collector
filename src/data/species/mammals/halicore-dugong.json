@@ -1,0 +1,22 @@
+{
+  "id": "halicore-dugong",
+  "name": "Halicore dugong",
+  "scientificName": "Halicore dugong",
+  "wikibase_item": "Q107333234",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 107272886,
+      "id": "Q107272886"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107333234"
+  },
+  "lastUpdated": "2025-12-17"
+}

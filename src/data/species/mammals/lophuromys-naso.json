@@ -1,0 +1,22 @@
+{
+  "id": "lophuromys-naso",
+  "name": "Lophuromys naso",
+  "scientificName": "Lophuromys naso",
+  "wikibase_item": "Q41084216",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 518880,
+      "id": "Q518880"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084216"
+  },
+  "lastUpdated": "2025-12-17"
+}

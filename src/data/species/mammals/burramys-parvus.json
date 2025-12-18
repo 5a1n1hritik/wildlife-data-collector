@@ -1,0 +1,25 @@
+{
+  "id": "burramys-parvus",
+  "name": "mountain pygmy possum",
+  "scientificName": "Burramys parvus",
+  "wikibase_item": "Q819469",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1977533,
+      "id": "Q1977533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q819469",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_pygmy_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain pygmy possum, also simply known as the burramys, is a small, mouse-sized nocturnal marsupial of Australia found in dense alpine rock screes and boulder fields, mainly southern Victoria and around Mount Kosciuszko in Kosciuszko National Park in New South Wales at elevations from 1,300 to 2,230 metres. At almost 14 cm (5.5 in), its prehensile tail is longer than its 11 cm (4.3 in) combined head and body length. Its diet consists of insects, fleshy fruits, nuts, nectar and seeds. Its body is covered in a thick coat of fine grey fur except for its stomach, which is cream coloured; its tail is hairless. On the underside of the female's body is a pouch containing four teats. This possum is the only extant species in the genus Burramys. It is also the only Australian mammal restricted to alpine habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain-pygmy-possum.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sylvilagus-sanctaemartae",
+  "name": "Sylvilagus sanctaemartae",
+  "scientificName": "Sylvilagus sanctaemartae",
+  "wikibase_item": "Q70602277",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875577,
+      "id": "Q20875577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70602277",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santa_Marta_tapeti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Santa Marta tapeti is a species of cottontail rabbit native to the lowlands of northern Colombia. It was previously considered a subspecies of the common tapeti but analysis in 2017 confirmed that it is sufficiently distinct in both appearance and genetics to be considered a species in its own right. The name Santa Marta tapeti is derived from the mountain range where the species was first discovered, the Sierra Nevada de Santa Marta.",
+  "image": null
+}

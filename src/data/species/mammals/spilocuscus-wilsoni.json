@@ -1,0 +1,25 @@
+{
+  "id": "spilocuscus-wilsoni",
+  "name": "Blue-eyed spotted cuscus",
+  "scientificName": "Spilocuscus wilsoni",
+  "wikibase_item": "Q1957745",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475049,
+      "id": "Q1475049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1957745",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue-eyed_spotted_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The blue-eyed spotted cuscus or Biak spotted cuscus is a species of critically endangered marsupial in the family Phalangeridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Blue-eyed_Spotted_Cuscus_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "graomys-centralis",
+  "name": "Central leaf-eared mouse",
+  "scientificName": "Graomys centralis",
+  "wikibase_item": "Q1761476",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139823,
+      "id": "Q139823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761476",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The central leaf-eared mouse is a species of rodent in the family Cricetidae. It is known only from central Argentina. Prior to 1994, it was considered a subspecies of G. griseoflavus. Then referred to as G. centralis, as of 2019 it was referred to as G. chacoensis by the IUCN.",
+  "image": null
+}

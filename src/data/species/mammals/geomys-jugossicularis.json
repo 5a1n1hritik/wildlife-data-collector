@@ -1,0 +1,25 @@
+{
+  "id": "geomys-jugossicularis",
+  "name": "Geomys jugossicularis",
+  "scientificName": "Geomys jugossicularis",
+  "wikibase_item": "Q34373072",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q34373072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geomys_jugossicularis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Geomys jugossicularis, also known as Hall's pocket gopher and Colorado pocket gopher, is a species of pocket gopher native to the western United States. Little is known of its behavior or ecology aside from typical behaviors of the other pocket gophers.",
+  "image": null
+}

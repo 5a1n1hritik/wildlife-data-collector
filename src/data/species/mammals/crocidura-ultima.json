@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-ultima",
+  "name": "Ultimate Shrew",
+  "scientificName": "Crocidura ultima",
+  "wikibase_item": "Q305764",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305764",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ultimate_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ultimate shrew is a species of mammal in the family Soricidae. It is endemic to Nyeri County in central Kenya. Its natural habitat is tropical moist montane forest at approximately 1,524 metres elevation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ultimate_Shrew_area.png"
+}

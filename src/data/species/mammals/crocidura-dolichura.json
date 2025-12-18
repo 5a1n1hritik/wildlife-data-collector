@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-dolichura",
+  "name": "Long-tailed Musk Shrew",
+  "scientificName": "Crocidura dolichura",
+  "wikibase_item": "Q1761948",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761948",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed musk shrew is a species of shrew in the family Soricidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Long-tailed_Musk_Shrew_area.png"
+}

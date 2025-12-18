@@ -1,0 +1,25 @@
+{
+  "id": "nycticeius-schlieffeni",
+  "name": "Nycticeius schlieffeni",
+  "scientificName": "Nycticeius schlieffeni",
+  "wikibase_item": "Q27440917",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753703,
+      "id": "Q753703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27440917",
+    "wikipedia": "https://en.wikipedia.org/wiki/Schlieffen's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Schlieffen's serotine, also known as Schlieffen's bat or Schlieffen's twilight bat, is a species of vesper bat found in Africa. It has been placed in numerous genera since its first description in 1859, but morphological and genetic studies have confirmed it as the only species in the genus Nycticeinops. It is named for the collector of the original specimen, Wilhelm Graf von Schlieffen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Naturalis_Biodiversity_Center_-_ZMA.MAM.1960.b_dor_-_Nycticeius_schlieffeni_-_skin.jpeg"
+}

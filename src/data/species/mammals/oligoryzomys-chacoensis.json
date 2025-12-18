@@ -1,0 +1,25 @@
+{
+  "id": "oligoryzomys-chacoensis",
+  "name": "Oligoryzomys chacoensis",
+  "scientificName": "Oligoryzomys chacoensis",
+  "wikibase_item": "Q1769587",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769587",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_chacoensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys chacoensis, also known as the Chacoan colilargo or Chacoan pygmy rice rat, is a rodent species from South America. It is found in the Gran Chaco region of southeastern Bolivia, southwestern Brazil, Paraguay, and northeastern Argentina. Its karyotype has 2n = 58 and FNa = 74.",
+  "image": null
+}

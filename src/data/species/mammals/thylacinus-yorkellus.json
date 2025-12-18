@@ -1,0 +1,25 @@
+{
+  "id": "thylacinus-yorkellus",
+  "name": "Thylacinus yorkellus",
+  "scientificName": "Thylacinus yorkellus",
+  "wikibase_item": "Q21856651",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 194340,
+      "id": "Q194340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21856651",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thylacinus_yorkellus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thylacinus yorkellus is an extinct species of carnivorous marsupial from South Australia that lived during the Late Miocene or Early Pliocene. It is sister species to the recently extinct Thylacinus cynocephalus, the Tasmanian tiger, both of which existed on mainland Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Thylacinus_yorkellus.jpg"
+}

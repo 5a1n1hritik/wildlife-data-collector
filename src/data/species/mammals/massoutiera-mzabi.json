@@ -1,0 +1,25 @@
+{
+  "id": "massoutiera-mzabi",
+  "name": "Mzab gundi",
+  "scientificName": "Massoutiera mzabi",
+  "wikibase_item": "Q1766035",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10791732,
+      "id": "Q10791732"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766035",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mzab_gundi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mzab gundi is a species of rodent in the family Ctenodactylidae. It is monotypic within the genus Massoutiera. It is found in Algeria, Chad, Mali, Niger, and possibly Libya. The Mzab gundi can live in a variety of climates, including arid deserts with sparse vegetation and annual rainfall less than 20 mm. However, it lacks many of the adaptations other rodents use to cope with such extreme environments, instead relying on behavior to survive in those regions.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Massoutiera_mzabi_206262897.jpg"
+}

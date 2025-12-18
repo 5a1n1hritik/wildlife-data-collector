@@ -1,0 +1,25 @@
+{
+  "id": "caluromysiops-irrupta",
+  "name": "black-shouldered opossum",
+  "scientificName": "Caluromysiops",
+  "wikibase_item": "Q301041",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816182,
+      "id": "Q19816182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301041",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-shouldered_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-shouldered opossum, also known as the white-eared opossum, is an opossum known from western Brazil and southeastern Peru. It was first described by Colin Campbell Sanborn, curator of Field Museum of Natural History, in 1951. The black-shouldered opossum is characterized by a gray coat, gray underbelly, and broad black stripes that extend from the forefeet, meet on the shoulders, run along the midline of the back and then split into parallel stripes that run down the hind feet. Little is known of the behavior of the black-shouldered opossum. It is nocturnal and arboreal. It is known to feed on fruits and rodents. The opossum inhabits humid forests. The IUCN classifies it as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Black-shouldered_Opossum_area.png"
+}

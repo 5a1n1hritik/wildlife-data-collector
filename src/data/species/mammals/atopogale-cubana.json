@@ -1,0 +1,25 @@
+{
+  "id": "atopogale-cubana",
+  "name": "Atopogale cubana",
+  "scientificName": "Atopogale cubana",
+  "wikibase_item": "Q34486275",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 34486332,
+      "id": "Q34486332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q34486275",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuban_solenodon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cuban solenodon or almiquí is a small, furry, shrew-like mammal endemic to mountainous forests on Cuba. It is the only species in the genus Atopogale. An elusive animal, it lives in burrows and is only active at night when it uses its unusual toxic saliva to feed on insects. The solenodons, native to the Caribbean, are one of only a few mammals that are venomous.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Solenodon_cubanus.jpg"
+}

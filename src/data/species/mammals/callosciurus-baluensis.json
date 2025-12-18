@@ -1,0 +1,25 @@
+{
+  "id": "callosciurus-baluensis",
+  "name": "Callosciurus baluensis",
+  "scientificName": "Callosciurus baluensis",
+  "wikibase_item": "Q3727493",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3727493",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kinabalu_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kinabalu squirrel is a species of rodent in the family Sciuridae. It is endemic to highland forest in East Malaysia. Its name is a reference to Mount Kinabalu, though it is not restricted to this mountain. Its tail and upperparts are grizzled blackish, the underparts are reddish-orange, and the flanks have a narrow buff stripe with a broader black stripe below.",
+  "image": null
+}

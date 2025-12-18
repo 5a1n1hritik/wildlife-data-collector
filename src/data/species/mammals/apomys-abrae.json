@@ -1,0 +1,25 @@
+{
+  "id": "apomys-abrae",
+  "name": "Luzon Cordillera Forest Mouse",
+  "scientificName": "Apomys abrae",
+  "wikibase_item": "Q1763412",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763412",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luzon_Cordillera_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Luzon Cordillera forest mouse is a species of rodent in the family Muridae found in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Range_Apomys_abrae.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-batakorum",
+  "name": "Crocidura batakorum",
+  "scientificName": "Crocidura batakorum",
+  "wikibase_item": "Q2019717",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2019717",
+    "wikipedia": "https://en.wikipedia.org/wiki/Batak_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Batak shrew is a species of shrew from the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Range_Crocidura_batakorum.png"
+}

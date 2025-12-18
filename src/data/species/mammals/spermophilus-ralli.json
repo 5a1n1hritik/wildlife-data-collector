@@ -1,0 +1,22 @@
+{
+  "id": "spermophilus-ralli",
+  "name": "Tian Shan Ground Squirrel",
+  "scientificName": "Spermophilus ralli",
+  "wikibase_item": "Q1765341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765341"
+  },
+  "lastUpdated": "2025-12-17"
+}

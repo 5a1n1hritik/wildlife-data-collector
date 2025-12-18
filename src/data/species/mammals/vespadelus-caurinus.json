@@ -1,0 +1,25 @@
+{
+  "id": "vespadelus-caurinus",
+  "name": "Vespadelus caurinus",
+  "scientificName": "Vespadelus caurinus",
+  "wikibase_item": "Q265064",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 220531,
+      "id": "Q220531"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q265064",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_cave_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern cave bat is a vesper bat that occurs throughout most of Australia.",
+  "image": null
+}

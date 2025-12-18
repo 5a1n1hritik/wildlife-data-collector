@@ -1,0 +1,22 @@
+{
+  "id": "aethechinus-angolae",
+  "name": "Aethechinus angolae",
+  "scientificName": "Aethechinus angolae",
+  "wikibase_item": "Q41162375",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41150438,
+      "id": "Q41150438"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162375"
+  },
+  "lastUpdated": "2025-12-17"
+}

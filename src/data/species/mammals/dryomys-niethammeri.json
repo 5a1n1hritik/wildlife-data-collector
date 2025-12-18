@@ -1,0 +1,25 @@
+{
+  "id": "dryomys-niethammeri",
+  "name": "Balochistan forest dormouse",
+  "scientificName": "Dryomys niethammeri",
+  "wikibase_item": "Q1769314",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 910126,
+      "id": "Q910126"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769314",
+    "wikipedia": "https://en.wikipedia.org/wiki/Balochistan_forest_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Balochistan forest dormouse is a species of rodent in the family Gliridae. It is native to Pakistan.",
+  "image": null
+}

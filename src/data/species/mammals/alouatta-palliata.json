@@ -1,0 +1,25 @@
+{
+  "id": "alouatta-palliata",
+  "name": "Mantled howler",
+  "scientificName": "Alouatta palliata",
+  "wikibase_item": "Q1070483",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1070483",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mantled_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mantled howler is a species of howler monkey, a type of New World monkey, from Central and South America. It is one of the monkey species most often seen and heard in the wild in Central America. It takes its \"mantled\" name from the long guard hairs on its sides.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Panamanian_Male_Adult_Howler_Monkey.jpg"
+}

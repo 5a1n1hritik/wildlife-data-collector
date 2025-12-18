@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-palawanensis",
+  "name": "Palawan Shrew",
+  "scientificName": "Crocidura palawanensis",
+  "wikibase_item": "Q306005",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palawan_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Palawan shrew is a species of mammal in the family Soricidae. It is endemic to the Philippines and known from Palawan and Balabac Islands, from sea level to 1,300 m (4,300 ft) asl. It occurs in old growth and scrubby secondary forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Palawan_Shrew_area.png"
+}

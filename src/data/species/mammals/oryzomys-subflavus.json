@@ -1,0 +1,25 @@
+{
+  "id": "oryzomys-subflavus",
+  "name": "Oryzomys subflavus",
+  "scientificName": "Oryzomys subflavus",
+  "wikibase_item": "Q27430165",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27430165",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerradomys_subflavus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cerradomys subflavus, also known as the terraced rice rat or flavescent oryzomys, is a rodent species from South America in the genus Cerradomys. It is found in the states of Goiás, São Paulo, and Minas Gerais, Brazil. Populations in Bolivia, Paraguay, and elsewhere in Brazil that were previously placed in this species are now classified as various other species of Cerradomys.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "glauconycteris-variegata",
+  "name": "Variegated butterfly bat",
+  "scientificName": "Glauconycteris variegata",
+  "wikibase_item": "Q1833069",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833069",
+    "wikipedia": "https://en.wikipedia.org/wiki/Variegated_butterfly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The variegated butterfly bat is a species of vesper bat. It is sometimes also called the leaf-winged bat, or simply the butterfly bat. It is not currently endangered, but may be threatened by habitat loss in some parts of its range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/ChalVar1.jpg"
+}

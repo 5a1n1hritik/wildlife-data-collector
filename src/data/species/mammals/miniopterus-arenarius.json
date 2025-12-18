@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-arenarius",
+  "name": "Miniopterus arenarius",
+  "scientificName": "Miniopterus arenarius",
+  "wikibase_item": "Q116786518",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116786518",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandy_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sandy long-fingered bat, also known as the sandy bent-winged bat, is a species of bat from the genus Miniopterus that is endemic to the Arabian Peninsula and East Africa. The species was initially described as a subspecies of either M. schreibersii or M. natalensis. Recent genetic research has revealed that specimens from the Arabian Peninsula and Ethiopia, which were tentatively ascribed to the genus, are significantly distinct from M. schreibersii and M. natalensis. A genetic analysis of type locality material is still needed before taxonomy can be resolved.",
+  "image": null
+}

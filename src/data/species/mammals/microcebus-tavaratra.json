@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-tavaratra",
+  "name": "Northern rufous mouse lemur",
+  "scientificName": "Microcebus tavaratra",
+  "wikibase_item": "Q1202760",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1202760",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_rufous_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern rufous mouse lemur, northern brown mouse lemur, or Tavaratra mouse lemur is found in northern Madagascar from the Ankarana Special Reserve in the west to the Manambato River in the northeast, and up to the Irodo River in the north of the Analamerana Special Reserve. The complete distribution range of M. tavaratra is still to be defined as some areas surrounding the described distribution have not been visited yet. For example, M. tavaratra has been reported to possibly occur from the Irodo up to the Montagne des Français. Its known distribution cover four protected areas – the Ankarana Special Reserve, and the Analamerana Special Reserve both managed by Madagascar National Parks, the Loky-Manambato protected area (Daraina), and the Andavakoeira-Andrafiamena protected area, both Managed by the NGO Fanamby",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Microcebus_tavaratra_range_map.svg/960px-Microcebus_tavaratra_range_map.svg.png"
+}

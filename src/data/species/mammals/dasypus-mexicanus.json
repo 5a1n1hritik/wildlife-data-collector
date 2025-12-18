@@ -1,0 +1,25 @@
+{
+  "id": "dasypus-mexicanus",
+  "name": "Dasypus mexicanus",
+  "scientificName": "Dasypus mexicanus",
+  "wikibase_item": "Q127225022",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127225022",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nine-banded_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The nine-banded armadillo, also called the nine-banded long-nosed armadillo or common long-nosed armadillo, is a species of armadillo native to North, Central, and South America, making it the most widespread of the armadillos.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nine-banded_Armadillo_%28Dasypus_novemcinctus%29_%2837649606094%29.jpg"
+}

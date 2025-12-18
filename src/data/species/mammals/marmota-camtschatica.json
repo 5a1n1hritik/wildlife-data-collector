@@ -1,0 +1,25 @@
+{
+  "id": "marmota-camtschatica",
+  "name": "black-capped marmot",
+  "scientificName": "Marmota camtschatica",
+  "wikibase_item": "Q742402",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q742402",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-capped_marmot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-capped marmot is a species of rodent in the family Sciuridae. It is endemic to the Russian Far East, but its range is discontinuous and divided into three main parts, each with its own subspecies. The black-capped marmot lives in arctic tundra and alpine habitats from near sea-level to an altitude of 2,000 m (6,600 ft). Depending on exact subpopulation, they hibernate for 6–8 months each year, which is long for a marmot.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%D0%A1%D1%83%D1%80%D0%BE%D0%BA_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%B0%D0%BF%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%28%D0%BA%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9%29.jpg"
+}

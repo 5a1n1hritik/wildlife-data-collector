@@ -1,0 +1,25 @@
+{
+  "id": "zapus-princeps",
+  "name": "Zapus princeps",
+  "scientificName": "Zapus princeps",
+  "wikibase_item": "Q1767384",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 524430,
+      "id": "Q524430"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767384",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_jumping_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western jumping mouse, is a species of rodent in the family Zapodidae. It is found in Canada and the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zapus_princeps.jpg"
+}

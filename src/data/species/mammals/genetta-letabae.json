@@ -1,0 +1,25 @@
+{
+  "id": "genetta-letabae",
+  "name": "Genetta letabae",
+  "scientificName": "Genetta letabae",
+  "wikibase_item": "Q41083658",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083658",
+    "wikipedia": "https://en.wikipedia.org/wiki/Letaba_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Letaba genet is a genet native to Lesotho, Mozambique, Namibia, South Africa and Eswatini. It is the only species of genet that occurs in Lesotho and Eswatini. It was first described in 1906 by Oldfield Thomas and Harold Swann based on a specimen from South Africa. It was formerly classified as a subspecies of the rusty-spotted genet and was recognised as a distinct species in 2005.",
+  "image": null
+}

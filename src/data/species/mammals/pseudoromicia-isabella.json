@@ -1,0 +1,22 @@
+{
+  "id": "pseudoromicia-isabella",
+  "name": "Pseudoromicia isabella",
+  "scientificName": "Pseudoromicia isabella",
+  "wikibase_item": "Q99838402",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 99836920,
+      "id": "Q99836920"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99838402"
+  },
+  "lastUpdated": "2025-12-17"
+}

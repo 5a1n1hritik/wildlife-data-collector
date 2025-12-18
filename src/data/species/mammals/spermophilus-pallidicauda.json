@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-pallidicauda",
+  "name": "Pallid Ground Squirrel",
+  "scientificName": "Spermophilus pallidicauda",
+  "wikibase_item": "Q1761465",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761465",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pallid_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pallid ground squirrel is a species of rodent in the family Sciuridae. It is found in Mongolia and the adjacent Nei Mongol autonomous region.",
+  "image": null
+}

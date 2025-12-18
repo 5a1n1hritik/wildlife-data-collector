@@ -1,0 +1,22 @@
+{
+  "id": "sminthopsis-froggatti",
+  "name": "Sminthopsis froggatti",
+  "scientificName": "Sminthopsis froggatti",
+  "wikibase_item": "Q119627540",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119627540"
+  },
+  "lastUpdated": "2025-12-17"
+}

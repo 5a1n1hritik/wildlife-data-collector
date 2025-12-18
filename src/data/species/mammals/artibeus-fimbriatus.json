@@ -1,0 +1,25 @@
+{
+  "id": "artibeus-fimbriatus",
+  "name": "fringed fruit-eating bat",
+  "scientificName": "Artibeus fimbriatus",
+  "wikibase_item": "Q308092",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308092",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fringed_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fringed fruit-eating bat, is a species of bat native to South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Artibeus_fimbriatus_Bat_species_%2810.3897-zoologia.37.e36514%29_Figures_18%E2%80%9329.jpg"
+}

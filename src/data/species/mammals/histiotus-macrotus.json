@@ -1,0 +1,25 @@
+{
+  "id": "histiotus-macrotus",
+  "name": "Big-eared brown bat",
+  "scientificName": "Histiotus macrotus",
+  "wikibase_item": "Q307013",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225886,
+      "id": "Q225886"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307013",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big-eared_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big-eared brown bat is a species of vesper bat found in Argentina, Paraguay, and Chile.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Histiotus_macrotus_96455838.jpg"
+}

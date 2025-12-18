@@ -1,0 +1,25 @@
+{
+  "id": "nyctophilus-geoffroyi",
+  "name": "Nyctophilus geoffroyi",
+  "scientificName": "Nyctophilus geoffroyi",
+  "wikibase_item": "Q1832941",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 783004,
+      "id": "Q783004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832941",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyctophilus_geoffroyi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nyctophilus geoffroyi is a vespertilionid bat. a flying nocturnal mammal found in Australia, The species is relatively common. They have been referred to as the lesser long-eared bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lesser_Long-eared_Bat_%28Nyctophilus_geoffroyi%29_%288656888933%29.jpg"
+}

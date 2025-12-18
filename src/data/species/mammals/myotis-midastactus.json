@@ -1,0 +1,25 @@
+{
+  "id": "myotis-midastactus",
+  "name": "Myotis midastactus",
+  "scientificName": "Myotis midastactus",
+  "wikibase_item": "Q17485243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17485243",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myotis_midastactus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Myotis midastactus is a golden-coloured species of vesper bats from South America, where it occurs in Bolivia and Paraguay. The characteristic golden fur of the bat distinguishes it from other South American bats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Myotis_midastactus_dorsal_ventral.jpg"
+}

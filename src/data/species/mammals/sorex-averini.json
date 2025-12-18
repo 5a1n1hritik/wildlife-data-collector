@@ -1,0 +1,25 @@
+{
+  "id": "sorex-averini",
+  "name": "Dneper common shrew",
+  "scientificName": "Sorex averini",
+  "wikibase_item": "Q2465399",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2465399",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dneper_common_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dneper common shrew is a species of mammal in the family Soricidae.",
+  "image": null
+}

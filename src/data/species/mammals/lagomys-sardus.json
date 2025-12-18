@@ -1,0 +1,22 @@
+{
+  "id": "lagomys-sardus",
+  "name": "Lagomys sardus",
+  "scientificName": "Lagomys sardus",
+  "wikibase_item": "Q109647332",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24809624,
+      "id": "Q24809624"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647332"
+  },
+  "lastUpdated": "2025-12-17"
+}

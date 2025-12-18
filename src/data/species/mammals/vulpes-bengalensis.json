@@ -1,0 +1,25 @@
+{
+  "id": "vulpes-bengalensis",
+  "name": "Indian Fox",
+  "scientificName": "Vulpes bengalensis",
+  "wikibase_item": "Q214835",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q214835",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bengal_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bengal fox, also known as the Indian fox, is a fox endemic to the Indian subcontinent from the Himalayan foothills and Terai of Nepal through southern India, and from southern and eastern Pakistan to eastern India and southeastern Bangladesh.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bengal_Fox_-_Shreeram_M_V_-_Rajasthan%2C_India.jpg"
+}

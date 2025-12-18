@@ -1,0 +1,25 @@
+{
+  "id": "blarinella-griselda",
+  "name": "Indochinese short-tailed shrew",
+  "scientificName": "Blarinella griselda",
+  "wikibase_item": "Q1763654",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 728174,
+      "id": "Q728174"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763654",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indochinese_short-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indochinese short-tailed shrew is a species of mammal of the family Soricidae found in China and Vietnam. The species is a semifossorial red-toothed shrew with a stout body and short, slender tail. Although this species was originally classified under Blarinella, recent Cytochrome b analysis suggests this species should be classified under a new genus, placing it in Parablarinella alongside one other species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Indochinese_Short-tailed_Shrew_area.png"
+}

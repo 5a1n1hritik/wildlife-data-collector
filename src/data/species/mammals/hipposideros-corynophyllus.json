@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-corynophyllus",
+  "name": "Hipposideros corynophyllus",
+  "scientificName": "Hipposideros corynophyllus",
+  "wikibase_item": "Q2043960",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2043960",
+    "wikipedia": "https://en.wikipedia.org/wiki/Telefomin_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Telefomin roundleaf bat is a species of bat in the family Hipposideridae. It is found in West Papua (Indonesia) and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Telefomin_Roundleaf_Bat_area.png"
+}

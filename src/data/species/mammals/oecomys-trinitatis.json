@@ -1,0 +1,25 @@
+{
+  "id": "oecomys-trinitatis",
+  "name": "Oecomys trinitatis",
+  "scientificName": "Oecomys trinitatis",
+  "wikibase_item": "Q1763242",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763242",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_trinitatis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys trinitatis, also known as the long-furred oecomys, long-furred rice rat, Trinidad arboreal rice rat, or big arboreal rice rat, is a species of rodent in the genus Oecomys of family Cricetidae. As currently constituted, it has a wide distribution in Central America and South America, being found in southern Costa Rica, Panama, Colombia, Venezuela, Trinidad and Tobago, Guyana, Suriname, French Guiana, much of Brazil, eastern Ecuador, and eastern Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Oecomys_frontalis_skull_Goldman.png"
+}

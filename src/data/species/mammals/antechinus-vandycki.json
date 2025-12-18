@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-vandycki",
+  "name": "Antechinus vandycki",
+  "scientificName": "Antechinus vandycki",
+  "wikibase_item": "Q28808089",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28808089",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tasman_Peninsula_dusky_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Antechinus vandycki, the Tasman Peninsula dusky antechinus, is a species of marsupial in the family Dasyuridae. It was first described in 2015 by Andrew Baker and his group of scientists in southeast Tasmania. In October 2021, only eight specimens were known.",
+  "image": null
+}

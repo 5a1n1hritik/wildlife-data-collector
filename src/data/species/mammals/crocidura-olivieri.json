@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-olivieri",
+  "name": "African giant shrew",
+  "scientificName": "Crocidura olivieri",
+  "wikibase_item": "Q1762922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762922",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_giant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African giant shrew is a species of white-toothed shrew. It also is known as, Mann's musk shrew, Euchareena's musk shrew, or Olivier's shrew. It is native to Africa, where it has a widespread distribution and occurs in many types of habitat. Its natural habitats are subtropical or tropical dry forest, subtropical or tropical moist lowland forest, subtropical or tropical moist montane forest, dry savanna, moist savanna, arable land, rural gardens, urban areas, and heavily degraded former forest. In the Nile Valley it is found near human habitation, where it is considered to be a pest. It is a common species and is listed by the International Union for Conservation of Nature as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Congo_Expedition_of_the_American_Museum_of_Natural_History_%281919%29_%2820680539435%29.jpg"
+}

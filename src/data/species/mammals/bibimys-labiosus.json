@@ -1,0 +1,25 @@
+{
+  "id": "bibimys-labiosus",
+  "name": "Bibimys labiosus",
+  "scientificName": "Bibimys labiosus",
+  "wikibase_item": "Q1898403",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 679129,
+      "id": "Q679129"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1898403",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bibimys_labiosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bibimys labiosus), also known as the large-lipped crimson-nosed rat is a species of rodent in the family Cricetidae.\nIt is found in Brazil and Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bibimys_labiosus.jpg"
+}

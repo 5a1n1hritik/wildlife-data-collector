@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-inornatus",
+  "name": "Hipposideros inornatus",
+  "scientificName": "Hipposideros inornatus",
+  "wikibase_item": "Q1769165",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769165",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnhem_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arnhem leaf-nosed bat is a species of bat in the family Hipposideridae. It lives in the sandstone areas of Kakadu National Park.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Arnhem_Leaf-nosed_Bat_area.png"
+}

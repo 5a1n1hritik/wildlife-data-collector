@@ -1,0 +1,22 @@
+{
+  "id": "lepus-hispidus",
+  "name": "Lepus hispidus",
+  "scientificName": "Lepus hispidus",
+  "wikibase_item": "Q97151646",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97151646"
+  },
+  "lastUpdated": "2025-12-17"
+}

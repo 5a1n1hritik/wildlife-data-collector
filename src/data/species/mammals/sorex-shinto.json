@@ -1,0 +1,25 @@
+{
+  "id": "sorex-shinto",
+  "name": "Shinto shrew",
+  "scientificName": "Sorex shinto",
+  "wikibase_item": "Q1766108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinto_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Shinto shrew is a species of shrew of the genus Sorex that lives only on the islands of Japan. It is a mole-like mammal with a pointed snout, very small ears, and a relatively long tail. Like most shrews, it is tiny, has poor eyesight, and a very good sense of hearing and smell which it uses to locate its prey, mainly insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Shinto_Shrew_area.png"
+}

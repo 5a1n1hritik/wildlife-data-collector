@@ -1,0 +1,22 @@
+{
+  "id": "crocidura-leucogenys",
+  "name": "Crocidura leucogenys",
+  "scientificName": "Crocidura leucogenys",
+  "wikibase_item": "Q41082476",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082476"
+  },
+  "lastUpdated": "2025-12-17"
+}

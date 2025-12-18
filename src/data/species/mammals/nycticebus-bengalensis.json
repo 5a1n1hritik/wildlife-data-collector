@@ -1,0 +1,25 @@
+{
+  "id": "nycticebus-bengalensis",
+  "name": "Bengal slow loris",
+  "scientificName": "Nycticebus bengalensis",
+  "wikibase_item": "Q817174",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 74941,
+      "id": "Q74941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q817174",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bengal_slow_loris"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bengal slow loris or northern slow loris is a strepsirrhine primate and a species of slow loris native to the Indian subcontinent and Indochina. Its geographic range is larger than that of any other slow loris species. Considered a subspecies of the Sunda slow loris (N. coucang) until 2001, phylogenetic analysis suggests that the Bengal slow loris is most closely related to the Sunda slow loris. However, some individuals in both species have mitochondrial DNA sequences that resemble those of the other species, due to introgressive hybridization. It is the largest species of slow loris, measuring 26 to 38 cm from head to tail and weighing between 1 and 2.1 kg. Like other slow lorises, it has a wet nose (rhinarium), a round head, flat face, large eyes, small ears, a vestigial tail, and dense, woolly fur. The toxin it secretes from its brachial gland differs chemically from that of other slow loris species and may be used to communicate information about sex, age, health, and social status.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Captive_N._bengalensis_from_Laos_with_6-week_baby.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sorex-palustris",
+  "name": "American water shrew",
+  "scientificName": "Sorex palustris",
+  "wikibase_item": "Q2043191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2043191",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American water shrew or northern water shrew is a shrew found in the nearctic faunal region located throughout the mountain ranges of the northern United States and in Canada and Alaska. The organism resides in semi-aquatic habitats, and is known for being the smallest mammalian diver.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Water_shrew_on_Pebble_Creek_%2827952099349%29_%28cropped%29.jpg"
+}

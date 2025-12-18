@@ -1,0 +1,25 @@
+{
+  "id": "craseonycteris-thonglongyai",
+  "name": "Kitti's hog-nosed bat",
+  "scientificName": "Craseonycteris thonglongyai",
+  "wikibase_item": "Q370965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10750723,
+      "id": "Q10750723"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q370965",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kitti's_hog-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kitti's hog-nosed bat, also known as the bumblebee bat or hog-nosed bat, is a near-threatened species of bat and the only extant member of the family Craseonycteridae. It occurs in western Thailand and southeast Myanmar, where it occupies limestone caves along rivers.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Craseonycteris_thonglongyai.png"
+}

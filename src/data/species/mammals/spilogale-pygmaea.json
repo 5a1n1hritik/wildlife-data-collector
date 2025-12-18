@@ -1,0 +1,25 @@
+{
+  "id": "spilogale-pygmaea",
+  "name": "Pygmy spotted skunk",
+  "scientificName": "Spilogale pygmaea",
+  "wikibase_item": "Q243939",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1154492,
+      "id": "Q1154492"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q243939",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_spotted_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy spotted skunk is a species of mammal in the family Mephitidae. It is endemic to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pygmy_Spotted_Skunk_area.png"
+}

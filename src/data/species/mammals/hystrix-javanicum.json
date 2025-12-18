@@ -1,0 +1,22 @@
+{
+  "id": "hystrix-javanicum",
+  "name": "Hystrix javanicum",
+  "scientificName": "Hystrix javanicum",
+  "wikibase_item": "Q40485386",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650703,
+      "id": "Q650703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40485386"
+  },
+  "lastUpdated": "2025-12-17"
+}

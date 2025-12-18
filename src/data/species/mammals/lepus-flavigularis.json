@@ -1,0 +1,25 @@
+{
+  "id": "lepus-flavigularis",
+  "name": "Lepus flavigularis",
+  "scientificName": "Lepus flavigularis",
+  "wikibase_item": "Q664472",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q664472",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tehuantepec_jackrabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tehuantepec jackrabbit is a medium-sized species of hare in the family Leporidae that is endemic to eastern Oaxaca, Mexico. It exists in three separated populations, living on grassy dunes and savannas, and is herbivorous, mainly eating grasses. It is not territorial. Most active at night, it will feed for most of the time and occasionally groom or socialize with other hares, spending the daytime resting on beds of grass or shrubs, or under nopales. They are polygynous and breed for most of the year, from February to December, producing one to four young per breeding season. Predators include snakes, dogs, cats, coyotes, and gray foxes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lepus_flavigularis_2.jpg"
+}

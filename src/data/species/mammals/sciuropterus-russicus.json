@@ -1,0 +1,22 @@
+{
+  "id": "sciuropterus-russicus",
+  "name": "Sciuropterus russicus",
+  "scientificName": "Sciuropterus russicus",
+  "wikibase_item": "Q121504661",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 66588680,
+      "id": "Q66588680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121504661"
+  },
+  "lastUpdated": "2025-12-17"
+}

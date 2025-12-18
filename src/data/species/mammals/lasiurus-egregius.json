@@ -1,0 +1,25 @@
+{
+  "id": "lasiurus-egregius",
+  "name": "big red bat",
+  "scientificName": "Lasiurus egregius",
+  "wikibase_item": "Q305703",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715340,
+      "id": "Q19715340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305703",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_red_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big red bat is a species of vesper bat from South and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lasiurus_egregius_map.svg/500px-Lasiurus_egregius_map.svg.png"
+}

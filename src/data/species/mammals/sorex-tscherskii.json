@@ -1,0 +1,22 @@
+{
+  "id": "sorex-tscherskii",
+  "name": "Sorex tscherskii",
+  "scientificName": "Sorex tscherskii",
+  "wikibase_item": "Q125401304",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125401304"
+  },
+  "lastUpdated": "2025-12-17"
+}

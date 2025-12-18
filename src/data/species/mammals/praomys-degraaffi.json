@@ -1,0 +1,25 @@
+{
+  "id": "praomys-degraaffi",
+  "name": "De Graaff's soft-furred mouse",
+  "scientificName": "Praomys degraaffi",
+  "wikibase_item": "Q1763815",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763815",
+    "wikipedia": "https://en.wikipedia.org/wiki/De_Graaff's_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "De Graaff's soft-furred mouse is a species of rodent in the family Muridae. It is found in Burundi, Rwanda, and Uganda. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss.",
+  "image": null
+}

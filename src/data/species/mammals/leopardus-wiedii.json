@@ -1,0 +1,25 @@
+{
+  "id": "leopardus-wiedii",
+  "name": "margay",
+  "scientificName": "Leopardus wiedii",
+  "wikibase_item": "Q192421",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q192421",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margay"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The margay is a small wild cat native to Mexico, Central and South America. A solitary and nocturnal felid, it lives mainly in primary evergreen and deciduous forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Margay_in_Costa_Rica.jpg"
+}

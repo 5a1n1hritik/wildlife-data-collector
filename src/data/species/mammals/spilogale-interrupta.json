@@ -1,0 +1,25 @@
+{
+  "id": "spilogale-interrupta",
+  "name": "Spilogale interrupta",
+  "scientificName": "Spilogale interrupta",
+  "wikibase_item": "Q108800477",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1154492,
+      "id": "Q1154492"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108800477",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Spotted skunks are species of skunk belonging to the genus Spilogale.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Spotted_Skunk_areas.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nyctinomus-sarasinorum",
+  "name": "Nyctinomus sarasinorum",
+  "scientificName": "Nyctinomus sarasinorum",
+  "wikibase_item": "Q109647395",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24268903,
+      "id": "Q24268903"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647395"
+  },
+  "lastUpdated": "2025-12-17"
+}

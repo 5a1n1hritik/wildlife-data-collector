@@ -1,0 +1,25 @@
+{
+  "id": "eonycteris-robusta",
+  "name": "Philippine Dawn Bat",
+  "scientificName": "Eonycteris robusta",
+  "wikibase_item": "Q260863",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 890680,
+      "id": "Q890680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q260863",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippine_dawn_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Philippine dawn bat is a species of megabat in the family Pteropodidae found in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Philippine_Dawn_Bat_area.png"
+}

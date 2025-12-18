@@ -1,0 +1,25 @@
+{
+  "id": "galagoides-demidoff",
+  "name": "Galagoides demidoff",
+  "scientificName": "Galagoides demidoff",
+  "wikibase_item": "Q28156612",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3094482,
+      "id": "Q3094482"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28156612",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_Demidoff's_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Prince Demidoff's bushbaby, also known as Prince Demidoff's galago, is a species of primate in the family Galagidae. It is native to parts of tropical West and Central Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Galago_demidoff.jpg"
+}

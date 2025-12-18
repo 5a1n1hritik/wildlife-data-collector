@@ -1,0 +1,25 @@
+{
+  "id": "sorex-arizonae",
+  "name": "Arizona shrew",
+  "scientificName": "Sorex arizonae",
+  "wikibase_item": "Q1768621",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768621",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arizona_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arizona shrew is a species of shrew native to North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arizona_Shrew_area.png"
+}

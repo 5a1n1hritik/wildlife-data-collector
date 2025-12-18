@@ -1,0 +1,22 @@
+{
+  "id": "amphicyon-palaeindicus",
+  "name": "Amphicyon palaeindicus",
+  "scientificName": "Amphicyon palaeindicus",
+  "wikibase_item": "Q55593524",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139110,
+      "id": "Q139110"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55593524"
+  },
+  "lastUpdated": "2025-12-17"
+}

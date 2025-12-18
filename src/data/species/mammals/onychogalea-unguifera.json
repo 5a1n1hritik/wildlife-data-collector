@@ -1,0 +1,25 @@
+{
+  "id": "onychogalea-unguifera",
+  "name": "Onychogalea unguifera",
+  "scientificName": "Onychogalea unguifera",
+  "wikibase_item": "Q112941",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 429799,
+      "id": "Q429799"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112941",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_nail-tail_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern or sandy nail-tail wallaby is a species of macropod found across northern Australia on arid and sparsely wooded plains. The largest species of the genus Onychogalea, it is a solitary and nocturnal herbivorous browser that selects its food from a wide variety of grasses and succulent plant material. Distinguished by a slender and long-limbed form that resembles the typical and well known kangaroos, although their standing height is shorter, around half of one metre, and their weight is less than nine kilograms. As with some medium to large kangaroo species, such as Osphranter rufus, they have an unusual pentapedal motion at slow speeds by stiffening the tail for a fifth limb. When fleeing a disturbance, they hop rapidly with the tail curled back and repeatedly utter the sound \"wuluhwuluh\". Their exceptionally long tail has a broad fingernail-like protuberance beneath a dark crest of hair at its end, a peculiarity of the genus that is much broader than the other species. The name unguifera, meaning claw, is a reference to this extraordinary attribute, the purpose of which is unknown.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Northern_Nail-tail_Wallaby_Featherdale.jpg"
+}

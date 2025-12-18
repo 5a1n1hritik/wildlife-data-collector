@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-aestuans",
+  "name": "Brazilian squirrel",
+  "scientificName": "Sciurus aestuans",
+  "wikibase_item": "Q582376",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q582376",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brazilian squirrel, or Guianan squirrel, is a species of tree squirrel endemic to South America. It is found in south-eastern Colombia, Brazil, Guyana, French Guiana, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Caxinguele_%28Sciurus_aestuans%29.jpg"
+}

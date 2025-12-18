@@ -1,0 +1,25 @@
+{
+  "id": "millardia-meltada",
+  "name": "soft-furred rat",
+  "scientificName": "Millardia meltada",
+  "wikibase_item": "Q603547",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 472755,
+      "id": "Q472755"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q603547",
+    "wikipedia": "https://en.wikipedia.org/wiki/Soft-furred_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The soft-furred rat, or soft-furred metad, is a species of rodent in the family Muridae native to South Asia.",
+  "image": null
+}

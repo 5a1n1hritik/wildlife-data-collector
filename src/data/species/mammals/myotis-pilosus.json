@@ -1,0 +1,25 @@
+{
+  "id": "myotis-pilosus",
+  "name": "Myotis pilosus",
+  "scientificName": "Myotis pilosus",
+  "wikibase_item": "Q28175071",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28175071",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rickett's_big-footed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rickett's big-footed bat is a species of vesper bat. It can be found in southern and eastern China, Vietnam, and Laos. This species has often been called Myotis ricketti, but the older M. pilosus has priority. The erroneous reporting of the type locality as being in Uruguay by Wilhelm Peters led to the dual naming.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Myotis_pilosus_distribution.png"
+}

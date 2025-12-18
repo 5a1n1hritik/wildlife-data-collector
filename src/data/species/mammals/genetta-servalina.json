@@ -1,0 +1,25 @@
+{
+  "id": "genetta-servalina",
+  "name": "Servaline genet",
+  "scientificName": "Genetta servalina",
+  "wikibase_item": "Q43211",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43211",
+    "wikipedia": "https://en.wikipedia.org/wiki/Servaline_genet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The servaline genet is a genet species native to Central Africa. As it is widely distributed and considered common, it is listed as Least Concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Servaline_Genet.jpg"
+}

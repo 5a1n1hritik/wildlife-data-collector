@@ -1,0 +1,25 @@
+{
+  "id": "petrogale-persephone",
+  "name": "Proserpine rock-wallaby",
+  "scientificName": "Petrogale persephone",
+  "wikibase_item": "Q209322",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209322",
+    "wikipedia": "https://en.wikipedia.org/wiki/Proserpine_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Proserpine rock-wallaby is a species of rock-wallaby restricted to a small area in Conway National Park, Dryander National Park, Gloucester Island National Park, and around the town of Airlie Beach, all in Whitsunday Shire in Queensland, Australia. The name is the Greek myth of Persephone,, as well as from the location they were discovered. With its mythological background, the name symbolizes the fortuitous finding of the species at the beginning of spring and the restoration of knowledge of the species to mankind. In 1992 the species was listed as Endangered under the Endangered Species Protection Act, and in 1999, the Proserpine rock-wallaby was once again listed as 'Endangered' under the Commonwealth Environmental Protection and Biodiversity Conservation Act (EPBC), which became effective on June 16th, 2000. It was most recently assessed by the IUCN in 2015 with it listing as endangered under criteria B1ab(iii,v).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Proserpine_Rock_Wallaby_area.png"
+}

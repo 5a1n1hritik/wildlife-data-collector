@@ -1,0 +1,25 @@
+{
+  "id": "niviventer-excelsior",
+  "name": "Large white-bellied rat",
+  "scientificName": "Niviventer excelsior",
+  "wikibase_item": "Q1764214",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764214",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large white-bellied rat, also known as the Sichuan niviventer, is a species of rodent in the family Muridae.\nIt is found only in southwestern China. It occurs in Jiuzhaigou National Nature Reserve of Sichuan, southwestern Sichuan, northwestern Yunnan, and the Ailao Mountains of Yunnan.",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "spalacotherium-minus",
+  "name": "Spalacotherium minus",
+  "scientificName": "Spalacotherium minus",
+  "wikibase_item": "Q41168038",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41158246,
+      "id": "Q41158246"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168038"
+  },
+  "lastUpdated": "2025-12-17"
+}

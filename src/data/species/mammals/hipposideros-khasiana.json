@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-khasiana",
+  "name": "Hipposideros khasiana",
+  "scientificName": "Hipposideros khasiana",
+  "wikibase_item": "Q2426139",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2426139",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khasian_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Khasian leaf-nosed bat is a species of bat in the family Hipposideridae. It is endemic to Meghalaya, India. It is a cave-dwelling bat.",
+  "image": null
+}

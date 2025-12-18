@@ -1,0 +1,22 @@
+{
+  "id": "spirocerus-kiakhtensis",
+  "name": "Spirocerus kiakhtensis",
+  "scientificName": "Spirocerus kiakhtensis",
+  "wikibase_item": "Q55349269",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 55349240,
+      "id": "Q55349240"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55349269"
+  },
+  "lastUpdated": "2025-12-17"
+}

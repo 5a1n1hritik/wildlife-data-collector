@@ -1,0 +1,25 @@
+{
+  "id": "taeromys-arcuatus",
+  "name": "Salokko Rat",
+  "scientificName": "Taeromys arcuatus",
+  "wikibase_item": "Q944072",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135072,
+      "id": "Q135072"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q944072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salokko_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Salokko rat is a species of rodent in the family Muridae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Taeromys_arcuatus_distribution.png"
+}

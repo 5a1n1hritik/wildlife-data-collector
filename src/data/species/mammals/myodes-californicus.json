@@ -1,0 +1,25 @@
+{
+  "id": "myodes-californicus",
+  "name": "Western Red-Backed Vole",
+  "scientificName": "Myodes californicus",
+  "wikibase_item": "Q1765549",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765549",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_red-backed_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western red-backed vole is a species of vole in the family Cricetidae. It is found in California and Oregon in the United States and lives mainly in coniferous forest. The body color is chestnut brown, or brown mixed with a considerable quantity of black hair gradually lightening on the sides and grading into a buffy-gray belly, with an indistinct reddish stripe on the back and a bicolored tail about half as long as the head and body.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Myodes_californicus.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "plagiodontia-spelaeum",
+  "name": "Plagiodontia spelaeum",
+  "scientificName": "Plagiodontia spelaeum",
+  "wikibase_item": "Q21305869",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140424,
+      "id": "Q140424"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21305869"
+  },
+  "lastUpdated": "2025-12-17"
+}

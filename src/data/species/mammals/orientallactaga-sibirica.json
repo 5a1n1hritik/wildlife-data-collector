@@ -1,0 +1,22 @@
+{
+  "id": "orientallactaga-sibirica",
+  "name": "Orientallactaga sibirica",
+  "scientificName": "Orientallactaga sibirica",
+  "wikibase_item": "Q125896801",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125897110,
+      "id": "Q125897110"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125896801"
+  },
+  "lastUpdated": "2025-12-17"
+}

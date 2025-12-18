@@ -1,0 +1,25 @@
+{
+  "id": "plecotus-turkmenicus",
+  "name": "Plecotus turkmenicus",
+  "scientificName": "Plecotus turkmenicus",
+  "wikibase_item": "Q2470083",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2470083",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turkmen_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Turkmen long-eared bat is a species of bat in the family Vespertilionidae. It is found in Kazakhstan, Uzbekistan and Turkmenistan, and possibly Mongolia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Distribution_of_Plecotus_turkmenicus.png"
+}

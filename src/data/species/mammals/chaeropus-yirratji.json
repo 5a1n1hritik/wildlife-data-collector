@@ -1,0 +1,25 @@
+{
+  "id": "chaeropus-yirratji",
+  "name": "Chaeropus yirratji",
+  "scientificName": "Chaeropus yirratji",
+  "wikibase_item": "Q62696781",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10745316,
+      "id": "Q10745316"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62696781",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_pig-footed_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern pig-footed bandicoot was a small species of extinct herbivorous Australian marsupial in the genus Chaeropus, the pig-footed bandicoots. It has been believed to be extinct since the mid-20th century; the last confirmed observation was a specimen collected near Alice Springs in 1901, but reports from local Aborigines indicate that it may have survived in the Gibson and Great Sandy Deserts as late as the 1950s.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mus_Nat_Hist_Nat_25022013_Chaeropus_ecaudatus.jpg"
+}

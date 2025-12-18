@@ -1,0 +1,25 @@
+{
+  "id": "eidolon-helvum",
+  "name": "straw-coloured fruit bat",
+  "scientificName": "Eidolon helvum",
+  "wikibase_item": "Q33108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26347,
+      "id": "Q26347"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q33108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Straw-coloured_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The straw-coloured fruit bat is a large fruit bat that is the most widely distributed of all the African megabats. It is quite common throughout its area ranging from the southwestern Arabian Peninsula, across forest and savanna zones of sub-Saharan Africa. It is listed as Near Threatened on the IUCN Red List due to a decreasing population trend. Straw-coloured fruit bats travel in massive colonies of at least 100,000 bats and sometimes massing up to 1 million. From October to end of December every year, in the largest migration of mammals on the planet, up to 10 million straw-coloured fruit bats congregate in Kasanka National Park, Zambia, roosting in a 2 hectares area of Mushitu forest each day. This migration was only discovered in 1980. Their necks and backs are a yellowish-brown colour, while their undersides are tawny olive or brownish.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Eidolon_helvum_fg01.JPG"
+}

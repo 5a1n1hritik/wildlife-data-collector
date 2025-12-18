@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-cornutus",
+  "name": "little Japanese horseshoe bat",
+  "scientificName": "Rhinolophus cornutus",
+  "wikibase_item": "Q1767170",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767170",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_Japanese_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little Japanese horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Japan and possibly China. Its natural habitat is temperate forests. As of 2012, it had not yet been assessed for the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Naturalis_Biodiversity_Center_-_RMNH.MAM.20927.b_ven_-_Rhinolophus_cornutus_-_skin.jpeg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "akodon-montensis",
+  "name": "Montane grass mouse",
+  "scientificName": "Akodon montensis",
+  "wikibase_item": "Q1761048",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761048",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_grass_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane grass mouse is a rodent species from South America. It is found in Argentina, Brazil, Paraguay and Uruguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Akodon_montensis.jpg"
+}

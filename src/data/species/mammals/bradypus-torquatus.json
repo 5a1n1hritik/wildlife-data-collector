@@ -1,0 +1,25 @@
+{
+  "id": "bradypus-torquatus",
+  "name": "maned sloth",
+  "scientificName": "Bradypus torquatus",
+  "wikibase_item": "Q301051",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185167,
+      "id": "Q185167"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301051",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_maned_sloth"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern maned sloth is a three-toed sloth that is native to South America. It is one of four species of three-toed sloths belonging to the suborder Xenarthra and are placental mammals. They are endemic to the Atlantic coastal rainforest of southeastern and northeastern Brazil, located in the states of Espírito Santo, Rio de Janeiro and Bahia. Each of the individuals within the species are genetically distinct with different genetic makeup.The maned sloth is listed under Endangered (EN) according to the IUCN Red List and have a decreasing population trend.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bradypus_torquatus_47880976.jpg"
+}

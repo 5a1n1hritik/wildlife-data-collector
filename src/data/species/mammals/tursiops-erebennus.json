@@ -1,0 +1,25 @@
+{
+  "id": "tursiops-erebennus",
+  "name": "Tursiops erebennus",
+  "scientificName": "Tursiops erebennus",
+  "wikibase_item": "Q121222034",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149069,
+      "id": "Q149069"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121222034",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamanend's_bottlenose_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tamanend's bottlenose dolphin is a species of bottlenose dolphin that inhabits coastal waters in the eastern United States. This species was previously considered a nearshore variant of the common bottlenose dolphin Tursiops truncatus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tamanend%27s_bottlenose_dolphin.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "melomys-australius",
+  "name": "Melomys australius",
+  "scientificName": "Melomys australius",
+  "wikibase_item": "Q41005292",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41005292"
+  },
+  "lastUpdated": "2025-12-17"
+}

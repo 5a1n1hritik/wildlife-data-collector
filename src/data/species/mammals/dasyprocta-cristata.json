@@ -1,0 +1,25 @@
+{
+  "id": "dasyprocta-cristata",
+  "name": "Crested agouti",
+  "scientificName": "Dasyprocta cristata",
+  "wikibase_item": "Q1770388",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770388",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crested_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crested agouti is a species of rodent in the family Dasyproctidae. Found in Guyana and Suriname. Its taxonomic status is uncertain and it may be synonymous with Dasyprocta leporina, leading the IUCN to rate it as Data Deficient.",
+  "image": null
+}

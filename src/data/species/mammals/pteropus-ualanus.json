@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-ualanus",
+  "name": "Pteropus ualanus",
+  "scientificName": "Pteropus ualanus",
+  "wikibase_item": "Q1766172",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766172",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kosrae_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kosrae flying fox is a species of megabat in the genus Pteropus found on the island of Kosrae, Micronesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Naturalis_Biodiversity_Center_-_RMNH.MAM.37821_ven_-_Pteropus_ualanus_-_skin.jpeg"
+}

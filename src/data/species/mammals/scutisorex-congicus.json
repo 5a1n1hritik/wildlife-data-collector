@@ -1,0 +1,22 @@
+{
+  "id": "scutisorex-congicus",
+  "name": "Scutisorex congicus",
+  "scientificName": "Scutisorex congicus",
+  "wikibase_item": "Q41088258",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10819100,
+      "id": "Q10819100"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088258"
+  },
+  "lastUpdated": "2025-12-17"
+}

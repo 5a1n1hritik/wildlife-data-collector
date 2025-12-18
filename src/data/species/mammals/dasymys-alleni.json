@@ -1,0 +1,25 @@
+{
+  "id": "dasymys-alleni",
+  "name": "Glover Allen's dasymys",
+  "scientificName": "Dasymys alleni",
+  "wikibase_item": "Q1765937",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765937",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glover_Allen's_dasymys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Glover Allen's dasymys is a species of shaggy marsh rat described in 1953, and indigenous to Mount Rungwe in south-western Tanzania. Contemporary studies of the taxonomy diverge, with the International Union for Conservation of Nature recognising D. alleni as a subspecies of the more widespread D. incomtus, whereas Wilson and Reeder observe the reinstatement of the species as unique in Mammal Species of the World. In their recent analysis, Verheyen et al. describe the distribution of D. alleni as encompassing the Eastern Arc Mountains and the mountainous, volcanic regions around Lake Tanganyika, and potentially the Marungu highlands, in the Democratic Republic of the Congo.",
+  "image": null
+}

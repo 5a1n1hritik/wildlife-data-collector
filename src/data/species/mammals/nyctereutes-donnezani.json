@@ -1,0 +1,25 @@
+{
+  "id": "nyctereutes-donnezani",
+  "name": "Nyctereutes donnezani",
+  "scientificName": "Nyctereutes donnezani",
+  "wikibase_item": "Q7071002",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2900104,
+      "id": "Q2900104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7071002",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyctereutes_donnezani"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nyctereutes donnezani is an extinct relative of the raccoon dog. It has been found in Spain, Poland, Greece, and Turkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nyctereutes_donnezani.png"
+}

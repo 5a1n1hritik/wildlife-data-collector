@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-montis",
+  "name": "Montane White-toothed Shrew",
+  "scientificName": "Crocidura montis",
+  "wikibase_item": "Q1766068",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766068",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane white-toothed shrew is a species of mammal in the family Soricidae. It is found in Kenya, South Sudan, Tanzania, and Uganda. Its natural habitats are subtropical or tropical moist montane forest and subtropical or tropical seasonally wet or flooded lowland grassland. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Montane_White-toothed_Shrew_area.png"
+}

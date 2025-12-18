@@ -1,0 +1,22 @@
+{
+  "id": "phascogale-godmani",
+  "name": "Phascogale godmani",
+  "scientificName": "Phascogale godmani",
+  "wikibase_item": "Q41086978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754387,
+      "id": "Q1754387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41086978"
+  },
+  "lastUpdated": "2025-12-17"
+}

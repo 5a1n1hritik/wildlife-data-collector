@@ -1,0 +1,25 @@
+{
+  "id": "gracilinanus-perijae",
+  "name": "Colombian gracile mouse opossum",
+  "scientificName": "Gracilinanus perijae",
+  "wikibase_item": "Q5147955",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311603,
+      "id": "Q311603"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5147955",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_gracile_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern gracile opossum is a species of opossum in the family Didelphidae. It is found in Colombia and Venezuela. G. marica naturally occurs in subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Northern_Gracile_Mouse_Opossum_area.png"
+}

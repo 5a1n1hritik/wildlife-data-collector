@@ -1,0 +1,22 @@
+{
+  "id": "lycaon-africanus",
+  "name": "Lycaon africanus",
+  "scientificName": "Lycaon africanus",
+  "wikibase_item": "Q40503252",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12061410,
+      "id": "Q12061410"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40503252"
+  },
+  "lastUpdated": "2025-12-17"
+}

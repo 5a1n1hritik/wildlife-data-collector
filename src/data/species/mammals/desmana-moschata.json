@@ -1,0 +1,25 @@
+{
+  "id": "desmana-moschata",
+  "name": "Russian Desman",
+  "scientificName": "Desmana moschata",
+  "wikibase_item": "Q381760",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15114089,
+      "id": "Q15114089"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q381760",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russian_desman"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Russian desman is a small semiaquatic mammal that inhabits the Volga, Don and Ural River basins in Russia. Some authorities, citing old Soviet sources, claim the animal can be found in Eastern Ukraine and Northern Kazakhstan, but, as of 2020, the accuracy of such claims is disputed. It constructs burrows into the banks of ponds and slow-moving streams, but prefers small, overgrown ponds with abundance of insects, crayfish and amphibians. The Russian desman often lives in small groups of two to five animals, that are usually not related, and appears to have a complex communication and social system.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Desmana_moschata_MHNT.INS.10.jpg"
+}

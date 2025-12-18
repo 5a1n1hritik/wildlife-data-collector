@@ -1,0 +1,22 @@
+{
+  "id": "cheirogaleus-trichotis",
+  "name": "Cheirogaleus trichotis",
+  "scientificName": "Cheirogaleus trichotis",
+  "wikibase_item": "Q122227133",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608001,
+      "id": "Q608001"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122227133"
+  },
+  "lastUpdated": "2025-12-17"
+}

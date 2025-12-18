@@ -1,0 +1,25 @@
+{
+  "id": "haeromys-margarettae",
+  "name": "Ranee Mouse",
+  "scientificName": "Haeromys margarettae",
+  "wikibase_item": "Q304017",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244057,
+      "id": "Q244057"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304017",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ranee_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ranee mouse is a species of rodent in the family Muridae.\nIt is restricted to the island of Borneo, in the provinces of Sarawak (Malaysia) and Sabah (Malaysia). Its natural habitat is subtropical or tropical dry forests.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "oxymycterus-hiska",
+  "name": "Small Hocicudo",
+  "scientificName": "Oxymycterus hiska",
+  "wikibase_item": "Q1764225",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764225",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_hocicudo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small hocicudo is a little known species of rodent in the family Cricetidae.\nIt is found in Bolivia and Peru on the eastern slopes of the Andes.",
+  "image": null
+}

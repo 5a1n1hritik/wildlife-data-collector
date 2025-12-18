@@ -1,0 +1,25 @@
+{
+  "id": "ursus-thibetanus",
+  "name": "Ursus thibetanus",
+  "scientificName": "Ursus thibetanus",
+  "wikibase_item": "Q124410",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124410",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_black_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian black bear, also known as the Asiatic black bear, moon bear and white-chested bear, is a medium-sized bear species native to Asia that is largely adapted to an arboreal lifestyle. It is distributed from southeastern Iran, Pakistan, India and the Himalayas to mainland Southeast Asia, the Korean Peninsula, Taiwan, mainland China and the Russian Far East to the islands of Honshū and Shikoku in Japan. It is listed as vulnerable on the IUCN Red List, and is threatened by deforestation and poaching for its body parts, which are used in traditional medicine.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "natalus-jamaicensis",
+  "name": "Natalus jamaicensis",
+  "scientificName": "Natalus jamaicensis",
+  "wikibase_item": "Q2550419",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2420687,
+      "id": "Q2420687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2550419",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamaican_greater_funnel-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Jamaican greater funnel-eared bat is a species of funnel-eared bat endemic to Jamaica. Initially described as the subspecies Natalus major jamaicensis and later as a subspecies of Natalus stramineus, it has since been recognized as its own distinct species. Similar in appearance to other members of the genus Natalus, this bat resides exclusively in St. Clair Cave, Jamaica, where it feeds on insects.",
+  "image": null
+}

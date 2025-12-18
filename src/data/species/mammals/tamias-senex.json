@@ -1,0 +1,25 @@
+{
+  "id": "tamias-senex",
+  "name": "Tamias senex",
+  "scientificName": "Tamias senex",
+  "wikibase_item": "Q1767770",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767770",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen's_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Allen's chipmunk, also known as the shadow chipmunk, is a species of chipmunk native to the western United States. Occurring in California, Oregon, and Nevada, it is a common species of the Sierra Nevada.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Allen%E2%80%99s_chipmunk_near_Lake_Almanor-2326.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-angeli",
+  "name": "Sturnira angeli",
+  "scientificName": "Sturnira angeli",
+  "wikibase_item": "Q21377094",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21377094",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturnira_angeli"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sturnira angeli, also known as the Guadeloupe yellow-shouldered bat or Angel's yellow-shouldered bat, is a species of bat in the family Phyllostomidae. It is endemic to the Lesser Antilles. As of 2018 it is listed as near threatened by the IUCN.",
+  "image": null
+}

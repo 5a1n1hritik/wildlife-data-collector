@@ -1,0 +1,25 @@
+{
+  "id": "myotis-macropus",
+  "name": "Myotis macropus",
+  "scientificName": "Myotis macropus",
+  "wikibase_item": "Q3869104",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3869104",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myotis_macropus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-footed myotis, also known as the southern myotis, is a species of vesper bat (Vespertilionidae) in the genus Myotis. It is one of only two Australian \"fishing\" bats and feeds by trawling its specially adapted feet along the water's surface for aquatic invertebrates and fish.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Myotis_macropus_roosting.JPG"
+}

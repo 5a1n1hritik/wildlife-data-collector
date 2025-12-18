@@ -1,0 +1,25 @@
+{
+  "id": "microhydromys-musseri",
+  "name": "Musser's Shrew Mouse",
+  "scientificName": "Microhydromys musseri",
+  "wikibase_item": "Q1761205",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136384,
+      "id": "Q136384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761205",
+    "wikipedia": "https://en.wikipedia.org/wiki/Musser's_shrew_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Musser's shrew mouse is a species of rodent in the family Muridae. It is found only in Papua New Guinea. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": null
+}

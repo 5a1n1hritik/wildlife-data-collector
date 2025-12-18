@@ -1,0 +1,25 @@
+{
+  "id": "tamias-sonomae",
+  "name": "Tamias sonomae",
+  "scientificName": "Tamias sonomae",
+  "wikibase_item": "Q517630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q517630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonoma_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sonoma chipmunk is a species of rodent in the squirrel family Sciuridae. It is endemic to northwestern California in the United States. Members of Neotamias are characterized by having two premolars. N. sonomae has two subspecies: N. s. alleni and N. s. sonomae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sonoma_chipmunk_at_Samuel_P._Taylor_State_Park.jpg"
+}

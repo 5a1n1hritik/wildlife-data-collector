@@ -1,0 +1,22 @@
+{
+  "id": "marmota-sp.",
+  "name": "Marmota sp.",
+  "scientificName": "Marmota sp.",
+  "wikibase_item": "Q41084796",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131567,
+      "id": "Q131567"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084796"
+  },
+  "lastUpdated": "2025-12-17"
+}

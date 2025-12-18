@@ -1,0 +1,22 @@
+{
+  "id": "trachops-ehrhardti",
+  "name": "Trachops ehrhardti",
+  "scientificName": "Trachops ehrhardti",
+  "wikibase_item": "Q128052855",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10827756,
+      "id": "Q10827756"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128052855"
+  },
+  "lastUpdated": "2025-12-17"
+}

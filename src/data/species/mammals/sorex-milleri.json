@@ -1,0 +1,25 @@
+{
+  "id": "sorex-milleri",
+  "name": "Carmen Mountain shrew",
+  "scientificName": "Sorex milleri",
+  "wikibase_item": "Q935109",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q935109",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmen_Mountain_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Carmen Mountain shrew is a species of mammal in the family Soricidae. It is endemic to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Carmen_Mountain_Shrew_area.png"
+}

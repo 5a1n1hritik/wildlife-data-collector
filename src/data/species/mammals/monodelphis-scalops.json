@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-scalops",
+  "name": "Long-nosed short-tailed opossum",
+  "scientificName": "Monodelphis scalops",
+  "wikibase_item": "Q194491",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194491",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_short-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed short-tailed opossum is an opossum species in Argentina and Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Mododelphis_scalops2.png"
+}

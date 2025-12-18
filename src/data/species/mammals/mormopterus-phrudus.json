@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-phrudus",
+  "name": "Incan little mastiff bat",
+  "scientificName": "Mormopterus phrudus",
+  "wikibase_item": "Q1831588",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831588",
+    "wikipedia": "https://en.wikipedia.org/wiki/Incan_little_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Incan little mastiff bat is a species of bat in the family Molossidae, the free-tailed bats. It belongs to the subgenus Micronomus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mormopterus_phrudus_map.svg/960px-Mormopterus_phrudus_map.svg.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nycteris-poensis",
+  "name": "Nycteris poensis",
+  "scientificName": "Nycteris poensis",
+  "wikibase_item": "Q40538092",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40538092"
+  },
+  "lastUpdated": "2025-12-17"
+}

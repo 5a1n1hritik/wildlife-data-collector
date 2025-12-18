@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-larvatus",
+  "name": "Hipposideros larvatus",
+  "scientificName": "Hipposideros larvatus",
+  "wikibase_item": "Q1766387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766387",
+    "wikipedia": "https://en.wikipedia.org/wiki/Intermediate_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The intermediate roundleaf bat is a species of bat in the family Hipposideridae. It is found in Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Thailand, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hippos_larvat_080116-3505_hurn.JPG"
+}

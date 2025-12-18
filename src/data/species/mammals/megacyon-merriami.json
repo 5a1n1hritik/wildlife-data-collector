@@ -1,0 +1,25 @@
+{
+  "id": "megacyon-merriami",
+  "name": "Megacyon merriami",
+  "scientificName": "Megacyon merriami",
+  "wikibase_item": "Q3853916",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21368805,
+      "id": "Q21368805"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3853916",
+    "wikipedia": "https://en.wikipedia.org/wiki/Megacyon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Megacyon merriami, or Merriam's dog, was a prehistoric canid that lived on the island of Java in Indonesia during the Early Pleistocene. Its scientific name means \"Merriam's large dog\".",
+  "image": null
+}

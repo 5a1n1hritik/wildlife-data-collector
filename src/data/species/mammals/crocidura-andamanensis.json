@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-andamanensis",
+  "name": "Andaman shrew",
+  "scientificName": "Crocidura andamanensis",
+  "wikibase_item": "Q1768255",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768255",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andaman_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andaman shrew, also known as the Andaman white-toothed shrew, is a critically endangered species of mammal in the family Soricidae. It is endemic to South Andaman Island in the Andaman Islands of India.",
+  "image": null
+}

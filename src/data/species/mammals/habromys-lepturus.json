@@ -1,0 +1,25 @@
+{
+  "id": "habromys-lepturus",
+  "name": "Zempoaltepec deermouse",
+  "scientificName": "Habromys lepturus",
+  "wikibase_item": "Q307354",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135906,
+      "id": "Q135906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307354",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zempoaltepec_deer_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zempoaltepec deer mouse also known as the slender-tailed deer mouse, is a species of rodent in the family Cricetidae.",
+  "image": null
+}

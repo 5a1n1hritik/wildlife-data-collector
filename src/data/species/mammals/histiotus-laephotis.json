@@ -1,0 +1,25 @@
+{
+  "id": "histiotus-laephotis",
+  "name": "Thomas's big-eared brown bat",
+  "scientificName": "Histiotus laephotis",
+  "wikibase_item": "Q1822785",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225886,
+      "id": "Q225886"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1822785",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_big-eared_brown_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's big-eared brown bat is a species of vesper bat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Histiotus_laephotis_1150264.jpg"
+}

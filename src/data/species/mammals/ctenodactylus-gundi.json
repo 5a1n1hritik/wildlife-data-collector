@@ -1,0 +1,25 @@
+{
+  "id": "ctenodactylus-gundi",
+  "name": "Common gundi",
+  "scientificName": "Ctenodactylus gundi",
+  "wikibase_item": "Q1028802",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 899455,
+      "id": "Q899455"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1028802",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_gundi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common gundi is a species of rodent in the family Ctenodactylidae. It is found in Algeria, Libya, Morocco, and Tunisia. The parasitic organism Toxoplasma gondii was first described in 1908 in Tunis by Charles Nicolle and Louis Manceaux within the tissues of the gundi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Gundi_Ctenodactylus_gundi_051117_2.jpg"
+}

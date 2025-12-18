@@ -1,0 +1,25 @@
+{
+  "id": "macroscelides-proboscideus",
+  "name": "Macroscelides proboscideus",
+  "scientificName": "Macroscelides proboscideus",
+  "wikibase_item": "Q1130566",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10789403,
+      "id": "Q10789403"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1130566",
+    "wikipedia": "https://en.wikipedia.org/wiki/Macroscelides_proboscideus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The round-eared elephant shrew or round-eared sengi, is a species of elephant shrew (sengi) in the family Macroscelididae. It is found in Botswana, Namibia, and South Africa. Its natural habitats are subtropical or tropical dry shrubland, and grassland, and hot deserts. They eat insects, shoots, and roots. Their gestation period is 56 days.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Macroscelides_proboscideus_2.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "akodon-alterus",
+  "name": "Akodon alterus",
+  "scientificName": "Akodon alterus",
+  "wikibase_item": "Q40978702",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40978702",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akodon_spegazzinii"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Akodon spegazzinii, also known as Spegazzini's akodont or Spegazzini's grass mouse, is a rodent in the genus Akodon found in northwestern Argentina. It occurs in grassland and forest at 400 to 3,500 m above sea level. After the species was first named in 1897, several other names were given to various populations now included in A. spegazzinii. They are now all recognized as part of a single, widespread and variable species. Akodon spegazzinii is related to Akodon boliviensis and other members of the A. boliviensis species group. It reproduces year-round. Because it is widely distributed and common, Akodon spegazzinii is listed as \"least concern\" on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akodon_spegazzinii_distribution.svg/500px-Akodon_spegazzinii_distribution.svg.png"
+}

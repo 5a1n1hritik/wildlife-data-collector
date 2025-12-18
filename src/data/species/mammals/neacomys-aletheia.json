@@ -1,0 +1,25 @@
+{
+  "id": "neacomys-aletheia",
+  "name": "Neacomys aletheia",
+  "scientificName": "Neacomys aletheia",
+  "wikibase_item": "Q111203385",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593339,
+      "id": "Q593339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111203385",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neacomys_aletheia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neacomys aletheia, the Upper Juruá bristly mouse, is a species of rodent in the genus Neacomys.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arborimus-pomo",
+  "name": "California red tree mouse",
+  "scientificName": "Arborimus pomo",
+  "wikibase_item": "Q305855",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776246,
+      "id": "Q776246"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305855",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonoma_tree_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sonoma tree vole or California red tree mouse is a species of rodent in the family Cricetidae. The species is found in northwest California.\nThe preferred habitat for this primarily arboreal vole is old-growth Douglas-fir forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sonoma_Tree_Vole%2C_California%2C_US_imported_from_iNaturalist_photo_14508141.jpg"
+}

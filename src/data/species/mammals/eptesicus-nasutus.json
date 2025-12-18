@@ -1,0 +1,25 @@
+{
+  "id": "eptesicus-nasutus",
+  "name": "Eptesicus nasutus",
+  "scientificName": "Eptesicus nasutus",
+  "wikibase_item": "Q302364",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302364",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sind_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sind bat is a species of vesper bat and the only member of the genus Rhyneptesicus. It inhabits forests and arid areas near waterbodies in southwestern Saudi Arabia, Yemen and Oman, around the coast of the Gulf of Oman in southern Iraq and Iran. Isolated populations in southern Pakistan and northwestern Afghanistan occur up to an elevation of 862 m (2,828 ft). Its presence in Bahrain, Qatar and the United Arab Emirates is uncertain.",
+  "image": null
+}

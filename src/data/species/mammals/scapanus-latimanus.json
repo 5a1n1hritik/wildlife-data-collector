@@ -1,0 +1,25 @@
+{
+  "id": "scapanus-latimanus",
+  "name": "Broad-footed mole",
+  "scientificName": "Scapanus latimanus",
+  "wikibase_item": "Q960227",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2091646,
+      "id": "Q2091646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q960227",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-footed_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-footed mole was a former mole species that has since been split into three distinct species in the genus Scapanus:Northern broad-footed mole, Scapanus latimanus, ranging from southern Oregon to central California.\nSouthern broad-footed mole, Scapanus occultus, ranging from southern California to northernmost Baja California, Mexico\nMexican mole, Scapanus anthonyi, found in a small portion of the Sierra de San Pedro Mártir in Baja California, Mexico\n",
+  "image": null
+}

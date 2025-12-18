@@ -1,0 +1,25 @@
+{
+  "id": "proechimys-gorgonae",
+  "name": "Proechimys gorgonae",
+  "scientificName": "Proechimys gorgonae",
+  "wikibase_item": "Q11847131",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11847131",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tome's_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tome's spiny rat, also known as Tomes' spiny rat or the Central American spiny rat, is a species of spiny rat distributed from Honduras to Ecuador. The IUCN has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Proechimys_semispinosus_254496464.jpg"
+}

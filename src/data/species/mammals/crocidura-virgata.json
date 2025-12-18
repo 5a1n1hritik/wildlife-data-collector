@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-virgata",
+  "name": "Mamfe shrew",
+  "scientificName": "Crocidura virgata",
+  "wikibase_item": "Q510925",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q510925",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamfe_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mamfe shrew is a species of mammal in the family Soricidae. It was discovered in 1940, and can be found in Nigeria and Cameroon.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mamfe_Shrew_area.png"
+}

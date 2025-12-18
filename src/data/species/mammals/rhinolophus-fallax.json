@@ -1,0 +1,22 @@
+{
+  "id": "rhinolophus-fallax",
+  "name": "Rhinolophus fallax",
+  "scientificName": "Rhinolophus fallax",
+  "wikibase_item": "Q122878996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122878996"
+  },
+  "lastUpdated": "2025-12-17"
+}

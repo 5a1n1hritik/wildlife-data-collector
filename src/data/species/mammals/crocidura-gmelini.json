@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-gmelini",
+  "name": "Gmelin's white-toothed shrew",
+  "scientificName": "Crocidura gmelini",
+  "wikibase_item": "Q1770002",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770002",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gmelin's_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gmelin's white-toothed shrew is a species of mammal in the family Soricidae. It is found in Afghanistan, China, Iran, and Pakistan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gmelin%27s_White-toothed_Shrew_area.png"
+}

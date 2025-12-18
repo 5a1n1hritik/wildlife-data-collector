@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-glassi",
+  "name": "Glass's shrew",
+  "scientificName": "Crocidura glassi",
+  "wikibase_item": "Q303200",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303200",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glass's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Glass's shrew is a species of mammal in the family Soricidae. It is endemic to Ethiopia. The mammal's natural habitats are subtropical or tropical high-elevation shrubland and grassland, and swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glass%27s_Shrew_area.png"
+}

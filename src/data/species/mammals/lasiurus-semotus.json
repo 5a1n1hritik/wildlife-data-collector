@@ -1,0 +1,25 @@
+{
+  "id": "lasiurus-semotus",
+  "name": "Lasiurus semotus",
+  "scientificName": "Lasiurus semotus",
+  "wikibase_item": "Q111530774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 39081027,
+      "id": "Q39081027"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111530774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawaiian_hoary_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hawaiian hoary bat, also known as ʻōpeʻapeʻa, is a species of bat endemic to the islands of Hawaiʻi. The Hawaiian hoary bat occupies the major Hawaiian islands, making it the only extant and native terrestrial mammal in the islands. Some studies report that the mainland hoary bat lives in sympatry on the Hawaiian Islands alongside the Hawaiian hoary bat, although this is disputed. The Hawaiian hoary bat was officially named the state land mammal of Hawaiʻi in 2015. It is a federally listed endangered taxon of the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hawaiian_hoary_bat_Lasiurus_cinereus_semotus.jpg"
+}

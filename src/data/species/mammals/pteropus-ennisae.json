@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-ennisae",
+  "name": "Pteropus ennisae",
+  "scientificName": "Pteropus ennisae",
+  "wikibase_item": "Q117349977",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117349977",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Ireland_masked_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The New Ireland masked flying fox is a species of megabat that is endemic to Papua New Guinea.",
+  "image": null
+}

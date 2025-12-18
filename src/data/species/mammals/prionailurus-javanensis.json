@@ -1,0 +1,25 @@
+{
+  "id": "prionailurus-javanensis",
+  "name": "Prionailurus javanensis",
+  "scientificName": "Prionailurus javanensis",
+  "wikibase_item": "Q30693726",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 42592,
+      "id": "Q42592"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30693726",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunda_leopard_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sunda leopard cat is a small wild cat species native to the Sundaland islands of Java, Bali, Borneo, Sumatra and the Philippines that is considered distinct from the leopard cat occurring in mainland South and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Prionailurus_bengalensis_in_Indonesia_02.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ikelohyaena-abronia",
+  "name": "Ikelohyaena abronia",
+  "scientificName": "Ikelohyaena abronia",
+  "wikibase_item": "Q3792499",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21368778,
+      "id": "Q21368778"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3792499"
+  },
+  "lastUpdated": "2025-12-17"
+}

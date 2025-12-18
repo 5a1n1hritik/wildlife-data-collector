@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-dauurica",
+  "name": "Daurian pika",
+  "scientificName": "Ochotona dauurica",
+  "wikibase_item": "Q1173034",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3880753,
+      "id": "Q3880753"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1173034",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daurian_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Daurian pika is a small relative of rabbits and hares in the order Lagomorpha. It is well known for its \"barking\" alarm call, and for its peculiar habit of making hay to help survive the winter. There are 4 recognized subspecies, Ochotona dauurica annectens, O.d. bedfordi, O.d. dauurica, and O.d. mursavi. Daurian pikas, like other lagomorphs, are characterized by a secondary set of incisor teeth. They are sexually monomorphic, with thick reddish coats. Pikas have no external tail, and their ears are large and rounded. The auditory bullae, a feature of the skull of daurian pikas are small in comparison to many other pikas. This is thought to be related to their fairly low altitude habitat preference. They are considered keystone species within their habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ochotona_daurica.jpg"
+}

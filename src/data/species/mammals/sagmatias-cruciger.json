@@ -1,0 +1,25 @@
+{
+  "id": "sagmatias-cruciger",
+  "name": "Sagmatias cruciger",
+  "scientificName": "Sagmatias cruciger",
+  "wikibase_item": "Q125371608",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7399322,
+      "id": "Q7399322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125371608",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hourglass_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hourglass dolphin is a small dolphin in the family Delphinidae that inhabits offshore Antarctic and sub-Antarctic waters. It is commonly seen from ships crossing the Drake Passage but has a circumpolar distribution.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hourglas_dolphin.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "carollia-manu",
+  "name": "Manu Short-tailed Bat",
+  "scientificName": "Carollia manu",
+  "wikibase_item": "Q2033072",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2033072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manu_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Manu short-tailed bat is a bat species found in Peru and Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Carollia_manu_map.png"
+}

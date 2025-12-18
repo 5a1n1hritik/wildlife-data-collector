@@ -1,0 +1,25 @@
+{
+  "id": "balaena-biscayensis",
+  "name": "Balaena biscayensis",
+  "scientificName": "Balaena biscayensis",
+  "wikibase_item": "Q122998432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4820658,
+      "id": "Q4820658"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122998432",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North Atlantic right whale is a baleen whale, one of three right whale species belonging to the genus Eubalaena, all of which were formerly classified as a single species. Because of their docile nature, their slow surface-skimming feeding behaviors, their tendencies to stay close to the coast, and their high blubber content, right whales were once a preferred target for whalers.\nAt present, they are among the most endangered whales in the world, and they are protected under the U.S. Endangered Species Act and Marine Mammal Protection Act and Canada's Species at Risk Act. There are an estimated 356 individuals in existence in the western North Atlantic Ocean—they migrate between feeding grounds in the Labrador Sea and their winter calving areas off Georgia and Florida, an ocean area with heavy shipping traffic. In the eastern North Atlantic, on the other hand—with a total population reaching into the low teens at most—scientists believe that they may already be functionally extinct. Vessel strikes and entanglement in fixed fishing gear, which together account for nearly half of all North Atlantic right whale mortality since 1970, are their two greatest threats to recovery.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/GRNMS_-_Right_Whales_%2831361234602%29.jpg"
+}

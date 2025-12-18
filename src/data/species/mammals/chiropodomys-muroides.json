@@ -1,0 +1,25 @@
+{
+  "id": "chiropodomys-muroides",
+  "name": "Gray-bellied pencil-tailed tree-mouse",
+  "scientificName": "Chiropodomys muroides",
+  "wikibase_item": "Q302548",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 579868,
+      "id": "Q579868"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302548",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-bellied_pencil-tailed_tree_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-bellied pencil-tailed tree mouse is a species of arboreal rodent in the family Muridae. It is endemic to Borneo where it is known from Gunung Kinabalu and from Long Petak in northern Kalimantan (Indonesia). It probably has wider distribution than currently documented. Its natural habitat is montane tropical forest. It is threatened by habitat loss.",
+  "image": null
+}

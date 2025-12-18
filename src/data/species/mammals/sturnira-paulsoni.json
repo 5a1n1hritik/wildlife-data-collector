@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-paulsoni",
+  "name": "Sturnira paulsoni",
+  "scientificName": "Sturnira paulsoni",
+  "wikibase_item": "Q21377103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21377103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturnira_paulsoni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Paulson's yellow-shouldered bat is a species of bat in the family Phyllostomidae. It is endemic to the Lesser Antilles. According to the most recent IUCN analysis in 2019, it is near-threatened.",
+  "image": null
+}

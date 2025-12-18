@@ -1,0 +1,25 @@
+{
+  "id": "avahi-peyrierasi",
+  "name": "Peyrieras' woolly lemur",
+  "scientificName": "Avahi peyrierasi",
+  "wikibase_item": "Q1210782",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1210782",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peyrieras's_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peyrieras's woolly lemur or Peyrieras's avahi is a species of woolly lemur native to southeastern Madagascar. It weighs about 1 kg.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Avahi_peyrierasi_99660950.jpg"
+}

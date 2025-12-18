@@ -1,0 +1,25 @@
+{
+  "id": "ratufa-affinis",
+  "name": "Ratufa affinis",
+  "scientificName": "Ratufa affinis",
+  "wikibase_item": "Q1194191",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858747,
+      "id": "Q858747"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1194191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cream-coloured_giant_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cream-coloured giant squirrel or pale giant squirrel is a large tree squirrel in the genus Ratufa found in forests in the Thai-Malay Peninsula, Sumatra (Indonesia), Borneo and nearby small islands. The species is near threatened and vulnerable to habitat degradation, and it has probably been extirpated in Singapore where the last sighting was in 1995. Reported sightings in Vietnam in 1984 are considered to be dubious.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ratufa_affinis_60425316.jpg"
+}

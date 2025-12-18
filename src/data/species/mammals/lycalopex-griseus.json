@@ -1,0 +1,25 @@
+{
+  "id": "lycalopex-griseus",
+  "name": "South American gray fox",
+  "scientificName": "Lycalopex griseus",
+  "wikibase_item": "Q601913",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132687,
+      "id": "Q132687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q601913",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_American_gray_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The South American gray fox, also known as the Patagonian fox, the chilla or zorro gris, is a South American species of Lycalopex in the Canidae family, which includes dogs, wolves, jackals, coyotes and foxes, among other canids. It is endemic to the southern parts of Argentina and Chile, primarily Patagonia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/South_American_grey_fox_%28Lycalopex_griseus%29_Santa_Cruz.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-phuquocensis",
+  "name": "Crocidura phuquocensis",
+  "scientificName": "Crocidura phuquocensis",
+  "wikibase_item": "Q10261762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10261762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phu_Hoc_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Phu Hoc shrew is a species of white-toothed shrew native to the island of Phú Quốc, Vietnam. The species was first described by Abramov et al. in 2008. The species' haplogroup is most closely related to the Southeast Asian shrew and C. dracula.",
+  "image": null
+}

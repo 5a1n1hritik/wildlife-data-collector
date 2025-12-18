@@ -1,0 +1,22 @@
+{
+  "id": "scotophilus-wroughtoni",
+  "name": "Scotophilus wroughtoni",
+  "scientificName": "Scotophilus wroughtoni",
+  "wikibase_item": "Q41088253",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088253"
+  },
+  "lastUpdated": "2025-12-17"
+}

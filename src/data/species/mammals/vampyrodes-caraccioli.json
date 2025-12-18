@@ -1,0 +1,25 @@
+{
+  "id": "vampyrodes-caraccioli",
+  "name": "Great Stripe-faced Bat",
+  "scientificName": "Vampyrodes caraccioli",
+  "wikibase_item": "Q275968",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10832377,
+      "id": "Q10832377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q275968",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_stripe-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The great stripe-faced bat or stripe-faced vampire bat is a bat species found from southern Mexico to Bolivia and northwestern Brazil, as well as on Trinidad. The great stripe-faced bat is a frugivore. It is one of two species within the genus Vampyrodes the other being Vampyrodes major.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vampyrodes_caraccioli_peru.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lupulella-mesomelas",
+  "name": "black-backed jackal",
+  "scientificName": "Lupulella mesomelas",
+  "wikibase_item": "Q125814326",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21223141,
+      "id": "Q21223141"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125814326",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-backed_jackal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-backed jackal is a medium-sized canine native to eastern and southern Africa. These regions are separated by roughly 900 km (560 mi).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Black-backed_jackal_and_kill%2C_Masai_Mara%2C_Kenya_%2852465819308%29.jpg"
+}

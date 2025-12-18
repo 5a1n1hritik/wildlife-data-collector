@@ -1,0 +1,25 @@
+{
+  "id": "myonycteris-relicta",
+  "name": "East African little collared fruit bat",
+  "scientificName": "Myonycteris relicta",
+  "wikibase_item": "Q1764300",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20877552,
+      "id": "Q20877552"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764300",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_African_little_collared_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East African little collared fruit bat is a species of megabat in the family Pteropodidae. It is found in Kenya, Tanzania, and Zimbabwe. Its natural habitats are subtropical or tropical dry forests and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Myonycteris_relicta.jpg"
+}

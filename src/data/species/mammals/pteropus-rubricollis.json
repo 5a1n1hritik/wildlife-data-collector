@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-rubricollis",
+  "name": "Pteropus rubricollis",
+  "scientificName": "Pteropus rubricollis",
+  "wikibase_item": "Q122609504",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122609504",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_Mauritian_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small Mauritian flying fox or dark flying fox, known as a rougette to early French travelers, is an extinct species of megabat. It lived on the islands of Réunion and Mauritius in the Mascarene Islands of the Indian Ocean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pteropus_subniger.jpg"
+}

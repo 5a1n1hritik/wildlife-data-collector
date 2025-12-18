@@ -1,0 +1,25 @@
+{
+  "id": "suncus-megalura",
+  "name": "Climbing Shrew",
+  "scientificName": "Suncus megalura",
+  "wikibase_item": "Q1768017",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768017",
+    "wikipedia": "https://en.wikipedia.org/wiki/Climbing_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The climbing shrew is a species of mammal in the family Soricidae, which is found in subtropical Africa. It is found in Angola, Benin, Burundi, Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Ivory Coast, Ethiopia, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Sierra Leone, South Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. Its natural habitats are subtropical or tropical moist lowland and montane forests, and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Climbing_Shrew_area.png"
+}

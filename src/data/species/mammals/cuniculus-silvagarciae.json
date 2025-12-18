@@ -1,0 +1,22 @@
+{
+  "id": "cuniculus-silvagarciae",
+  "name": "Cuniculus silvagarciae",
+  "scientificName": "Cuniculus silvagarciae",
+  "wikibase_item": "Q21503347",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 202697,
+      "id": "Q202697"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21503347"
+  },
+  "lastUpdated": "2025-12-17"
+}

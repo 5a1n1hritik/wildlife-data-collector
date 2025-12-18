@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-kivuana",
+  "name": "Kivu Shrew",
+  "scientificName": "Crocidura kivuana",
+  "wikibase_item": "Q306014",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306014",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kivu_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kivu shrew is a species of mammal in the family Soricidae. It is endemic to Democratic Republic of the Congo. Its natural habitat is swamp.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kivu_Shrew_area.png"
+}

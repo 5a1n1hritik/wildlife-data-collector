@@ -1,0 +1,22 @@
+{
+  "id": "cryptotis-woodmani",
+  "name": "Cryptotis woodmani",
+  "scientificName": "Cryptotis woodmani",
+  "wikibase_item": "Q125219970",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125219970"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "macroglossus-lagochilus",
+  "name": "Macroglossus lagochilus",
+  "scientificName": "Macroglossus lagochilus",
+  "wikibase_item": "Q40504448",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2308113,
+      "id": "Q2308113"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40504448"
+  },
+  "lastUpdated": "2025-12-17"
+}

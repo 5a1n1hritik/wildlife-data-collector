@@ -1,0 +1,25 @@
+{
+  "id": "aethalops-aequalis",
+  "name": "Borneo fruit bat",
+  "scientificName": "Aethalops aequalis",
+  "wikibase_item": "Q1765989",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 581985,
+      "id": "Q581985"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765989",
+    "wikipedia": "https://en.wikipedia.org/wiki/Borneo_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Borneo fruit bat is a species of megabat found in the mountains of Borneo, specifically East Malaysia and Brunei. It is considered a subspecies of Aethalops alecto by some authors.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Aethalops_aequalis.jpg"
+}

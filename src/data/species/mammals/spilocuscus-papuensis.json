@@ -1,0 +1,25 @@
+{
+  "id": "spilocuscus-papuensis",
+  "name": "Waigeou cuscus",
+  "scientificName": "Spilocuscus papuensis",
+  "wikibase_item": "Q209562",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475049,
+      "id": "Q1475049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209562",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waigeou_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Waigeou cuscus or Waigeou spotted cuscus is a species of marsupial in the family Phalangeridae. It is endemic to the island of Waigeo in Indonesia, and consequently the spelling Waigeo cuscus is often used instead of Waigeou cuscus. Unlike all other members of the genus Spilocuscus, both genders are whitish with black spots. It remains fairly common, but its small range makes it vulnerable to habitat loss and hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Waigeou_Spotted_Cuscus_0A2A3370.jpg"
+}

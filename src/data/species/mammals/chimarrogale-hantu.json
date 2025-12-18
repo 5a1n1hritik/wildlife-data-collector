@@ -1,0 +1,25 @@
+{
+  "id": "chimarrogale-hantu",
+  "name": "Malayan water shrew",
+  "scientificName": "Chimarrogale hantu",
+  "wikibase_item": "Q1417512",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856254,
+      "id": "Q856254"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1417512",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malayan_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malayan water shrew, also known as the hantu water shrew, is a red-toothed shrew recorded only from the Malaysian state of Selangor. It was listed as a critically endangered, but is now considered near threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Malayan_Water_Shrew_area.png"
+}

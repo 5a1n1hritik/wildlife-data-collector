@@ -1,0 +1,25 @@
+{
+  "id": "neodon-linzhiensis",
+  "name": "Neodon linzhiensis",
+  "scientificName": "Neodon linzhiensis",
+  "wikibase_item": "Q24055175",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427901,
+      "id": "Q427901"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24055175",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linzhi_mountain_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Linzhi mountain vole is a species of rodent in the family Cricetidae. It is endemic to mountainous parts of southern China.",
+  "image": null
+}

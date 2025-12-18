@@ -1,0 +1,22 @@
+{
+  "id": "sciuropterus-everetti",
+  "name": "Sciuropterus everetti",
+  "scientificName": "Sciuropterus everetti",
+  "wikibase_item": "Q125250173",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 66588680,
+      "id": "Q66588680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125250173"
+  },
+  "lastUpdated": "2025-12-17"
+}

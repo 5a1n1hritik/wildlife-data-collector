@@ -1,0 +1,25 @@
+{
+  "id": "eptesicus-anatolicus",
+  "name": "Eptesicus anatolicus",
+  "scientificName": "Eptesicus anatolicus",
+  "wikibase_item": "Q85759472",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85759472",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eptesicus_anatolicus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Anatolian serotine bat is a species of bat found in West Asia.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dobsonia-moluccensis",
+  "name": "Dobsonia moluccensis",
+  "scientificName": "Dobsonia moluccensis",
+  "wikibase_item": "Q301753",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301753",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bare-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bare-backed fruit bat or Moluccan naked-backed fruit bat is a fruit bat in the family Pteropodidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dobsonia_moluccensis.jpg"
+}

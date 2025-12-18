@@ -1,0 +1,25 @@
+{
+  "id": "dermanura-gnoma",
+  "name": "Dermanura gnoma",
+  "scientificName": "Dermanura gnoma",
+  "wikibase_item": "Q28154668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5262681,
+      "id": "Q5262681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28154668",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gnome_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gnome fruit-eating bat is a bat species found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname and Venezuela. This species was originally determined to be different from the other known species of fruit bats, but later, in 1994 was mistakenly grouped under Artibeus cinereus as a synonym. However, this has since been corrected by more closely studying their physical differences and by biomolecular analysis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Naturalis_Biodiversity_Center_-_RMNH.MAM.26832.a_dor_-_Artibeus_gnomus_-_skull.jpeg"
+}

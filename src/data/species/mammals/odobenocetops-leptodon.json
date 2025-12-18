@@ -1,0 +1,25 @@
+{
+  "id": "odobenocetops-leptodon",
+  "name": "Odobenocetops leptodon",
+  "scientificName": "Odobenocetops leptodon",
+  "wikibase_item": "Q23819502",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131657,
+      "id": "Q131657"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23819502",
+    "wikipedia": "https://en.wikipedia.org/wiki/Odobenocetops"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Odobenocetops is an extinct genus of small toothed whale known from Chile and Peru. Its fossils are found in Miocene-aged marine strata of the Bahía Inglesa Formation and Pisco Formation. Two species of Odobenocetops are currently recognized, O. peruvianus and the slightly younger O. leptodon.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Odobenocetops_leptodon_MNHN_SAO_202.png"
+}

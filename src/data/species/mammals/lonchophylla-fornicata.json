@@ -1,0 +1,25 @@
+{
+  "id": "lonchophylla-fornicata",
+  "name": "Lonchophylla fornicata",
+  "scientificName": "Lonchophylla fornicata",
+  "wikibase_item": "Q13770074",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13770074",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonchophylla_fornicata"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lonchophylla fornicata is a species of bat found in South America.",
+  "image": null
+}

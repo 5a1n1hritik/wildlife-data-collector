@@ -1,0 +1,25 @@
+{
+  "id": "chionomys-gud",
+  "name": "Caucasian snow vole",
+  "scientificName": "Chionomys gud",
+  "wikibase_item": "Q1768751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 602763,
+      "id": "Q602763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caucasian_snow_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caucasian snow vole is a species of rodent in the family Cricetidae.",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tainotherium-valei",
+  "name": "Tainotherium valei",
+  "scientificName": "Tainotherium valei",
+  "wikibase_item": "Q15041693",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16885539,
+      "id": "Q16885539"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15041693"
+  },
+  "lastUpdated": "2025-12-17"
+}

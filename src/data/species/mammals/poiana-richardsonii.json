@@ -1,0 +1,25 @@
+{
+  "id": "poiana-richardsonii",
+  "name": "Poiana richardsonii",
+  "scientificName": "Poiana richardsonii",
+  "wikibase_item": "Q189978",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11846972,
+      "id": "Q11846972"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q189978",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_African_oyan"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Central African oyan, also called Central African linsang, is a linsang species native to Central Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Em_-_Poiana_richardsonii_2.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "grampus-griseus",
+  "name": "Risso's Dolphin",
+  "scientificName": "Grampus griseus",
+  "wikibase_item": "Q203897",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15631679,
+      "id": "Q15631679"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203897",
+    "wikipedia": "https://en.wikipedia.org/wiki/Risso's_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Risso's dolphin is a marine mammal and dolphin, the only species of the genus Grampus. Some of the most closely related species to these dolphins include: pilot whales, pygmy killer whales, melon-headed whales, and false killer whales. These dolphins grow to be about 10 ft in length and can be identified by heavy scarring that appears white. They are located worldwide in cold to temperate waters, but most typically found along continental shelves due to their eating habits. Risso's dolphins have a diet that contains primarily cephalopods. They are able to search for prey at various depths due to their ability to reach depths of almost 600 m (2,000 ft). Individuals typically travel in pods ranging from 10 to 50 dolphins, with which they form tight social bonds.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Grampo.jpg"
+}

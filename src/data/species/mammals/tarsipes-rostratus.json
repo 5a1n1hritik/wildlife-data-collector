@@ -1,0 +1,25 @@
+{
+  "id": "tarsipes-rostratus",
+  "name": "honey possum",
+  "scientificName": "Tarsipes rostratus",
+  "wikibase_item": "Q752020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10824047,
+      "id": "Q10824047"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q752020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Honey_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The honey possum, or noolbenger, is a tiny species of marsupial that feeds on the nectar and pollen of a diverse range of flowering plants. Found only in southwest Australia, it is an important pollinator for such plants as Banksia attenuata, Banksia coccinea and Adenanthos cuneatus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tarsipes_rostratus_325231884.jpg"
+}

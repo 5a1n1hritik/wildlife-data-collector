@@ -1,0 +1,25 @@
+{
+  "id": "callosciurus-finlaysonii",
+  "name": "Callosciurus finlaysonii",
+  "scientificName": "Callosciurus finlaysonii",
+  "wikibase_item": "Q2086835",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858515,
+      "id": "Q858515"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2086835",
+    "wikipedia": "https://en.wikipedia.org/wiki/Finlayson's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Finlayson's squirrel or the variable squirrel is a species of rodent in the family Sciuridae. It is found in Cambodia, Laos, Myanmar, Thailand, and Vietnam. The species occurs in a wide range of wooded habitats, including gardens and parks in cities like Bangkok. It was named in honour of the Scottish naturalist and traveller George Finlayson.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Callosciurus_finlaysonii_-_Finlayson%27s_squirrel_%28variable_squirrel%29.jpg"
+}

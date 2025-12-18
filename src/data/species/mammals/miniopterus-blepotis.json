@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-blepotis",
+  "name": "Miniopterus blepotis",
+  "scientificName": "Miniopterus blepotis",
+  "wikibase_item": "Q116786511",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116786511",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javanese_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javanese long-fingered bat is a species of bat from the Miniopterus genus native to Indonesia. A common misconception was that Miniopterus blepotis belonged to the M. schreibersii subspecies. M. blepotis was recognized as a distinct species after the Schreibersii complex was divided. This is backed up by New Guinean mtDNA sequence data that is ascribed to M. blepotis. Whether it is a complex made up of multiple species is unknown.",
+  "image": null
+}

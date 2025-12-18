@@ -1,0 +1,25 @@
+{
+  "id": "lophuromys-stanleyi",
+  "name": "Lophuromys stanleyi",
+  "scientificName": "Lophuromys stanleyi",
+  "wikibase_item": "Q3836746",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 518880,
+      "id": "Q518880"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3836746",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanley's_brush-furred_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Stanley's brush-furred rat is a species of brush-furred mouse found in Uganda and the Democratic Republic of Congo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Distribution_of_Lophuromys_stanleyi.tif/lossy-page1-1412px-Distribution_of_Lophuromys_stanleyi.tif.jpg"
+}

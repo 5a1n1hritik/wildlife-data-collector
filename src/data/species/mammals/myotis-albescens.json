@@ -1,0 +1,25 @@
+{
+  "id": "myotis-albescens",
+  "name": "Silver-tipped myotis",
+  "scientificName": "Myotis albescens",
+  "wikibase_item": "Q137611",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137611",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver-tipped_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silver-tipped myotis is a species of mouse-eared bat found in a range of lowland habitats in the Americas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Silver-tipped_myotis_imported_from_iNaturalist_photo_402043977_on_27_October_2024.jpg"
+}

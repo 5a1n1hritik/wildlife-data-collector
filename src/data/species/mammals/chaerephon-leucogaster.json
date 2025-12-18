@@ -1,0 +1,25 @@
+{
+  "id": "chaerephon-leucogaster",
+  "name": "Chaerephon leucogaster",
+  "scientificName": "Tadarida leucostigma",
+  "wikibase_item": "Q1831004",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831004",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grandidier's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grandidier's free-tailed bat is a species of bat in the family Molossidae. It is endemic to Madagascar. Its natural habitats are subtropical or tropical dry forests and dry savanna. It has at times been considered synonymous with the little free-tailed bat.",
+  "image": null
+}

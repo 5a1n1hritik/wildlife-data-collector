@@ -1,0 +1,22 @@
+{
+  "id": "chiroderma-scopaeum",
+  "name": "Chiroderma scopaeum",
+  "scientificName": "Chiroderma scopaeum",
+  "wikibase_item": "Q102078057",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702286,
+      "id": "Q2702286"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102078057"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "paratriaenops-auritus",
+  "name": "Paratriaenops auritus",
+  "scientificName": "Paratriaenops auritus",
+  "wikibase_item": "Q1833289",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1230003,
+      "id": "Q1230003"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833289",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grandidier's_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grandidier's trident bat is a species of bat in the family Hipposideridae endemic to Madagascar. It was formerly assigned to the genus Triaenops, but is now placed in the separate genus Paratriaenops.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Paratriaenops_distribution.png"
+}

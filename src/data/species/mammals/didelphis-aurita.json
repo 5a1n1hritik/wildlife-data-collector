@@ -1,0 +1,25 @@
+{
+  "id": "didelphis-aurita",
+  "name": "Big-eared opossum",
+  "scientificName": "Didelphis aurita",
+  "wikibase_item": "Q194238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194238",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big-eared_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big-eared opossum, also known as a saruê, or the gambá, is an opossum species from South America. It is found in Argentina, Brazil and Paraguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Didelphis_aurita_photo-Christian_Roger_Dockhorn.JPG"
+}

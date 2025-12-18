@@ -1,0 +1,25 @@
+{
+  "id": "graphiurus-walterverheyeni",
+  "name": "Graphiurus walterverheyeni",
+  "scientificName": "Graphiurus walterverheyeni",
+  "wikibase_item": "Q4039672",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385877,
+      "id": "Q385877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4039672",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Verheyen's_African_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Walter Verheyen's African dormouse is a monotypic species of rodent in the family Gliridae. From the Central Congolian lowland forests ecoregion in the central Congo Basin, it has been found in west-central Democratic Republic of the Congo, in the vicinity of the Lukenie River and of Wafania, near the left bank of the Luilaka River. Although not found in immediate association, Lorraine's dormouse and the short-eared African dormouse are understood to be \"broadly sympatric\". Most closely resembling Jentink's dormouse, it differs from this species both in its much smaller size and in its relative proportions. On the IUCN Red List, its conservation status has been assessed as Data Deficient.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Graphiurus_walterverheyeni_Map.jpg"
+}

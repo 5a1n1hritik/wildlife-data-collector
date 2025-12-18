@@ -1,0 +1,25 @@
+{
+  "id": "archboldomys-luzonensis",
+  "name": "Mount Isarog Shrew Mouse",
+  "scientificName": "Archboldomys luzonensis",
+  "wikibase_item": "Q682884",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135054,
+      "id": "Q135054"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q682884",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Isarog_shrew-mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Isarog shrew-mouse is a species of rodent in the family Muridae found only in the Philippines. Its natural habitats include subtropical or tropical dry forest. It is threatened by habitat loss due to logging operations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Range_Archboldomys_luzonensis.png"
+}

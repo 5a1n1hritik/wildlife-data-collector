@@ -1,0 +1,25 @@
+{
+  "id": "psammomys-obesus",
+  "name": "Psammomys obesus",
+  "scientificName": "Psammomys obesus",
+  "wikibase_item": "Q1409213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 64524,
+      "id": "Q64524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1409213",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fat_sand_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fat sand rat is a terrestrial mammal from the gerbil subfamily that is mostly found in North Africa and the Middle East, ranging from Mauritania to the Arabian Peninsula. This species usually lives in sandy deserts, but may also be found in rocky terrain or saline marsh areas. Fat sand rats are very selective in their diet, only eating stems and leaves of plants from the family Amaranthaceae, more commonly known as the amaranth family. In captivity, fat sand rats can become obese and rapidly develop diabetes-like symptoms when fed the diet typically given to other rodents. P. obesus has an average lifespan of 14 months in the wild and 3–4 years in captivity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Fat_sand_rat.jpg"
+}

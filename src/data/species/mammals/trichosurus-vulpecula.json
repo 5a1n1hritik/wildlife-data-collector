@@ -1,0 +1,25 @@
+{
+  "id": "trichosurus-vulpecula",
+  "name": "Trichosurus vulpecula",
+  "scientificName": "Trichosurus vulpecula",
+  "wikibase_item": "Q732477",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656173,
+      "id": "Q656173"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q732477",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_brushtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common brushtail possum is a nocturnal, semiarboreal marsupial of the family Phalangeridae, native to Australia and invasive in New Zealand, and the second-largest of the Australasian possums.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Trichosurus_vulpecula_1.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "leopardus-griseus",
+  "name": "Leopardus griseus",
+  "scientificName": "Leopardus griseus",
+  "wikibase_item": "Q41084137",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084137"
+  },
+  "lastUpdated": "2025-12-17"
+}

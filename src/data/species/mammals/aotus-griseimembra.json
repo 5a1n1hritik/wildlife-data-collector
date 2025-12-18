@@ -1,0 +1,25 @@
+{
+  "id": "aotus-griseimembra",
+  "name": "Gray-handed night monkey",
+  "scientificName": "Aotus griseimembra",
+  "wikibase_item": "Q1185106",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1185106",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-handed_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-handed night monkey is a species of night monkey formerly considered a subspecies of Gray-bellied night monkey of the family Aotidae. Its range consists of parts of Colombia and Venezuela. The exact classification of the gray-handed night monkey is uncertain. While some authors consider it a subspecies of the gray-bellied night monkey, A. lemurinus, other authors consider it a separate species, A. griseimembra.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aotus_griseimembra_-_Marwell_Wildlife%2C_Hampshire%2C_England-8a.jpg"
+}

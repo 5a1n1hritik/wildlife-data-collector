@@ -1,0 +1,25 @@
+{
+  "id": "cynomops-freemani",
+  "name": "Cynomops freemani",
+  "scientificName": "Cynomops freemani",
+  "wikibase_item": "Q56087442",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2729634,
+      "id": "Q2729634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56087442",
+    "wikipedia": "https://en.wikipedia.org/wiki/Freeman's_dog-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Freeman’s dog-faced bat, is a Central American bat species of the family Molossidae. It is endemic to Panama.",
+  "image": null
+}

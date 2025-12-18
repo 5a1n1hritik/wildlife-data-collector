@@ -1,0 +1,22 @@
+{
+  "id": "vesperugo-scotinus",
+  "name": "Vesperugo scotinus",
+  "scientificName": "Vesperugo scotinus",
+  "wikibase_item": "Q125636514",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 27441019,
+      "id": "Q27441019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125636514"
+  },
+  "lastUpdated": "2025-12-17"
+}

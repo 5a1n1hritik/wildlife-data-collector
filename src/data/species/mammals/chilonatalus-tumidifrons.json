@@ -1,0 +1,25 @@
+{
+  "id": "chilonatalus-tumidifrons",
+  "name": "Bahaman funnel-eared bat",
+  "scientificName": "Chilonatalus tumidifrons",
+  "wikibase_item": "Q1833874",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894534,
+      "id": "Q2894534"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833874",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahaman_funnel-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bahaman funnel-eared bat is a species of bat in the family Natalidae.",
+  "image": null
+}

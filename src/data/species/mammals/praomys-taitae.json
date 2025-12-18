@@ -1,0 +1,22 @@
+{
+  "id": "praomys-taitae",
+  "name": "Praomys taitae",
+  "scientificName": "Praomys taitae",
+  "wikibase_item": "Q29955287",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29955287"
+  },
+  "lastUpdated": "2025-12-17"
+}

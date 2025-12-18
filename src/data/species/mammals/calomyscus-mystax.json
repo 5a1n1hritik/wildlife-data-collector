@@ -1,0 +1,25 @@
+{
+  "id": "calomyscus-mystax",
+  "name": "Great Balkhan mouse-like hamster",
+  "scientificName": "Calomyscus mystax",
+  "wikibase_item": "Q305865",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305865",
+    "wikipedia": "https://en.wikipedia.org/wiki/Great_Balkhan_mouse-like_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Great Balkhan mouse-like hamster is a species of rodent in the family Calomyscidae.\nIt is found in southwestern Turkmenistan, northern Iran and southern Azerbaijan. It was first discovered by the famed Soviet zoologist and ecologist, Daniil Nikolaevich Kashkarov (1878–1941) in 1925. It is named after the Great Balkhan mountains.",
+  "image": null
+}

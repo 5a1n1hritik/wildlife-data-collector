@@ -1,0 +1,25 @@
+{
+  "id": "lampronycteris-brachyotis",
+  "name": "Yellow-throated Big-eared Bat",
+  "scientificName": "Lampronycteris brachyotis",
+  "wikibase_item": "Q83690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10784303,
+      "id": "Q10784303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-throated_big-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-throated big-eared bat or orange-throated bat(Lampronycteris brachyotis) is a species of bat that ranges from southern Mexico to Brazil. It is the only species within the genus Lampronycteris. A frugivore and insectivore, it is found in lowland forest up to an elevation of 700 m. Its activity is greatest in the first two hours after sunset, and peaks again after midnight.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Naturalis_Biodiversity_Center_-_RMNH.MAM.24990.b_ven_-_Lampronycteris_brachyotis_-_skin.jpeg"
+}

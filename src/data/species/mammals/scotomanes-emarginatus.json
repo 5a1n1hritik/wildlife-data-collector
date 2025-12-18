@@ -1,0 +1,25 @@
+{
+  "id": "scotomanes-emarginatus",
+  "name": "Emarginate harlequin bat",
+  "scientificName": "Scotomanes emarginatus",
+  "wikibase_item": "Q2165986",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10819086,
+      "id": "Q10819086"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2165986",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harlequin_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The harlequin bat is a species of bat in the family Vespertilionidae, the vesper bats. It is the only member of the genus Scotomanes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/EB1911_Chiroptera_Fig._19.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-ladacensis",
+  "name": "Ladak pika",
+  "scientificName": "Ochotona ladacensis",
+  "wikibase_item": "Q534801",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q534801",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ladak_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ladak pika, also known as the Ladakh pika, is a species of mammal in the family Ochotonidae found in China, India, and Pakistan. Prior to identification as a separate species, specimens were thought to be of the plateau pika. Named for the Ladakh region, they are commonly found in valleys of the mountain ranges spanning from Pakistan through India to China at an elevation between 4,300 and 5,450 m and are herbivores.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ladakh_Pika_2007.jpg"
+}

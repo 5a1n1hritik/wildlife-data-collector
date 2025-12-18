@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-fulvus",
+  "name": "Yellow ground squirrel",
+  "scientificName": "Spermophilus fulvus",
+  "wikibase_item": "Q1766612",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766612",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow ground squirrel is a large and sturdy ground squirrel species native to Afghanistan, China, Iran, Kazakhstan, Turkmenistan, Uzbekistan and Russia. It inhabits sandy steppes with Artemisia, glasswort and tamarisk.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Spermophilus_fulvus_Baikonur_02.jpg"
+}

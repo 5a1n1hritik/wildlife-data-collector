@@ -1,0 +1,25 @@
+{
+  "id": "geomys-knoxjonesi",
+  "name": "Knox Jones's pocket gopher",
+  "scientificName": "Geomys knoxjonesi",
+  "wikibase_item": "Q1761986",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761986",
+    "wikipedia": "https://en.wikipedia.org/wiki/Knox_Jones's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Knox Jones's pocket gopher is a species of pocket gopher found in Texas and New Mexico. This species is named for Dr. J. Knox Jones Jr. (1929–1992), a prolific mammalogist at Texas Tech University.",
+  "image": null
+}

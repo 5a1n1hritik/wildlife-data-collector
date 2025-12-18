@@ -1,0 +1,25 @@
+{
+  "id": "dromiciops-bozinovici",
+  "name": "Dromiciops bozinovici",
+  "scientificName": "Dromiciops bozinovici",
+  "wikibase_item": "Q25028108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18520332,
+      "id": "Q18520332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25028108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monito_del_monte"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The monito del monte, or colocolo opossum, is a diminutive species of marsupial native only to south-western South America. It is the only extant species in the ancient order Microbiotheria, and the sole New World representative of the superorder Australidelphia, being more closely related to Australian marsupials than to other American marsupials. The species is nocturnal and arboreal, and lives in thickets of South American mountain bamboo in the Valdivian temperate forests of the southern Andes, aided by its partially prehensile tail. It consumes an omnivorous diet based on insects and fruit.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Monito_del_Monte_ps6.jpg"
+}

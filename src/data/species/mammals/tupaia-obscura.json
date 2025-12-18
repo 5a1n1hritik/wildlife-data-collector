@@ -1,0 +1,22 @@
+{
+  "id": "tupaia-obscura",
+  "name": "Tupaia obscura",
+  "scientificName": "Tupaia obscura",
+  "wikibase_item": "Q40713622",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40713622"
+  },
+  "lastUpdated": "2025-12-17"
+}

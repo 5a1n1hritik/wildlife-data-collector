@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-silvanorum",
+  "name": "Sylvisorex silvanorum",
+  "scientificName": "Sylvisorex silvanorum",
+  "wikibase_item": "Q21317874",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21317874",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bamenda_pygmy_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bamenda pygmy shrew is a terrestrial species of shrew described by Hutterer, Riegert and Sedláček in 2009. It was first discovered during a Museum Koenig expedition to the Bamenda Highlands of Cameroon in 1974, but was not recorded again until 2001, when partial skull remnants were located in the pellets of the endemic African grass owl.",
+  "image": null
+}

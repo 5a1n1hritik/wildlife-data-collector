@@ -1,0 +1,25 @@
+{
+  "id": "solenodon-paradoxus",
+  "name": "Hispaniolan solenodon",
+  "scientificName": "Solenodon paradoxus",
+  "wikibase_item": "Q754041",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 266725,
+      "id": "Q266725"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754041",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispaniolan_solenodon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hispaniolan solenodon, also known as the agouta, is a small, furry, shrew-like mammal endemic to the Caribbean island of Hispaniola. Like other solenodons, it is a venomous, insect-eating animal that lives in burrows and is active at night. It is an elusive animal and was only first described in 1833; its numbers are stable in protected forests but it remains the focus of conservation efforts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hispaniolan_Solenodon_crop.jpg"
+}

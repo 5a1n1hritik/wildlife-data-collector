@@ -1,0 +1,25 @@
+{
+  "id": "praomys-derooi",
+  "name": "Deroo's mouse",
+  "scientificName": "Praomys derooi",
+  "wikibase_item": "Q1767815",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767815",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deroo's_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Deroo's mouse or Deroo's praomys is a species of rodent in the family Muridae.\nIt is found in Benin, Ghana, Nigeria, and Togo.\nIts natural habitats are dry savanna and urban areas.",
+  "image": null
+}

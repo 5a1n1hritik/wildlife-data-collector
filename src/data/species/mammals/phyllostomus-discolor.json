@@ -1,0 +1,25 @@
+{
+  "id": "phyllostomus-discolor",
+  "name": "Pale spear-nosed bat",
+  "scientificName": "Phyllostomus discolor",
+  "wikibase_item": "Q919087",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303312,
+      "id": "Q1303312"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q919087",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale_spear-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale spear-nosed bat is a species of phyllostomid bat from South and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Phyllostomus_discolor2b.jpg"
+}

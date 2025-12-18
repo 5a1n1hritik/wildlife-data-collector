@@ -1,0 +1,22 @@
+{
+  "id": "callicebus-remulus",
+  "name": "Callicebus remulus",
+  "scientificName": "Callicebus remulus",
+  "wikibase_item": "Q41163107",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203649,
+      "id": "Q203649"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41163107"
+  },
+  "lastUpdated": "2025-12-17"
+}

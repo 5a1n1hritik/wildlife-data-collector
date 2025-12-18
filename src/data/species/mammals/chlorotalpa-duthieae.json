@@ -1,0 +1,25 @@
+{
+  "id": "chlorotalpa-duthieae",
+  "name": "Duthie's golden mole",
+  "scientificName": "Chlorotalpa duthieae",
+  "wikibase_item": "Q1767662",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135823,
+      "id": "Q135823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767662",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duthie's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Duthie's golden mole is a species of mammal in the family Chrysochloridae. It is endemic to South Africa. Its natural habitats are subtropical or tropical moist lowland forests, moist savanna, temperate grassland, arable land, pastureland, plantations, rural gardens, and urban area. The specific name duthieae was given in honour of Dr. Augusta Vera Duthie, a South African botanist.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Duthie%27s_Golden_Mole_area.png"
+}

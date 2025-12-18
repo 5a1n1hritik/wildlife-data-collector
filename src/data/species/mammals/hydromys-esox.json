@@ -1,0 +1,22 @@
+{
+  "id": "hydromys-esox",
+  "name": "Hydromys esox",
+  "scientificName": "Hydromys esox",
+  "wikibase_item": "Q40655549",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668884,
+      "id": "Q668884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40655549"
+  },
+  "lastUpdated": "2025-12-17"
+}

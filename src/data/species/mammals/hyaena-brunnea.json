@@ -1,0 +1,25 @@
+{
+  "id": "hyaena-brunnea",
+  "name": "Hyaena brunnea",
+  "scientificName": "Hyaena brunnea",
+  "wikibase_item": "Q210644",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1417638,
+      "id": "Q1417638"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210644",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_hyena"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown hyena, also called the strandwolf, is a species of hyena found in Namibia, Botswana, western and southern Zimbabwe, southern Mozambique, western Eswatini, and South Africa. It is the only extant species in the genus Parahyaena. It is currently the rarest species of hyena. The largest remaining brown hyena population is located in the southern Kalahari Desert and coastal areas in Southwest Africa. The global population of brown hyena is estimated by IUCN at a number between 4,000 and 10,000 and its conservation status is marked as near threatened in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Brown_Hyena_%28Hyaena_brunnea%29_leaving_waterhole_..._%2850915531592%29%2C_crop.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "voalavo-antsahabensis",
+  "name": "Voalavo antsahabensis",
+  "scientificName": "Voalavo antsahabensis",
+  "wikibase_item": "Q2093630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 166781,
+      "id": "Q166781"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2093630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_voalavo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern voalavo is a rodent in the family Nesomyidae which occurs in the Anjozorobe forest of eastern Madagascar. Although surveys before 2002 failed to record the species, it is common in some places. However, it is threatened by habitat loss because of slash-and-burn agriculture. The species was formally described in 2005 and is most closely related to the only other species of Voalavo, the northern voalavo from northern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Voalavo_range.svg/500px-Voalavo_range.svg.png"
+}

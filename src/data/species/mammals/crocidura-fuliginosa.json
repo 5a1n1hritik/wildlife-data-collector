@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-fuliginosa",
+  "name": "Southeast Asian shrew",
+  "scientificName": "Crocidura fuliginosa",
+  "wikibase_item": "Q1769019",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769019",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southeast_Asian_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Southeast Asian shrew is a shrew that was, along with Hildegarde's shrew, described in 1904.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Southeast_Asian_Shrew-_iNaturalist_photo_245798384.jpg"
+}

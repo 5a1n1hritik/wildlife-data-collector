@@ -1,0 +1,25 @@
+{
+  "id": "procyon-minor",
+  "name": "Procyon minor",
+  "scientificName": "Procyon minor",
+  "wikibase_item": "Q21968197",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21968197",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guadeloupe_raccoon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guadeloupe raccoon is a common raccoon subspecies endemic to the two main islands of Guadeloupe in the Lesser Antilles.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Procyon_minor01.jpg"
+}

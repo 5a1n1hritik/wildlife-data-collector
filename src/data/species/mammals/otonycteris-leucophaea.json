@@ -1,0 +1,25 @@
+{
+  "id": "otonycteris-leucophaea",
+  "name": "Otonycteris leucophaea",
+  "scientificName": "Otonycteris leucophaea",
+  "wikibase_item": "Q21075079",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18696696,
+      "id": "Q18696696"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21075079",
+    "wikipedia": "https://en.wikipedia.org/wiki/Turkestani_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Turkestani long-eared bat is a species of bat found in Asia. Though it was initially described in 1873 as a species, for many years it was considered synonymous with the desert long-eared bat, Otonycteris hemprichii. Recently, it was recognized as a distinct species once again.",
+  "image": null
+}

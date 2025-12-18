@@ -1,0 +1,25 @@
+{
+  "id": "nycticeius-humeralis",
+  "name": "Evening bat",
+  "scientificName": "Nycticeius humeralis",
+  "wikibase_item": "Q1832323",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753703,
+      "id": "Q753703"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832323",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evening_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The evening bat is a species of bat in the vesper bat family that is native to North America. Hunting at night, they eat beetles, moths, and other flying insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Nycticeius_humeralis_Evening_bat.JPG"
+}

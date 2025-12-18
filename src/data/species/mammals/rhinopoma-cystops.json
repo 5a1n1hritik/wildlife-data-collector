@@ -1,0 +1,25 @@
+{
+  "id": "rhinopoma-cystops",
+  "name": "Rhinopoma cystops",
+  "scientificName": "Rhinopoma cystops",
+  "wikibase_item": "Q10360336",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913927,
+      "id": "Q913927"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10360336",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egyptian_mouse-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Egyptian mouse-tailed bat is a species of mouse-tailed bat found in North Africa and the Middle East.",
+  "image": null
+}

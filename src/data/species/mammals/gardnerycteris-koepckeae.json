@@ -1,0 +1,25 @@
+{
+  "id": "gardnerycteris-koepckeae",
+  "name": "Gardnerycteris koepckeae",
+  "scientificName": "Gardnerycteris koepckeae",
+  "wikibase_item": "Q106240692",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19843828,
+      "id": "Q19843828"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106240692",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koepcke's_hairy-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Koepcke's hairy-nosed bat is a species of bat that is endemic to Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Distribution_of_Mimon_koepckeae.png"
+}

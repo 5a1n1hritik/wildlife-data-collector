@@ -1,0 +1,25 @@
+{
+  "id": "perameles-papillon",
+  "name": "Perameles papillon",
+  "scientificName": "Perameles papillon",
+  "wikibase_item": "Q50284559",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207399,
+      "id": "Q1207399"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50284559",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perameles_papillon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nullarbor barred bandicoot is an extinct species of bandicoot that was native to the arid Nullarbor Plain in southern Australia. It is also called the butterfly bandicoot for the dark brown patch on its rump, which resembles a butterfly. It was described in 2018 based on existing skins and osteological material within museum collections in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mounted_photograph_of_a_Nullarbor_barred_bandicoot_%28Perameles_papillon%29%2C_1924-1926.jpg"
+}

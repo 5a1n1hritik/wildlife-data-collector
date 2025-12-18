@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-rufus",
+  "name": "Brown mouse lemur",
+  "scientificName": "Microcebus rufus",
+  "wikibase_item": "Q901158",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q901158",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown mouse lemur is a small primate, and like the other mouse lemurs can only be found on the island of Madagascar. They are known also as the rufous mouse lemur, eastern rufous mouse lemur, red mouse lemur, or russet mouse lemur. Its dorsal side is brown or reddish-brown, while ventrally it is a whitish-grey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Brown_Mouse_Lemur._Microcebus_Rufus_-_Flickr_-_gailhampshire.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hapalemur-aureus",
+  "name": "golden bamboo lemur",
+  "scientificName": "Hapalemur aureus",
+  "wikibase_item": "Q775192",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544028,
+      "id": "Q544028"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q775192",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_bamboo_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden bamboo lemur, bokombolomena or varibolomena in Malagasy, is a medium-sized bamboo lemur endemic to south-eastern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Golden_bamboo_lemur_%28Hapalemur_aureus%29.jpg"
+}

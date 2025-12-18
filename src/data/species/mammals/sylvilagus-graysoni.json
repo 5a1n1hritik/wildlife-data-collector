@@ -1,0 +1,25 @@
+{
+  "id": "sylvilagus-graysoni",
+  "name": "Tres Marias rabbit",
+  "scientificName": "Sylvilagus graysoni",
+  "wikibase_item": "Q1762341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875386,
+      "id": "Q20875386"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762341",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tres_Marias_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tres Marias cottontail or Tres Marias rabbit is a medium-sized species of rabbit that is endemic to the Islas Marías in Mexico. Relatively unafraid of humans, the rabbit is the only member of the family Leporidae found on the islands. It prefers the island's dry, tropical forests, and regions with plenty of bushes for cover, which it will rest under for most of the day. It has few predators, with the known native species that feed on it being birds of prey and the Tres Marias raccoon, though it has been threatened by habitat loss due to human developments, as well as browsing by introduced white-tailed deer and goats. The Tres Marias cottontail is considered to be an endangered species by the Mexican government and the International Union for Conservation of Nature, and population declines have been reported across most of the species' range, with the exception of the island of San Juanito.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sylvilagus_graysoni_%28cropped%29.jpg"
+}

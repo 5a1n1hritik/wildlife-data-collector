@@ -1,0 +1,25 @@
+{
+  "id": "stenomys-verecundus",
+  "name": "Stenomys verecundus",
+  "scientificName": "Stenomys verecundus",
+  "wikibase_item": "Q125702912",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3498373,
+      "id": "Q3498373"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125702912",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender rat is a species of rodent in the family Muridae.\nIt is found in West Papua, Indonesia and Papua New Guinea.",
+  "image": null
+}

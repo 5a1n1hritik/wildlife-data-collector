@@ -1,0 +1,25 @@
+{
+  "id": "sorex-preblei",
+  "name": "Preble's shrew",
+  "scientificName": "Sorex preblei",
+  "wikibase_item": "Q1764039",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764039",
+    "wikipedia": "https://en.wikipedia.org/wiki/Preble's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Preble's shrew is a small shrew distributed across the Great Basin of the United States and southern British Columbia in Canada.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Preble%27s_Shrew_area.png"
+}

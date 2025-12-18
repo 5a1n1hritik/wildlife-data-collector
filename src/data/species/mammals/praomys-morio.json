@@ -1,0 +1,25 @@
+{
+  "id": "praomys-morio",
+  "name": "Cameroon soft-furred mouse",
+  "scientificName": "Praomys morio",
+  "wikibase_item": "Q1769690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameroon_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cameroon soft-furred mouse or Cameroon praomys is a species of rodent in the family Muridae.\nIt is found in Cameroon and Equatorial Guinea.\nIts natural habitat is subtropical or tropical moist montane forests.\nIt is threatened by habitat loss.",
+  "image": null
+}

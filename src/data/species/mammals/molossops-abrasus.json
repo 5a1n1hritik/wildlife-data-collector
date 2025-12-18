@@ -1,0 +1,22 @@
+{
+  "id": "molossops-abrasus",
+  "name": "Molossops abrasus",
+  "scientificName": "Molossops abrasus",
+  "wikibase_item": "Q10587812",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 581284,
+      "id": "Q581284"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10587812"
+  },
+  "lastUpdated": "2025-12-17"
+}

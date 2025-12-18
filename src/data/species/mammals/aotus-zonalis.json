@@ -1,0 +1,25 @@
+{
+  "id": "aotus-zonalis",
+  "name": "Panamanian night monkey",
+  "scientificName": "Aotus zonalis",
+  "wikibase_item": "Q1185098",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1185098",
+    "wikipedia": "https://en.wikipedia.org/wiki/Panamanian_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Panamanian night monkey or Chocoan night monkey is a species of night monkey formerly considered a subspecies of the gray-bellied night monkey of the family Aotidae. Its range consists of Panama and the Chocó region of Colombia. There are also unconfirmed reports of its occurrence in Costa Rica, especially on the Caribbean coast of Costa Rica. The species definitely occurs in the Atlantic lowlands of Panama close to the Costa Rica border.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Panamanian_night_monkey.jpg"
+}

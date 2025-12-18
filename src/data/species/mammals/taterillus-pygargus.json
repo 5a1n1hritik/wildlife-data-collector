@@ -1,0 +1,25 @@
+{
+  "id": "taterillus-pygargus",
+  "name": "Senegal gerbil",
+  "scientificName": "Taterillus pygargus",
+  "wikibase_item": "Q780086",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111842,
+      "id": "Q111842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q780086",
+    "wikipedia": "https://en.wikipedia.org/wiki/Senegal_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Senegal gerbil or Senegal tateril is a species of rodent found in Niger, Senegal, possibly Gambia, possibly Mali, and possibly Mauritania. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, arable land, pastureland, and rural gardens.",
+  "image": null
+}

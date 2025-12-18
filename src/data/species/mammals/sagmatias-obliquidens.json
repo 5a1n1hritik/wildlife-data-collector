@@ -1,0 +1,25 @@
+{
+  "id": "sagmatias-obliquidens",
+  "name": "Sagmatias obliquidens",
+  "scientificName": "Sagmatias obliquidens",
+  "wikibase_item": "Q125809858",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7399322,
+      "id": "Q7399322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125809858",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pacific_white-sided_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pacific white-sided dolphin, also known as the hookfin porpoise, is an active dolphin found in the cool or temperate waters of the North Pacific Ocean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pacific_white-sided_dolphins_%28Lagenorhynchus_obliquidens%29_NOAA.jpg"
+}

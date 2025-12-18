@@ -1,0 +1,25 @@
+{
+  "id": "kunsia-fronto",
+  "name": "Kunsia fronto",
+  "scientificName": "Kunsia fronto",
+  "wikibase_item": "Q307051",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 250535,
+      "id": "Q250535"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307051",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fossorial_giant_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fossorial giant rat is a species of rodent in the family Cricetidae. It is found in Argentina and Brazil but was determined extinct following a recent assessment of the conservation status of sigmodontine rodents. Its natural habitat is assumed to be dry savanna, but there have been no ecological details reported.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gyldenstolpia_fronto.jpg"
+}

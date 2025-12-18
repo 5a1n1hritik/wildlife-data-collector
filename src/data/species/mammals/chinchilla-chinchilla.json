@@ -1,0 +1,25 @@
+{
+  "id": "chinchilla-chinchilla",
+  "name": "Chinchilla chinchilla",
+  "scientificName": "Chinchilla chinchilla",
+  "wikibase_item": "Q666850",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 192930,
+      "id": "Q192930"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q666850",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_chinchilla"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-tailed chinchilla is a small rodent part of the Chinchillidae family and is classified as an endangered species by the IUCN. Originating in South America, the chinchilla is part of the genus Chinchilla, which is separated into two species: the long-tailed chinchilla and the short-tailed chinchilla. Although the short-tailed chinchilla used to be found in Chile, Argentina, Peru, and Bolivia, the geographical distribution of the species has since shifted. Today, the species remains extant in the Andes mountains of northern Chile, but small populations have been found in southern Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Chinchilla_brevicaudata.jpg"
+}

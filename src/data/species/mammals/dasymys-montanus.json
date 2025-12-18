@@ -1,0 +1,25 @@
+{
+  "id": "dasymys-montanus",
+  "name": "Montane Shaggy Rat",
+  "scientificName": "Dasymys montanus",
+  "wikibase_item": "Q306545",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306545",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_shaggy_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane shaggy rat is a species of rodent in the family Muridae.\nIt is found in Uganda and possibly Democratic Republic of the Congo.\nIts natural habitats are subtropical or tropical moist montane forest, subtropical or tropical high-altitude grassland, and swampland. It is threatened by habitat loss. In terms of appearance it is of moderate size compared to others in its genus Dasymys, with dark grey long, fine, hair. It has a fairly short tail compared to its size.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dasymys_Mullin_et_al_2004.png"
+}

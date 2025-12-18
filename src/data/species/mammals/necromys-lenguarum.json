@@ -1,0 +1,25 @@
+{
+  "id": "necromys-lenguarum",
+  "name": "Paraguayan bolo mouse",
+  "scientificName": "Necromys lenguarum",
+  "wikibase_item": "Q1765684",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765684",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paraguayan_bolo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Paraguayan bolo mouse or Paraguayan akodont is a species of rodent in the family Cricetidae. According to the IUCN, it is present in Bolivia, Paraguay, and Peru, and possibly also in Argentina and Brazil. It is found at elevations from 300 to 2,030 m in a variety of habitats, including cerrado, chaco, and heath pampas.",
+  "image": null
+}

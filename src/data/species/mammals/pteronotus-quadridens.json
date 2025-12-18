@@ -1,0 +1,25 @@
+{
+  "id": "pteronotus-quadridens",
+  "name": "Sooty Mustached Bat",
+  "scientificName": "Pteronotus quadridens",
+  "wikibase_item": "Q1832378",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11913680,
+      "id": "Q11913680"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832378",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sooty_mustached_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sooty mustached bat is a species of bat in the family Mormoopidae. It is found in throughout the Greater Antilles, in Cuba, Hispaniola, Jamaica, and Puerto Rico.",
+  "image": null
+}

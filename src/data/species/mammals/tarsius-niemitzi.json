@@ -1,0 +1,25 @@
+{
+  "id": "tarsius-niemitzi",
+  "name": "Tarsius niemitzi",
+  "scientificName": "Tarsius niemitzi",
+  "wikibase_item": "Q68678635",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68678635",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niemitz's_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Niemitz's tarsier is a species of tarsier. It was named in honor of the German evolutionary biologist Carsten Niemitz in 2019. He with his student Alexandra Nietsch were the first to systematically survey and identify possible taxonomic distinctiveness of the Togean's tarsiers population, reportedly based on a tip by Rolex Lameanda, an Indonesian government official. The species is found on an archipelago off the coast of Sulawesi called the Togian Islands in Central Sulawesi. Locally it is called bunsing, while Niemitz's tarsier has been suggested as the English common name.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tarsius_niemitzi.jpg"
+}

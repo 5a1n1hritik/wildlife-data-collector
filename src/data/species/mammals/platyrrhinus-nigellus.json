@@ -1,0 +1,22 @@
+{
+  "id": "platyrrhinus-nigellus",
+  "name": "Platyrrhinus nigellus",
+  "scientificName": "Platyrrhinus nigellus",
+  "wikibase_item": "Q14121320",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14121320"
+  },
+  "lastUpdated": "2025-12-17"
+}

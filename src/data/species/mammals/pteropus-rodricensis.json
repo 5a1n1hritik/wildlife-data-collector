@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-rodricensis",
+  "name": "Rodrigues flying fox",
+  "scientificName": "Pteropus rodricensis",
+  "wikibase_item": "Q1091763",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1091763",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodrigues_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Rodrigues flying fox or Rodrigues fruit bat is a species of bat in the family Pteropodidae, the flying foxes or fruit bats. It is endemic to Rodrigues, an island in the Indian Ocean belonging to Mauritius. Its natural habitat is tropical lowland forests. The bats are sociable, roost in large groups during the day and feed at night, squeezing the juice and flesh out of fruits. They are hunted by humans for food and their numbers have been dwindling, and the International Union for Conservation of Nature has rated the species as being \"endangered\". In an effort to preserve them from extinction, some bats have been caught and are being bred in various zoos around the world.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pteropus_rodricensis.jpg"
+}

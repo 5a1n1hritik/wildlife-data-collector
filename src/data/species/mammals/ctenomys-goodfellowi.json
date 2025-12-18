@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-goodfellowi",
+  "name": "Goodfellow's tuco-tuco",
+  "scientificName": "Ctenomys goodfellowi",
+  "wikibase_item": "Q1767591",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767591",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goodfellow's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goodfellow's tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Bolivia, where it is found in the Chiquitano dry forest ecoregion, bordering on the cerrado. Its karyotype has 2n = 46 and FN = 68. The species is named after British collector Walter Goodfellow.",
+  "image": null
+}

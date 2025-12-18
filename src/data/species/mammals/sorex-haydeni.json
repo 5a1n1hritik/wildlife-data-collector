@@ -1,0 +1,25 @@
+{
+  "id": "sorex-haydeni",
+  "name": "prairie shrew",
+  "scientificName": "Sorex haydeni",
+  "wikibase_item": "Q385332",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q385332",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prairie_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The prairie shrew is a small shrew found in the Canadian prairies and midwestern United States. At one time, this species was considered to be a subspecies of the similar cinereus shrew, S. cinereus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sorex_haydeni_96234211.jpg"
+}

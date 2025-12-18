@@ -1,0 +1,25 @@
+{
+  "id": "apomys-iridensis",
+  "name": "Apomys iridensis",
+  "scientificName": "Apomys iridensis",
+  "wikibase_item": "Q17620690",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134872,
+      "id": "Q134872"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17620690",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Irid_forest_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Irid forest mouse is a forest mouse endemic to Mount Irid in Luzon, Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Range_Apomys_iridensis.png"
+}

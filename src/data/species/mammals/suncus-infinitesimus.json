@@ -1,0 +1,25 @@
+{
+  "id": "suncus-infinitesimus",
+  "name": "Least Dwarf Shrew",
+  "scientificName": "Suncus infinitesimus",
+  "wikibase_item": "Q1762437",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762437",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_dwarf_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least dwarf shrew is a species of mammal in the family Soricidae. It is found in Cameroon, Central African Republic, Democratic Republic of the Congo, Kenya, Nigeria, South Africa, Eswatini, Tanzania, and Uganda. Its natural habitats are tropical or subtropical moist lowland and montane forests, dry grassland, and arable land.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Least_Dwarf_Shrew_area.png"
+}

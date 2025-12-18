@@ -1,0 +1,25 @@
+{
+  "id": "phyllotis-darwini",
+  "name": "Darwin's leaf-eared mouse",
+  "scientificName": "Phyllotis darwini",
+  "wikibase_item": "Q1768463",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768463",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darwin's_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Darwin's leaf-eared mouse is a species of rodent in the family Cricetidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Phyllotis_darwini.jpg"
+}

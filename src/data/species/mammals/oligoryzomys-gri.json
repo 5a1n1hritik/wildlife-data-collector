@@ -1,0 +1,22 @@
+{
+  "id": "oligoryzomys-gri",
+  "name": "Oligoryzomys gri",
+  "scientificName": "Oligoryzomys gri",
+  "wikibase_item": "Q128044466",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128044466"
+  },
+  "lastUpdated": "2025-12-17"
+}

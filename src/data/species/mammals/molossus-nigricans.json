@@ -1,0 +1,22 @@
+{
+  "id": "molossus-nigricans",
+  "name": "Molossus nigricans",
+  "scientificName": "Molossus nigricans",
+  "wikibase_item": "Q125897252",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1723019,
+      "id": "Q1723019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125897252"
+  },
+  "lastUpdated": "2025-12-17"
+}

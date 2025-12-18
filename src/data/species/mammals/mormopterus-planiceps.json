@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-planiceps",
+  "name": "Southern free-tailed bat",
+  "scientificName": "Mormopterus planiceps",
+  "wikibase_item": "Q1830860",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_planiceps"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ozimops planiceps is a small bat in the family Molossidae, native to Australia and Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Southern_Freetail_Bat_%28Mormopterus_planiceps%29.jpg"
+}

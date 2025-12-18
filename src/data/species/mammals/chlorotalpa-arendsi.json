@@ -1,0 +1,25 @@
+{
+  "id": "chlorotalpa-arendsi",
+  "name": "Chlorotalpa arendsi",
+  "scientificName": "Chlorotalpa arendsi",
+  "wikibase_item": "Q109647145",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135823,
+      "id": "Q135823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647145",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arends's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Arends' golden mole is a species of mammal in the family Chrysochloridae. It is found in Mozambique and Zimbabwe. Its natural habitats are temperate forests, subtropical or tropical dry, and moist montane forests, dry lowland grassland, arable land, pasture, plantations, rural gardens, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Arend%27s_Golden_Mole_area.png"
+}

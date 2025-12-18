@@ -1,0 +1,25 @@
+{
+  "id": "oxymycterus-caparoae",
+  "name": "Caparaó hocicudo",
+  "scientificName": "Oxymycterus caparoae",
+  "wikibase_item": "Q1768999",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768999",
+    "wikipedia": "https://en.wikipedia.org/wiki/Capara%C3%B3_hocicudo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caparaó hocicudo is a rodent species from South America. It is endemic to Brazil where it is found in the Pico da Bandeira mountain range.",
+  "image": null
+}

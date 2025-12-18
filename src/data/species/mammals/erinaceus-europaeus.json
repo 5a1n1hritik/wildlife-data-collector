@@ -1,0 +1,25 @@
+{
+  "id": "erinaceus-europaeus",
+  "name": "Western European hedgehog",
+  "scientificName": "Erinaceus europaeus",
+  "wikibase_item": "Q6145",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498993,
+      "id": "Q498993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6145",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European hedgehog, also known as the West European hedgehog or common hedgehog, is a hedgehog species native to Europe from Iberia and Italy northwards into Scandinavia and westwards into Ireland. It is a generally common and widely distributed species that can survive across a wide range of habitat types. It is a well-known species, and a favourite in European gardens, both for its endearing appearance and its preference for eating a range of garden pests. While populations are currently stable across much of its range, it is declining severely in Great Britain, where it is now Red Listed, meaning that it is considered to be at risk of local extinction. Outside its native range the species was introduced to New Zealand during the late nineteenth and early twentieth centuries.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Erinaceus_europaeus_LC0119.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-spinatus",
+  "name": "Perognathus spinatus",
+  "scientificName": "Perognathus spinatus",
+  "wikibase_item": "Q24808448",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24808448",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spiny_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spiny pocket mouse is a species of rodent in the family Heteromyidae and order Rodentia. It is found in Baja California in Mexico and in Arizona, California, and Nevada.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Spiny_Pocket_Mouse.jpg"
+}

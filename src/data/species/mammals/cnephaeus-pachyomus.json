@@ -1,0 +1,25 @@
+{
+  "id": "cnephaeus-pachyomus",
+  "name": "Cnephaeus pachyomus",
+  "scientificName": "Cnephaeus pachyomus",
+  "wikibase_item": "Q125424174",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125207648,
+      "id": "Q125207648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125424174",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oriental_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Oriental serotine is a species of bat in the family Vespertilionidae. It is widespread and found throughout Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eptesicus_pachyomus.jpg/1000px-Eptesicus_pachyomus.jpg"
+}

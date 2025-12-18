@@ -1,0 +1,25 @@
+{
+  "id": "akodon-philipmyersi",
+  "name": "Philip Myers' Akodont",
+  "scientificName": "Akodon philipmyersi",
+  "wikibase_item": "Q2248759",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2248759",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Myers's_akodont"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Philip Myers's akodont is a recently described species of grass mouse from Misiones Province, Argentina. Like other grass mice, A. philipmyersi is a small, non-descript, greyish-brown mouse with prominent ears. The species was recognized as distinct from other grass mice on the basis of unique features of karyology, genetic sequence, cranial measurements, and general morphology.",
+  "image": null
+}

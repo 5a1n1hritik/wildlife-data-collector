@@ -1,0 +1,25 @@
+{
+  "id": "felis-rubiginosa",
+  "name": "Felis rubiginosa",
+  "scientificName": "Felis rubiginosa",
+  "wikibase_item": "Q121781824",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121781824",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rusty-spotted_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rusty-spotted cat is one of the cat family's smallest members. It is native to India, Nepal and Sri Lanka. Since 2016, it has been listed as Near Threatened on the IUCN Red List as the global population is affected by loss and destruction of its prime habitat, deciduous forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rusty_spotted_cat_1.jpg"
+}

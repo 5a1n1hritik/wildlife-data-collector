@@ -1,0 +1,25 @@
+{
+  "id": "herpestes-fuscus",
+  "name": "Indian brown mongoose",
+  "scientificName": "Herpestes fuscus",
+  "wikibase_item": "Q1535110",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1535110",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_brown_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian brown mongoose or brown mongoose is a mongoose species native to the Western Ghats in India and the western coast in Sri Lanka and introduced to Fiji. It is listed as least concern on the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Indian_Brown_Mongoose.jpg"
+}

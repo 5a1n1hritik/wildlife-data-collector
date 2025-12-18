@@ -1,0 +1,25 @@
+{
+  "id": "canis-hyaena",
+  "name": "Canis hyaena",
+  "scientificName": "Canis hyaena",
+  "wikibase_item": "Q109647090",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647090",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_hyena"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped hyena is a species of hyena native to North and East Africa, the Middle East, the Caucasus, Central Asia, and the Indian subcontinent. It is the only extant species in the genus Hyaena. It is listed by the IUCN as near-threatened, as the global population is estimated to be under 10,000 mature individuals which continues to experience deliberate and incidental persecution along with a decrease in its prey base such that it may come close to meeting a continuing decline of 10% over the next three generations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Striped_hyena_%28Hyaena_hyaena%29_-_cropped.jpg"
+}

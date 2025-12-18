@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-darlingi",
+  "name": "Darling's horseshoe bat",
+  "scientificName": "Rhinolophus darlingi",
+  "wikibase_item": "Q1762534",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762534",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darling's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Darling's horseshoe bat is a species of bat in the family Rhinolophidae found in Africa. Its natural habitats are dry savanna, caves and other subterranean habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Darling%27s_Horseshoe_Bat_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tamias-rufus",
+  "name": "Tamias rufus",
+  "scientificName": "Tamias rufus",
+  "wikibase_item": "Q1762763",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762763",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hopi_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hopi chipmunk is a small chipmunk found in Colorado, Utah and Arizona in the southwestern United States. It was previously grouped with the Colorado chipmunk. This species is listed as \"Least Concern\" on the IUCN Red List as it is common, widespread, and without any major threats. It was last evaluated in 2016.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tamias-rufus-001.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-brandtii",
+  "name": "Myotis brandtii",
+  "scientificName": "Myotis brandtii",
+  "wikibase_item": "Q599519",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q599519",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandt's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Brandt's bat or Brandt's myotis is a species of vesper bat in the family Vespertilionidae. It is native to most of Europe and parts of western Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Myotis_brandti.jpg"
+}

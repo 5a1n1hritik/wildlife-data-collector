@@ -1,0 +1,25 @@
+{
+  "id": "myotis-secundus",
+  "name": "Myotis secundus",
+  "scientificName": "Myotis secundus",
+  "wikibase_item": "Q19515570",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19515570",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-toed_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-toed myotis or Taiwan long-toed myotis is a species of vesper bat endemic to Taiwan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Myotis_secundus-Paratype-1988.062-IMG_1347.JPG"
+}

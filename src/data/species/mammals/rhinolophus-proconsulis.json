@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-proconsulis",
+  "name": "Bornean woolly horseshoe bat",
+  "scientificName": "Rhinolophus proconsulis",
+  "wikibase_item": "Q48797258",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48797258",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornean_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bornean woolly horseshoe bat or Proconsul's horseshoe bat is an endangered species of horseshoe bat found on Borneo. Though it was discovered in 1959, it was not recognized as a distinct species until 2013.",
+  "image": null
+}

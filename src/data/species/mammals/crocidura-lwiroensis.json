@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-lwiroensis",
+  "name": "Crocidura lwiroensis",
+  "scientificName": "Crocidura lwiroensis",
+  "wikibase_item": "Q23498866",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23498866",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lwiro_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lwiro shrew or Misotshi-Kabogo shrew is a species of mammal in the family Soricidae. It is endemic to the Misotshi-Kabogo Massif, Democratic Republic of the Congo.",
+  "image": null
+}

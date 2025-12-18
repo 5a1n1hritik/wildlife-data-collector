@@ -1,0 +1,22 @@
+{
+  "id": "ssaccopteryx-bilineata",
+  "name": "Ssaccopteryx bilineata",
+  "scientificName": "Ssaccopteryx bilineata",
+  "wikibase_item": "Q41168081",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41158320,
+      "id": "Q41158320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168081"
+  },
+  "lastUpdated": "2025-12-17"
+}

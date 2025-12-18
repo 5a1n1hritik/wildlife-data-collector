@@ -1,0 +1,22 @@
+{
+  "id": "arvicanthis-planifrons",
+  "name": "Arvicanthis planifrons",
+  "scientificName": "Arvicanthis planifrons",
+  "wikibase_item": "Q125371284",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 277877,
+      "id": "Q277877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125371284"
+  },
+  "lastUpdated": "2025-12-17"
+}

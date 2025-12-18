@@ -1,0 +1,22 @@
+{
+  "id": "marmosa-budini",
+  "name": "Marmosa budini",
+  "scientificName": "Marmosa budini",
+  "wikibase_item": "Q41084665",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084665"
+  },
+  "lastUpdated": "2025-12-17"
+}

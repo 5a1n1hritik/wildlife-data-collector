@@ -1,0 +1,25 @@
+{
+  "id": "arctophoca-philippii",
+  "name": "Arctophoca philippii",
+  "scientificName": "Arctophoca philippii",
+  "wikibase_item": "Q24175383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5703256,
+      "id": "Q5703256"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24175383",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_fur_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Juan Fernández fur seal is the second smallest of the fur seals, second only to the Galápagos fur seal. They are found only on the Pacific Coast of South America, more specifically on the Juan Fernández Islands and the Desventuradas Islands. There is still much that is unknown about this species. Scientists still do not know the average life span of this species, or the diet and behavior of males apart from the breeding season.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Lobo_fino.jpg"
+}

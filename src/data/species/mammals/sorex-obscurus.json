@@ -1,0 +1,22 @@
+{
+  "id": "sorex-obscurus",
+  "name": "Sorex obscurus",
+  "scientificName": "Sorex obscurus",
+  "wikibase_item": "Q116439854",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116439854"
+  },
+  "lastUpdated": "2025-12-17"
+}

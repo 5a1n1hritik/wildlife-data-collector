@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-petrophilus",
+  "name": "Mormopterus petrophilus",
+  "scientificName": "Mormopterus petrophilus",
+  "wikibase_item": "Q22892602",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22892602",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberts's_flat-headed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Roberts's flat-headed bat is a species of free-tailed bat native to southern Africa. It is the only species in the genus Sauromys. The scientific name translates as \"rock loving lizard-mouse\", while the common name honours Austin Roberts, who first described the species.",
+  "image": null
+}

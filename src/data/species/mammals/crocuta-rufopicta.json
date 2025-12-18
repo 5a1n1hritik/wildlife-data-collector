@@ -1,0 +1,22 @@
+{
+  "id": "crocuta-rufopicta",
+  "name": "Crocuta rufopicta",
+  "scientificName": "Crocuta rufopicta",
+  "wikibase_item": "Q40418996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10750855,
+      "id": "Q10750855"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40418996"
+  },
+  "lastUpdated": "2025-12-17"
+}

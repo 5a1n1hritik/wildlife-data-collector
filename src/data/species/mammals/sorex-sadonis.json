@@ -1,0 +1,25 @@
+{
+  "id": "sorex-sadonis",
+  "name": "Sorex sadonis",
+  "scientificName": "Sorex sadonis",
+  "wikibase_item": "Q7398022",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7398022",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sado_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sado shrew is a subspecies of mammal in the family Soricidae. It is endemic to Japan, and more specifically, the Japanese island of Sado. Although it is sometimes referred to as its own species, more recent scholarship identifies it as a subspecies of the Shinto shrew. However, there are significant morphological differences between the species.",
+  "image": null
+}

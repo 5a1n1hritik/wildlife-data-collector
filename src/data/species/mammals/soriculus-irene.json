@@ -1,0 +1,22 @@
+{
+  "id": "soriculus-irene",
+  "name": "Soriculus irene",
+  "scientificName": "Soriculus irene",
+  "wikibase_item": "Q41168024",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10820244,
+      "id": "Q10820244"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168024"
+  },
+  "lastUpdated": "2025-12-17"
+}

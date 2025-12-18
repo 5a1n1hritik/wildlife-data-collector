@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-rylandsi",
+  "name": "Pithecia rylandsi",
+  "scientificName": "Pithecia rylandsi",
+  "wikibase_item": "Q21306286",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21306286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rylands'_bald-faced_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rylands' bald-faced saki is a disputed species of saki monkey, a type of New World monkey. It is found in Bolivia, Peru, and Brazil.",
+  "image": null
+}

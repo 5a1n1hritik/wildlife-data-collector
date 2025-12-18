@@ -1,0 +1,25 @@
+{
+  "id": "choeroniscus-periosus",
+  "name": "Greater long-tailed bat",
+  "scientificName": "Choeroniscus periosus",
+  "wikibase_item": "Q306864",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 138574,
+      "id": "Q138574"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306864",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_long-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater long-tailed bat is a species of bat in the family Phyllostomidae. It is found in Colombia and Ecuador.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Choeroniscus_periosus_map.png"
+}

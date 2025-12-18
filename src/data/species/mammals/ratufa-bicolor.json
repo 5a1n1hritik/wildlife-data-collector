@@ -1,0 +1,25 @@
+{
+  "id": "ratufa-bicolor",
+  "name": "Ratufa bicolor",
+  "scientificName": "Ratufa bicolor",
+  "wikibase_item": "Q917916",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858747,
+      "id": "Q858747"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q917916",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_giant_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black giant squirrel or Malayan giant squirrel is a large tree squirrel in the genus Ratufa native to the Indomalayan zootope. It is found in forests from northern Bangladesh, northeast India, eastern Nepal, Bhutan, southern China, Myanmar, Laos, Thailand, West Malaysia, Cambodia, Vietnam, and western Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ratufa_bicolor_6237.jpg"
+}

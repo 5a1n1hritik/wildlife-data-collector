@@ -1,0 +1,25 @@
+{
+  "id": "baiyankamys-shawmayeri",
+  "name": "Baiyankamys shawmayeri",
+  "scientificName": "Baiyankamys shawmayeri",
+  "wikibase_item": "Q21694364",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141993,
+      "id": "Q141993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21694364",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaw_Mayer's_water_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shaw Mayer's water rat is a semiaquatic species of rodent in the family Muridae.\nIt is found in the mountains of Papua New Guinea.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lasiurus-insularis",
+  "name": "Lasiurus insularis",
+  "scientificName": "Lasiurus insularis",
+  "wikibase_item": "Q3727751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19713822,
+      "id": "Q19713822"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3727751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuban_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cuban yellow bat is a species of bat from the family Vespertilioninae. It was previously included as a subspecies of the northern yellow bat, a species that has a similar ecology and biology. The species is endemic to Cuba, specifically the Las Villas Province in Cienfuegos, and it is listed under the IUCN Red List as vulnerable due to its ongoing population reduction and relatively small geographic range.",
+  "image": null
+}

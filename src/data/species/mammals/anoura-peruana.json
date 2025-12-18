@@ -1,0 +1,25 @@
+{
+  "id": "anoura-peruana",
+  "name": "Anoura peruana",
+  "scientificName": "Anoura peruana",
+  "wikibase_item": "Q42266333",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42266333",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anoura_peruana"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anoura peruana is a species of bat from Colombia and Peru. It was elevated to a species in 2010, after previously being considered a subspecies of Geoffroy's tailless bat. The females are larger than the males.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anoura_peruana_288756926.jpg"
+}

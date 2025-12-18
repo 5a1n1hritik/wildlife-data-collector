@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-damarensis",
+  "name": "Damara horseshoe bat",
+  "scientificName": "Rhinolophus damarensis",
+  "wikibase_item": "Q49560394",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q49560394",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damara_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Damara horseshoe bat, is a species of bat found in Africa.",
+  "image": null
+}

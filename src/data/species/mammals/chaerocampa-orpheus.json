@@ -1,0 +1,25 @@
+{
+  "id": "chaerocampa-orpheus",
+  "name": "Chaerocampa orpheus",
+  "scientificName": "Chaerocampa orpheus",
+  "wikibase_item": "Q25356711",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25398756,
+      "id": "Q25398756"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25356711",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theretra_orpheus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Theretra orpheus is a moth of the family Sphingidae. It is known from most of Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Theretra_orpheus_1894.jpg"
+}

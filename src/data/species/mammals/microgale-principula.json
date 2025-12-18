@@ -1,0 +1,25 @@
+{
+  "id": "microgale-principula",
+  "name": "Greater long-tailed shrew tenrec",
+  "scientificName": "Microgale principula",
+  "wikibase_item": "Q2110281",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1773950,
+      "id": "Q1773950"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2110281",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_long-tailed_shrew_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater long-tailed shrew tenrec is a species of mammal in the family Tenrecidae. It is endemic to Madagascar, where its natural habitats are subtropical or tropical moist forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Microgale_principula_range_map.svg/2324px-Microgale_principula_range_map.svg.png"
+}

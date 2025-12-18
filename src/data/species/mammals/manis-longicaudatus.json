@@ -1,0 +1,22 @@
+{
+  "id": "manis-longicaudatus",
+  "name": "Manis longicaudatus",
+  "scientificName": "Manis longicaudatus",
+  "wikibase_item": "Q41084634",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25397,
+      "id": "Q25397"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084634"
+  },
+  "lastUpdated": "2025-12-17"
+}

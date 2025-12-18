@@ -1,0 +1,22 @@
+{
+  "id": "arctomys-columbianus",
+  "name": "Arctomys columbianus",
+  "scientificName": "Arctomys columbianus",
+  "wikibase_item": "Q109646804",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24502341,
+      "id": "Q24502341"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646804"
+  },
+  "lastUpdated": "2025-12-17"
+}

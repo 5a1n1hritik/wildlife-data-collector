@@ -1,0 +1,25 @@
+{
+  "id": "petaurus-abidi",
+  "name": "Petaurus abidi",
+  "scientificName": "Petaurus abidi",
+  "wikibase_item": "Q209446",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209446",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern glider is a species of marsupial in the family Petauridae. It is endemic to Papua New Guinea, becoming known to science in 1981 after being discovered in the Torricelli Mountains. This species has been found in primary, mid-montane tropical moist forests. It is also known from rural gardens close to forest. The northern glider is Critically Endangered because its occurrence is less than 100 km2, all individuals are located within a single area, and a continuing decline of its habitat quality due to deforestation and human encroachment. They also face a major threat from hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Northern_Glider_area.png"
+}

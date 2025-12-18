@@ -1,0 +1,25 @@
+{
+  "id": "niviventer-hinpoon",
+  "name": "Limestone rat",
+  "scientificName": "Niviventer hinpoon",
+  "wikibase_item": "Q939985",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q939985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Limestone_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The limestone rat is a species of rodent in the family Muridae found only in the limestone karsts of Saraburi, Lopburi, Nakhon Sawan provinces, central Thailand. It is listed as an endangered species due to its highly fragmented limestone karst habitat that is currently threatened by mining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Range_Niviventer_hinpoon.png"
+}

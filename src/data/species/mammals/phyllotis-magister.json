@@ -1,0 +1,25 @@
+{
+  "id": "phyllotis-magister",
+  "name": "Master leaf-eared mouse",
+  "scientificName": "Phyllotis magister",
+  "wikibase_item": "Q1765283",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765283",
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The master leaf-eared mouse is a species of rodent in the family Cricetidae. \nIt is found in Chile and Peru.",
+  "image": null
+}

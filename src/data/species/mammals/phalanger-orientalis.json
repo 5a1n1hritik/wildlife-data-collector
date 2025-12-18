@@ -1,0 +1,25 @@
+{
+  "id": "phalanger-orientalis",
+  "name": "Northern common cuscus",
+  "scientificName": "Phalanger orientalis",
+  "wikibase_item": "Q209996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1413190,
+      "id": "Q1413190"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209996",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_common_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern common cuscus, also known as the gray cuscus, is a species of marsupial in the family Phalangeridae native to northern New Guinea and adjacent smaller islands, but is now also found in the Bismarck Archipelago, southeast and central Moluccas, the Solomons, and Timor, where it is believed to have been introduced in prehistoric times from New Guinea. It was formerly considered conspecific with the allopatric P. intercastellanus and P. mimicus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phalanger_orientalis_bbksda.webp/1152px-Phalanger_orientalis_bbksda.webp.png"
+}

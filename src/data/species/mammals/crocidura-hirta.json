@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-hirta",
+  "name": "Lesser Red Musk Shrew",
+  "scientificName": "Crocidura hirta",
+  "wikibase_item": "Q1762322",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762322",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_red_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser red musk shrew is a species of mammal in the family Soricidae. It is found in Angola, Botswana, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, and Zimbabwe. Its natural habitat are savanna, subtropical or tropical dry lowland grassland, and hot deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Crocidura_hirta_%28dead%29.jpg"
+}

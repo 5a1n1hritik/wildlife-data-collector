@@ -1,0 +1,25 @@
+{
+  "id": "kerivoula-africana",
+  "name": "Tanzanian Woolly Bat",
+  "scientificName": "Kerivoula africana",
+  "wikibase_item": "Q262219",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q262219",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanzanian_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tanzanian woolly bat or Dobson's painted bata is a species of vesper bat in the family Vespertilionidae.\nIt is found only in Tanzania. Locally, it is known as the \"popo\" or \"tunge\".",
+  "image": null
+}

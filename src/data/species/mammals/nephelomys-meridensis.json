@@ -1,0 +1,25 @@
+{
+  "id": "nephelomys-meridensis",
+  "name": "Nephelomys meridensis",
+  "scientificName": "Nephelomys meridensis",
+  "wikibase_item": "Q1765689",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765689",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_meridensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys meridensis, also known as the Mérida oryzomys, is a species of rodent in the genus Nephelomys of family Cricetidae. It is found in cloud forest in the Sierra Nevada de Mérida of western Venezuela at elevations from 1100 to 4000 m. It is solitary, nocturnal and terrestrial, and has a varied diet.",
+  "image": null
+}

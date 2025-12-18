@@ -1,0 +1,25 @@
+{
+  "id": "rhinopoma-microphyllum",
+  "name": "Greater Mouse-tailed Bat",
+  "scientificName": "Rhinopoma microphyllum",
+  "wikibase_item": "Q1830890",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913927,
+      "id": "Q913927"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830890",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_mouse-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater mouse-tailed bat is a species of bat in the Rhinopomatidae family.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Greater_Mouse_Tailed_bat_%28Rhinopoma_microphyllum%29.jpg"
+}

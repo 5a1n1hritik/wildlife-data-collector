@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-ignitus",
+  "name": "Bolivian squirrel",
+  "scientificName": "Sciurus ignitus",
+  "wikibase_item": "Q1762496",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762496",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bolivian_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bolivian squirrel is a tree squirrel that is endemic to South America. Little is known of the species, which may represent a species complex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sciurus_ignitus_%2819168910998%29_1.jpg"
+}

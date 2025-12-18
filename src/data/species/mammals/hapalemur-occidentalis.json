@@ -1,0 +1,25 @@
+{
+  "id": "hapalemur-occidentalis",
+  "name": "Hapalemur occidentalis",
+  "scientificName": "Hapalemur occidentalis",
+  "wikibase_item": "Q962570",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544028,
+      "id": "Q544028"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q962570",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_lesser_bamboo_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western lesser bamboo lemur, also known as the northern bamboo lemur, western gentle lemur, or Sambirano lesser bamboo lemur, is a species of bamboo lemur endemic to Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Hapalemur_occidentalis.jpg"
+}

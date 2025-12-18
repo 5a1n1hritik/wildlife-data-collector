@@ -1,0 +1,25 @@
+{
+  "id": "macrophyllum-macrophyllum",
+  "name": "Long-legged Bat",
+  "scientificName": "Macrophyllum macrophyllum",
+  "wikibase_item": "Q94458",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15402210,
+      "id": "Q15402210"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94458",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-legged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-legged bat is a member of the Phyllostomidae family in the order Chiroptera. Both males and females of this species are generally small, with wingspans reaching 80mm with an average weight ranging between 6 and 9 grams. The facial structure of these bats includes a shortened rostrum with a prominent noseleaf. The most defining feature of these bats however, is their long posterior limbs that extend further than most Phyllostomidae bats. At the ends of these hind legs, the long-legged bat has abnormally large feet equipped with strong claws.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Macrophyllum_macrophyllum.png"
+}

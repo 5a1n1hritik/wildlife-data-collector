@@ -1,0 +1,22 @@
+{
+  "id": "olisthomys-morrisi",
+  "name": "Olisthomys morrisi",
+  "scientificName": "Olisthomys morrisi",
+  "wikibase_item": "Q128047053",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 128047206,
+      "id": "Q128047206"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128047053"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lophostoma-silvicolum",
+  "name": "White-throated Round-eared Bat",
+  "scientificName": "Lophostoma silvicolum",
+  "wikibase_item": "Q1833096",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894193,
+      "id": "Q2894193"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833096",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-throated_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-throated round-eared bat is a bat species found from Honduras to Bolivia, Paraguay and Brazil. It creates roosts inside the nests of the termite, Nasutitermes corniger. It thrives on a mainly insect-based diet, focusing on the surfaces of foliage to hunt, and also eats fruit and pollen. It has a very wide range and is a common species over much of that range, so the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lophostoma_silvicolum_1847.jpg"
+}

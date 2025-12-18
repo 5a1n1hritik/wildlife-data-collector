@@ -1,0 +1,25 @@
+{
+  "id": "makalata-grandis",
+  "name": "Makalata grandis",
+  "scientificName": "Makalata grandis",
+  "wikibase_item": "Q27334988",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846012,
+      "id": "Q846012"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27334988",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_tree-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant tree-rat is a species in the family Echimyidae, the spiny rats. It is the only species in the monotypic genus Toromys. It is endemic to Brazil, where it occurs in the flooded forest along the banks of the Amazon River and its tributaries.",
+  "image": null
+}

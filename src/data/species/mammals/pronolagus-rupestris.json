@@ -1,0 +1,25 @@
+{
+  "id": "pronolagus-rupestris",
+  "name": "Pronolagus rupestris",
+  "scientificName": "Pronolagus rupestris",
+  "wikibase_item": "Q536459",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 685653,
+      "id": "Q685653"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q536459",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smith's_red_rock_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Smith's red rockhare, Smith's red rock hare or Smith's red rock rabbit is a species of mammal in the family Leporidae, and is the smallest member of the genus Pronolagus. The upperparts and gular collar are reddish brown in colour. It has warm, brown, grizzled, thicker hairs at the back of the body, and white to tawny, thinner underfur. It is native to Africa, found in parts of Kenya, Lesotho, Malawi, Namibia, South Africa, Tanzania, Zambia and Zimbabwe. It is a folivore, and usually forages on grasses, shrubs and herbs. It breeds from September to February, and the female litters one or two offspring. The young leave the nest at three years of age. In 1996, it was rated as a species of least concern on the IUCN Red List of Endangered Species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pronolagus_rupestris_102739992.jpg"
+}

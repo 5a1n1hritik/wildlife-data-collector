@@ -1,0 +1,25 @@
+{
+  "id": "dendrolagus-spadix",
+  "name": "Lowlands tree-kangaroo",
+  "scientificName": "Dendrolagus spadix",
+  "wikibase_item": "Q209127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209127",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lowlands_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lowlands tree-kangaroo, also spelt \"lowland,\" is a long-tailed, furry, bear-like mammal found only in lowland tropical rainforests on the island of New Guinea. It is a species of tree-kangaroo, which are tree-dwelling animals that feed on leaves or other plant matter. Tree-kangaroos are in the macropod family (Macropodidae) with kangaroos, and like other marsupials they carry their young in a pouch. The lowlands tree-kangaroo is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lowlands_Tree_Kangaroo_area.png"
+}

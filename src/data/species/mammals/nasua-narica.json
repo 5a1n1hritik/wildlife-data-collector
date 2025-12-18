@@ -1,0 +1,25 @@
+{
+  "id": "nasua-narica",
+  "name": "white-nosed coati",
+  "scientificName": "Nasua narica",
+  "wikibase_item": "Q754992",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148628,
+      "id": "Q148628"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754992",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-nosed_coati"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-nosed coati, also known as the coatimundi, is a species of coati and a member of the family Procyonidae. Local Spanish names for the species include antoon, gato solo, pizote, and tejón, depending upon the region. It weighs about 4–6 kg (8.8–13.2 lb), and the nose-to-tail length of the species is about 110 cm (3.6 ft) with about half of that being the tail length. However, small females can weigh as little as 3.1 kg (6.8 lb), while large males can weigh as much as 9 kg (20 lb).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/WNCoati_Alajuela_CR.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "podogymnura-intermedia",
+  "name": "Podogymnura intermedia",
+  "scientificName": "Podogymnura intermedia",
+  "wikibase_item": "Q116679760",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1091110,
+      "id": "Q1091110"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116679760",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Mindanao_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern Mindanao gymnure is a species of gymnure in the genus Podogymnura. It is known only from Mount Hamiguitan and Mount Kampalili, two mountains in the eastern part of the island of Mindanao in the Philippines. It was first named in 2023 by a team of researchers led by Danilo Balete.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Podogymnura_intermedia.jpg"
+}

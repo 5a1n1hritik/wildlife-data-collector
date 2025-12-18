@@ -1,0 +1,25 @@
+{
+  "id": "notomys-aquilo",
+  "name": "Northern hopping mouse",
+  "scientificName": "Notomys aquilo",
+  "wikibase_item": "Q199308",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 782974,
+      "id": "Q782974"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q199308",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_hopping_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern hopping mouse is a species of rodent in the family Muridae. It is also known as woorrentinta, from Lardil, the language of Mornington Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Nhm_groote.jpg"
+}

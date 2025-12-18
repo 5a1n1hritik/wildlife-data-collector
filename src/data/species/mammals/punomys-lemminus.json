@@ -1,0 +1,25 @@
+{
+  "id": "punomys-lemminus",
+  "name": "Puna Mouse",
+  "scientificName": "Punomys lemminus",
+  "wikibase_item": "Q1769548",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544061,
+      "id": "Q544061"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769548",
+    "wikipedia": "https://en.wikipedia.org/wiki/Puna_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The puna mouse is a species of rodent in the family Cricetidae.",
+  "image": null
+}

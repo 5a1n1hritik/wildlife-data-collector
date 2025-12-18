@@ -1,0 +1,22 @@
+{
+  "id": "canis-karagan",
+  "name": "Canis karagan",
+  "scientificName": "Canis karagan",
+  "wikibase_item": "Q122650471",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122650471"
+  },
+  "lastUpdated": "2025-12-17"
+}

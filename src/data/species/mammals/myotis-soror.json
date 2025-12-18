@@ -1,0 +1,25 @@
+{
+  "id": "myotis-soror",
+  "name": "Myotis soror",
+  "scientificName": "Myotis soror",
+  "wikibase_item": "Q19515610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19515610",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reddish_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The reddish myotis is a species of vesper bat. It is endemic to Taiwan.",
+  "image": null
+}

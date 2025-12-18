@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-fundatus",
+  "name": "Pteropus fundatus",
+  "scientificName": "Pteropus fundatus",
+  "wikibase_item": "Q1769077",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769077",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banks_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Banks flying fox is a species of megabat in the family Pteropodidae. It is endemic to Vanuatu. Its natural habitats are subtropical or tropical dry forests and subtropical or tropical swamps. These small fruit bats are about 15 cm. long with grey and brown on its head and back with a yellow-orange neck and yellow-gray bellies. Its diet consists of coconut flowers and Vaveli trees fruit since its home is tropical.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Banks_Flying_Fox_area.png"
+}

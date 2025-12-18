@@ -1,0 +1,25 @@
+{
+  "id": "baiomys-musculus",
+  "name": "Baiomys musculus",
+  "scientificName": "Baiomys musculus",
+  "wikibase_item": "Q131423022",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469583,
+      "id": "Q469583"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131423022",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_pygmy_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican pygmy mouse is a species of rodent native to Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Baiomys_musculus_72816750_%28cropped%29.jpg"
+}

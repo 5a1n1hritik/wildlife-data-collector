@@ -1,0 +1,25 @@
+{
+  "id": "micropteropus-intermedius",
+  "name": "Hayman's dwarf epauletted fruit bat",
+  "scientificName": "Micropteropus intermedius",
+  "wikibase_item": "Q1762693",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2541034,
+      "id": "Q2541034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762693",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayman's_dwarf_epauletted_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hayman's dwarf epauletted fruit bat or Hayman's epauletted fruit bat is a species of megabat in the family Pteropodidae. It is found in Angola and Democratic Republic of the Congo. Its natural habitats are subtropical or tropical moist lowland forest and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hayman%27s_Dwarf_Epauletted_Fruit_Bat_area.png"
+}

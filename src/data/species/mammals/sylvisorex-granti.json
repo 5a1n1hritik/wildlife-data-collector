@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-granti",
+  "name": "Grant's Forest Shrew",
+  "scientificName": "Sylvisorex granti",
+  "wikibase_item": "Q1764066",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764066",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grant's_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grant's forest shrew is a species of mammal in the family Soricidae found in the mountain forests of central Democratic Republic of the Congo, Kenya, Rwanda, Tanzania, and Uganda. Its natural habitat is subtropical or tropical moist montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Grant%27s_Forest_Shrew_area.png"
+}

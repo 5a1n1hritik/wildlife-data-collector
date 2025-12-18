@@ -1,0 +1,25 @@
+{
+  "id": "trinomys-myosuros",
+  "name": "Mouse-tailed Atlantic Spiny-rat",
+  "scientificName": "Trinomys myosuros",
+  "wikibase_item": "Q1768308",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768308",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mouse-tailed_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mouse-tailed Atlantic spiny-rat is a spiny rat species from South America. It is found in Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Loncheres_myosurus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20600135.tif/lossy-page1-3521px-Loncheres_myosurus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20600135.tif.jpg"
+}

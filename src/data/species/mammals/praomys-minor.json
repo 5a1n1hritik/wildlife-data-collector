@@ -1,0 +1,25 @@
+{
+  "id": "praomys-minor",
+  "name": "Least soft-furred mouse",
+  "scientificName": "Praomys minor",
+  "wikibase_item": "Q1769664",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769664",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_soft-furred_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least soft-furred mouse or least praomys is a species of rodent in the family Muridae.\nIt is found only in Democratic Republic of the Congo.\nIts natural habitat is subtropical or tropical moist lowland forest.",
+  "image": null
+}

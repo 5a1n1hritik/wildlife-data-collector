@@ -1,0 +1,25 @@
+{
+  "id": "felis-yagouaroundi",
+  "name": "Felis yagouaroundi",
+  "scientificName": "Felis yagouaroundi",
+  "wikibase_item": "Q27450875",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27450875",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaguarundi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The jaguarundi ; or is a wild cat native to the Americas. Its range extends from central Argentina in the south to northern Mexico, through Central and South America east of the Andes. The jaguarundi is a medium-sized cat of slender build. Its coloration is uniform with two color morphs, gray and red. It has an elongated body, with relatively short legs, a small, narrow head, small, round ears, a short snout, and a long tail, resembling mustelids in these respects. It is about twice as large as a domestic cat, reaching nearly 360 mm (14 in) at the shoulder, and weighs 3.5–7 kg (7.7–15.4 lb).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Puma_yagouaroundi.jpg"
+}

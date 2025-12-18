@@ -1,0 +1,25 @@
+{
+  "id": "macroderma-gigas",
+  "name": "ghost bat",
+  "scientificName": "Macroderma gigas",
+  "wikibase_item": "Q301371",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17379642,
+      "id": "Q17379642"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301371",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ghost bat is a species of bat found in northern Australia. It is the only Australian bat that preys on large vertebrates – birds, reptiles and other mammals – which they detect using acute sight and hearing, combined with echolocation, while waiting in ambush at a perch. The wing membrane and bare skin is pale in colour, their fur is light or dark grey over the back and paler at the front. The species has a prominent and simple nose-leaf, with large elongated ears that are joined at the lower half, sharp teeth for attacking prey and large dark eyes.\nThe first description of the species was published in 1880, since when its recorded range has significantly contracted.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/%281%29Ghost_Bat_078.jpg"
+}

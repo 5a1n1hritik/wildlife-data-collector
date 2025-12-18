@@ -1,0 +1,25 @@
+{
+  "id": "lepus-tibetanus",
+  "name": "desert hare",
+  "scientificName": "Lepus tibetanus",
+  "wikibase_item": "Q311584",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3922539,
+      "id": "Q3922539"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q311584",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert hare is a species of hare found in Central Asia, Northwest China, and the western Indian subcontinent. Little is known about this species except that it inhabits grassland and scrub areas of desert and semi-desert. The International Union for Conservation of Nature has assessed its conservation status as being of \"least concern.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lepus_tibetanus_293287662.jpg"
+}

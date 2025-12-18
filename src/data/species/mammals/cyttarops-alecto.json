@@ -1,0 +1,25 @@
+{
+  "id": "cyttarops-alecto",
+  "name": "Short-eared bat",
+  "scientificName": "Cyttarops",
+  "wikibase_item": "Q301357",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10751540,
+      "id": "Q10751540"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301357",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-eared bat is a bat species found in Brazil, Costa Rica, Guyana and Nicaragua. It is the only species within its genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Short-eared_Bat_area.png"
+}

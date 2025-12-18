@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-rueppellii",
+  "name": "Rüppell's Pipistrelle",
+  "scientificName": "Pipistrellus rueppellii",
+  "wikibase_item": "Q558039",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558039",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCppell's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rüppell's bat, also known as Rüppell's pipistrelle, is a species of vesper bat found in Africa and Asian republics such as Iraq and Israel. It is the only member of the genus Vansonia. It is found in dry and moist savanna, subtropical or tropical dry shrubland, and hot deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Pipistrellus_rueppellii.png"
+}

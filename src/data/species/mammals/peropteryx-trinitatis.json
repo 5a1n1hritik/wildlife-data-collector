@@ -1,0 +1,25 @@
+{
+  "id": "peropteryx-trinitatis",
+  "name": "Trinidad dog-like bat",
+  "scientificName": "Peropteryx trinitatis",
+  "wikibase_item": "Q339158",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11941294,
+      "id": "Q11941294"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q339158",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trinidad_dog-like_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Trinidad dog-like bat is a species of bat from the family Emballonuridae. It is native to Aruba, French Guiana, Grenada, Trinidad and Tobago, and Venezuela. The bat is considered to be rare everywhere in its geographic range, although this may be untrue, as the Trinidad dog-like bat was previously confused with the lesser dog-like bat. It is an aerial insectivore that roosts in hollow trees, hollow rotten logs on the ground, under overhanging banks, and caves in the Llanos of Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Peropteryx_trinitatis_2.jpg"
+}

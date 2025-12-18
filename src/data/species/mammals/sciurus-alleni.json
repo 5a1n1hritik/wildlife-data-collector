@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-alleni",
+  "name": "Allen's squirrel",
+  "scientificName": "Sciurus alleni",
+  "wikibase_item": "Q1763836",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763836",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Allen's squirrel is a tree squirrel in the genus Sciurus endemic to northern Mexico. It has no recognised subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ardilla_de_Allen_-_panoramio.jpg"
+}

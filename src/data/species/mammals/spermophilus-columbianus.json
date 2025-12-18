@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-columbianus",
+  "name": "Spermophilus columbianus",
+  "scientificName": "Spermophilus columbianus",
+  "wikibase_item": "Q1767988",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767988",
+    "wikipedia": "https://en.wikipedia.org/wiki/Columbian_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Columbian ground squirrel is a species of rodent common in certain regions of Canada and the northwestern United States. It is the second largest member of the genus Urocitellus, which is part of the tribe Marmotini, along with marmots, chipmunks, prairie dogs, and other holarctic ground squirrels. They are stout, with short dense fur, which is characteristically tawny across the bridge of the nose. Social encounters sometimes are initiated with kissing behavior and the most common activity above ground is standing at attention. Residing in mountainous terrain and high plains in northern latitudes, they hibernate for 8 to 9 months of the year in burrows, which may be used for many years. They are emaciated when emerging in the spring. The Columbian ground squirrel came to the attention of the scientific community through writings produced by Lewis and Clark, while 21st century molecular genetics has more finely illuminated its ties with other close relatives.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Urocitellus_columbianus_Alberta_Martybugs.jpg"
+}

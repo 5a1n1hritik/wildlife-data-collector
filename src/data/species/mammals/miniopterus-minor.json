@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-minor",
+  "name": "Least long-fingered bat",
+  "scientificName": "Miniopterus minor",
+  "wikibase_item": "Q2118479",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2118479",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least long-fingered bat is a species of vesper bat in the family Miniopteridae. It can be found in the Republic of the Congo, the Democratic Republic of the Congo, Kenya, São Tomé and Príncipe, and Tanzania.",
+  "image": null
+}

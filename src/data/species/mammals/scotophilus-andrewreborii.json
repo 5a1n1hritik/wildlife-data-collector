@@ -1,0 +1,25 @@
+{
+  "id": "scotophilus-andrewreborii",
+  "name": "Scotophilus andrewreborii",
+  "scientificName": "Scotophilus andrewreborii",
+  "wikibase_item": "Q17652200",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845869,
+      "id": "Q845869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17652200",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Rebori's_house_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andrew Rebori's house bat is a species of bat found in Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Distribution_of_Scotophilus_andrewreborii.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-mehelyi",
+  "name": "Mehely's Horseshoe Bat",
+  "scientificName": "Rhinolophus mehelyi",
+  "wikibase_item": "Q1339272",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1339272",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehely's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mehely's horseshoe bat is a species of insectivorous bat in the family Rhinolophidae found in Southern Europe and parts of the Middle East. It is distributed in a narrow band around the Mediterranean Sea from North-Western Africa across Portugal, Spain, the Balearics, southern France, Sardinia, Sicily and the Balkan Peninsula to Asia Minor.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rhinolophus_mehelyi-cropped.jpg"
+}

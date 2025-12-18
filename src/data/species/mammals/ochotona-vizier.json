@@ -1,0 +1,22 @@
+{
+  "id": "ochotona-vizier",
+  "name": "Ochotona vizier",
+  "scientificName": "Ochotona vizier",
+  "wikibase_item": "Q125253395",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 184067,
+      "id": "Q184067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125253395"
+  },
+  "lastUpdated": "2025-12-17"
+}

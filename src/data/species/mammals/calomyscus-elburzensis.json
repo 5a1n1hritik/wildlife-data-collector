@@ -1,0 +1,25 @@
+{
+  "id": "calomyscus-elburzensis",
+  "name": "Calomyscus elburzensis",
+  "scientificName": "Calomyscus elburzensis",
+  "wikibase_item": "Q1764147",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764147",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goodwin's_brush-tailed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goodwin's brush-tailed mouse, also known as Goodwin's calomyscus, is a species of mouse-like hamster. It is found in rocky areas in mountains of northeastern and northern Iran, western Afghanistan, and southern Turkmenistan.",
+  "image": null
+}

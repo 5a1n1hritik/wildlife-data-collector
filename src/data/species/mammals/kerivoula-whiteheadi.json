@@ -1,0 +1,25 @@
+{
+  "id": "kerivoula-whiteheadi",
+  "name": "Whitehead's woolly bat",
+  "scientificName": "Kerivoula whiteheadi",
+  "wikibase_item": "Q649709",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q649709",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitehead's_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Whitehead's woolly bat is a species of vesper bat in the family Vespertilionidae.\nIt is found in Brunei, Indonesia, Malaysia, the Philippines, and Thailand.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kerivoula_whiteheadi.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "murexia-rothschildi",
+  "name": "Murexia rothschildi",
+  "scientificName": "Murexia rothschildi",
+  "wikibase_item": "Q28174528",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1980545,
+      "id": "Q1980545"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28174528",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-striped_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-striped dasyure is a species of marsupial in the family Dasyuridae. It is endemic to Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Broad-striped_Dasyure_area.png"
+}

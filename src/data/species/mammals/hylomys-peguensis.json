@@ -1,0 +1,25 @@
+{
+  "id": "hylomys-peguensis",
+  "name": "Hylomys peguensis",
+  "scientificName": "Hylomys peguensis",
+  "wikibase_item": "Q124056117",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1392810,
+      "id": "Q1392810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124056117",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_short-tailed_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern short-tailed gymnure is a gymnure in China, Thailand, Laos, Vietnam, Cambodia, Myanmar, and peninsular Malaysia. It was previously recognized as a subspecies of H. suillus, but now is regarded as a full species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hylomys_peguensis2.jpg"
+}

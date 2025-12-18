@@ -1,0 +1,25 @@
+{
+  "id": "eliomys-melanurus",
+  "name": "Asian Garden Dormouse",
+  "scientificName": "Eliomys melanurus",
+  "wikibase_item": "Q1751843",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 617587,
+      "id": "Q617587"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1751843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_garden_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian garden dormouse or large-eared garden dormouse, is a species of rodent in the family Gliridae. It is found in Egypt, Iraq, Israel, Jordan, Lebanon, Libya, Saudi Arabia, Syria and Turkey.\nIts natural habitats are temperate forests, subtropical or tropical dry shrubland, Mediterranean-type shrubby vegetation, rocky areas and gardens.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Frankfurt_Zoo_-_Desert_Dormouse.jpg"
+}

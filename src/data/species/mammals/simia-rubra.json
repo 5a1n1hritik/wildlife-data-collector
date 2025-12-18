@@ -1,0 +1,22 @@
+{
+  "id": "simia-rubra",
+  "name": "Simia rubra",
+  "scientificName": "Simia rubra",
+  "wikibase_item": "Q122624487",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1427112,
+      "id": "Q1427112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122624487"
+  },
+  "lastUpdated": "2025-12-17"
+}

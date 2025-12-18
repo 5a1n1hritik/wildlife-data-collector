@@ -1,0 +1,22 @@
+{
+  "id": "otaria-jubata",
+  "name": "Otaria jubata",
+  "scientificName": "Otaria jubata",
+  "wikibase_item": "Q122828778",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817140,
+      "id": "Q19817140"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122828778"
+  },
+  "lastUpdated": "2025-12-17"
+}

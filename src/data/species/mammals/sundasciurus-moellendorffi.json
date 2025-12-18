@@ -1,0 +1,25 @@
+{
+  "id": "sundasciurus-moellendorffi",
+  "name": "Culion tree squirrel",
+  "scientificName": "Sundasciurus moellendorffi",
+  "wikibase_item": "Q1764974",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764974",
+    "wikipedia": "https://en.wikipedia.org/wiki/Culion_tree_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Culion tree squirrel is a species of rodent in the family Sciuridae. It is endemic to the Philippines. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Range_Sundasciurus_moellendorffi.png"
+}

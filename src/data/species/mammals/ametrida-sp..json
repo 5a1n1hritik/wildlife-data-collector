@@ -1,0 +1,22 @@
+{
+  "id": "ametrida-sp.",
+  "name": "Ametrida sp.",
+  "scientificName": "Ametrida sp.",
+  "wikibase_item": "Q41080220",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11078080,
+      "id": "Q11078080"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080220"
+  },
+  "lastUpdated": "2025-12-17"
+}

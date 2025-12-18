@@ -1,0 +1,25 @@
+{
+  "id": "centurio-senex",
+  "name": "wrinkle-faced bat",
+  "scientificName": "Centurio senex",
+  "wikibase_item": "Q301611",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15093368,
+      "id": "Q15093368"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301611",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wrinkle-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The wrinkle-faced bat is a species of bat in the family Phyllostomidae and the only identified member of the genus Centurio. This bat is found in various countries in and around Central America. It eats fruit but is not classified within the fruit bats, and is instead classified as a leaf-nosed bat even though it does not have a leaf nose. It has an unusually shaped skull which is thought to allow it to eat a wider range of foods than other bats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Centurio_senex.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-fumeus",
+  "name": "Smoky mouse",
+  "scientificName": "Pseudomys fumeus",
+  "wikibase_item": "Q1765364",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765364",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smoky_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The smoky mouse is a species of rodent in the family Muridae native to southeastern Australia. It was first described in 1934 and its species name is Latin for \"smoky\". As its name suggests, it is a grey-furred mouse, darker grey above and paler smoky grey below. Mice from the Grampians are larger and a darker more slate-grey above. It has a black eye-ring and dark grey muzzle. The feet are light pink, and the ears a grey-pink. The tail is longer than the mouse's body, and is pink with a brownish stripe along the top. Mice from east of Melbourne average around 35 grams and have 107 mm long bodies with 116 mm long tails, while those from the Grampians are around 65 grams and have 122 mm long bodies with 132 mm long tails.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pseudomys_fumeus%2C_Smoky_Mouse%2C_Grampians_National_Park%2C_Victoria_03.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "microtus-nebrodensis",
+  "name": "Microtus nebrodensis",
+  "scientificName": "Microtus nebrodensis",
+  "wikibase_item": "Q117265357",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117265357",
+    "wikipedia": "https://en.wikipedia.org/wiki/Savi's_pine_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Savi's pine vole is a species of rodent in the family Cricetidae, widespread across the Italian peninsula with limited populations in southern France and southern Switzerland. This herbivorous mammal primarily inhabits agroecosystems, including rural areas, orchards, meadows, and agricultural fields, constructing complex burrow systems about 40–50 cm deep. Although its taxonomy remains debated, with proposed subspecies and recent genetic studies suggesting significant divergence between populations, it is recognized as a distinct species from the closely related Microtus brachycercus. Savi's pine vole is known for its ecological impact on agriculture, causing substantial damage to vegetable crops and fruit trees through root consumption and trunk debarking, while serving as a prey species for various predators including owls, kestrels, weasels, and foxes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Microtus_savii.JPG"
+}

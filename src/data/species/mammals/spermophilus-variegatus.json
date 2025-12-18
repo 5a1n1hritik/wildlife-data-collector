@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-variegatus",
+  "name": "Rock squirrel",
+  "scientificName": "Spermophilus variegatus",
+  "wikibase_item": "Q1404317",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1404317",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rock squirrel is a species of rodent in the family Sciuridae. It is native to Mexico and the Southwestern United States, including southern Nevada, Utah, Colorado, Arizona, New Mexico, West Texas, and the panhandle of Oklahoma.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Spermophilus_variegatus.jpg"
+}

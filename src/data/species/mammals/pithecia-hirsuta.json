@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-hirsuta",
+  "name": "Pithecia hirsuta",
+  "scientificName": "Pithecia hirsuta",
+  "wikibase_item": "Q25384584",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25384584",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy saki is a species of saki monkey, a type of New World monkey. It is found in northern Peru, southern Colombia, and a small portion of northwestern Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pithecia_hirsuta.jpg"
+}

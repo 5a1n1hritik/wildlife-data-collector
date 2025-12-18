@@ -1,0 +1,25 @@
+{
+  "id": "trichys-fasciculata",
+  "name": "Long-tailed porcupine",
+  "scientificName": "Trichys fasciculata",
+  "wikibase_item": "Q949010",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10827991,
+      "id": "Q10827991"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q949010",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_porcupine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed porcupine is a species of rodent in the family Hystricidae. It is a brown, rat-like animal covered in bristles except for its head and underneath its body. Its long tail can fall off when grabbed by predators, but does not grow back. It is the only species in the genus Trichys, and is found in Brunei, Indonesia, and Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Long-tailed_Porcupine%2C_Keningau%2C_MY-SA%2C_MY_imported_from_iNaturalist_photo_529916299.jpg"
+}

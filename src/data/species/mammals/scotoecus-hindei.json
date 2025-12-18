@@ -1,0 +1,25 @@
+{
+  "id": "scotoecus-hindei",
+  "name": "Hinde's lesser house bat",
+  "scientificName": "Scotoecus hindei",
+  "wikibase_item": "Q1834182",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845860,
+      "id": "Q845860"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834182",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hinde's_lesser_house_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hinde's lesser house bat is a species of vesper bat. It is found in Cameroon, Republic of the Congo, Kenya, Malawi, Mozambique, Nigeria, Somalia, South Sudan, Tanzania, and Zambia. Its natural habitat is dry savanna. Oldfield Thomas named it in honor of Sidney Langford Hinde, a British officer and recreational naturalist.",
+  "image": null
+}

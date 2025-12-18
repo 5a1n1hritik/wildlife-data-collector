@@ -1,0 +1,22 @@
+{
+  "id": "abromys-lordi",
+  "name": "Abromys lordi",
+  "scientificName": "Abromys lordi",
+  "wikibase_item": "Q24809553",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 24809546,
+      "id": "Q24809546"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24809553"
+  },
+  "lastUpdated": "2025-12-17"
+}

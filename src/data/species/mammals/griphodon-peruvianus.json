@@ -1,0 +1,22 @@
+{
+  "id": "griphodon-peruvianus",
+  "name": "Griphodon peruvianus",
+  "scientificName": "Griphodon peruvianus",
+  "wikibase_item": "Q55760696",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 55760714,
+      "id": "Q55760714"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55760696"
+  },
+  "lastUpdated": "2025-12-17"
+}

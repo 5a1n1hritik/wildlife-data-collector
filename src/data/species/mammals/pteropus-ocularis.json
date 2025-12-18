@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-ocularis",
+  "name": "Pteropus ocularis",
+  "scientificName": "Pteropus ocularis",
+  "wikibase_item": "Q630368",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q630368",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ceram_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ceram fruit bat or Seram flying fox is a species of megabat in the family Pteropodidae. It is endemic to the mountainous forests of two Maluku islands, Buru and Seram, including the Manusela National Park on Seram. They were once present on the nearby Ambon Island, but probably not anymore. The habitat has an area of less than 20,000 km2, and is decreasing due to logging. For this reason, and because of hunting by the local population, these species are listed as vulnerable by the IUCN since 1996.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pteropus_ocularis_illustration.jpg"
+}

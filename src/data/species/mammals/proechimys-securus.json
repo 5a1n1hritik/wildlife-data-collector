@@ -1,0 +1,22 @@
+{
+  "id": "proechimys-securus",
+  "name": "Proechimys securus",
+  "scientificName": "Proechimys securus",
+  "wikibase_item": "Q41015761",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41015761"
+  },
+  "lastUpdated": "2025-12-17"
+}

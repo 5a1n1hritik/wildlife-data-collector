@@ -1,0 +1,25 @@
+{
+  "id": "talpa-ognevi",
+  "name": "Talpa ognevi",
+  "scientificName": "Talpa ognevi",
+  "wikibase_item": "Q93946410",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q93946410",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ognev's_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ognev's mole is a species of mammal in the family Talpidae. It occurs in the southeastern coastal area of the Black Sea from northeastern Turkey to Georgia. It inhabits different habitats associated with moist soils in lowland areas. Little information is available about its life history.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Talpa_ognevi_distribution_map.svg/960px-Talpa_ognevi_distribution_map.svg.png"
+}

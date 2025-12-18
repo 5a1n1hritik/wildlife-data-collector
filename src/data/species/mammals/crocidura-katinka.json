@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-katinka",
+  "name": "Katinka's Shrew",
+  "scientificName": "Crocidura katinka",
+  "wikibase_item": "Q1768226",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768226",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katinka's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Katinka's shrew is a species of mammal in the family Soricidae. It has been recorded from Israel, Syria, and Palestine, but it may now be extinct in Israel. It may also be present in southwestern Iran.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Katinka%27s_Shrew_area.png"
+}

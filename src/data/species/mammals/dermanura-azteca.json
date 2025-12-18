@@ -1,0 +1,25 @@
+{
+  "id": "dermanura-azteca",
+  "name": "Dermanura azteca",
+  "scientificName": "Dermanura azteca",
+  "wikibase_item": "Q28154653",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5262681,
+      "id": "Q5262681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28154653",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aztec_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Aztec fruit-eating bat is a species of bat in the family Phyllostomidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Artibeus_aztecus_map.png"
+}

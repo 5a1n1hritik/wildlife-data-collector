@@ -1,0 +1,25 @@
+{
+  "id": "plecotus-homochrous",
+  "name": "Plecotus homochrous",
+  "scientificName": "Plecotus homochrous",
+  "wikibase_item": "Q2300438",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279869,
+      "id": "Q279869"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2300438",
+    "wikipedia": "https://en.wikipedia.org/wiki/Himalayan_long-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Himalayan long-eared bat, also known as Hodgson's long-eared bat, is a species of bat in the family Vespertilionidae. It is ranges from the Indian subcontinent east to China and south to Vietnam.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "niviventer-fulvescens",
+  "name": "Chestnut white-bellied rat",
+  "scientificName": "Niviventer fulvescens",
+  "wikibase_item": "Q2222261",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2222261",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chestnut_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chestnut white-bellied rat is a species of rodent in the family Muridae.\nIt is a small rodent with a distinct bright chestnut upper-coat and a white under-coat. The colour of the upper-coat is variable from very bright to a duller brown. The side of the body has a distinct margin where the upper and the under-coat meet. The upper-side of the tail is mostly brownish whereas the underside is whitish to flesh coloured. The species is mostly found in disturbed and undisturbed forest habitat. The species is known to scatter-hoard seeds in forests of eastern Himalayas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Niviventer_fulvescens_HS_2108.jpg"
+}

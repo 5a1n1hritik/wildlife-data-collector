@@ -1,0 +1,25 @@
+{
+  "id": "dendrogale-melanura",
+  "name": "Bornean smooth-tailed treeshrew",
+  "scientificName": "Dendrogale melanura",
+  "wikibase_item": "Q1766607",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 820361,
+      "id": "Q820361"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766607",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornean_smooth-tailed_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bornean smooth-tailed treeshrew is a species of treeshrew in the family Tupaiidae. It is endemic to Borneo. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bornean_Smooth-tailed_Treeshrew_area.png"
+}

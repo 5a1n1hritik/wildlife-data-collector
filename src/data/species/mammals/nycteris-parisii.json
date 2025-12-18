@@ -1,0 +1,25 @@
+{
+  "id": "nycteris-parisii",
+  "name": "Parissi's Slit-Faced Bat",
+  "scientificName": "Nycteris parisii",
+  "wikibase_item": "Q1831326",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304313,
+      "id": "Q304313"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831326",
+    "wikipedia": "https://en.wikipedia.org/wiki/Parissi's_slit-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Parissi's slit-faced bat is a species of slit-faced bat that may live in dry savanna regions of East Africa, near the Duba Valley and Benue River along with large rivers. It is only known from three specimens. One was found in northern Cameroon, one from southern Ethiopia, and the third from southern Somalia. Another possible specimen was found in West Africa, but it may be a member of a separate species, N. benuensis.",
+  "image": null
+}

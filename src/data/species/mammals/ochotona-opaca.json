@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-opaca",
+  "name": "Kazakh pika",
+  "scientificName": "Ochotona opaca",
+  "wikibase_item": "Q51741827",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 184067,
+      "id": "Q184067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q51741827",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kazakh_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kazakh pika is a species of pika endemic to Kazakhstan. It is found at the elevation of 400–1,000 m (1,300–3,300 ft) in semi-desert areas with rocks and shrubs. It was previously a population of Pallas's pika before being split into its own species.The Kazach pika was also thought to be the Helan Shan pika, but was determined genetically distinct enough to be its own species.\n",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kazakh_Pika_area.png"
+}

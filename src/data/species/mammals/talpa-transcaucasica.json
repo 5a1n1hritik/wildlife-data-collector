@@ -1,0 +1,25 @@
+{
+  "id": "talpa-transcaucasica",
+  "name": "Talpa transcaucasica",
+  "scientificName": "Talpa transcaucasica",
+  "wikibase_item": "Q121143961",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121143961",
+    "wikipedia": "https://en.wikipedia.org/wiki/Levant_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Levant mole is a species of mammal in the family Talpidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Talpa_levantis.jpg"
+}

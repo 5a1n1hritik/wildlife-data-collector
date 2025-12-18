@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-acuminatus",
+  "name": "Acuminate horseshoe bat",
+  "scientificName": "Rhinolophus acuminatus",
+  "wikibase_item": "Q1762049",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762049",
+    "wikipedia": "https://en.wikipedia.org/wiki/Acuminate_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The acuminate horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Southeast Asia. It lives in forests and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Naturalis_Biodiversity_Center_-_RMNH.MAM.15051.b_ven_-_Rhinolophus_acuminatus_acuminatus_-_skin.jpeg"
+}

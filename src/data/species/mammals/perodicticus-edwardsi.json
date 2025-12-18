@@ -1,0 +1,25 @@
+{
+  "id": "perodicticus-edwardsi",
+  "name": "Perodicticus edwardsi",
+  "scientificName": "Perodicticus edwardsi",
+  "wikibase_item": "Q27980394",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816393,
+      "id": "Q19816393"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27980394",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_African_potto"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Central African potto is a species of nocturnal strepsirrhine primate. It is found in Central Africa. It is also known as Milne-Edwards's potto, after Alphonse Milne-Edwards.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Perodicticus_potto_-_Royal_Museum_for_Central_Africa_-_DSC06787.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "scapteromys-aquaticus",
+  "name": "Argentine swamp rat",
+  "scientificName": "Scapteromys aquaticus",
+  "wikibase_item": "Q1766652",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139896,
+      "id": "Q139896"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Argentine_swamp_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Argentine swamp rat is a semiaquatic rodent species from South America. It is found in northeastern Argentina and Paraguay, where it lives in freshwater marshes and along the southern coast of the Río de la Plata estuary, as well as in woodland.\nIt is characterized by having stiff hairs on its otherwise naked tail, which are believed to help the animal swim. S. aquaticus is similar in build to members of the genus Rattus. \"[It] has a relatively larger head, a stouter body, larger feet, and a relatively longer tail.\" The pelage along its back is \"long and glossy\" varying from brown to dark brown. It can have a grayish wash in some individuals. \"The sides have a yellowish cast.\" The pelage in the abdominal region is typically an off white color. The forefeet are large for use in swimming and digging. All digits, including the pollex are equipped with a claw. Its karyotype has 2n = 32.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Argentine_swamp_rat%2C_%C3%81rea_Natural_protegida_Monte_Blanco%2C_Delta_de_Tigre%2C_Arroyo_Rama_Negra_Chico%2C_a_500_metros_del_arroyo_Espera%2C_B1608_Tigre%2C_Provincia_de_Buenos_Aires%2C_Argentina_imported_from_iNaturalist_photo_380728235.jpg"
+}

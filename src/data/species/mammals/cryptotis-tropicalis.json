@@ -1,0 +1,25 @@
+{
+  "id": "cryptotis-tropicalis",
+  "name": "Tropical small-eared shrew",
+  "scientificName": "Cryptotis tropicalis",
+  "wikibase_item": "Q1769695",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769695",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tropical_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tropical small-eared shrew is a very small mammal of the family Soricidae. The species is found in the eastern highlands of the Mexican state of Chiapas and parts of Belize and Guatemala. Until recently, it was considered a subspecies of the North American least shrew, but it has gained species status. Its relationship with the Central American least shrew remains to be studied.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tropical_Small-eared_Shrew_area.png"
+}

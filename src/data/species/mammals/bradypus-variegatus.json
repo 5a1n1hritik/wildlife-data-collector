@@ -1,0 +1,25 @@
+{
+  "id": "bradypus-variegatus",
+  "name": "brown-throated three-toed sloth",
+  "scientificName": "Bradypus variegatus",
+  "wikibase_item": "Q148752",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185167,
+      "id": "Q185167"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q148752",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown-throated_sloth"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown-throated sloth is a species of three-toed sloth found in the Neotropical realm of Central and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bradypus.jpg"
+}

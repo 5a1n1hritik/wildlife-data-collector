@@ -1,0 +1,22 @@
+{
+  "id": "psammomys-pinetorum",
+  "name": "Psammomys pinetorum",
+  "scientificName": "Psammomys pinetorum",
+  "wikibase_item": "Q109647445",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 64524,
+      "id": "Q64524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647445"
+  },
+  "lastUpdated": "2025-12-17"
+}

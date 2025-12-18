@@ -1,0 +1,22 @@
+{
+  "id": "louisina-atavella",
+  "name": "Louisina atavella",
+  "scientificName": "Louisina atavella",
+  "wikibase_item": "Q41165759",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155109,
+      "id": "Q41155109"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165759"
+  },
+  "lastUpdated": "2025-12-17"
+}

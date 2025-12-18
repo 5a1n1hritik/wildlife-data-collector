@@ -1,0 +1,25 @@
+{
+  "id": "microdipodops-pallidus",
+  "name": "Pale kangaroo mouse",
+  "scientificName": "Microdipodops pallidus",
+  "wikibase_item": "Q881968",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 922132,
+      "id": "Q922132"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q881968",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale_kangaroo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale kangaroo mouse or Soda Spring Valley kangaroo mouse is a species of rodent in the family Heteromyidae. It is endemic to California and Nevada in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kangaroo_mouse.jpg"
+}

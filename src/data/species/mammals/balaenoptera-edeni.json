@@ -1,0 +1,25 @@
+{
+  "id": "balaenoptera-edeni",
+  "name": "Balaenoptera edeni",
+  "scientificName": "Balaenoptera edeni",
+  "wikibase_item": "Q2144297",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133320,
+      "id": "Q133320"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2144297",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryde's_whale"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bryde's whale, or the Bryde's whale complex, putatively comprises three species of rorqual and possibly four. The \"complex\" means the number and classification remain unclear because of a lack of definitive information and research. The common Bryde's whale is a larger form that occurs worldwide in warm temperate and tropical waters, and the Sittang or Eden's whale is a smaller form that may be restricted to the Indo-Pacific. Also, a smaller, coastal form of B. brydei is found off southern Africa, and perhaps another form in the Indo-Pacific differs in skull morphology, tentatively referred to as the Indo-Pacific Bryde's whale. The recently described Omura's whale, was formerly thought to be a pygmy form of Bryde's, but is now recognized as a distinct species. Rice's whale, which makes its home solely in the Gulf of Mexico, was once considered a distinct population of Bryde's whale, but in 2021 it was described as a separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Balaenoptera_brydei.jpg"
+}

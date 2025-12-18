@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-gracilicaudatus",
+  "name": "eastern chestnut mouse",
+  "scientificName": "Pseudomys gracilicaudatus",
+  "wikibase_item": "Q1768922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_chestnut_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern chestnut mouse is a species of rodent in the family Muridae. It is found only in Australia, along the eastern coast from northern Queensland and into New South Wales as far as Jervis Bay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pseudomys_gracilicaudatus.jpg"
+}

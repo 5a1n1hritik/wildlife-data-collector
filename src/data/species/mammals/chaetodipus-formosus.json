@@ -1,0 +1,25 @@
+{
+  "id": "chaetodipus-formosus",
+  "name": "Long-tailed pocket mouse",
+  "scientificName": "Chaetodipus formosus",
+  "wikibase_item": "Q306372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306372",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed pocket mouse is a species of rodent in the family Heteromyidae.\nIt is found in Arizona, California, Nevada and Utah in the United States and Baja California in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chaetodipus_formosus_imported_from_iNaturalist_photo_10634696_on_13_June_2019.jpg"
+}

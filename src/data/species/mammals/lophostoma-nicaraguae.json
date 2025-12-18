@@ -1,0 +1,25 @@
+{
+  "id": "lophostoma-nicaraguae",
+  "name": "Lophostoma nicaraguae",
+  "scientificName": "Lophostoma nicaraguae",
+  "wikibase_item": "Q125226266",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894193,
+      "id": "Q2894193"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125226266",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lophostoma_nicaraguae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mesoamerican round-eared bat is a bat species from Central and South America.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aotus-nancymaae",
+  "name": "Nancy Ma's night monkey",
+  "scientificName": "Aotus nancymaae",
+  "wikibase_item": "Q1209751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1209751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Ma's_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nancy Ma's night monkey is a night monkey species from South America. It is found in Brazil and Peru. The species is named after Dr. Nancy Shui-Fong Ma.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Aotus_nancymai.jpg"
+}

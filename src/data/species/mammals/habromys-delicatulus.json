@@ -1,0 +1,25 @@
+{
+  "id": "habromys-delicatulus",
+  "name": "Delicate deermouse",
+  "scientificName": "Habromys delicatulus",
+  "wikibase_item": "Q1768777",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135906,
+      "id": "Q135906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768777",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delicate_deer_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The delicate deer mouse is a species of rodent in the family Cricetidae. It was first described by Michael Carlton, Oscar Sanchez and Guillermina Urbano-Vidales after being discovered in a patch of cloud forest on the Trans-Mexican Volcanic Belt. The species gets its name from its small size and delicate features compared to the other species within the genus Habromys.",
+  "image": null
+}

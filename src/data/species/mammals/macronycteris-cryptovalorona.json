@@ -1,0 +1,22 @@
+{
+  "id": "macronycteris-cryptovalorona",
+  "name": "Macronycteris cryptovalorona",
+  "scientificName": "Macronycteris cryptovalorona",
+  "wikibase_item": "Q116215501",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 105062291,
+      "id": "Q105062291"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116215501"
+  },
+  "lastUpdated": "2025-12-17"
+}

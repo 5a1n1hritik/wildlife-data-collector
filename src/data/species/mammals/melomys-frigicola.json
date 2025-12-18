@@ -1,0 +1,25 @@
+{
+  "id": "melomys-frigicola",
+  "name": "Melomys frigicola",
+  "scientificName": "Melomys frigicola",
+  "wikibase_item": "Q2073274",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2073274",
+    "wikipedia": "https://en.wikipedia.org/wiki/Snow_Mountains_grassland_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Snow Mountains grassland mosaic-tailed rat, also known as the Snow Mountains grassland melomys, is a species of rodent in the family Muridae.\nIt is endemic to the mountainous west part of the island of New Guinea, where its range extends from Lake Habbema to the Baliem Valley, in Papua Province, Indonesia. It is present at altitudes between 1,600 and 2,200 metres above sea level. It is found in grassland and other disturbed areas.",
+  "image": null
+}

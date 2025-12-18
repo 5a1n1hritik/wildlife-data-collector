@@ -1,0 +1,25 @@
+{
+  "id": "calomys-venustus",
+  "name": "Córdoba vesper mouse",
+  "scientificName": "Calomys venustus",
+  "wikibase_item": "Q1762872",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762872",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_vesper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Córdoba vesper mouse or Córdoba laucha is a South American rodent species of the family Cricetidae. It is endemic to the area of Córdoba Province, central Argentina, where it is found in the espinal.",
+  "image": null
+}

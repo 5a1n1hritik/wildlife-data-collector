@@ -1,0 +1,25 @@
+{
+  "id": "parantechinus-bilarni",
+  "name": "Parantechinus bilarni",
+  "scientificName": "Parantechinus bilarni",
+  "wikibase_item": "Q41166768",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2724093,
+      "id": "Q2724093"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166768",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandstone_false_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The sandstone false antechinus, also known as the sandstone pseudantechinus, the sandstone antechinus, the sandstone dibbler, Harney's antechinus and the Northern dibbler, is a species of small carnivorous marsupial, which has a patchy distribution in Australia's Northern Territory.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/SandstoneFalseAntechinus_IUCN_Range.png"
+}

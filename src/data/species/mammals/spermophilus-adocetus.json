@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-adocetus",
+  "name": "Spermophilus adocetus",
+  "scientificName": "Spermophilus adocetus",
+  "wikibase_item": "Q21609362",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21609362",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tropical_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tropical ground squirrel is a species of rodent in the family Sciuridae. At one time the species was originally described as Spermophilus adocetus, but the genus Spermophilus was revised and subdivided in 2009 and it was placed in the genus Notocitellus. It is endemic to arid upland areas and deciduous woodland in Mexico. It is locally referred to as Cuinique.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Notocitellus_adocetus_10733952.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cryptomys-zechi",
+  "name": "Cryptomys zechi",
+  "scientificName": "Cryptomys zechi",
+  "wikibase_item": "Q20745876",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136488,
+      "id": "Q136488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20745876",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghana_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ghana mole-rat or Togo mole-rat is a species of rodent in the family Bathyergidae.\nIt is endemic to Ghana.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chimarrogale-sumatrana",
+  "name": "Sumatran Water Shrew",
+  "scientificName": "Chimarrogale sumatrana",
+  "wikibase_item": "Q665572",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856254,
+      "id": "Q856254"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q665572",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumatran_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sumatran water shrew is a red-toothed shrew found only in the Padang highlands of western Sumatra, Indonesia. Its natural habitats are streams in montane forests. The species is only known from a holotype, which is damaged, and was previously listed as critically endangered by IUCN. It is believed to be severely threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sumatran_Water_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "neomys-milleri",
+  "name": "Neomys milleri",
+  "scientificName": "Neomys milleri",
+  "wikibase_item": "Q41085513",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1352331,
+      "id": "Q1352331"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085513",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mediterranean_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mediterranean, Southern or Miller's water shrew is a species of insectivoran mammal in the family Soricidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Neomys_anomalus.jpg"
+}

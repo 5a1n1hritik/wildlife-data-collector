@@ -1,0 +1,25 @@
+{
+  "id": "hypsugo-petersi",
+  "name": "Hypsugo petersi",
+  "scientificName": "Hypsugo petersi",
+  "wikibase_item": "Q121341346",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121341346",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peters's pipistrelle is a species of vesper bat in the family Vespertilionidae. It is found in Indonesia, Malaysia, and the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Range_Hypsugo_petersi.png"
+}

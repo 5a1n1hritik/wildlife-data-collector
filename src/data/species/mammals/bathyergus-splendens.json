@@ -1,0 +1,22 @@
+{
+  "id": "bathyergus-splendens",
+  "name": "Bathyergus splendens",
+  "scientificName": "Bathyergus splendens",
+  "wikibase_item": "Q122411957",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791322,
+      "id": "Q791322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122411957"
+  },
+  "lastUpdated": "2025-12-17"
+}

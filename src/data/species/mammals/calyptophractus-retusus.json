@@ -1,0 +1,25 @@
+{
+  "id": "calyptophractus-retusus",
+  "name": "greater fairy armadillo",
+  "scientificName": "Calyptophractus retusus",
+  "wikibase_item": "Q968416",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10743980,
+      "id": "Q10743980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q968416",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_fairy_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater fairy armadillo, also known as Burmeister's armadillo or the Chacoan fairy armadillo, is a species of armadillo in the family Chlamyphoridae. It is found in Argentina, Bolivia, and Paraguay. Its natural habitats are subtropical or tropical dry shrubland and subtropical or tropical dry lowland grassland. It is threatened by habitat loss and persecution. It is the only species in the genus Calyptophractus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Burmeister-G%C3%BCrtelmull2.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "oryzomys-balneator",
+  "name": "Oryzomys balneator",
+  "scientificName": "Oryzomys balneator",
+  "wikibase_item": "Q27335327",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27335327",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_rice_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oreoryzomys balneator, also known as the Peruvian rice rat or Ecuadoran oryzomys, is a species of rodent in the tribe Oryzomyini of family Cricetidae. It is found in Ecuador and northern Peru in cloud forest at elevations from 1500 to 1800 m. It is the only species in the genus Oreoryzomys, which was included in Oryzomys until 2006. The genus name Oreoryzomys is a combination of ορος the Greek word for \"mountain\" with the old genus name Oryzomys and refers to the mountainous habitat of O. balneator. Recent research suggests that O. balneator is not closely related to Oryzomys, but instead is probably related to Microryzomys within a clade also including Neacomys and Oligoryzomys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Oreozyomys_balneator.jpg"
+}

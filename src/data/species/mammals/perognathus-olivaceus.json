@@ -1,0 +1,22 @@
+{
+  "id": "perognathus-olivaceus",
+  "name": "Perognathus olivaceus",
+  "scientificName": "Perognathus olivaceus",
+  "wikibase_item": "Q24729648",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24729648"
+  },
+  "lastUpdated": "2025-12-17"
+}

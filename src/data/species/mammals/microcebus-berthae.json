@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-berthae",
+  "name": "Madame Berthe's mouse lemur",
+  "scientificName": "Microcebus berthae",
+  "wikibase_item": "Q827793",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q827793",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madame_Berthe's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Madame Berthe's mouse lemur or Berthe's mouse lemur is the smallest of the mouse lemurs and the smallest primate in the world; the average body length is 9.2 cm (3.6 in) and seasonal weight is around 30 g (1.1 oz). Microcebus berthae is one of many species of Malagasy lemurs that came about through extensive speciation, caused by unknown environmental mechanisms and conditions.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Madame_Berthe%27s_Mouse_Lemur.jpg"
+}

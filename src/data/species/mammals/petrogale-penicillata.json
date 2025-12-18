@@ -1,0 +1,25 @@
+{
+  "id": "petrogale-penicillata",
+  "name": "Brush-tailed rock-wallaby",
+  "scientificName": "Petrogale penicillata",
+  "wikibase_item": "Q209582",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209582",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brush-tailed_rock-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brush-tailed rock-wallaby or small-eared rock-wallaby is a kind of wallaby, one of several rock-wallabies in the genus Petrogale. It inhabits rock piles and cliff lines along the Great Dividing Range from about 100 km north-west of Brisbane to northern Victoria, in vegetation ranging from rainforest to dry sclerophyll forests. Populations have declined seriously in the south and west of its range, but it remains locally common in northern New South Wales and southern Queensland. However, due to a large bushfire event in South-East Australia around 70% of all the wallaby's habitat has been lost as of January 2020.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Petrogale_penicillata_6.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "eptesicus-japonensis",
+  "name": "Japanese short-tailed bat",
+  "scientificName": "Eptesicus japonensis",
+  "wikibase_item": "Q3267343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3267343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese short-tailed bat is a species of bat belonging to the family Vespertilionidae. It is endemic to Japan where it is found at the base of the northern Japanese Alps, the Chichibu Mountains and Oze National Park, mostly at altitudes higher than 700 m.",
+  "image": null
+}

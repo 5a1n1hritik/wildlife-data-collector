@@ -1,0 +1,22 @@
+{
+  "id": "lasiorhinus-mcoyi",
+  "name": "Lasiorhinus mcoyi",
+  "scientificName": "Lasiorhinus mcoyi",
+  "wikibase_item": "Q40489410",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 210106,
+      "id": "Q210106"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40489410"
+  },
+  "lastUpdated": "2025-12-17"
+}

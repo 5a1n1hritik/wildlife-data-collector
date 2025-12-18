@@ -1,0 +1,22 @@
+{
+  "id": "pteronotus-psilotis",
+  "name": "Pteronotus psilotis",
+  "scientificName": "Pteronotus psilotis",
+  "wikibase_item": "Q40653539",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 916924,
+      "id": "Q916924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40653539"
+  },
+  "lastUpdated": "2025-12-17"
+}

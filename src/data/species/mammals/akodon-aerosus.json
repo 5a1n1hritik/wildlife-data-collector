@@ -1,0 +1,25 @@
+{
+  "id": "akodon-aerosus",
+  "name": "Akodon aerosus",
+  "scientificName": "Akodon aerosus",
+  "wikibase_item": "Q307027",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307027",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akodon_aerosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Akodon aerosus, also known as the highland grass mouse or Yungas akodont, is a species of rodent in the family Cricetidae.\nIt is found in the eastern Andes from eastern Ecuador through Peru into central Bolivia.",
+  "image": null
+}

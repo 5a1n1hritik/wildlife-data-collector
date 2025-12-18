@@ -1,0 +1,25 @@
+{
+  "id": "chaerephon-gallagheri",
+  "name": "Gallagher's free-tailed bat",
+  "scientificName": "Chaerephon gallagheri",
+  "wikibase_item": "Q1829881",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829881",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gallagher's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Gallagher's free-tailed bat is a free-tailed bat endemic to the Democratic Republic of the Congo. Only one individual has ever been documented.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Chaerephon_gallagheri_distribution.svg/960px-Chaerephon_gallagheri_distribution.svg.png"
+}

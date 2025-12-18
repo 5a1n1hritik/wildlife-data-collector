@@ -1,0 +1,25 @@
+{
+  "id": "aonyx-capensis",
+  "name": "African clawless otter",
+  "scientificName": "Aonyx capensis",
+  "wikibase_item": "Q46148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1291566,
+      "id": "Q1291566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46148",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_clawless_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African clawless otter, also known as the Cape clawless otter or groot otter, is the second-largest freshwater otter species. It inhabits permanent water bodies in savannah and lowland forest areas through most of sub-Saharan Africa. It is characterised by partly webbed and clawless feet, from which their name is derived. The word 'aonyx' means clawless, derived from the prefix a- (\"without\") and onyx (\"claw/hoof\").",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aonyx_capensis%2C_male%2C_Shamvura.jpg"
+}

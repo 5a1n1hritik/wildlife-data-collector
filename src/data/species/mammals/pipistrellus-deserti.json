@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-deserti",
+  "name": "Egyptian pipistrelle",
+  "scientificName": "Pipistrellus deserti",
+  "wikibase_item": "Q570762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q570762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kuhl's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kuhl's pipistrelle is a species of vesper bat that occurs in large areas of North Africa, Southern Europe and West Asia. It lives in temperate forests, subtropical or tropical dry shrubland, Mediterranean-type shrubby vegetation, temperate grassland, rural gardens, and urban areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pipistrellus_kuhlii_adult.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tadarida-demonstrator",
+  "name": "Tadarida demonstrator",
+  "scientificName": "Tadarida demonstrator",
+  "wikibase_item": "Q24269098",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607105,
+      "id": "Q607105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24269098"
+  },
+  "lastUpdated": "2025-12-17"
+}

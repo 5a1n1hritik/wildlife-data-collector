@@ -1,0 +1,25 @@
+{
+  "id": "trinomys-dimidiatus",
+  "name": "Soft-spined Atlantic Spiny-rat",
+  "scientificName": "Trinomys dimidiatus",
+  "wikibase_item": "Q1761812",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761812",
+    "wikipedia": "https://en.wikipedia.org/wiki/Soft-spined_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The soft-spined Atlantic spiny-rat is a spiny rat species from South America. It is endemic to Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Trinomys_dimidiatus_distribution_%28colored%29.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "thylamys-tatei",
+  "name": "Tate's fat-tailed mouse opossum",
+  "scientificName": "Thylamys tatei",
+  "wikibase_item": "Q195007",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q195007",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tate's_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tate's fat-tailed mouse opossum is a species of opossum in the family Didelphidae, named after American zoologist George Henry Hamilton Tate. It is found at elevations of 300 to 3,000 m along the coast of central Peru. The species has the northernmost range of any member of its genus. It has white ventral fur and short condylobasal and zygomatic lengths. T. pallidior is very similar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Thylamys_tatei_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mesocricetus-auratus",
+  "name": "Mesocricetus auratus",
+  "scientificName": "Mesocricetus auratus",
+  "wikibase_item": "Q204175",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 389919,
+      "id": "Q389919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q204175",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden hamster or Syrian hamster is a rodent belonging to the hamster subfamily, Cricetinae. Their natural geographical range is in an arid region of northern Syria and southern Turkey. Their numbers have been declining in the wild due to a loss of habitat from agriculture and deliberate elimination by humans. Thus, wild golden hamsters are now considered endangered by the International Union for Conservation of Nature. However, captive breeding programs are well established, and captive-bred golden hamsters are often kept as small house pets. They are also used as scientific research animals.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Golden_hamster_front_1.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pseudomys-pilbarensis",
+  "name": "Pseudomys pilbarensis",
+  "scientificName": "Pseudomys pilbarensis",
+  "wikibase_item": "Q127425779",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127425779"
+  },
+  "lastUpdated": "2025-12-17"
+}

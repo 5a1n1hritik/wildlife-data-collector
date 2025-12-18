@@ -1,0 +1,25 @@
+{
+  "id": "nyctimene-albiventer",
+  "name": "Nyctimene albiventer",
+  "scientificName": "Nyctimene albiventer",
+  "wikibase_item": "Q1762027",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762027",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common tube-nosed fruit bat is a species of megabat in the family Pteropodidae. It is found at islands north of Australia, and in Indonesia, Papua New Guinea, the Philippines and the Solomon Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nyctimene_albiventer.jpg"
+}

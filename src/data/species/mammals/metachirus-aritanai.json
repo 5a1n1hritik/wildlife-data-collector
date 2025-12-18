@@ -1,0 +1,22 @@
+{
+  "id": "metachirus-aritanai",
+  "name": "Metachirus aritanai",
+  "scientificName": "Metachirus aritanai",
+  "wikibase_item": "Q118558656",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816272,
+      "id": "Q19816272"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118558656"
+  },
+  "lastUpdated": "2025-12-17"
+}

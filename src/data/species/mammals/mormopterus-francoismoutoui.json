@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-francoismoutoui",
+  "name": "Mormopterus francoismoutoui",
+  "scientificName": "Mormopterus francoismoutoui",
+  "wikibase_item": "Q2579310",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2579310",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mormopterus_francoismoutoui"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mormopterus francoismoutoui is a species of free-tailed bat that is endemic to the island of Réunion, which is east of Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Distribution_of_Mormopterus_francoismoutoui.png"
+}

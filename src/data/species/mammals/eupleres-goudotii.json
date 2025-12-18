@@ -1,0 +1,25 @@
+{
+  "id": "eupleres-goudotii",
+  "name": "Falanouc",
+  "scientificName": "Eupleres goudotii",
+  "wikibase_item": "Q181565",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17509689,
+      "id": "Q17509689"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181565",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eupleres"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eupleres is a genus of two species of mongoose-like euplerid mammal native to Madagascar that are known as falanoucs. They are primarily terrestrial and consume mainly invertebrates.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Falanouc.jpg"
+}

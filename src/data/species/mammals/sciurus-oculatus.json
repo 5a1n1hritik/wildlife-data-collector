@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-oculatus",
+  "name": "Peters's squirrel",
+  "scientificName": "Sciurus oculatus",
+  "wikibase_item": "Q1770020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's squirrel is a tree squirrel in the genus Sciurus endemic to Mexico. It was first described by the German naturalist and explorer Wilhelm Peters in 1863. Three subspecies are recognised. It is a common species, and the IUCN has rated its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sciurus_oculatus_159674409.jpg"
+}

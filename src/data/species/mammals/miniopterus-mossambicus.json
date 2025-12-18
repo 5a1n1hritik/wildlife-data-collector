@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-mossambicus",
+  "name": "Miniopterus mossambicus",
+  "scientificName": "Miniopterus mossambicus",
+  "wikibase_item": "Q16578694",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16578694",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mozambique_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mozambique long-fingered bat is a species of bat within the family Miniopteridae.",
+  "image": null
+}

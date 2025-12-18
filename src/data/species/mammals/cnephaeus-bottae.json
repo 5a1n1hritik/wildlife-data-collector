@@ -1,0 +1,25 @@
+{
+  "id": "cnephaeus-bottae",
+  "name": "Cnephaeus bottae",
+  "scientificName": "Cnephaeus bottae",
+  "wikibase_item": "Q125399203",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125207648,
+      "id": "Q125207648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125399203",
+    "wikipedia": "https://en.wikipedia.org/wiki/Botta's_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Botta's serotine is a species of vesper bat, one of 25 in the genus Eptesicus.\nIt is found in rocky areas and temperate desert.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bottas-serotine-Eptesicus-bottae-mistnetted-from-Kalat-er-Rahba.png"
+}

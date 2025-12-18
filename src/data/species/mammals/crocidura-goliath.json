@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-goliath",
+  "name": "Goliath shrew",
+  "scientificName": "Crocidura goliath",
+  "wikibase_item": "Q1768236",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768236",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goliath_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The goliath shrew is a species of mammal in the family Soricidae. It is found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, and Gabon. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Goliath_Shrew_area.png"
+}

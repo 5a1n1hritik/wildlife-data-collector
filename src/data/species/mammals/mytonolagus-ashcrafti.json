@@ -1,0 +1,22 @@
+{
+  "id": "mytonolagus-ashcrafti",
+  "name": "Mytonolagus ashcrafti",
+  "scientificName": "Mytonolagus ashcrafti",
+  "wikibase_item": "Q21311700",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21334068,
+      "id": "Q21334068"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21311700"
+  },
+  "lastUpdated": "2025-12-17"
+}

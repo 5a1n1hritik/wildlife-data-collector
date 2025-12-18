@@ -1,0 +1,25 @@
+{
+  "id": "orthogeomys-lanius",
+  "name": "big pocket gopher",
+  "scientificName": "Orthogeomys lanius",
+  "wikibase_item": "Q1764592",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871696,
+      "id": "Q20871696"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764592",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big pocket gopher is a species of rodent in the family Geomyidae. It is endemic to Veracruz state in eastern Mexico. It has only been found on the southeastern slopes of Pico de Orizaba, at elevations of 1,300 metres (4,300 ft).",
+  "image": null
+}

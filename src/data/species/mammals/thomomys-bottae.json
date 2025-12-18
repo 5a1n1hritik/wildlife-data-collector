@@ -1,0 +1,25 @@
+{
+  "id": "thomomys-bottae",
+  "name": "Botta's pocket gopher",
+  "scientificName": "Thomomys bottae",
+  "wikibase_item": "Q1497037",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1094704,
+      "id": "Q1094704"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1497037",
+    "wikipedia": "https://en.wikipedia.org/wiki/Botta's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Botta's pocket gopher is a pocket gopher native to western North America. It is also known in some areas as valley pocket gopher, particularly in California. Both the specific and common names of this species honor Paul-Émile Botta, a naturalist and archaeologist who collected mammals in California in 1827 and 1828.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Botta%27s_Pocket_Gopher_%28Thomomys_bottae%29.jpg"
+}

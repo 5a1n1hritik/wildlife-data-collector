@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-guy",
+  "name": "Crocidura guy",
+  "scientificName": "Crocidura guy",
+  "wikibase_item": "Q19596560",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19596560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocidura_guy"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crocidura guy is of species of shrew from Northeastern Vietnam, Viet Bac karst formation.",
+  "image": null
+}

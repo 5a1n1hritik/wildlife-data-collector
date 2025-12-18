@@ -1,0 +1,25 @@
+{
+  "id": "laephotis-capensis",
+  "name": "Laephotis capensis",
+  "scientificName": "Laephotis capensis",
+  "wikibase_item": "Q99937593",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 599681,
+      "id": "Q599681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99937593",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape serotine is a species of vesper bat occurring in Sub-Saharan Africa. 'Serotine' is from Latin 'serotinus' meaning 'of the evening'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cape_Serotine_Bat_%28Eptesicus_capensis%29_%287027010897%29.jpg"
+}

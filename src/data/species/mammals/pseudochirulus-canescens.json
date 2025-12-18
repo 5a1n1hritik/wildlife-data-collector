@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirulus-canescens",
+  "name": "Lowland ringtail possum",
+  "scientificName": "Pseudochirulus canescens",
+  "wikibase_item": "Q209568",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209568",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lowland_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lowland ringtail possum is a species of marsupial in the family Pseudocheiridae. It is found in Indonesia, the Solomon Islands, and Papua New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Enumerazione_dei_mammiferi_%289677259671%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-beccarii",
+  "name": "Mormopterus beccarii",
+  "scientificName": "Mormopterus beccarii",
+  "wikibase_item": "Q1832667",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_beccarii"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Beccari's free-tailed bat is a species of bat in the free-tailed bat family Molossidae found to Indonesia and Papua New Guinea. It can be found in several habitat types, including savanna, tropical moist forest, and fragmented and urban habitat. It roosts in trees, caves, and buildings in small colonies. This is a common species which is not considered to be threatened. The names Beccari's free-tailed bat or Beccari's mastiff bat once applied to populations in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Mormopterus_beccarii_astrolabiensis_1.jpg"
+}

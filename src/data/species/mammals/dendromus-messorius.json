@@ -1,0 +1,25 @@
+{
+  "id": "dendromus-messorius",
+  "name": "Banana climbing mouse",
+  "scientificName": "Dendromus messorius",
+  "wikibase_item": "Q307057",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307057",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banana_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The banana climbing mouse is a species of rodent in the family Nesomyidae. It is found in Benin, Cameroon, Democratic Republic of the Congo, Nigeria, and Togo. Its natural habitat is subtropical or tropical dry lowland grassland.",
+  "image": null
+}

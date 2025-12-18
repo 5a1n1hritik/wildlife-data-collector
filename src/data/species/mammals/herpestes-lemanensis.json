@@ -1,0 +1,25 @@
+{
+  "id": "herpestes-lemanensis",
+  "name": "Herpestes lemanensis",
+  "scientificName": "Herpestes lemanensis",
+  "wikibase_item": "Q10960505",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 312207,
+      "id": "Q312207"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10960505",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herpestes_lemanensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Herpestes lemanensis is an extinct mongoose species that was excavated in Tertiary depositions in France and described by Auguste Pomel in 1853. Its body size equals a large Indian civet, but its dentition resembles that of the Indian grey mongoose.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Herpestes.jpg"
+}

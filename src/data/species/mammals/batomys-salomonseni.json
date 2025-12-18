@@ -1,0 +1,25 @@
+{
+  "id": "batomys-salomonseni",
+  "name": "Mindanao Hairy-tailed Rat",
+  "scientificName": "Batomys salomonseni",
+  "wikibase_item": "Q306569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 791357,
+      "id": "Q791357"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306569",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mindanao_hairy-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mindanao hairy-tailed rat is one of five species of rodent in the genus Batomys. It is in the diverse family Muridae. This species is found only in the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Batomys_salomonseni.jpg"
+}

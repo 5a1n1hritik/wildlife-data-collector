@@ -1,0 +1,25 @@
+{
+  "id": "lagorchestes-conspicillatus",
+  "name": "Spectacled hare-wallaby",
+  "scientificName": "Lagorchestes conspicillatus",
+  "wikibase_item": "Q639089",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 218873,
+      "id": "Q218873"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q639089",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spectacled_hare-wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spectacled hare-wallaby is a species of macropod found in Australia and New Guinea. In Australia, a small sub-population is found on Barrow Island, while the mainland type is widespread, though in decline, across northern regions of the country.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Spectacled_Hare-wallaby.jpg"
+}

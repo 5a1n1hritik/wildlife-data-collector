@@ -1,0 +1,25 @@
+{
+  "id": "oligoryzomys-fornesi",
+  "name": "Oligoryzomys fornesi",
+  "scientificName": "Oligoryzomys fornesi",
+  "wikibase_item": "Q1768995",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768995",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_fornesi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys fornesi, also known as Fornes' colilargo, is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is found from northeastern Brazil via Paraguay into northeastern Argentina. Its karyotype has 2n = 62 and FNa = 64.",
+  "image": null
+}

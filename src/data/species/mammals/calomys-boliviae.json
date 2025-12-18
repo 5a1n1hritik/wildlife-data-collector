@@ -1,0 +1,25 @@
+{
+  "id": "calomys-boliviae",
+  "name": "Bolivian vesper mouse",
+  "scientificName": "Calomys boliviae",
+  "wikibase_item": "Q306794",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857571,
+      "id": "Q857571"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306794",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bolivian_vesper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bolivian vesper mouse is a species of rodent in the family Cricetidae. It is found in Argentina, Bolivia and perhaps Peru.",
+  "image": null
+}

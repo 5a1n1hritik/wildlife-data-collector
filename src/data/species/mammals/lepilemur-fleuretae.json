@@ -1,0 +1,25 @@
+{
+  "id": "lepilemur-fleuretae",
+  "name": "Fleurete's sportive lemur",
+  "scientificName": "Lepilemur fleuretae",
+  "wikibase_item": "Q1365640",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1365640",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fleurette's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fleurette's sportive lemur, or the Andohahela sportive lemur, is a sportive lemur endemic to Madagascar. Like all members of its genus, it is nocturnal, and largely folivorous. It is threatened by habitat loss and hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepilemur_fleuretae.jpg"
+}

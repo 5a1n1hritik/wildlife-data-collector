@@ -1,0 +1,25 @@
+{
+  "id": "tadarida-teniotis",
+  "name": "Tadarida teniotis",
+  "scientificName": "Tadarida teniotis",
+  "wikibase_item": "Q540069",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 607105,
+      "id": "Q607105"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q540069",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European free-tailed bat is a species of free-tailed bat found in the Old World. Other common names include the bulldog bat and the mastiff bat because of the presence of wrinkling on the snout. This bat is found in the Mediterranean region of Europe and in scattered locations across Asia at altitudes from sea level to 3100 m. The range of distribution is from the Canary Islands and Madeira through the whole Mediterranean area, Asia Minor, the Caucasus and the Middle East. In the north to southern France, southern Germany, Switzerland, Croatia and Bulgaria. It was reported from Korea in 1931, but has not been sighted on the Korean Peninsula since then. Populations in Japan, Taiwan and Korea are now considered to be a separate species Tadarida insignis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Tadarida_Teniotis263.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mesocricetus-raddei",
+  "name": "Ciscaucasian hamster",
+  "scientificName": "Mesocricetus raddei",
+  "wikibase_item": "Q1766383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 389919,
+      "id": "Q389919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766383",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ciscaucasian_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ciscaucasian hamster is a species of rodent in the family Cricetidae. It is also known as the Georgian hamster and is found only in Georgia and Russia. The scientific name of this species honors the German naturalist Gustav Radde.",
+  "image": null
+}

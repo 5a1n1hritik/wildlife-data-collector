@@ -1,0 +1,25 @@
+{
+  "id": "murina-grisea",
+  "name": "Peter's tube-nosed bat",
+  "scientificName": "Murina grisea",
+  "wikibase_item": "Q2043915",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1034100,
+      "id": "Q1034100"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2043915",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peters's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peters's tube-nosed bat is a species of vesper bat in the family Vespertilionidae, found in the Indian subcontinent, mainly in the Western Himalayas. They have tube-shaped nostrils which assist them with their feeding. They are brown with white-yellow and underparts and have specks of orange around their neck. While they are roosting, their fur, which seems to appear as a dead plant, camouflages them from predators. They are 3.3-6.0 cm in length and have round heads, large eyes and soft fur. This bat is found in India. They are endangered due to clearing of the rain forests in which they live in and are not protected by the World Conservation Union. They feed on rain forest fruit and blossoms.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Distribution_of_Murina_grisea.png"
+}

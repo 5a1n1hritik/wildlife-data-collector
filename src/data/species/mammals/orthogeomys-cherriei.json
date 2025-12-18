@@ -1,0 +1,25 @@
+{
+  "id": "orthogeomys-cherriei",
+  "name": "Cherrie's pocket gopher",
+  "scientificName": "Orthogeomys cherriei",
+  "wikibase_item": "Q1769199",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871738,
+      "id": "Q20871738"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769199",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cherrie's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cherrie's pocket gopher is a species of rodent in the family Geomyidae. It is found in Honduras, Nicaragua, and Costa Rica. It is threatened by habitat loss. Some authors classify it in the genus Orthogeomys, but recent research has allowed this and its related species to be classified in the genus Heterogeomys.",
+  "image": null
+}

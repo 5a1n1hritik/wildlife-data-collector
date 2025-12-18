@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-ravelobensis",
+  "name": "Golden-brown mouse lemur",
+  "scientificName": "Microcebus ravelobensis",
+  "wikibase_item": "Q673062",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q673062",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-brown_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-brown mouse lemur, also known as the (Lac) Ravelobe mouse lemur, is part of the Cheirogaleidae family, and the smallest species of lemur. It is arboreal, nocturnal and usually social. It get its name from the color of its body. Like several other mouse lemurs, like the brown mouse lemur, it is a small primate that has a brown dorsal side and a whitish-grey for its ventral side of the body. All lemurs live in Madagascar. This species was discovered in 1994.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mouse_Lemur_in_Anjajavy.jpg"
+}

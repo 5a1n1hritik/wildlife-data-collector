@@ -1,0 +1,22 @@
+{
+  "id": "helictis-subaurantiaca",
+  "name": "Helictis subaurantiaca",
+  "scientificName": "Helictis subaurantiaca",
+  "wikibase_item": "Q41165148",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41154154,
+      "id": "Q41154154"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165148"
+  },
+  "lastUpdated": "2025-12-17"
+}

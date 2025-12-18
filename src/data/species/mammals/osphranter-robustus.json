@@ -1,0 +1,25 @@
+{
+  "id": "osphranter-robustus",
+  "name": "Osphranter robustus",
+  "scientificName": "Osphranter robustus",
+  "wikibase_item": "Q116251176",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156350,
+      "id": "Q41156350"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116251176",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_wallaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common wallaroo, also known as the euro, hill wallaroo, or simply wallaroo, is a species of macropod. The word euro is particularly applied to one subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Macropus_robustus2.jpg"
+}

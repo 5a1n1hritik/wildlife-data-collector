@@ -1,0 +1,25 @@
+{
+  "id": "cavia-intermedia",
+  "name": "Santa Catarina's guinea pig",
+  "scientificName": "Cavia intermedia",
+  "wikibase_item": "Q1766902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766902",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santa_Catarina's_guinea_pig"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Santa Catarina's guinea pig or Moleques do Sul cavy is a rare guinea pig species of southeastern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cavia_intermedia_f825.JPG"
+}

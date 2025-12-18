@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-pelagicus",
+  "name": "Pteropus pelagicus",
+  "scientificName": "Pteropus pelagicus",
+  "wikibase_item": "Q125845288",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125845288",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pteropus_pelagicus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Pteropus pelagicus is a species of fruit bat in the family Pteropodidae. It includes two subspecies that were formerly recognized as full species— Pteropus insularis and Pteropus phaeocephalus. It is endemic to Micronesia. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pteropus_pelagicus_2.jpg"
+}

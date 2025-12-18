@@ -1,0 +1,22 @@
+{
+  "id": "vespertilio-ater",
+  "name": "Vespertilio ater",
+  "scientificName": "Vespertilio ater",
+  "wikibase_item": "Q109647625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647625"
+  },
+  "lastUpdated": "2025-12-17"
+}

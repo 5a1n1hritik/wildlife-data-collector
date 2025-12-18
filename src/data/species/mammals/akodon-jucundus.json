@@ -1,0 +1,22 @@
+{
+  "id": "akodon-jucundus",
+  "name": "Akodon jucundus",
+  "scientificName": "Akodon jucundus",
+  "wikibase_item": "Q40978776",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 556324,
+      "id": "Q556324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40978776"
+  },
+  "lastUpdated": "2025-12-17"
+}

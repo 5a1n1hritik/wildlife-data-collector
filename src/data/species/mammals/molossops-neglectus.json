@@ -1,0 +1,25 @@
+{
+  "id": "molossops-neglectus",
+  "name": "Rufous Dog-faced Bat",
+  "scientificName": "Molossops neglectus",
+  "wikibase_item": "Q1831397",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19715814,
+      "id": "Q19715814"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831397",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufous_dog-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rufous dog-faced bat, is a bat species found in Argentina, Brazil, Colombia, Guyana, Peru and Suriname.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Molossops_neglectus_%2810.3897-zoologia.37.e36514%29_Figures_18%E2%80%9329_%28cropped%29_2.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "neoromicia-flavescens",
+  "name": "Yellow serotine",
+  "scientificName": "Neoromicia flavescens",
+  "wikibase_item": "Q289688",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q289688",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow serotine is a species of vesper bat. It is found in Angola, Burundi, Cameroon, Malawi, and Mozambique. Its natural habitats are subtropical or tropical forests and savanna.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fukomys-ilariae",
+  "name": "Fukomys ilariae",
+  "scientificName": "Fukomys ilariae",
+  "wikibase_item": "Q19714664",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2469570,
+      "id": "Q2469570"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19714664",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fukomys_ilariae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Somali striped mole rat is a species of small mole rat that is endemic to the Horn of Africa. The holotype is preserved in the Museo Civico di Zoologia in Rome and probably originated from Benadir, the first nucleus of the Colony of Italian Somalia established at the beginning of 20th century. The species is dedicated to the Italian journalist Ilaria Alpi, who was murdered in Somalia.",
+  "image": null
+}

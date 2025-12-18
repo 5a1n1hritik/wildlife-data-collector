@@ -1,0 +1,22 @@
+{
+  "id": "ametridia-centurio",
+  "name": "Ametridia centurio",
+  "scientificName": "Ametridia centurio",
+  "wikibase_item": "Q41162454",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41150848,
+      "id": "Q41150848"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162454"
+  },
+  "lastUpdated": "2025-12-17"
+}

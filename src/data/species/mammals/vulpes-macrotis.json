@@ -1,0 +1,25 @@
+{
+  "id": "vulpes-macrotis",
+  "name": "kit fox",
+  "scientificName": "Vulpes macrotis",
+  "wikibase_item": "Q745751",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q745751",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kit_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The kit fox is a fox species that inhabits arid and semi-arid regions of the southwestern United States and northern and central Mexico. These foxes are the smallest of the four species of Vulpes occurring in North America and are among the smallest of the vulpines worldwide. It has also been called a North American counterpart of the fennec fox due to its large ears.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vulpes_macrotis_mutica_sitting.jpg"
+}

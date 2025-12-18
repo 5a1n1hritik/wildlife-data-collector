@@ -1,0 +1,22 @@
+{
+  "id": "leptoplesictis-filholi",
+  "name": "Leptoplesictis filholi",
+  "scientificName": "Leptoplesictis filholi",
+  "wikibase_item": "Q41165689",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17635404,
+      "id": "Q17635404"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165689"
+  },
+  "lastUpdated": "2025-12-17"
+}

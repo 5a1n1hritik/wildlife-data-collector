@@ -1,0 +1,25 @@
+{
+  "id": "rhynchocyon-cirnei",
+  "name": "chequered sengi",
+  "scientificName": "Rhynchocyon cirnei",
+  "wikibase_item": "Q974052",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 742434,
+      "id": "Q742434"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q974052",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chequered_sengi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chequered sengi is a species of elephant shrew in the family Macroscelididae. The scientific name is Rhynchocyon cirnei.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Checkered_elephant_shrew_at_Prague_Zoo..jpg"
+}

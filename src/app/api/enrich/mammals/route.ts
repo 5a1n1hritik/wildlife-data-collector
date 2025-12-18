@@ -34,30 +34,61 @@
 
 import { readFile, writeFile, mkdir } from "fs/promises";
 import path from "path";
+import fs from "fs";
+
 import { fetchWikidataEntity } from "@/lib/adapters/wikidata.adapter";
 import { extractSpeciesFields } from "@/lib/cleaners/wikidata.cleaner";
 import { enrichWithWikipedia } from "@/lib/cleaners/species.cleaner";
 import { Species } from "@/lib/types/species";
-import fs from "fs";
 
 const BATCH_SIZE = 50;
 const DELAY_MS = 1000;
+
+const SUBSPECIES_LOG = "src/data/logs/mammals.subspecies.json";
+const SKIPPED_LOG = "src/data/logs/mammals.skipped.json";
+
+const startTime = Date.now();
+
+function formatTime(ms: number) {
+  const sec = Math.floor(ms / 1000);
+  const h = Math.floor(sec / 3600);
+  const m = Math.floor((sec % 3600) / 60);
+  const s = sec % 60;
+  return `${h}h ${m}m ${s}s`;
+}
+
+function renderProgressBar(current: number, total: number, width = 40) {
+  const percent = current / total;
+  const filled = Math.round(percent * width);
+  const empty = width - filled;
+
+  return `[${"#".repeat(filled)}${"_".repeat(empty)}]`;
+}
 
 function sleep(ms: number) {
   return new Promise((res) => setTimeout(res, ms));
 }
 
-const SUBSPECIES_LOG = "src/data/logs/mammals.subspecies.json";
+/* ----------------------- LOG HELPERS ----------------------- */
 
-function logSubspecies(entry: any) {
-  const existing = fs.existsSync(SUBSPECIES_LOG)
-    ? JSON.parse(fs.readFileSync(SUBSPECIES_LOG, "utf-8"))
+function appendJSON(filePath: string, entry: any) {
+  const existing = fs.existsSync(filePath)
+    ? JSON.parse(fs.readFileSync(filePath, "utf-8"))
     : [];
 
   existing.push(entry);
-
-  fs.writeFileSync(SUBSPECIES_LOG, JSON.stringify(existing, null, 2));
+  fs.writeFileSync(filePath, JSON.stringify(existing, null, 2));
 }
+
+function logSubspecies(entry: any) {
+  appendJSON(SUBSPECIES_LOG, entry);
+}
+
+function logSkipped(entry: any) {
+  appendJSON(SKIPPED_LOG, entry);
+}
+
+/* ---------------- PARENT SPECIES FETCH -------------------- */
 
 async function fetchParentSpeciesInfo(parentQid: string | null) {
   if (!parentQid) return null;
@@ -73,15 +104,13 @@ async function fetchParentSpeciesInfo(parentQid: string | null) {
 
     const label = entity.labels?.en?.value ?? null;
 
-    // Wikipedia sitelink
     const wikiTitle = entity.sitelinks?.enwiki?.title ?? null;
-    const wikipediaUrl = wikiTitle
+    const wikipedia = wikiTitle
       ? `https://en.wikipedia.org/wiki/${encodeURIComponent(
           wikiTitle.replace(/ /g, "_")
         )}`
       : null;
 
-    // Image (P18)
     const imageName =
       entity.claims?.P18?.[0]?.mainsnak?.datavalue?.value ?? null;
 
@@ -97,7 +126,7 @@ async function fetchParentSpeciesInfo(parentQid: string | null) {
       label,
       source: {
         wikidata: `https://www.wikidata.org/wiki/${parentQid}`,
-        wikipedia: wikipediaUrl,
+        wikipedia,
       },
       image,
     };
@@ -114,6 +143,8 @@ async function fetchParentSpeciesInfo(parentQid: string | null) {
   }
 }
 
+/* --------------------------- API --------------------------- */
+
 export async function POST() {
   const inputPath = path.join(
     process.cwd(),
@@ -121,20 +152,28 @@ export async function POST() {
   );
 
   const outDir = path.join(process.cwd(), "src/data/species/mammals");
-
   await mkdir(outDir, { recursive: true });
 
   const speciesList = JSON.parse(await readFile(inputPath, "utf-8"));
+  const total = speciesList.length;
+
+  // 🧠 SANITY COUNTERS
+  let processed = 0;
+  let speciesCount = 0;
+  let subspeciesCount = 0;
+  let skippedCount = 0;
+
   for (let i = 0; i < speciesList.length; i += BATCH_SIZE) {
     const batch = speciesList.slice(i, i + BATCH_SIZE);
 
-    console.log(`🚀 Processing batch ${i} → ${i + batch.length}`);
+    console.log(`🚀 Batch ${i} → ${i + batch.length}`);
 
     for (const item of batch) {
       try {
         const wikidata = await fetchWikidataEntity(item.wikibase_item);
         const wd = extractSpeciesFields(wikidata);
 
+        /* ------------ SUBSPECIES HANDLING ------------ */
         if (wd.type === "subspecies") {
           const parentInfo = await fetchParentSpeciesInfo(wd.parentQid);
 
@@ -149,19 +188,22 @@ export async function POST() {
                   item.name.replace(/ /g, "_")
                 )}`,
               },
-              image: null, // optional: baad me WD P18 se fill kar sakte ho
+              image: null,
             },
             parentSpecies: parentInfo,
             reason: "taxon rank = subspecies",
             timestamp: new Date().toISOString(),
           });
 
-          console.log(
-            `[SKIPPED] ${item.id} (${item.wikibase_item}) _ Subspecies logged with parent`
-          );
+          subspeciesCount++;
+          processed++;
+
+          // console.log(`[SUBSPECIES] ${processed}/${total} → ${item.id}`);
 
           continue;
         }
+
+        /* ---------------- SPECIES ---------------- */
 
         let payload: Species = {
           id: item.id,
@@ -179,16 +221,63 @@ export async function POST() {
 
         const filePath = path.join(outDir, `${item.id}.json`);
         await writeFile(filePath, JSON.stringify(payload, null, 2));
+
+        speciesCount++;
+        processed++;
+
+        // console.log(`[SPECIES] ${processed}/${total} → ${item.id}`);
       } catch (err) {
-        console.error(
-          `[SKIPPED] ${item.id} (${item.wikibase_item}) → ${
-            (err as Error).message
-          }`
-        );
+        skippedCount++;
+        processed++;
+
+        logSkipped({
+          id: item.id,
+          qid: item.wikibase_item,
+          name: item.name,
+          reason: (err as Error).message,
+          timestamp: new Date().toISOString(),
+        });
+
+        // console.error(`[SKIPPED] ${processed}/${total} → ${item.id}`);
       }
     }
+
+    //     console.log(`
+    // 📊 PROGRESS
+    // -----------
+    // Processed   : ${processed}/${total}
+    // Species     : ${speciesCount}
+    // Subspecies  : ${subspeciesCount}
+    // Skipped     : ${skippedCount}
+    // Remaining   : ${total - processed}
+    // `);
+    const elapsed = Date.now() - startTime;
+    const avgPerItem = elapsed / processed;
+    const remainingMs = avgPerItem * (total - processed);
+
+    console.clear();
+    console.log(`
+PROGRESS
+-----------
+Processed   : ${processed}/${total} ${renderProgressBar(processed, total)}
+Species     : ${speciesCount}
+Subspecies  : ${subspeciesCount}
+Skipped     : ${skippedCount}
+Remaining   : ${total - processed}
+
+Time Elapsed: ${formatTime(elapsed)}
+ETA         : ${formatTime(remainingMs)}
+`);
+
     await sleep(DELAY_MS);
   }
 
-  return Response.json({ success: true });
+  return Response.json({
+    success: true,
+    total,
+    processed,
+    species: speciesCount,
+    subspecies: subspeciesCount,
+    skipped: skippedCount,
+  });
 }

@@ -1,0 +1,25 @@
+{
+  "id": "otomops-formosus",
+  "name": "Javan mastiff bat",
+  "scientificName": "Otomops formosus",
+  "wikibase_item": "Q1831535",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831535",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan mastiff bat is a species of bat in the family Molossidae that is endemic to Indonesia.",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "allocricetulus-jezreelicus",
+  "name": "Allocricetulus jezreelicus",
+  "scientificName": "Allocricetulus jezreelicus",
+  "wikibase_item": "Q41080183",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 656306,
+      "id": "Q656306"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080183"
+  },
+  "lastUpdated": "2025-12-17"
+}

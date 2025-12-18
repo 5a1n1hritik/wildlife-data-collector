@@ -1,0 +1,25 @@
+{
+  "id": "pseudocheirus-peregrinus",
+  "name": "Pseudocheirus peregrinus",
+  "scientificName": "Pseudocheirus peregrinus",
+  "wikibase_item": "Q928390",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 209686,
+      "id": "Q209686"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q928390",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common ringtail possum is an Australian marsupial.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Possum_Ring-tailed444.jpg"
+}

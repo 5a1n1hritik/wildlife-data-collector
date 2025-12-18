@@ -1,0 +1,25 @@
+{
+  "id": "chaerephon-solomonis",
+  "name": "Solomons mastiff bat",
+  "scientificName": "Chaerephon solomonis",
+  "wikibase_item": "Q1830135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Solomons_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Solomons mastiff bat is a species of bat in the family Molossidae. It is endemic to the Solomon Islands.",
+  "image": null
+}

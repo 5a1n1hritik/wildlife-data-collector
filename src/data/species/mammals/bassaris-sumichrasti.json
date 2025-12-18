@@ -1,0 +1,22 @@
+{
+  "id": "bassaris-sumichrasti",
+  "name": "Bassaris sumichrasti",
+  "scientificName": "Bassaris sumichrasti",
+  "wikibase_item": "Q52569933",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 52570046,
+      "id": "Q52570046"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q52569933"
+  },
+  "lastUpdated": "2025-12-17"
+}

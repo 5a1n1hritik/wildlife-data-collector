@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-canuti",
+  "name": "Canut's Horseshoe Bat",
+  "scientificName": "Rhinolophus canuti",
+  "wikibase_item": "Q687072",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q687072",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canut's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Canut's horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Naturalis_Biodiversity_Center_-_RMNH.MAM.32724.b_reg_-_Rhinolophus_canuti_-_skin.jpeg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "neofelis-nebulosa",
+  "name": "clouded leopard",
+  "scientificName": "Neofelis",
+  "wikibase_item": "Q36135",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269871,
+      "id": "Q269871"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36135",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clouded_leopard"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The clouded leopard, also called mainland clouded leopard, is a wild cat inhabiting dense forests from the foothills of the Himalayas through Northeast India and Bhutan to mainland Southeast Asia into South China. It was first described in 1821 on the basis of a skin of an individual from China. The clouded leopard has large dusky-grey blotches and irregular spots and stripes reminiscent of clouds. Its head-and-body length ranges from 68.6 to 108 cm with a 61 to 91 cm long tail. It uses its tail for balancing when moving in trees and is able to climb down vertical tree trunks head first. It rests in trees during the day and hunts by night on the forest floor.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Neofelis_nebulosa%2C_Clouded_leopard.jpg"
+}

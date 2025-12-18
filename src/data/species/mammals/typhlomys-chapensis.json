@@ -1,0 +1,25 @@
+{
+  "id": "typhlomys-chapensis",
+  "name": "Typhlomys chapensis",
+  "scientificName": "Typhlomys chapensis",
+  "wikibase_item": "Q22047704",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1325936,
+      "id": "Q1325936"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22047704",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chapa_pygmy_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chapa pygmy dormouse or Vietnamese pygmy dormouse is a rodent endemic to Vietnam; this nocturnal creature is 7-10cm long, with a tail of 10-13cm and long ears.",
+  "image": null
+}

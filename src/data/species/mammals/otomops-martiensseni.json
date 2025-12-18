@@ -1,0 +1,25 @@
+{
+  "id": "otomops-martiensseni",
+  "name": "Otomops martiensseni",
+  "scientificName": "Otomops martiensseni",
+  "wikibase_item": "Q1831098",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831098",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-eared_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-eared free-tailed bat is a species of bat in the family Molossidae native to Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Otomops_martiensseni_103567126.jpg"
+}

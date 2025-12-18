@@ -1,0 +1,22 @@
+{
+  "id": "corvira-bidens",
+  "name": "Corvira bidens",
+  "scientificName": "Corvira bidens",
+  "wikibase_item": "Q109647151",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20879326,
+      "id": "Q20879326"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647151"
+  },
+  "lastUpdated": "2025-12-17"
+}

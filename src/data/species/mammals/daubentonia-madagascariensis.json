@@ -1,0 +1,25 @@
+{
+  "id": "daubentonia-madagascariensis",
+  "name": "aye-aye",
+  "scientificName": "Daubentonia madagascariensis",
+  "wikibase_item": "Q186778",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2899669,
+      "id": "Q2899669"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q186778",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aye-aye"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The aye-aye is a long-fingered lemur, a strepsirrhine primate native to Madagascar with rodent-like teeth that perpetually grow and a special thin middle finger that they can use to catch grubs and larvae out of tree trunks.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Wild_aye_aye.jpg"
+}

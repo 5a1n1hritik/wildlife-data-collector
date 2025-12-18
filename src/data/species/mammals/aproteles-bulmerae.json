@@ -1,0 +1,25 @@
+{
+  "id": "aproteles-bulmerae",
+  "name": "Aproteles bulmerae",
+  "scientificName": "Aproteles bulmerae",
+  "wikibase_item": "Q1767141",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10734666,
+      "id": "Q10734666"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767141",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bulmer's_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bulmer's fruit bat is a megabat endemic to New Guinea. It is listed as a critically endangered species due to habitat loss and hunting. It is the only member of the genus Aproteles. Due to its imperiled status, it is identified by the Alliance for Zero Extinction as a species in danger of imminent extinction.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Distribution_of_Aproteles_bulmerae.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-inustus",
+  "name": "Mottle-faced tamarin",
+  "scientificName": "Saguinus inustus",
+  "wikibase_item": "Q1352436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1352436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mottle-faced_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mottle-faced tamarin is a species of tamarin from South America. It is found in Brazil and Colombia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Saguinus_inustus_%28Mottled-face_Tamarin%29_by_David_Jeffrey_Ringer.jpg"
+}

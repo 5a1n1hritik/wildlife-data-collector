@@ -1,0 +1,25 @@
+{
+  "id": "praomys-coetzeei",
+  "name": "Praomys coetzeei",
+  "scientificName": "Praomys coetzeei",
+  "wikibase_item": "Q3909900",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386849,
+      "id": "Q386849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3909900",
+    "wikipedia": "https://en.wikipedia.org/wiki/Praomys_coetzeei"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Praomys coetzeei is a species of mouse in the family Muridae.",
+  "image": null
+}

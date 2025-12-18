@@ -1,0 +1,22 @@
+{
+  "id": "lepus-aegyptius",
+  "name": "Lepus aegyptius",
+  "scientificName": "Lepus aegyptius",
+  "wikibase_item": "Q122807900",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46076,
+      "id": "Q46076"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122807900"
+  },
+  "lastUpdated": "2025-12-17"
+}

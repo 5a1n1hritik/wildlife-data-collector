@@ -1,0 +1,25 @@
+{
+  "id": "chaetophractus-nationi",
+  "name": "Andean hairy armadillo",
+  "scientificName": "Chaetophractus nationi",
+  "wikibase_item": "Q1761878",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 611493,
+      "id": "Q611493"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761878",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andean_hairy_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Andean hairy armadillo is an armadillo found mainly in Bolivia, in the region of the Puna; the departments of Oruro, La Paz, and Cochabamba. Nowark (1991) describes it as distributed in Bolivia and northern Chile. A recent publication of Pacheco (1995) also locates the species in the Puno Region of Peru. This species is also thought to be present in northern Argentina. However, this location may actually only contain a population of C. vellerosus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaetophractus_nationi%2C_Oruro%2C_Bolivia_-_20090824.jpg"
+}

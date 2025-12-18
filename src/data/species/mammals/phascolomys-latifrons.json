@@ -1,0 +1,22 @@
+{
+  "id": "phascolomys-latifrons",
+  "name": "Phascolomys latifrons",
+  "scientificName": "Phascolomys latifrons",
+  "wikibase_item": "Q41166964",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156958,
+      "id": "Q41156958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166964"
+  },
+  "lastUpdated": "2025-12-17"
+}

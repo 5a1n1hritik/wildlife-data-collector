@@ -1,0 +1,25 @@
+{
+  "id": "tyarrpecinus-rothi",
+  "name": "Tyarrpecinus rothi",
+  "scientificName": "Tyarrpecinus rothi",
+  "wikibase_item": "Q66371384",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21447917,
+      "id": "Q21447917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66371384",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyarrpecinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tyarrpecinus is an extinct genus of thylacinid that lived during the late Miocene in what is now the Northern Territory, Australia. It is known only from a partial skull bone that was reconstructed from numerous fragments. It was a small thylacinid and represents a late surviving relict. The genus is monotypic, containing only one species, Tyarrpecinus rothi.",
+  "image": null
+}

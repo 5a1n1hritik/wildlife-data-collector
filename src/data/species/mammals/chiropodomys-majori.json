@@ -1,0 +1,22 @@
+{
+  "id": "chiropodomys-majori",
+  "name": "Chiropodomys majori",
+  "scientificName": "Chiropodomys majori",
+  "wikibase_item": "Q40986514",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 579868,
+      "id": "Q579868"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40986514"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "galagoides-thomasi",
+  "name": "Galagoides thomasi",
+  "scientificName": "Galagoides thomasi",
+  "wikibase_item": "Q28157194",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3094482,
+      "id": "Q3094482"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28157194",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_bushbaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's bushbaby is a species of primate in the family Galagidae. It is found in Angola, Burundi, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Kenya, Nigeria, Rwanda, Tanzania, Uganda, and Zambia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Galagoides_thomasi.jpg"
+}

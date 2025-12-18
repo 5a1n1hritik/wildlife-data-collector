@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-ronaldi",
+  "name": "Ronald's opossum",
+  "scientificName": "Monodelphis ronaldi",
+  "wikibase_item": "Q3295161",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3295161",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald's_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ronald's opossum is a South American opossum species of the family Didelphidae. It was discovered in 2004, and most closely resembles M. adusta. It is known only from Manú National Park, Peru, where it inhabits the Amazon rainforest. It is named after American zoologist Ronald H. Pine.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ronald%27s_Opossum_area.png"
+}

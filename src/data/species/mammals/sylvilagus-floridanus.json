@@ -1,0 +1,25 @@
+{
+  "id": "sylvilagus-floridanus",
+  "name": "Eastern cottontail",
+  "scientificName": "Sylvilagus floridanus",
+  "wikibase_item": "Q774716",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875386,
+      "id": "Q20875386"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q774716",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_cottontail"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern cottontail is a species of rabbit in the family Leporidae. It is the most widespread and abundant rabbit species in North America, inhabiting a wide range that extends from southern Canada throughout most of the United States and into parts of Mexico, Central America, and the northern regions of South America. Known for its distinctive fluffy white tail, which resembles a cotton ball and gives the species its common name, the eastern cottontail typically inhabits open fields, meadows, and brushy areas where it can easily find cover and food. It is a primarily herbivorous, crepuscular mammal that feeds on grasses, herbs, twigs, and bark, and plays an important role in the ecosystem as prey for a variety of predators including foxes, hawks, and owls. Due to its adaptability to human-altered landscapes such as suburban and agricultural areas, the eastern cottontail has maintained stable population levels and is not considered threatened. It is also well known for its high reproductive rate, with females capable of producing multiple large litters annually, which contributes to its widespread presence.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2025-04-27_10_27_04_An_Eastern_Cottontail_Rabbit_in_a_yard_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey_%28cropped%29.jpg/2772px-thumbnail.jpg"
+}

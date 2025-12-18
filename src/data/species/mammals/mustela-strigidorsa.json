@@ -1,0 +1,25 @@
+{
+  "id": "mustela-strigidorsa",
+  "name": "Mustela strigidorsa",
+  "scientificName": "Mustela strigidorsa",
+  "wikibase_item": "Q1142024",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142024",
+    "wikipedia": "https://en.wikipedia.org/wiki/Back-striped_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The back-striped weasel, also called the stripe-backed weasel, is a weasel widely distributed in Southeastern Asia. It is listed as Least Concern on the IUCN Red List in view of its presumed large population, occurrence in many protected areas, apparent tolerance to some degree of habitat modification and hunting pressure.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/MustelaStrigidorsaWolf.jpg"
+}

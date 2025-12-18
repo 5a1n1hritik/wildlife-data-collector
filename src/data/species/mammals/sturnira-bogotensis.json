@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-bogotensis",
+  "name": "Bogotá yellow-shouldered bat",
+  "scientificName": "Sturnira bogotensis",
+  "wikibase_item": "Q1592937",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1592937",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bogot%C3%A1_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bogotá yellow-shouldered bat is a species of bat in the family Phyllostomidae. It is found in Colombia, Ecuador, Peru, and Venezuela at altitudes from 300 m to above 2000 m, particularly in cloud forest. The species is primarily frugivorous; it may also consume nectar and pollen.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Distribution_of_Sturnira_bogotensis.png"
+}

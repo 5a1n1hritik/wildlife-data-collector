@@ -1,0 +1,25 @@
+{
+  "id": "gerbillus-quadrimaculatus",
+  "name": "Gerbillus quadrimaculatus",
+  "scientificName": "Gerbillus quadrimaculatus",
+  "wikibase_item": "Q11843604",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11843604",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_African_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North African gerbil is a species of rodent in the family Muridae. It is found in North Africa where its natural habitats are arable land and rocky areas of the Maghreb, and hot Saharan deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dipodillus_campestris_-_North_African_Gerbil.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "murina-sp.",
+  "name": "Murina sp.",
+  "scientificName": "Murina sp.",
+  "wikibase_item": "Q41085143",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1179958,
+      "id": "Q1179958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085143"
+  },
+  "lastUpdated": "2025-12-17"
+}

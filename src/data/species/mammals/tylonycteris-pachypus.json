@@ -1,0 +1,25 @@
+{
+  "id": "tylonycteris-pachypus",
+  "name": "Lesser bamboo bat",
+  "scientificName": "Tylonycteris pachypus",
+  "wikibase_item": "Q976615",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1065036,
+      "id": "Q1065036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q976615",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_bamboo_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser bamboo bat or lesser flat-headed bat is one of the smallest species of vesper bat, and is native to Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lesser_Bamboo_Bat.JPG"
+}

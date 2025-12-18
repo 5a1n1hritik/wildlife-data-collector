@@ -1,0 +1,25 @@
+{
+  "id": "tamiops-minshanica",
+  "name": "Tamiops minshanica",
+  "scientificName": "Tamiops minshanica",
+  "wikibase_item": "Q116944099",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 811634,
+      "id": "Q811634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116944099",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamiops_minshanica"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tamiops minshanica, the Minshan striped squirrel, is a species of rodent in the family Sciuridae. A type of Asiatic striped squirrel that had previously not been assigned morphologically to any described species, it was discovered in 2018 in Wanglang National Natural Reserve, Sichuan, China. It was formally described and assigned in 2022.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tamiops_minshanicus.png"
+}

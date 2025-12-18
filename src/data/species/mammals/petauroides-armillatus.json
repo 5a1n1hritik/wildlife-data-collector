@@ -1,0 +1,25 @@
+{
+  "id": "petauroides-armillatus",
+  "name": "Petauroides armillatus",
+  "scientificName": "Petauroides armillatus",
+  "wikibase_item": "Q50365762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804830,
+      "id": "Q10804830"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50365762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_greater_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The central greater glider is a species of gliding marsupial native to the central coast of eastern Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Petauroides_volans4.jpg"
+}

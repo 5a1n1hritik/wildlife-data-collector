@@ -1,0 +1,25 @@
+{
+  "id": "mirimiri-acrodonta",
+  "name": "Fijian Monkey-faced Bat",
+  "scientificName": "Mirimiri acrodonta",
+  "wikibase_item": "Q430645",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3316055,
+      "id": "Q3316055"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q430645",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fijian_monkey-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Fijian monkey-faced bat, also known as the Fijian flying fox or Fijian flying monkey, is a megabat endemic to Fiji. It was discovered in old-growth cloud forest on Des Vœux Peak, the second highest mountain peak on the island of Taveuni by William and Ruth Beckon in 1976, and is Fiji's only endemic mammal. It has recently been transferred from Pteralopex to its own monotypic genus Mirimiri.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/1977.05.03_Fiji_Monkey_Bat_%2CTaveuni%2C_Fiji_3443_ccccc_crop.jpg"
+}

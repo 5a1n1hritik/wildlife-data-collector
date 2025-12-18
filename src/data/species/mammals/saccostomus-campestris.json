@@ -1,0 +1,25 @@
+{
+  "id": "saccostomus-campestris",
+  "name": "South African pouched mouse",
+  "scientificName": "Saccostomus campestris",
+  "wikibase_item": "Q1769250",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845351,
+      "id": "Q845351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769250",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_African_pouched_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The South African pouched mouse or southern African pouched mouse is a species of rodent in the family Nesomyidae, which is viewed as actually representing a complex of at least three undescribed species. It is found in southern Africa in Angola, Botswana, DR Congo, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia and Zimbabwe. This species occurs in savanna woodland, as well as various other habitats, at elevations from 50 to 2000 m. It is present in arid regions of Namibia. The rodent is abundant and is tolerant of human disturbance of its habitat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Saccostomus_campestris.jpg"
+}

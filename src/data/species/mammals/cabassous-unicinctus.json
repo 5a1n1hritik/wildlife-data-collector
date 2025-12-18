@@ -1,0 +1,25 @@
+{
+  "id": "cabassous-unicinctus",
+  "name": "southern naked-tailed armadillo",
+  "scientificName": "Cabassous unicinctus",
+  "wikibase_item": "Q1768774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 856879,
+      "id": "Q856879"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_naked-tailed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern naked-tailed armadillo is a species of small armadillo from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Nacktschwanzg%C3%BCrteltier_%28Cabassous_unicinctus%29.jpg"
+}

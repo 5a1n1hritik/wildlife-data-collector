@@ -1,0 +1,22 @@
+{
+  "id": "delotrochanter-oryktes",
+  "name": "Delotrochanter oryktes",
+  "scientificName": "Delotrochanter oryktes",
+  "wikibase_item": "Q117312381",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 117312355,
+      "id": "Q117312355"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117312381"
+  },
+  "lastUpdated": "2025-12-17"
+}

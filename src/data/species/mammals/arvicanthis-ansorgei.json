@@ -1,0 +1,25 @@
+{
+  "id": "arvicanthis-ansorgei",
+  "name": "Sudanian Grass Rat",
+  "scientificName": "Arvicanthis ansorgei",
+  "wikibase_item": "Q1762189",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 277877,
+      "id": "Q277877"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762189",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sudanian_grass_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sudanian grass rat is a species of rodent in the family Muridae.\nIt is found in Burkina Faso, Guinea-Bissau, Mali, Niger, Senegal, possibly Benin, possibly Ivory Coast, possibly Ghana, possibly Guinea, and possibly Togo.\nIts natural habitats are subtropical or tropical dry shrubland, subtropical or tropical moist shrubland, subtropical or tropical dry lowland grassland, subtropical or tropical seasonally wet or flooded lowland grassland, arable land, pastureland, rural gardens, irrigated land, seasonally flooded agricultural land, and canals and ditches.",
+  "image": null
+}

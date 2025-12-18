@@ -1,0 +1,25 @@
+{
+  "id": "lasiorhinus-krefftii",
+  "name": "northern hairy-nosed wombat",
+  "scientificName": "Lasiorhinus krefftii",
+  "wikibase_item": "Q1134186",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 210106,
+      "id": "Q210106"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1134186",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_hairy-nosed_wombat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern hairy-nosed wombat or yaminon is one of three extant species of Australian marsupials known as wombats. It is one of the rarest land mammals in the world and is critically endangered. Its historical range previously extended across New South Wales, Victoria, and Queensland, and as recently as 100 years ago it was considered as having become extinct, but in the 1930s a population of about 30 individuals was discovered located in one place, a 3 km2 (1.2 sq mi) range within the 32 km2 (12 sq mi) Epping Forest National Park in Queensland. With the species threatened by wild dogs, the Queensland Government built a 20-kilometre (12 mi)-long predator-proof fence around all wombat habitat at Epping Forest National Park in 2002. Insurance populations have since been translocated to two other locations to ensure the species survives threats such as fire, flood, or disease.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Haarnasenwombat_%28Lasiorhinus_krefftii%29.jpg"
+}

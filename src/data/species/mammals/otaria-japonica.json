@@ -1,0 +1,22 @@
+{
+  "id": "otaria-japonica",
+  "name": "Otaria japonica",
+  "scientificName": "Otaria japonica",
+  "wikibase_item": "Q109647400",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817140,
+      "id": "Q19817140"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647400"
+  },
+  "lastUpdated": "2025-12-17"
+}

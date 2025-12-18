@@ -1,0 +1,25 @@
+{
+  "id": "octodon-degus",
+  "name": "Octodon degus",
+  "scientificName": "Octodon degus",
+  "wikibase_item": "Q281008",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 628979,
+      "id": "Q628979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q281008",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_degu"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common degu, or, historically, the degu, is a small hystricomorpha rodent endemic to the Chilean matorral ecoregion of central Chile. The name degu on its own indicates either the entire genus Octodon or, more commonly, just the common degu. Common degus belong to the parvorder Caviomorpha of the infraorder Hystricognathi, along with the chinchilla and guinea pig. The word degu comes from the Mapuche word dewü, meaning 'mouse' or 'rat'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg"
+}

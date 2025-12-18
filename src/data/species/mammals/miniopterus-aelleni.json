@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-aelleni",
+  "name": "Miniopterus aelleni",
+  "scientificName": "Miniopterus aelleni",
+  "wikibase_item": "Q1998926",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1998926",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miniopterus_aelleni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Miniopterus aelleni is a bat in the genus Miniopterus that occurs on Anjouan in the Comoros and in northern and western Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Miniopterus_aelleni_range.svg/500px-Miniopterus_aelleni_range.svg.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "murina-tenebrosa",
+  "name": "gloomy tube-nosed bat",
+  "scientificName": "Murina tenebrosa",
+  "wikibase_item": "Q134356",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134356",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloomy_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gloomy tube-nosed bat is a species of vesper bat in the family Vespertilionidae. It is only known by the holotype, an old female, collected in an abandoned mine on Tsushima Island in 1962. There is a shortage of intact forests, and limited caves and mines available for roosting. Surveys to rediscover this species failed. Due to its imperiled status, it is identified by the Alliance for Zero Extinction as a species in danger of imminent extinction.",
+  "image": null
+}

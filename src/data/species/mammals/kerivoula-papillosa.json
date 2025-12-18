@@ -1,0 +1,25 @@
+{
+  "id": "kerivoula-papillosa",
+  "name": "papillose woolly bat",
+  "scientificName": "Kerivoula papillosa",
+  "wikibase_item": "Q304268",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134524,
+      "id": "Q134524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304268",
+    "wikipedia": "https://en.wikipedia.org/wiki/Papillose_woolly_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The papillose woolly bat is a species of vesper bat in the family Vespertilionidae.\nIt is found in Brunei, India, Indonesia, Malaysia, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Kerivoula_papillosa.jpg"
+}

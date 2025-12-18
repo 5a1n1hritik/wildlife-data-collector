@@ -1,0 +1,25 @@
+{
+  "id": "murina-fionae",
+  "name": "Murina fionae",
+  "scientificName": "Murina fionae",
+  "wikibase_item": "Q16469750",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17343466,
+      "id": "Q17343466"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16469750",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fiona's_tube-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fiona's tube-nosed bat is a species of vesper bats (Vespertilionidae). It is found in Vietnam, Cambodia, and Laos.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Distribution_of_Murina_fionae.png"
+}

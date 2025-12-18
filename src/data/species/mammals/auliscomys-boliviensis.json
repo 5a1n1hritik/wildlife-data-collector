@@ -1,0 +1,25 @@
+{
+  "id": "auliscomys-boliviensis",
+  "name": "Bolivian big-eared mouse",
+  "scientificName": "Auliscomys boliviensis",
+  "wikibase_item": "Q307316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 781345,
+      "id": "Q781345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307316",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bolivian_big-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bolivian big-eared mouse is a species of rodent in the family Muridae. It is found in Bolivia, Chile, and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bolivian_Big-eared_Mouse_imported_from_iNaturalist_photo_188371874_on_9_January_2023.jpg"
+}

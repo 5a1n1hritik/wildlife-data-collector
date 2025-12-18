@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-shortridgei",
+  "name": "Heath mouse",
+  "scientificName": "Pseudomys shortridgei",
+  "wikibase_item": "Q1762238",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762238",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heath_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The heath mouse is a species of mouse in the subfamily Murinae, the Old World rats and mice, found in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pseudomys_shortridgei%2C_Heath_mouse_01.jpg"
+}

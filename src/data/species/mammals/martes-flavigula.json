@@ -1,0 +1,25 @@
+{
+  "id": "martes-flavigula",
+  "name": "yellow-throated marten",
+  "scientificName": "Martes flavigula",
+  "wikibase_item": "Q220248",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26533,
+      "id": "Q26533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q220248",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow-throated_marten"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The yellow-throated marten is a marten species native to the Himalayas, Southeast and East Asia. Its coat is bright yellow-golden, and its head and back are distinctly darker, blending together black, white, golden-yellow and brown. It is the second-largest marten in the Old World, after the Nilgiri marten, with its tail making up more than half its body length.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Martes_flavigula%2C_yellow-throated_marten.jpg"
+}

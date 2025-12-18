@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-koslowi",
+  "name": "Koslov's pika",
+  "scientificName": "Ochotona koslowi",
+  "wikibase_item": "Q133196",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133196",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koslov's_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Koslov's pika or Kozlov's pika is a species of mammal in the family Ochotonidae. It is endemic to China. Its natural habitat is tundra. It is threatened by habitat loss. Kozlov's pika are herbivores, they are known as \"ecosystem engineers\" as they're known to promote diversity of different plants species. Specifically, this species of Pikas has been enlisted as \"endangered\" in China. Kozlov Pikas are estimated to be within the Northern edge of the Arkatag Range in China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ochotona_koslowi.jpg"
+}

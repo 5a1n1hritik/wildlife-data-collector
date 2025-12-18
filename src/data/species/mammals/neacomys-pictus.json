@@ -1,0 +1,25 @@
+{
+  "id": "neacomys-pictus",
+  "name": "Neacomys pictus",
+  "scientificName": "Neacomys pictus",
+  "wikibase_item": "Q1765726",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593339,
+      "id": "Q593339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765726",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neacomys_pictus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neacomys pictus, also known as the painted neacomys or painted bristly mouse, is a species of rodent in the genus Neacomys of family Cricetidae. It is found only in Panama.",
+  "image": null
+}

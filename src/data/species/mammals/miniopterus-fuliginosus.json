@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-fuliginosus",
+  "name": "Miniopterus fuliginosus",
+  "scientificName": "Miniopterus fuliginosus",
+  "wikibase_item": "Q2035122",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2035122",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_bent-wing_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern bent-wing bat is a species of vesper bat in the family Miniopteridae. It is found in South Asia, Far-east Asia, the east Caucasus Mountains and also in Southeast Asian regions.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E3%83%A6%E3%83%93%E3%83%8A%E3%82%AC%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA.jpg"
+}

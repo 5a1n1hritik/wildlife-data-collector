@@ -1,0 +1,25 @@
+{
+  "id": "acrobates-pygmaeus",
+  "name": "feathertail glider",
+  "scientificName": "Acrobates pygmaeus",
+  "wikibase_item": "Q613177",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11110566,
+      "id": "Q11110566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q613177",
+    "wikipedia": "https://en.wikipedia.org/wiki/Feathertail_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The feathertail glider, also known as the pygmy gliding possum, pygmy glider, pygmy phalanger, flying phalanger and flying mouse, is a species of marsupial native to eastern Australia. It is the world's smallest gliding mammal and is named for its long feather-shaped tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Acrobates_neuneu.jpg"
+}

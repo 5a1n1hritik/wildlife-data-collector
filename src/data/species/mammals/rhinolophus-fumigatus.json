@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-fumigatus",
+  "name": "Rüppell's Horseshoe Bat",
+  "scientificName": "Rhinolophus fumigatus",
+  "wikibase_item": "Q1768814",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768814",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCppell's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rüppell's horseshoe bat is a species of bat in the family Rhinolophidae found in Africa. Its natural habitats are subtropical or tropical dry forests, savanna, caves and other subterranean habitats. This species is quite common in parts of its range, and no specific threats have been recognised, so the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rhinolophus_fumigatus%2C_Limpopo.jpg"
+}

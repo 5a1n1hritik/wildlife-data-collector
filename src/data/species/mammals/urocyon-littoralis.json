@@ -1,0 +1,25 @@
+{
+  "id": "urocyon-littoralis",
+  "name": "island fox",
+  "scientificName": "Urocyon littoralis",
+  "wikibase_item": "Q722180",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 738191,
+      "id": "Q738191"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q722180",
+    "wikipedia": "https://en.wikipedia.org/wiki/Island_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The island fox is a small fox species that is endemic to six of the eight Channel Islands of California. Evolved from their mainland gray fox recent and larger ancestor, they diversified into six distinct subspecies, each confined to a single island and exhibiting insular dwarfism. Island fox are generally docile, show little fear of humans, and are easily tamed. Island foxes played an important role in the spiritual lives of native Channel Islanders. They have been likely semi-domesticated as pets, used as pelts, or for other functions, like pest control. Genetic and archaeological evidence suggests that the foxes arrived on the islands over 7,000 years ago, likely assisted by early human populations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Urocyon_littoralis_%28Island_fox%29_FWS_001.jpg"
+}

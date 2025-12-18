@@ -1,0 +1,25 @@
+{
+  "id": "hylomys-megalotis",
+  "name": "Hylomys megalotis",
+  "scientificName": "Hylomys megalotis",
+  "wikibase_item": "Q2205265",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1392810,
+      "id": "Q1392810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2205265",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-eared_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-eared gymnure is a eulipotyphlan that is found in Laos. This specific type of gymnure has long ears and a long skull compared to that of others. It is also recognized for its broad forefeet, stout claws, and naked hindfeet. Previously classified in Hylomys, it is now the only species assigned to the genus Otohylomys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Long-eared_Gymnure_area.png"
+}

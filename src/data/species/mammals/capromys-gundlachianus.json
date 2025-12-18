@@ -1,0 +1,25 @@
+{
+  "id": "capromys-gundlachianus",
+  "name": "Capromys gundlachianus",
+  "scientificName": "Capromys gundlachianus",
+  "wikibase_item": "Q1765105",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858255,
+      "id": "Q858255"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765105",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archipi%C3%A9lago_de_Sabana_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Archipiélago de Sabana hutia is a subspecies of the Desmarest's hutia endemic to the Sabana-Camagüey Archipelago of Cuba.",
+  "image": null
+}

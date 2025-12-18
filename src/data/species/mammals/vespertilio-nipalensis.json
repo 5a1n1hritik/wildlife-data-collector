@@ -1,0 +1,22 @@
+{
+  "id": "vespertilio-nipalensis",
+  "name": "Vespertilio nipalensis",
+  "scientificName": "Vespertilio nipalensis",
+  "wikibase_item": "Q64392160",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64392160"
+  },
+  "lastUpdated": "2025-12-17"
+}

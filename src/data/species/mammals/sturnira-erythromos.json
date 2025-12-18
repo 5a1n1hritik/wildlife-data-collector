@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-erythromos",
+  "name": "Hairy yellow-shouldered bat",
+  "scientificName": "Sturnira erythromos",
+  "wikibase_item": "Q1831336",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831336",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy yellow-shouldered bat is a species of bat in the family Phyllostomidae native to South America. There are no recognised subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Distribution_of_Sturnira_erythromos.png"
+}

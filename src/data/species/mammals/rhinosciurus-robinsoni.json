@@ -1,0 +1,22 @@
+{
+  "id": "rhinosciurus-robinsoni",
+  "name": "Rhinosciurus robinsoni",
+  "scientificName": "Rhinosciurus robinsoni",
+  "wikibase_item": "Q41017906",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12266531,
+      "id": "Q12266531"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41017906"
+  },
+  "lastUpdated": "2025-12-17"
+}

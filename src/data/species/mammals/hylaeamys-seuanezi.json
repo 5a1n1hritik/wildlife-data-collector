@@ -1,0 +1,22 @@
+{
+  "id": "hylaeamys-seuanezi",
+  "name": "Hylaeamys seuanezi",
+  "scientificName": "Hylaeamys seuanezi",
+  "wikibase_item": "Q124122240",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 655208,
+      "id": "Q655208"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124122240"
+  },
+  "lastUpdated": "2025-12-17"
+}

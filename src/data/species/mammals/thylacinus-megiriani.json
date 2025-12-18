@@ -1,0 +1,25 @@
+{
+  "id": "thylacinus-megiriani",
+  "name": "Thylacinus megiriani",
+  "scientificName": "Thylacinus megiriani",
+  "wikibase_item": "Q5494736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 194340,
+      "id": "Q194340"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5494736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thylacinus_megiriani"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thylacinus megiriani lived during the late Miocene, around 8 million years ago. The area T. megiriani inhabited in the Northern Territory was covered in forest with a permanent supply of water. Thylacinus megiriani was a quadrupedal marsupial predator, that in appearance looked similar to a dog with a long snout. Its molar teeth were specialized for carnivory, the cups and crest were reduced or elongated to give the molars a cutting blade, and in proportion with its body, its teeth were exceptionally large, possibly adding to its body weight. Its estimated weight is over 57 kg. Thylacinus megiriani, along with crocodiles and giant monitor lizards, were thought to be the only predators in Alcoota.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Thylacinus_megiriani.jpg"
+}

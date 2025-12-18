@@ -1,0 +1,25 @@
+{
+  "id": "sundasciurus-fraterculus",
+  "name": "Fraternal squirrel",
+  "scientificName": "Sundasciurus fraterculus",
+  "wikibase_item": "Q1768020",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fraternal_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fraternal squirrel is a species of rodent in the family Sciuridae. It is endemic to Indonesia, found only in the Mentawai Archipelago, located off the west coast of Sumatra.",
+  "image": null
+}

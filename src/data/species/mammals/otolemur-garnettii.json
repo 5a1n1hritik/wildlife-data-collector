@@ -1,0 +1,25 @@
+{
+  "id": "otolemur-garnettii",
+  "name": "Northern greater galago",
+  "scientificName": "Otolemur garnettii",
+  "wikibase_item": "Q1196226",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1190066,
+      "id": "Q1190066"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1196226",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_greater_galago"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern greater galago, also known as Garnett's greater galago, Garnett's galago, or the small-eared greater galago, is a nocturnal, arboreal primate endemic to Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Garnett%27s_Galago_%28Greater_Bushbaby%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mops-bregullae",
+  "name": "Mops bregullae",
+  "scientificName": "Mops bregullae",
+  "wikibase_item": "Q125912596",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131457380,
+      "id": "Q131457380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125912596",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fijian_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Fijian mastiff bat, also known as the Fijian free-tailed bat, is a species of bat in the family Molossidae. It is found in Fiji and Vanuatu. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation. This species is currently listed as endangered and considered a species of special concern due to habitat fragmentation and cave disturbance. The Fijian free-tailed bat is endemic to Fiji and Vanuatu. This species was previously documented on the islands of Taveuni and Vanua Levu, current research indicates possible small fragmented populations inhabiting both islands. Only two insectivorous bats occupy Fiji, the Pacific sheath-tailed bat and the Fijian free-tailed bat. Both species consume night flying insects, foraging high above the canopy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Distribution_of_Chaerephon_bregullae.png"
+}

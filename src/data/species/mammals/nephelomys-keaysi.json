@@ -1,0 +1,25 @@
+{
+  "id": "nephelomys-keaysi",
+  "name": "Nephelomys keaysi",
+  "scientificName": "Nephelomys keaysi",
+  "wikibase_item": "Q1762205",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 305160,
+      "id": "Q305160"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762205",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nephelomys_keaysi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nephelomys keaysi, also known as Keays's oryzomys or Keays's rice rat, is a species of rodent in the genus Nephelomys of family Cricetidae. It is found from southeastern Peru to northern Bolivia on the eastern slope of the Andes in Yungas humid forest at altitudes of 1000 to 2600 m. Although its continued existence is not in serious danger and it is listed as \"least concern\", destruction of its habitat may pose a threat to some populations.",
+  "image": null
+}

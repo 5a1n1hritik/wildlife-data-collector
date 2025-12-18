@@ -1,0 +1,25 @@
+{
+  "id": "artibeus-aztecus",
+  "name": "Aztec Fruit-eating Bat",
+  "scientificName": "Artibeus aztecus",
+  "wikibase_item": "Q146522",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q146522",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aztec_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Aztec fruit-eating bat is a species of bat in the family Phyllostomidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Artibeus_aztecus_map.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conepatus-mesoleucus",
+  "name": "Conepatus mesoleucus",
+  "scientificName": "Conepatus mesoleucus",
+  "wikibase_item": "Q2166001",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1145450,
+      "id": "Q1145450"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2166001",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_hog-nosed_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American hog-nosed skunk is a species of hog-nosed skunk from Central and North America, and is one of the largest skunks in the world, growing to lengths of up to 2.7 feet (82 cm). Recent work has concluded the western hog-nosed skunk is the same species, and Conepatus leuconotus is the correct name of the merged populations.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hog-nosed-skunk.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "paradoxurus-jerdoni",
+  "name": "Brown palm civet",
+  "scientificName": "Paradoxurus jerdoni",
+  "wikibase_item": "Q1414665",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 887918,
+      "id": "Q887918"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1414665",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_palm_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown palm civet, also called the Jerdon's palm civet, is a viverrid endemic to the Western Ghats of India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brownpalm_civet.jpg"
+}

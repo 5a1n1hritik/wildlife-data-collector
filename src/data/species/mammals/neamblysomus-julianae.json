@@ -1,0 +1,25 @@
+{
+  "id": "neamblysomus-julianae",
+  "name": "Juliana's golden mole",
+  "scientificName": "Neamblysomus julianae",
+  "wikibase_item": "Q304310",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141889,
+      "id": "Q141889"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304310",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliana's_golden_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Juliana's golden mole is a golden mole endemic to South Africa. It is listed as an endangered species due to habitat loss and a restricted range. Golden moles are an ancient group of mammals that live mostly below ground. The eponymous Juliana is Juliana Meester, the wife of the South African zoologist who named this species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Juliana%E2%80%99s_golden_mole_is_one_of_Africa%E2%80%99s_most_threatened_mammals_Jackson.png"
+}

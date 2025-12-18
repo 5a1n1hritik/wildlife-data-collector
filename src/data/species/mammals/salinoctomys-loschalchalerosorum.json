@@ -1,0 +1,25 @@
+{
+  "id": "salinoctomys-loschalchalerosorum",
+  "name": "Chalchalero vizcacha rat",
+  "scientificName": "Salinoctomys loschalchalerosorum",
+  "wikibase_item": "Q1059502",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10812309,
+      "id": "Q10812309"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1059502",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chalchalero_viscacha_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chalchalero viscacha rat or Chalchalero vizcacha rat is a species of caviomorph rodent in the family Octodontidae. It was formerly considered to be monotypic within the genus Salinoctomys, but has been shown by genetic analysis to nest within Tympanoctomys, and in particular, within the variation of T. barrerae. The species is endemic to a small area of northwestern Argentina, where it lives in shrublands bordering the salt flats of the Salinas Grandes. Its diet consists of halophyte plants. It is named after an Argentine musical group, Los Chalchaleros, whose songs were popular with its discoverers.",
+  "image": null
+}

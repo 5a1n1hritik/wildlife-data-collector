@@ -1,0 +1,22 @@
+{
+  "id": "didelphis-sp.",
+  "name": "Didelphis sp.",
+  "scientificName": "Didelphis sp.",
+  "wikibase_item": "Q41082878",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082878"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "psammomys-vexillaris",
+  "name": "Thin sand rat",
+  "scientificName": "Psammomys vexillaris",
+  "wikibase_item": "Q1763680",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 64524,
+      "id": "Q64524"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thin_sand_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The thin sand rat or lesser sand rat is a species of rodent in the family Muridae. It has also been previously named the pale sand rat based on work published by Oldfield Thomas in 1925.\nIt is found in Algeria, Libya, and Tunisia, and its natural habitats are subtropical or tropical dry shrubland and intermittent salt lakes.\nThe thin sand rat was previously classified as a subspecies of the fat sand rat. However, morphological differences in size and coat color between the two animals, along with recent molecular evidence suggest that they are different species.\nThe thin sand rat may be a natural reservoir for the disease leishmaniasis.",
+  "image": null
+}

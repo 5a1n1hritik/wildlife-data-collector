@@ -1,0 +1,25 @@
+{
+  "id": "scapanus-occultus",
+  "name": "Scapanus occultus",
+  "scientificName": "Scapanus occultus",
+  "wikibase_item": "Q109371478",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2091646,
+      "id": "Q2091646"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109371478",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_broad-footed_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern broad-footed mole is a species of mammal in the family Talpidae. It is found only in the U.S. state of California and northernmost Baja California in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Broad-footed_Mole_imported_from_iNaturalist_photo_106727840_on_3_November_2021.jpg"
+}

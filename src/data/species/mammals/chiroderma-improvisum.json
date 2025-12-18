@@ -1,0 +1,25 @@
+{
+  "id": "chiroderma-improvisum",
+  "name": "Guadeloupe Big-eyed Bat",
+  "scientificName": "Chiroderma improvisum",
+  "wikibase_item": "Q308771",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702286,
+      "id": "Q2702286"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308771",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guadeloupe_big-eyed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guadeloupe big-eyed bat is a species of bat in the family Phyllostomidae. It is found in Guadeloupe and Montserrat. It is threatened by habitat loss mostly because of Hurricane Hugo, which destroyed 90% of its population in 1989. The species may be locally extinct in some areas of Guadeloupe.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Chiroderma_improvisum.jpg"
+}

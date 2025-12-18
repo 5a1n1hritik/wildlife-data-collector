@@ -1,0 +1,25 @@
+{
+  "id": "dasypus-pilosus",
+  "name": "hairy long-nosed armadillo",
+  "scientificName": "Dasypus pilosus",
+  "wikibase_item": "Q743510",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 902499,
+      "id": "Q902499"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q743510",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy_long-nosed_armadillo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy long-nosed armadillo or woolly armadillo is a species of armadillo in the family Dasypodidae. It is endemic to Peru. Its natural habitats are subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest. The International Union for Conservation of Nature used to consider it a \"vulnerable species\" but has changed this assessment to \"data deficient\" because so little is known about the animal and the threats it faces.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dasypus_pilosus_-_Feijo_et_al_2018_holotype.tif/lossy-page1-1726px-Dasypus_pilosus_-_Feijo_et_al_2018_holotype.tif.jpg"
+}

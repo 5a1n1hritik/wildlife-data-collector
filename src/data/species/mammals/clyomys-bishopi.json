@@ -1,0 +1,25 @@
+{
+  "id": "clyomys-bishopi",
+  "name": "Bishop's fossorial spiny rat",
+  "scientificName": "Clyomys bishopi",
+  "wikibase_item": "Q302142",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 550337,
+      "id": "Q550337"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302142",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-headed_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-headed spiny rat is a spiny rat species from Brazil and Paraguay. The etymology of the species name is the Latin word laticeps meaning \"wide-headed\".",
+  "image": null
+}

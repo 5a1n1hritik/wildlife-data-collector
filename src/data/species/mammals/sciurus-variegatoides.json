@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-variegatoides",
+  "name": "Variegated squirrel",
+  "scientificName": "Sciurus variegatoides",
+  "wikibase_item": "Q508774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q508774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Variegated_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The variegated squirrel is a tree squirrel in the genus Sciurus found in Costa Rica, El Salvador, Guatemala, Honduras, southern Mexico, Nicaragua, and Panama. Fifteen subspecies are recognised. It is a common squirrel and the International Union for Conservation of Nature has rated it a \"least-concern species\". Variegated squirrels kept as pets in Germany have been implicated in the transmission of a bornavirus to humans from which three people have died.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sciurus_variegatoides_atrirufus_%28climbing%29.jpg"
+}

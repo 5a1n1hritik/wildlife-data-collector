@@ -1,0 +1,25 @@
+{
+  "id": "nyctimene-cyclotis",
+  "name": "Nyctimene cyclotis",
+  "scientificName": "Nyctimene cyclotis",
+  "wikibase_item": "Q1764295",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764295",
+    "wikipedia": "https://en.wikipedia.org/wiki/Round-eared_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The round-eared tube-nosed fruit bat is a species of bat in the family Pteropodidae. It is possibly conspecific with Nyctimene certans, although the taxonomy remains unresolved. The possible synonymy of the species was investigated by Randolph L. Peterson in 1991, finding the species split into two distinct groups based on morphology. It is found in West Papua and Mansuar Island in Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Round-eared_Tube-nosed_Fruit_Bat_area.png"
+}

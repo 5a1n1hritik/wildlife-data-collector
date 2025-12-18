@@ -1,0 +1,25 @@
+{
+  "id": "martes-foina",
+  "name": "beech marten",
+  "scientificName": "Martes foina",
+  "wikibase_item": "Q27366",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26533,
+      "id": "Q26533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27366",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beech_marten"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The beech marten, also known as the stone marten, house marten or white breasted marten, is a species of marten native to much of Europe and Central Asia, though it has established a feral population in North America. It is listed as Least Concern on the IUCN Red List on account of its wide distribution, its large population, and its presence in a number of protected areas. It is superficially similar to the European pine marten, but differs from it by its smaller size and habitat preferences. While the pine marten is a forest specialist, the beech marten is a more generalist and adaptable species, occurring in a number of open and forest habitats.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Steinmarder_%28cropped%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mustela-altaica",
+  "name": "mountain weasel",
+  "scientificName": "Mustela altaica",
+  "wikibase_item": "Q434197",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q434197",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain weasel, also known as the pale weasel, Altai weasel or solongoi, primarily lives in high-altitude environments, as well as rocky tundra and grassy woodlands. This weasel rests in rock crevices, tree trunks, and abandoned burrows of other animals or the animals it previously hunted. The home range size of this animal is currently unknown. Geographical distribution for this species lies in parts of Asia from Kazakhstan, Tibet, and the Himalayas to Mongolia, northeastern China, and southern Siberia. The most common area for this species, however, is Ladakh, India. The conservation status, according to the IUCN, is near threatened because it is considered to be in significant decline and requires monitoring mainly because of habitat and resource loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mountain_Weasel_%28Mustela_altaica%29.jpg"
+}

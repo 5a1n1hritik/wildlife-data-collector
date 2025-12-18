@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-personatus",
+  "name": "Pteropus personatus",
+  "scientificName": "Pteropus personatus",
+  "wikibase_item": "Q1769798",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769798",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masked_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The masked flying fox, Moluccan masked flying fox or masked fruit bat, is a species of flying fox in the family Pteropodidae. It is endemic to Indonesia. It is part of a species complex of closely related species. The species is hunted.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pteropus_personatus_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02566.JPG"
+}

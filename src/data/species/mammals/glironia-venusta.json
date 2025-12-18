@@ -1,0 +1,25 @@
+{
+  "id": "glironia-venusta",
+  "name": "Bushy-tailed opossum",
+  "scientificName": "Glironia venusta",
+  "wikibase_item": "Q1017422",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18510784,
+      "id": "Q18510784"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1017422",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bushy-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The bushy-tailed opossum is an opossum from South America. It was first described by English zoologist Oldfield Thomas in 1912. It is a medium-sized opossum characterized by a large, oval, dark ears, fawn to cinnamon coat with a buff to gray underside, grayish limbs, and a furry tail. Little is known of the behavior of the bushy-tailed opossum; less than 25 specimens are known. It appears to be arboreal (tree-living), nocturnal and solitary. The diet probably comprises insects, eggs and plant material. This opossum has been captured from heavy, humid, tropical forests; it has been reported from Bolivia, Brazil, Colombia, Ecuador and Peru. The IUCN classifies it as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Glironia_venusta.jpeg"
+}

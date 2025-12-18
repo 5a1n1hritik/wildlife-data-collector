@@ -1,0 +1,22 @@
+{
+  "id": "gerbillus-arenicolor",
+  "name": "Gerbillus arenicolor",
+  "scientificName": "Gerbillus arenicolor",
+  "wikibase_item": "Q125447108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125447108"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rukwasengi-butleri",
+  "name": "Rukwasengi butleri",
+  "scientificName": "Rukwasengi butleri",
+  "wikibase_item": "Q110464975",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125224636,
+      "id": "Q125224636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110464975",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rukwasengi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rukwasengi is an extinct genus of myohyracine that inhabited Tanzania during the Oligocene epoch. It contains a single species, Rukwasengi butleri.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "plagiodontia-aedium",
+  "name": "Hispaniolan hutia",
+  "scientificName": "Plagiodontia aedium",
+  "wikibase_item": "Q549103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140424,
+      "id": "Q140424"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q549103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hispaniolan_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hispaniolan hutia is a small, rat-like mammal endemic to forests on the Caribbean island of Hispaniola. It lives in burrows or trees, and is active at night when it feeds on roots and fruits. A member of the hutia subfamily (Capromyinae), Threats to the Hispaniolan hutia include habitat loss and introduced species, such as rats or feral dogs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Original-scientific-illustration-of-Plagiodontia-aedium-from-Cuvier-1836-showing.png"
+}

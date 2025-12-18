@@ -1,0 +1,25 @@
+{
+  "id": "mesocricetus-newtoni",
+  "name": "Romanian hamster",
+  "scientificName": "Mesocricetus newtoni",
+  "wikibase_item": "Q1429152",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 389919,
+      "id": "Q389919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1429152",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romanian_hamster"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Romanian hamster or Dobrudja hamster is a species of rodent in the family Cricetidae. It is found in Bulgaria and Romania. The scientific name honors the British ornithologist Alfred Newton, who had published a short description and an illustration of this species in 1870 without knowing it to be a valid species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mesocricetus_newtoni.jpg"
+}

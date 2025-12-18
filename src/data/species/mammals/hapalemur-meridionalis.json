@@ -1,0 +1,25 @@
+{
+  "id": "hapalemur-meridionalis",
+  "name": "Hapalemur meridionalis",
+  "scientificName": "Hapalemur meridionalis",
+  "wikibase_item": "Q571320",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 544028,
+      "id": "Q544028"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q571320",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_lesser_bamboo_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern lesser bamboo lemur, also known as the southern bamboo lemur, rusty-gray lesser bamboo lemur, and southern gentle lemur, is a species of bamboo lemur endemic to southern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Southern_lesser_bamboo_lemur%2C_S%C3%BCdliche_Bambuslemur%2C_Detail.jpg"
+}

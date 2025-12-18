@@ -1,0 +1,22 @@
+{
+  "id": "prionodon-platyodon",
+  "name": "Prionodon platyodon",
+  "scientificName": "Prionodon platyodon",
+  "wikibase_item": "Q107055083",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 847194,
+      "id": "Q847194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107055083"
+  },
+  "lastUpdated": "2025-12-17"
+}

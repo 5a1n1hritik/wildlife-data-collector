@@ -1,0 +1,25 @@
+{
+  "id": "pseudopotto-martini",
+  "name": "False potto",
+  "scientificName": "Pseudopotto martini",
+  "wikibase_item": "Q1075190",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18511067,
+      "id": "Q18511067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1075190",
+    "wikipedia": "https://en.wikipedia.org/wiki/False_potto"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The false potto is a lorisoid primate of uncertain taxonomic status found in Africa. Anthropologist Jeffrey H. Schwartz named it in 1996 as the only species of the genus Pseudopotto on the basis of two specimens that had previously been identified as a potto (Perodicticus). The precise provenances of the two specimens are uncertain, but at least one may have come from Cameroon. Schwartz thought the false potto could even represent a separate family, but other researchers have argued that the supposed distinguishing features of the animal do not actually distinguish it from the potto; specifically, the false potto shares several features with the West African potto.",
+  "image": null
+}

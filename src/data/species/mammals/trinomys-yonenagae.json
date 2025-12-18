@@ -1,0 +1,25 @@
+{
+  "id": "trinomys-yonenagae",
+  "name": "Yonenaga's Atlantic Spiny-rat",
+  "scientificName": "Trinomys yonenagae",
+  "wikibase_item": "Q686037",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 846036,
+      "id": "Q846036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q686037",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yonenaga's_Atlantic_spiny_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Yonenaga's Atlantic spiny-rat or torch-tail spiny rat is a spiny rat species endemic to Brazil. Locally, it is known as rabo de facho. Named for Yatiyo Yonenaga-Yassuda, a cytogenetics researcher, it is considered an endangered species due to its highly restricted distribution and ongoing habitat loss. Genetic evidence shows that it diverged from its closest living relative, the hairy Atlantic spiny rat, around 8.5 million years ago, during the Late Miocene.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Trinomys_yonenagae_distribution_%28colored%29.png"
+}

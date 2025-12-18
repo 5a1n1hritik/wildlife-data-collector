@@ -1,0 +1,25 @@
+{
+  "id": "chiropotes-albinasus",
+  "name": "Chiropotes albinasus",
+  "scientificName": "Chiropotes albinasus",
+  "wikibase_item": "Q1030670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 809594,
+      "id": "Q809594"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1030670",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-nosed_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-nosed saki is a species of bearded saki, a type of New World monkey, endemic to the south-central Amazon rainforest in Brazil. Both its scientific and common name were caused by the authors working from dead specimens, where the skin on and around the nose fades to a whitish color. In living individuals, the nose is actually bright pink. Pelage on the body tends to be black in males and brown to brownish-grey in females. No other species of the genus Chiropotes have a brightly coloured nose.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Chiropotes_albinasus.jpg"
+}

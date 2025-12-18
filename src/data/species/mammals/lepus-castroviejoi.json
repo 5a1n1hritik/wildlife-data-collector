@@ -1,0 +1,25 @@
+{
+  "id": "lepus-castroviejoi",
+  "name": "Broom hare",
+  "scientificName": "Lepus castroviejoi",
+  "wikibase_item": "Q430175",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3734504,
+      "id": "Q3734504"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q430175",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broom_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broom hare is a species of hare that is endemic to northern Spain. It was described in 1976 as separate from the Granada hare. It is classified as vulnerable by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lepus_castroviejoi_392447261_%28cropped%29.jpg"
+}

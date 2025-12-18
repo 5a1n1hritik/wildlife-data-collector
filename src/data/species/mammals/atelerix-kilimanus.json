@@ -1,0 +1,22 @@
+{
+  "id": "atelerix-kilimanus",
+  "name": "Atelerix kilimanus",
+  "scientificName": "Atelerix kilimanus",
+  "wikibase_item": "Q41080523",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 205065,
+      "id": "Q205065"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41080523"
+  },
+  "lastUpdated": "2025-12-17"
+}

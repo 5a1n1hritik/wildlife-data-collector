@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-macarthurii",
+  "name": "MacArthur's mouse lemur",
+  "scientificName": "Microcebus macarthurii",
+  "wikibase_item": "Q1185234",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1185234",
+    "wikipedia": "https://en.wikipedia.org/wiki/MacArthur's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "MacArthur's mouse lemur, or the Anjiahely mouse lemur, is a species of mouse lemur known only from Makira Natural Park in northeastern Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Microcebus_macarthurii_range_map.svg/960px-Microcebus_macarthurii_range_map.svg.png"
+}

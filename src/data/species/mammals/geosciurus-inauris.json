@@ -1,0 +1,25 @@
+{
+  "id": "geosciurus-inauris",
+  "name": "Geosciurus inauris",
+  "scientificName": "Geosciurus inauris",
+  "wikibase_item": "Q125863341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125863388,
+      "id": "Q125863388"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125863341",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape ground squirrel or South African ground squirrel is found in most of the drier parts of southern Africa from South Africa, through to Botswana, and into Namibia, including Etosha National Park.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cape_ground_squirrel%2C_Xerus_inauris%2C_at_Krugersdorp_Game_Reserve%2C_Gauteng%2C_South_Africa_%2827410204561%29.jpg"
+}

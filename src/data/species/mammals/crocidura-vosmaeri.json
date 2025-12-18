@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-vosmaeri",
+  "name": "Banka shrew",
+  "scientificName": "Crocidura vosmaeri",
+  "wikibase_item": "Q1765464",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765464",
+    "wikipedia": "https://en.wikipedia.org/wiki/Banka_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Banka shrew is a species of mammal in the family Soricidae. It is only known from the Bangka Island in Indonesia and possibly Sumatra. It lives in primary and secondary lowland forest and it is not clear if can adapt to human settlements such as plantations. It is threatened by forest loss for logging, expanding plantations such as palm oil and mining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Banka_Shrew_area.png"
+}

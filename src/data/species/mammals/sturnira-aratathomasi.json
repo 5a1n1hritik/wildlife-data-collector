@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-aratathomasi",
+  "name": "Sturnira aratathomasi",
+  "scientificName": "Sturnira aratathomasi",
+  "wikibase_item": "Q1592902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1592902",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aratathomas's_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Aratathomas's yellow-shouldered bat is a species of bat in the family Phyllostomidae native to South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Distribution_of_Sturnira_aratathomasi.png"
+}

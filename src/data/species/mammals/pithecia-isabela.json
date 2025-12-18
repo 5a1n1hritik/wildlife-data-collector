@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-isabela",
+  "name": "Pithecia isabela",
+  "scientificName": "Pithecia isabela",
+  "wikibase_item": "Q20721808",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721808",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabel's_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Isabel's saki is a species of saki monkey, a type of New World monkey. It is endemic to a small portion of northern Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Pithecia_isabela.jpg"
+}

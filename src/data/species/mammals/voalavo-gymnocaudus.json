@@ -1,0 +1,25 @@
+{
+  "id": "voalavo-gymnocaudus",
+  "name": "Voalavo gymnocaudus",
+  "scientificName": "Voalavo gymnocaudus",
+  "wikibase_item": "Q1762316",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 166781,
+      "id": "Q166781"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762316",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_voalavo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern voalavo, also known as the naked-tailed voalavo or simply the voalavo, is a rodent in the family Nesomyidae found in the Northern Highlands of Madagascar. Discovered in 1994 and formally described in 1998, it is the type species of the genus Voalavo; its closest relative is the eastern voalavo of the Central Highlands. DNA sequencing suggests that it may be more closely related to Grandidier's tufted-tailed rat than to other species of the closely related genus Eliurus. The northern voalavo is found at 1,250 to 1,950 m above sea level in montane wet and dry forests in the Marojejy and Anjanaharibe-Sud massifs. Nocturnal and solitary, it lives mainly on the ground, but it can climb and probably eats plant matter. Despite having a small range, the species is classified as being of least concern because it lacks obvious threats and much of its range is within protected areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Voalavo_range.svg/500px-Voalavo_range.svg.png"
+}

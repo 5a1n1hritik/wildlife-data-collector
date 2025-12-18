@@ -1,0 +1,25 @@
+{
+  "id": "vandeleuria-oleracea",
+  "name": "Asiatic Long-tailed Climbing Mouse",
+  "scientificName": "Vandeleuria oleracea",
+  "wikibase_item": "Q1767950",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767773,
+      "id": "Q767773"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767950",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asiatic_long-tailed_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asiatic long-tailed climbing mouse is a species of rodent found in South and Southeast Asia. It is known as Sinhala: ගස් මීයා by Sinhalese people.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Asiatic_Long-tailed_Climbing_Mouse_Vandeleuria_oleracea_by_Dr._Raju_Kasambe_DSCN0383_%2810%29.jpg"
+}

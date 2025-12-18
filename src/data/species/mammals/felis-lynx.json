@@ -1,0 +1,25 @@
+{
+  "id": "felis-lynx",
+  "name": "Felis lynx",
+  "scientificName": "Felis lynx",
+  "wikibase_item": "Q50273844",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50273844",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eurasian_lynx"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eurasian lynx is one of the four extant species within the medium-sized wild cat genus Lynx. It is widely distributed from Northern, Central and Eastern Europe to Central Asia and Siberia, the Tibetan Plateau and the Himalayas. It inhabits temperate and boreal forests up to an elevation of 5,500 m (18,000 ft). Despite its wide distribution, it is threatened by habitat loss and fragmentation, poaching and depletion of prey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg"
+}

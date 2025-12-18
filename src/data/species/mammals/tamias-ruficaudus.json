@@ -1,0 +1,25 @@
+{
+  "id": "tamias-ruficaudus",
+  "name": "Tamias ruficaudus",
+  "scientificName": "Tamias ruficaudus",
+  "wikibase_item": "Q14856061",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14856061",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-tailed_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-tailed chipmunk is a species of rodent in the family Sciuridae. It is found in Alberta and British Columbia in Canada and Montana, Idaho and Washington in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Red-tailed_Chipmunk_%28Tamias_ruficaudus%29.jpg"
+}

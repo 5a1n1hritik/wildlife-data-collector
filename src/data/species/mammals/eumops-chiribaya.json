@@ -1,0 +1,25 @@
+{
+  "id": "eumops-chiribaya",
+  "name": "Eumops chiribaya",
+  "scientificName": "Eumops chiribaya",
+  "wikibase_item": "Q19594993",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19594993",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eumops_chiribaya"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eumops chiribaya is a species of free-tailed bat found in Peru.",
+  "image": null
+}

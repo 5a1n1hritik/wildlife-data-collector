@@ -1,0 +1,25 @@
+{
+  "id": "mastomys-shortridgei",
+  "name": "Shortridge's Multimammate Mouse",
+  "scientificName": "Mastomys shortridgei",
+  "wikibase_item": "Q1761036",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761036",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shortridge's_multimammate_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shortridge's multimammate mouse is a rodent species in the family Muridae.\nIt is native to Angola, Botswana and Namibia. Its natural habitats are moist savanna, subtropical or tropical seasonally wet or flooded lowland grassland, and swamps.",
+  "image": null
+}

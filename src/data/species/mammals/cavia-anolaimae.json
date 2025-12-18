@@ -1,0 +1,25 @@
+{
+  "id": "cavia-anolaimae",
+  "name": "Cavia anolaimae",
+  "scientificName": "Cavia anolaimae",
+  "wikibase_item": "Q3663981",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3663981",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cavia_anolaimae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cavia anolaimae is a guinea pig species from South America. It is found in Colombia near Bogotá. It is believed to be a feral offshoot of the domestic guinea pig, Cavia porcellus, and is often treated as a synonym of C. porcellus, but Zúñiga et al. (2002), based on morphologic characters, recognized them as different species. According to the molecular analysis of Dunnum and Salazar (2010) C. anolaimae is a subspecies of Cavia aperea, C. aperea anolaimae, and a possible synonymous of C. a. guianae.",
+  "image": null
+}

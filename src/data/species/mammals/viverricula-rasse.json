@@ -1,0 +1,22 @@
+{
+  "id": "viverricula-rasse",
+  "name": "Viverricula rasse",
+  "scientificName": "Viverricula rasse",
+  "wikibase_item": "Q41088855",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817086,
+      "id": "Q19817086"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41088855"
+  },
+  "lastUpdated": "2025-12-17"
+}

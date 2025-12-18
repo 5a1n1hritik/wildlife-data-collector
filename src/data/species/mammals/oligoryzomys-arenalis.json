@@ -1,0 +1,25 @@
+{
+  "id": "oligoryzomys-arenalis",
+  "name": "Oligoryzomys arenalis",
+  "scientificName": "Oligoryzomys arenalis",
+  "wikibase_item": "Q1763278",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763278",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_arenalis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys arenalis, also known as the sandy colilargo or sandy pygmy rice rat, is a species of rodent in the genus Oligoryzomys of family Cricetidae. It is found in the Andes of Peru at 400 to 2850 m altitude, but may include more than one species.",
+  "image": null
+}

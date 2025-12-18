@@ -1,0 +1,25 @@
+{
+  "id": "macrotus-californicus",
+  "name": "California leaf-nosed bat",
+  "scientificName": "Macrotus californicus",
+  "wikibase_item": "Q1834586",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 956183,
+      "id": "Q956183"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834586",
+    "wikipedia": "https://en.wikipedia.org/wiki/California_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The California leaf-nosed bat is a species of bat in the family Phyllostomidae. It is found in Mexico and the United States. Its natural habitat is hot deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Macrotus_californicus.jpg"
+}

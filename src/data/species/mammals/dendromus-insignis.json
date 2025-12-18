@@ -1,0 +1,25 @@
+{
+  "id": "dendromus-insignis",
+  "name": "Dendromus insignis",
+  "scientificName": "Dendromus insignis",
+  "wikibase_item": "Q305578",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305578",
+    "wikipedia": "https://en.wikipedia.org/wiki/Montane_African_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The montane African climbing mouse or remarkable climbing mouse is a species of rodent in the family Nesomyidae. It is found in Democratic Republic of the Congo, Kenya, Rwanda, Tanzania, and Uganda.",
+  "image": null
+}

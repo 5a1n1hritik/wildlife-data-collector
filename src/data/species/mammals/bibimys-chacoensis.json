@@ -1,0 +1,25 @@
+{
+  "id": "bibimys-chacoensis",
+  "name": "Bibimys chacoensis",
+  "scientificName": "Bibimys chacoensis",
+  "wikibase_item": "Q2146167",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 679129,
+      "id": "Q679129"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2146167",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bibimys_chacoensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bibimys chacoensis is a species of small rodent of the family Cricetidae living in the north-central part of Southern Cone of South America. The common name of this species is Chaco crimson-nosed rat. It is one of the three species currently recognized under the genus Bibimys.",
+  "image": null
+}

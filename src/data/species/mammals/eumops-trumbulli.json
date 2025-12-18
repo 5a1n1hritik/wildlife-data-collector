@@ -1,0 +1,25 @@
+{
+  "id": "eumops-trumbulli",
+  "name": "Colombian bonneted bat",
+  "scientificName": "Eumops trumbulli",
+  "wikibase_item": "Q1831565",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831565",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colombian_bonneted_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Colombian bonneted bat, also known as Trumbull's bonneted bat, is a bat species found in Bolivia, Brazil, Colombia, French Guiana, Guyana, Peru, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Naturalis_Biodiversity_Center_-_RMNH.MAM.24789.b_ven_-_Eumops_trumbulli_-_skin.jpeg"
+}

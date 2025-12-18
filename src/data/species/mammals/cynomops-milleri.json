@@ -1,0 +1,25 @@
+{
+  "id": "cynomops-milleri",
+  "name": "Cynomops milleri",
+  "scientificName": "Cynomops milleri",
+  "wikibase_item": "Q43032432",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2729634,
+      "id": "Q2729634"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43032432",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynomops_milleri"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cynomops milleri is a species of bat that is native to South America. It was previously considered a subspecies of the Para dog-faced bat.\nIt is considered a small- to medium-sized member of its genus.\nIt is classified as least concern by the International Union for Conservation of Nature because it appears to be common and widespread. It is found in Venezuela, French Guiana, Guyana, Suriname, Brazil, and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cynomops_milleri_map.svg/500px-Cynomops_milleri_map.svg.png"
+}

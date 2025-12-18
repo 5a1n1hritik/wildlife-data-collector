@@ -1,0 +1,22 @@
+{
+  "id": "ratufa-ephippium",
+  "name": "Ratufa ephippium",
+  "scientificName": "Ratufa ephippium",
+  "wikibase_item": "Q40658469",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858747,
+      "id": "Q858747"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40658469"
+  },
+  "lastUpdated": "2025-12-17"
+}

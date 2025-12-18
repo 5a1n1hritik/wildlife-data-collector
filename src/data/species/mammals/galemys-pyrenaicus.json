@@ -1,0 +1,25 @@
+{
+  "id": "galemys-pyrenaicus",
+  "name": "Pyrenean desman",
+  "scientificName": "Galemys pyrenaicus",
+  "wikibase_item": "Q754036",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19816805,
+      "id": "Q19816805"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754036",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyrenean_desman"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pyrenean desman, also known as the Iberian desman or trumpet rat, is a species of small semiaquatic mammal in the family Talpidae, endemic to the mountain range of the Pyrenees and mountainous areas of northwestern Iberian Peninsula. Its range covers four European countries: Andorra, Spain, France, and Portugal. It is closely related to Russian desman.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Galemys_pyrenaicus_01_by-dpc.jpg"
+}

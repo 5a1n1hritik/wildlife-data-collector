@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-nimbasilvanus",
+  "name": "Crocidura nimbasilvanus",
+  "scientificName": "Crocidura nimbasilvanus",
+  "wikibase_item": "Q27902029",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27902029",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Nimba_giant_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Nimba giant forest shrew is a species of mammal in the family Soricidae. It is native to West Africa, where it is found in Ivory Coast, Guinea, Liberia, and Sierra Leone.",
+  "image": null
+}

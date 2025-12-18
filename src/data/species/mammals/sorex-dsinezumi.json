@@ -1,0 +1,22 @@
+{
+  "id": "sorex-dsinezumi",
+  "name": "Sorex dsinezumi",
+  "scientificName": "Sorex dsinezumi",
+  "wikibase_item": "Q109646648",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646648"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "asellia-tridens",
+  "name": "Trident Bat",
+  "scientificName": "Asellia tridens",
+  "wikibase_item": "Q305213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225066,
+      "id": "Q225066"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305213",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The trident bat or trident leaf-nosed bat is a species of bat in the family Hipposideridae. It is widely distributed in the West, South and Central Asia, and North, East, and Central Africa. Its natural habitats are subtropical or tropical dry forests, dry savanna, subtropical or tropical dry shrubland, caves and hot deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Trident_leaf-nosed_bat_%28Asellia_tridens%29_-_Temple_of_Isis_%2814467430991a%29.jpg"
+}

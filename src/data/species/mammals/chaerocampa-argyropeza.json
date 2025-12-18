@@ -1,0 +1,25 @@
+{
+  "id": "chaerocampa-argyropeza",
+  "name": "Chaerocampa argyropeza",
+  "scientificName": "Chaerocampa argyropeza",
+  "wikibase_item": "Q27861425",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 25398756,
+      "id": "Q25398756"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27861425",
+    "wikipedia": "https://en.wikipedia.org/wiki/Temnora_argyropeza"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Temnora argyropeza is a moth of the family Sphingidae. It is known from Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Temnora_argyropeza%2C_female%2C_upperside._Madagascar%2C_Diego_Suarez.jpg"
+}

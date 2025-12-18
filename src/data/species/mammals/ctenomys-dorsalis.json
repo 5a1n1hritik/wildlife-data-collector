@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-dorsalis",
+  "name": "Chacoan tuco-tuco",
+  "scientificName": "Ctenomys dorsalis",
+  "wikibase_item": "Q938306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q938306",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chacoan_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chacoan tuco-tuco is a species of rodent in the family Ctenomyidae. It lives in Bolivia and Paraguay.",
+  "image": null
+}

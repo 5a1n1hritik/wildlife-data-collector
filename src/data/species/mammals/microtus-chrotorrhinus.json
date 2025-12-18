@@ -1,0 +1,25 @@
+{
+  "id": "microtus-chrotorrhinus",
+  "name": "rock vole",
+  "scientificName": "Microtus chrotorrhinus",
+  "wikibase_item": "Q1768372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768372",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The rock vole, also known as the yellow-nosed vole, is a medium-sized species of vole found in eastern North America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Microtus_chrotorrhinus.jpg"
+}

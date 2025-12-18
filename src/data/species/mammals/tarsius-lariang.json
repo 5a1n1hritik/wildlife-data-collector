@@ -1,0 +1,25 @@
+{
+  "id": "tarsius-lariang",
+  "name": "Tarsius lariang",
+  "scientificName": "Tarsius lariang",
+  "wikibase_item": "Q1350693",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 60205,
+      "id": "Q60205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1350693",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lariang_tarsier"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Lariang tarsier is a recently described tarsier occurring in the western part of the central core of Sulawesi. Six museum specimens of this species are known, two of which have been misidentified as the pygmy tarsier before their correct identity came out. This species has been named after the Lariang River, an important river in the part of Sulawesi where this species occurs.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lariang_Tarsier_area.png"
+}

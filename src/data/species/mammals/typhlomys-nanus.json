@@ -1,0 +1,25 @@
+{
+  "id": "typhlomys-nanus",
+  "name": "Typhlomys nanus",
+  "scientificName": "Typhlomys nanus",
+  "wikibase_item": "Q30046387",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1325936,
+      "id": "Q1325936"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30046387",
+    "wikipedia": "https://en.wikipedia.org/wiki/Typhlomys_nanus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Typhlomys nanus, also known as the dwarf tree mouse, is a species of rodent of the family Platacanthomyidae found in eastern and north-eastern Yunnan, China, at middle to high elevations. The species was discovered in 2017 by Cheng et al. (2017) based on populations previously attributed to the Chinese pygmy dormouse.",
+  "image": null
+}

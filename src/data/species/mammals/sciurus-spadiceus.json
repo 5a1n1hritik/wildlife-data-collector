@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-spadiceus",
+  "name": "Southern Amazon red squirrel",
+  "scientificName": "Sciurus spadiceus",
+  "wikibase_item": "Q1769570",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769570",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_Amazon_red_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern Amazon red squirrel, is a squirrel species from South America where it inhabits forests in much of north-western South America east of the Andes. Three subspecies are currently recognised. It is a dark red colour, or a dark brown grizzled with ochre, has whitish underparts and grows to a total length of 48 to 63 cm, including a very long tail. It spends much of its time on the ground in the undergrowth and feeds largely on nuts. Little is known of its breeding habits, but it is a sociable species, several individuals often feeding together in one tree. This squirrel faces no particular threats, has a wide range and is relatively common, and the International Union for Conservation of Nature lists it as a \"least-concern species\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Sciurus_spadiceus_%E2%80%94_Geoff_Gallice_001_-_Cropped.jpg"
+}

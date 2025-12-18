@@ -1,0 +1,25 @@
+{
+  "id": "erinaceus-roumanicus",
+  "name": "Northern White-breasted hedgehog",
+  "scientificName": "Erinaceus roumanicus",
+  "wikibase_item": "Q903548",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498993,
+      "id": "Q498993"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q903548",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_white-breasted_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern white-breasted hedgehog is a species of hedgehog.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Erinaceus_roumanicus_2020_G2.jpg"
+}

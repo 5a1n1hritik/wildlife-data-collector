@@ -1,0 +1,25 @@
+{
+  "id": "funisciurus-lemniscatus",
+  "name": "Ribboned rope squirrel",
+  "scientificName": "Funisciurus lemniscatus",
+  "wikibase_item": "Q306804",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 278459,
+      "id": "Q278459"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306804",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ribboned_rope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ribboned rope squirrel is a species of rodent in the family Sciuridae. It is found in Cameroon, Republic of the Congo, Democratic Republic of the Congo, and Equatorial Guinea. Its natural habitat is subtropical or tropical moist lowland forests.",
+  "image": null
+}

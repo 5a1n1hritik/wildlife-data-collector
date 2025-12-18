@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-rufus",
+  "name": "Large rufous horseshoe bat",
+  "scientificName": "Rhinolophus rufus",
+  "wikibase_item": "Q1768902",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768902",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_rufous_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large rufous horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to the Philippines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Large_Rufous_Horseshoe_Bat_area.png"
+}

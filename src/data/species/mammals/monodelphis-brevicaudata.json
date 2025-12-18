@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-brevicaudata",
+  "name": "Northern red-sided opossum",
+  "scientificName": "Monodelphis brevicaudata",
+  "wikibase_item": "Q194458",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194458",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_red-sided_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern red-sided opossum or the Guianan short-tailed opossum, Monodelphis brevicaudata, is an opossum species from South America. It is found in Bolivia, Brazil. French Guiana, Guyana, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Die_S%C3%A4ugthiere_in_Abbildungen_nach_der_Natur%2C_mit_Beschreibungen_%28Plate_CLI%29_%288557387452%29.jpg"
+}

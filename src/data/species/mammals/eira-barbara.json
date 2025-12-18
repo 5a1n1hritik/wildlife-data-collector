@@ -1,0 +1,25 @@
+{
+  "id": "eira-barbara",
+  "name": "tayra",
+  "scientificName": "Eira barbara",
+  "wikibase_item": "Q247774",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15631638,
+      "id": "Q15631638"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tayra"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tayra is an omnivorous animal from the mustelid family, native to the Americas. It is the only species in the genus Eira.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tayra_-_Male%2C_Brazil_%28cropped%29.jpg"
+}

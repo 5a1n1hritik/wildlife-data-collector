@@ -1,0 +1,25 @@
+{
+  "id": "zygodontomys-brevicauda",
+  "name": "Zygodontomys brevicauda",
+  "scientificName": "Zygodontomys brevicauda",
+  "wikibase_item": "Q1187468",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 227934,
+      "id": "Q227934"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1187468",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zygodontomys_brevicauda"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Zygodontomys brevicauda, also known as the short-tailed zygodont, short-tailed cane mouse, or common cane mouse, is a species of rodent in the genus Zygodontomys of tribe Oryzomyini.",
+  "image": null
+}

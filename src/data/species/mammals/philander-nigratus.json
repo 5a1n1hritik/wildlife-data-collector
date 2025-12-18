@@ -1,0 +1,25 @@
+{
+  "id": "philander-nigratus",
+  "name": "Philander nigratus",
+  "scientificName": "Philander nigratus",
+  "wikibase_item": "Q110195668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110195668",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black four-eyed opossum is a species of opossum from South America.",
+  "image": null
+}

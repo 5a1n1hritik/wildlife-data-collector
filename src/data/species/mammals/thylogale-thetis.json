@@ -1,0 +1,25 @@
+{
+  "id": "thylogale-thetis",
+  "name": "Red-necked pademelon",
+  "scientificName": "Thylogale thetis",
+  "wikibase_item": "Q209115",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668527,
+      "id": "Q668527"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209115",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-necked_pademelon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-necked pademelon is a forest-dwelling marsupial living in the eastern coastal region of Australia between extreme south-east Queensland and central eastern New South Wales.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/RedNeckedPademelon-front-800.jpg"
+}

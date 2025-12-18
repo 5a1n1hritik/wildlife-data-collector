@@ -1,0 +1,25 @@
+{
+  "id": "balantiopteryx-io",
+  "name": "Thomas's Sac-Winged Bat",
+  "scientificName": "Balantiopteryx io",
+  "wikibase_item": "Q1832181",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133688,
+      "id": "Q133688"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832181",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas's_sac-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Thomas's sac-winged bat is a species of sac-winged bat in the family Emballonuridae. It is found in Belize, Guatemala, and Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Balantiopteryx_io_59588355.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "neusticomys-ferreirai",
+  "name": "Ferreira's fish-eating rat",
+  "scientificName": "Neusticomys ferreirai",
+  "wikibase_item": "Q2032370",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 137725,
+      "id": "Q137725"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2032370",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferreira's_fish-eating_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ferreira's fish-eating rat is a species of rodent in the family Cricetidae. It is known only from primary lowland tropical rainforest. It is named after 18th-century Brazilian naturalist Alexandre Rodrigues Ferreira. This species was originally assigned to the genus Neusticomys, but it has been moved to Daptomys along with four other species.",
+  "image": null
+}

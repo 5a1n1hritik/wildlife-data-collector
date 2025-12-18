@@ -1,0 +1,22 @@
+{
+  "id": "athylax-robustus",
+  "name": "Athylax robustus",
+  "scientificName": "Athylax robustus",
+  "wikibase_item": "Q41162801",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41151432,
+      "id": "Q41151432"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162801"
+  },
+  "lastUpdated": "2025-12-17"
+}

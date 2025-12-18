@@ -1,0 +1,22 @@
+{
+  "id": "cassistrellus-yokdonensis",
+  "name": "Cassistrellus yokdonensis",
+  "scientificName": "Cassistrellus yokdonensis",
+  "wikibase_item": "Q47107755",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 47107663,
+      "id": "Q47107663"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47107755"
+  },
+  "lastUpdated": "2025-12-17"
+}

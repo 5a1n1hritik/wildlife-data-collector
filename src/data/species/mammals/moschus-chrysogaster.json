@@ -1,0 +1,25 @@
+{
+  "id": "moschus-chrysogaster",
+  "name": "Alpine musk deer",
+  "scientificName": "Moschus chrysogaster",
+  "wikibase_item": "Q288881",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3866060,
+      "id": "Q3866060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q288881",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpine_musk_deer"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alpine musk deer is a musk deer species native to the eastern Himalayas in Nepal, Bhutan and India to the highlands of Tibet.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Moschus_chrysogaster.jpg"
+}

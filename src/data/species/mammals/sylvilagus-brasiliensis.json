@@ -1,0 +1,25 @@
+{
+  "id": "sylvilagus-brasiliensis",
+  "name": "Tapeti",
+  "scientificName": "Sylvilagus brasiliensis",
+  "wikibase_item": "Q856610",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20875577,
+      "id": "Q20875577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q856610",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_tapeti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common tapeti, also known as the Brazilian cottontail, forest cottontail, or (formerly) simply tapeti is a species of cottontail rabbit. It is small to medium-sized with a small, dark tail, short hind feet, and short ears. As traditionally defined, its range extends from southern Mexico to northern Argentina, but this includes several distinctive population that have since been split into separate species. Under this narrower definition, the true common tapeti only occurs in the Atlantic Rainforest of coastal northeastern Brazil and it is classified as an endangered species by the IUCN. The American Society of Mammalogists concurs, but also tentatively classifies several distinct populations that have not yet received proper species names into S. brasiliensis, and so considers it to range from Venezuela south to Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sylvilagus_brasiliensis_199227510.jpg"
+}

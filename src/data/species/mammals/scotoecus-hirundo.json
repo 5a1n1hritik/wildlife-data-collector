@@ -1,0 +1,25 @@
+{
+  "id": "scotoecus-hirundo",
+  "name": "Dark-winged lesser house bat",
+  "scientificName": "Scotoecus hirundo",
+  "wikibase_item": "Q1834019",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845860,
+      "id": "Q845860"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834019",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark-winged_lesser_house_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark-winged lesser house bat is a species of vesper bat. It can be found in Angola, Benin, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Republic of Côte d'Ivoire, Ethiopia, Gambia, Ghana, Guinea, Kenya, Malawi, Mozambique, Nigeria, Senegal, Sierra Leone, Somalia, Sudan, Tanzania, Uganda, and Zambia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Naturalis_Biodiversity_Center_-_ZMA.MAM.18382.a_pal_-_Scotoecus_hirundo_-_skull.jpeg"
+}

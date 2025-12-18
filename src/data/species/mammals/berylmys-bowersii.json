@@ -1,0 +1,25 @@
+{
+  "id": "berylmys-bowersii",
+  "name": "Bower's white-toothed rat",
+  "scientificName": "Berylmys bowersii",
+  "wikibase_item": "Q1766285",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 793842,
+      "id": "Q793842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766285",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bower's_white-toothed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bower's white-toothed rat is a species of rodent in the family Muridae native to southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Berylmys_bowersi.jpg"
+}

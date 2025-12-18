@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-francisi",
+  "name": "Rhinolophus francisi",
+  "scientificName": "Rhinolophus francisi",
+  "wikibase_item": "Q21127428",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21127428",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis's_woolly_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Francis's wooly horseshoe bat is a species of bat in the family Rhinolophidae found in Malaysia and Thailand. It was named in honor of Charles M. Francis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rhinolophus_francisi.jpg"
+}

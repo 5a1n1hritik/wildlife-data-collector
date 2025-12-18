@@ -1,0 +1,22 @@
+{
+  "id": "vampyrodes-carracioli",
+  "name": "Vampyrodes carracioli",
+  "scientificName": "Vampyrodes carracioli",
+  "wikibase_item": "Q41168577",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10832377,
+      "id": "Q10832377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41168577"
+  },
+  "lastUpdated": "2025-12-17"
+}

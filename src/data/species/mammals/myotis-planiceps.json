@@ -1,0 +1,25 @@
+{
+  "id": "myotis-planiceps",
+  "name": "Flat-headed myotis",
+  "scientificName": "Myotis planiceps",
+  "wikibase_item": "Q1830756",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830756",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flat-headed_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The flat-headed myotis is a species of vesper bat. It is endemic to Mexico where it is found in certain montane forests in the Sierra Madre Oriental in the northeast of the country. Once thought to be extinct, this bat was rediscovered in 2004 by Joaquín Arroyo-Cabrales and colleagues. The species is now classified as endangered by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flat-headed_myotis_imported_from_iNaturalist_photo_296474_on_27_October_2024.jpg"
+}

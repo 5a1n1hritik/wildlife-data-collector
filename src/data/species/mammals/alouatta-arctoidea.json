@@ -1,0 +1,25 @@
+{
+  "id": "alouatta-arctoidea",
+  "name": "Ursine howler",
+  "scientificName": "Alouatta arctoidea",
+  "wikibase_item": "Q1207222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1207222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursine_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ursine howler is a species of howler monkey native to Venezuela and possibly Colombia. It is sometimes considered a subspecies of the Venezuelan red howler and classified as Alouatta seniculus arctoidea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mona_Araguato_Hato_El_Cedral.JPG"
+}

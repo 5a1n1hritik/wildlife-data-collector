@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-coxi",
+  "name": "Hipposideros coxi",
+  "scientificName": "Hipposideros coxi",
+  "wikibase_item": "Q1766684",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766684",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cox's_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cox's roundleaf bat or Cox's leaf-nosed bat is a species of bat in the family Hipposideridae. It is endemic to Borneo. All confirmed records are from Sarawak (Malaysia), but it might also occur in Kalimantan (Indonesia).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cox%27s_Roundleaf_Bat_area.png"
+}

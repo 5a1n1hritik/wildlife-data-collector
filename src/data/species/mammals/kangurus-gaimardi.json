@@ -1,0 +1,22 @@
+{
+  "id": "kangurus-gaimardi",
+  "name": "Kangurus gaimardi",
+  "scientificName": "Kangurus gaimardi",
+  "wikibase_item": "Q122782271",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 122782237,
+      "id": "Q122782237"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122782271"
+  },
+  "lastUpdated": "2025-12-17"
+}

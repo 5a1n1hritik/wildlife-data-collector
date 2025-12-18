@@ -1,0 +1,25 @@
+{
+  "id": "rousettus-celebensis",
+  "name": "Sulawesi Rousette",
+  "scientificName": "Rousettus celebensis",
+  "wikibase_item": "Q1767875",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19716600,
+      "id": "Q19716600"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767875",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sulawesi_rousette"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sulawesi rousette or Sulawesi fruit bat is a species of megabat in the family Pteropodidae endemic to Sulawesi, an island in Indonesia. It is presently the only member of the genus Pilonycteris.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Rousettus_celebensis_-_Siau_Island.JPG"
+}

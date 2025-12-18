@@ -1,0 +1,25 @@
+{
+  "id": "tamias-obscurus",
+  "name": "Tamias obscurus",
+  "scientificName": "Tamias obscurus",
+  "wikibase_item": "Q1763347",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763347",
+    "wikipedia": "https://en.wikipedia.org/wiki/California_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The California chipmunk or chaparral chipmunk is a species of rodent in the squirrel family Sciuridae. It is found in Baja California, Mexico, and in southern California in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/California_Chipmunk_%28Tamias_obscurus%29_%288567007633%29.jpg"
+}

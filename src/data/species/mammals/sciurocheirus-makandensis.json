@@ -1,0 +1,25 @@
+{
+  "id": "sciurocheirus-makandensis",
+  "name": "Sciurocheirus makandensis",
+  "scientificName": "Sciurocheirus makandensis",
+  "wikibase_item": "Q20721809",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3952448,
+      "id": "Q3952448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721809",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sciurocheirus_makandensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sciurocheirus makandensis is a species of squirrel galago native to Gabon, Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sciurocheirus_makandensis_distribution.svg/960px-Sciurocheirus_makandensis_distribution.svg.png"
+}

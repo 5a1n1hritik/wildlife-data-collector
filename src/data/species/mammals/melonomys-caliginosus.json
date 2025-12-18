@@ -1,0 +1,22 @@
+{
+  "id": "melonomys-caliginosus",
+  "name": "Melonomys caliginosus",
+  "scientificName": "Melonomys caliginosus",
+  "wikibase_item": "Q41165965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155474,
+      "id": "Q41155474"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165965"
+  },
+  "lastUpdated": "2025-12-17"
+}

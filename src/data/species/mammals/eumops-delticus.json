@@ -1,0 +1,25 @@
+{
+  "id": "eumops-delticus",
+  "name": "Eumops delticus",
+  "scientificName": "Eumops delticus",
+  "wikibase_item": "Q19707735",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371577,
+      "id": "Q371577"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19707735",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eumops_delticus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Eumops delticus is a species of free-tailed bat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eumops_delticus_map.svg/500px-Eumops_delticus_map.svg.png"
+}

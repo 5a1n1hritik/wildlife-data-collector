@@ -1,0 +1,22 @@
+{
+  "id": "myotis-bartelsii",
+  "name": "Myotis bartelsii",
+  "scientificName": "Myotis bartelsii",
+  "wikibase_item": "Q121343598",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19713521,
+      "id": "Q19713521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121343598"
+  },
+  "lastUpdated": "2025-12-17"
+}

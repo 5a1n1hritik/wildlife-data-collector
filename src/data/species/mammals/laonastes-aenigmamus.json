@@ -1,0 +1,25 @@
+{
+  "id": "laonastes-aenigmamus",
+  "name": "Laotian rock rat",
+  "scientificName": "Laonastes aenigmamus",
+  "wikibase_item": "Q110727",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21446947,
+      "id": "Q21446947"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110727",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laotian_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Laotian rock rat or kha-nyou, sometimes called the \"rat-squirrel\", is a species of rodent found in the Khammouan region of Laos. The species was first described in a 2005 article by Paulina Jenkins and coauthors, who considered the animal to be so distinct from all living rodents, they placed it in a new family, Laonastidae. It is in the monotypic genus Laonastes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Laonastes_aenigmamus_-_young_male_JP_Hugot_PLOS_ONE.jpg"
+}

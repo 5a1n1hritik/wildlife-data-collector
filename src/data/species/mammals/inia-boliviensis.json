@@ -1,0 +1,25 @@
+{
+  "id": "inia-boliviensis",
+  "name": "Bolivian river dolphin",
+  "scientificName": "Inia boliviensis",
+  "wikibase_item": "Q106448261",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2896224,
+      "id": "Q2896224"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106448261",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bolivian_river_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bolivian river dolphin is a species or subspecies of freshwater dolphin found in upstream areas of the Amazon Basin.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Inia_geoffrensis_boliviensis_9274062.jpg"
+}

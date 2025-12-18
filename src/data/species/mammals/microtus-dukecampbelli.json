@@ -1,0 +1,25 @@
+{
+  "id": "microtus-dukecampbelli",
+  "name": "Microtus dukecampbelli",
+  "scientificName": "Microtus dukecampbelli",
+  "wikibase_item": "Q107481823",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107481823",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florida_salt_marsh_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Florida salt marsh vole is a North American vole endemic to the state of Florida in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Saltmarsh-Vole1.jpg"
+}

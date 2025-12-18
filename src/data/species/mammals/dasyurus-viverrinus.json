@@ -1,0 +1,25 @@
+{
+  "id": "dasyurus-viverrinus",
+  "name": "Eastern quoll",
+  "scientificName": "Dasyurus viverrinus",
+  "wikibase_item": "Q194516",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 379740,
+      "id": "Q379740"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194516",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_quoll"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern quoll is a medium-sized carnivorous marsupial (dasyurid), and one of six extant species of quolls. Endemic to Australia, they occur on the island state of Tasmania, but were considered extinct on the mainland after 1963. The species has been reintroduced to fox-proof fenced sanctuaries in Victoria in 2003 and to the Australian Capital Territory in 2016.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg"
+}

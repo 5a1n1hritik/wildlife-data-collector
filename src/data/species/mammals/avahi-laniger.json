@@ -1,0 +1,25 @@
+{
+  "id": "avahi-laniger",
+  "name": "Eastern woolly lemur",
+  "scientificName": "Avahi laniger",
+  "wikibase_item": "Q307262",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1064408,
+      "id": "Q1064408"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307262",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_woolly_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern woolly lemur, also known as the eastern avahi or Gmelin's woolly lemur, is a species of woolly lemur native to eastern Madagascar, where it lives in the wet tropical rainforest at low elevations along the eastern coast of the island or they can also inhabit the northern tip of the island with other species. The woolly lemur name refers to their thick, tightly curled hair, whereas their generic name avahi refers to their high-pitched defensive call. The eastern woolly lemur almost has an owl-look with its large eyes, small rounded head, and ears that are mostly hidden. This nocturnal animal weighs 1.0–1.3 kg (2.2–2.9 lb) and reaches a length of 27–29 cm (11–11 in) with a tail of 33–37 cm (13–15 in). Its diet consists mainly of leaves and buds with fruits, flowers, and bark.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Avahi_laniger_Grandidier.jpg"
+}

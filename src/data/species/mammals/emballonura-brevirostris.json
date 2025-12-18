@@ -1,0 +1,22 @@
+{
+  "id": "emballonura-brevirostris",
+  "name": "Emballonura brevirostris",
+  "scientificName": "Emballonura brevirostris",
+  "wikibase_item": "Q109647277",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15286375,
+      "id": "Q15286375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647277"
+  },
+  "lastUpdated": "2025-12-17"
+}

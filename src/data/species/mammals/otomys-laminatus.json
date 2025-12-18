@@ -1,0 +1,25 @@
+{
+  "id": "otomys-laminatus",
+  "name": "Laminate vlei rat",
+  "scientificName": "Otomys laminatus",
+  "wikibase_item": "Q1768341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 767334,
+      "id": "Q767334"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768341",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laminate_vlei_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The laminate vlei rat is a species of rodent in the family Muridae.\nIt is found only in South Africa.\nIts natural habitats are subtropical or tropical high-altitude grassland and swamps.",
+  "image": null
+}

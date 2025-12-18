@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-subrufus",
+  "name": "Small Rufous Horseshoe Bat",
+  "scientificName": "Rhinolophus subrufus",
+  "wikibase_item": "Q1762527",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762527",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_rufous_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small rufous horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to the Philippines on the island of Camiguin, Catanduanes, Luzon, Mindanao and Mindoro at elevations from sea level to 1,000m.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Small_Rufous_Horseshoe_Bat_area.png"
+}

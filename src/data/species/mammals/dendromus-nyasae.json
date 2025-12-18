@@ -1,0 +1,25 @@
+{
+  "id": "dendromus-nyasae",
+  "name": "Kivu climbing mouse",
+  "scientificName": "Dendromus nyasae",
+  "wikibase_item": "Q306814",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 386262,
+      "id": "Q386262"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306814",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kivu_climbing_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kivu climbing mouse is a species of rodent in the family Nesomyidae.\nIt is found in Burundi, Democratic Republic of the Congo, Rwanda, Malawi, Tanzania, Uganda, and Zambia.\nIts natural habitats are subtropical or tropical moist montane forests, subtropical or tropical high-altitude grassland, swamps, arable land, and plantations.",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tamias-frater",
+  "name": "Tamias frater",
+  "scientificName": "Tamias frater",
+  "wikibase_item": "Q26678705",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26678705"
+  },
+  "lastUpdated": "2025-12-17"
+}

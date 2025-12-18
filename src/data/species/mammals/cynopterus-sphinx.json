@@ -1,0 +1,25 @@
+{
+  "id": "cynopterus-sphinx",
+  "name": "Greater short-nosed fruit bat",
+  "scientificName": "Cynopterus sphinx",
+  "wikibase_item": "Q1340212",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311701,
+      "id": "Q311701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1340212",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_short-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater short-nosed fruit bat, or short-nosed Indian fruit bat, is a species of megabat in the family Pteropodidae found in South and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Short-nosed_Fruit_Bat_%28Cynopterus_sphinx%29_Photograph_By_Shantanu_Kuveskar.jpg"
+}

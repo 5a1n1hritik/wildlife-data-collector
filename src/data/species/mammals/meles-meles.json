@@ -1,0 +1,25 @@
+{
+  "id": "meles-meles",
+  "name": "Eurasian Badger",
+  "scientificName": "Meles meles",
+  "wikibase_item": "Q27066",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1345042,
+      "id": "Q1345042"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27066",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European badger, also known as the Eurasian badger, is a badger species in the family Mustelidae native to Europe and West Asia and parts of Central Asia. It is classified as least concern on the IUCN Red List, as it has a wide range and a large, stable population size which is thought to be increasing in some regions. Several subspecies are recognized, with the nominate subspecies predominating in most of Europe. In Europe, where no other badger species commonly occurs, it is generally just called the \"badger\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg"
+}

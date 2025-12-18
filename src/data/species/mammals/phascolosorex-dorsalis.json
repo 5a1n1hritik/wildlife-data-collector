@@ -1,0 +1,25 @@
+{
+  "id": "phascolosorex-dorsalis",
+  "name": "Narrow-striped Marsupial Shrew",
+  "scientificName": "Phascolosorex dorsalis",
+  "wikibase_item": "Q194234",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1433304,
+      "id": "Q1433304"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194234",
+    "wikipedia": "https://en.wikipedia.org/wiki/Narrow-striped_marsupial_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The narrow-striped dasyure or narrow-striped marsupial shrew is a species of marsupial in the family Dasyuridae found in West Papua and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Annali_del_Museo_civico_di_storia_naturale_di_Genova_%281880%29_%2817790538413%29.jpg"
+}

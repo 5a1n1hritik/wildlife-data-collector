@@ -1,0 +1,25 @@
+{
+  "id": "lycalopex-sechurae",
+  "name": "Lycalopex sechurae",
+  "scientificName": "Lycalopex sechurae",
+  "wikibase_item": "Q842467",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132687,
+      "id": "Q132687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q842467",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sechuran_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sechuran fox, also called the Peruvian desert fox or the Sechuran zorro, is a small South American species of canid closely related to other South American \"false\" foxes or zorro. It gets its name for being found in the Sechura Desert in northwestern Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Zorro_costero.jpg"
+}

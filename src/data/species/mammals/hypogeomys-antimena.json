@@ -1,0 +1,25 @@
+{
+  "id": "hypogeomys-antimena",
+  "name": "Malagasy giant rat",
+  "scientificName": "Hypogeomys antimena",
+  "wikibase_item": "Q912350",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12259309,
+      "id": "Q12259309"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q912350",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malagasy_giant_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malagasy giant rat, also known as the votsotsa or votsovotsa, is a nesomyid rodent found only in the Menabe region of Madagascar. It is an endangered species due to habitat loss, slow reproduction, and limited range Pairs are monogamous and females bear only one or two young per year. It is the only extant species in the genus Hypogeomys; another species, Hypogeomys australis, is known from subfossil remains a few thousand years old.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Malagasy_giant_rat.jpg"
+}

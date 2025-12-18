@@ -1,0 +1,22 @@
+{
+  "id": "leggadina-delicatula",
+  "name": "Leggadina delicatula",
+  "scientificName": "Leggadina delicatula",
+  "wikibase_item": "Q40655979",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134849,
+      "id": "Q134849"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40655979"
+  },
+  "lastUpdated": "2025-12-17"
+}

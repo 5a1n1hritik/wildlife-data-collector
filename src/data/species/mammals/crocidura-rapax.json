@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-rapax",
+  "name": "Chinese white-toothed shrew",
+  "scientificName": "Crocidura rapax",
+  "wikibase_item": "Q962017",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q962017",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_white-toothed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese white-toothed shrew is a species of mammal in the family Soricidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Chinese_White-toothed_Shrew_area.png"
+}

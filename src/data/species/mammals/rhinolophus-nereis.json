@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-nereis",
+  "name": "Neriad Horseshoe Bat",
+  "scientificName": "Rhinolophus nereis",
+  "wikibase_item": "Q1765788",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765788",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neriad_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The neriad horseshoe bat is a species of bat in the family Rhinolophidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Neriad_Horseshoe_Bat_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-cohenae",
+  "name": "Cohen’s horseshoe bat",
+  "scientificName": "Rhinolophus cohenae",
+  "wikibase_item": "Q15074598",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15074598",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cohen's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Cohen's horseshoe bat is a species of bat belonging to the family Rhinolophidae, endemic to South Africa. It was first described in 2012. The species was named after Lientjie Cohen who collected the type specimen in 2004. It was first thought to be a Hildebrandt's horseshoe bat but has since been distinguished as a separate species by its unique echolocation frequencies.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dendrolagus-ursinus",
+  "name": "Ursine tree-kangaroo",
+  "scientificName": "Dendrolagus ursinus",
+  "wikibase_item": "Q209139",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209139",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursine_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The ursine tree-kangaroo is a long-tailed, furry, bear-like mammal found only in tropical forests on the island of New Guinea. Slightly larger than a cat, it lives alone in trees and is active at night to feed on leaves and fruit. It belongs to the macropod family (Macropodidae) with kangaroos, and carries its young in a pouch like other marsupials. It has a small range in northwestern New Guinea and is threatened by habitat loss and hunting. Other common names for this species include the black tree-kangaroo, the Vogelkop tree-kangaroo and the white-throated tree-kangaroo.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dendrolagus_ursinus_Gould.jpg"
+}

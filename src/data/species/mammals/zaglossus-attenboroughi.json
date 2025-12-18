@@ -1,0 +1,25 @@
+{
+  "id": "zaglossus-attenboroughi",
+  "name": "Zaglossus attenboroughi",
+  "scientificName": "Zaglossus attenboroughi",
+  "wikibase_item": "Q757942",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 784836,
+      "id": "Q784836"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q757942",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zaglossus_attenboroughi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Zaglossus attenboroughi, also known as Attenborough's long-beaked echidna or locally as the payangko, is one of three species from the genus Zaglossus that inhabits the island of New Guinea. It lives in the Cyclops Mountains near the northern coast of the island, which are near the cities of Sentani and Jayapura in the Indonesian province of Papua in Western New Guinea. It is named in honour of naturalist Sir David Attenborough.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Zaglossus_attenboroughi_Flannery.jpg"
+}

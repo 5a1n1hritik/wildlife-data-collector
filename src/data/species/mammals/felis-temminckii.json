@@ -1,0 +1,25 @@
+{
+  "id": "felis-temminckii",
+  "name": "Felis temminckii",
+  "scientificName": "Felis temminckii",
+  "wikibase_item": "Q23772782",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23772782",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_golden_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian golden cat is a medium-sized wild cat native to the northeastern Indian subcontinent, Southeast Asia and China. It has been listed as Vulnerable on the IUCN Red List since 2025, and is threatened by poaching and habitat destruction, since Southeast Asian forests are undergoing the world's fastest regional deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Asian_Golden_cat.jpg"
+}

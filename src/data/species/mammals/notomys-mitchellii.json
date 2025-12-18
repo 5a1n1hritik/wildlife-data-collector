@@ -1,0 +1,25 @@
+{
+  "id": "notomys-mitchellii",
+  "name": "Mitchell's hopping mouse",
+  "scientificName": "Notomys mitchellii",
+  "wikibase_item": "Q1764254",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 782974,
+      "id": "Q782974"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764254",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitchell's_hopping_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mitchell's hopping mouse also known as the pankot, is the largest extant member of the genus Notomys, weighing between 40 and 60 g. N. mitchellii is a bipedal rodent with large back legs, similar to a jerboa or kangaroo rat. The species occurs throughout much of semi-arid Southern Australia, and appears to be particularly common on the Eyre Peninsula, South Australia. Typical habitat for N. mitchellii appears to be mallee shrublands on sandy dune systems. The species is currently considered to be unthreatened, but its range has been reduced through habitat disturbance and destruction associated with European settlement in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Notomys_mitchelli_-_Gould.jpg"
+}

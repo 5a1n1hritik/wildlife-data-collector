@@ -1,0 +1,25 @@
+{
+  "id": "ammospermophilus-interpres",
+  "name": "Ammospermophilus interpres",
+  "scientificName": "Ammospermophilus interpres",
+  "wikibase_item": "Q1763870",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 541036,
+      "id": "Q541036"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763870",
+    "wikipedia": "https://en.wikipedia.org/wiki/Texas_antelope_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Texas antelope squirrel is a species of rodent in the family Sciuridae.\nIt is found in Mexico and in both Texas and New Mexico within the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Texas_antelope_squirrel.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "arvicola-guentheri",
+  "name": "Arvicola guentheri",
+  "scientificName": "Arvicola guentheri",
+  "wikibase_item": "Q40981625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 539670,
+      "id": "Q539670"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40981625"
+  },
+  "lastUpdated": "2025-12-17"
+}

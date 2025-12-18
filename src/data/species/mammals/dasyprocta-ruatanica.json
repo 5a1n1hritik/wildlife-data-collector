@@ -1,0 +1,25 @@
+{
+  "id": "dasyprocta-ruatanica",
+  "name": "Ruatan Island agouti",
+  "scientificName": "Dasyprocta ruatanica",
+  "wikibase_item": "Q1763019",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 193966,
+      "id": "Q193966"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763019",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruatan_Island_agouti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ruatan Island agouti, also called the Roatán Island agouti, is a species of agouti in the family Dasyproctidae. It is endemic to the island of Roatán, off the north coast of Honduras.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/20221123_PY_2058.jpg"
+}

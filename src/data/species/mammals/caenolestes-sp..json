@@ -1,0 +1,22 @@
+{
+  "id": "caenolestes-sp.",
+  "name": "Caenolestes sp.",
+  "scientificName": "Caenolestes sp.",
+  "wikibase_item": "Q40326882",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303333,
+      "id": "Q1303333"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40326882"
+  },
+  "lastUpdated": "2025-12-17"
+}

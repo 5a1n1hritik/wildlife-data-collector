@@ -1,0 +1,22 @@
+{
+  "id": "submyotodon-caliginosus",
+  "name": "Submyotodon caliginosus",
+  "scientificName": "Submyotodon caliginosus",
+  "wikibase_item": "Q19521374",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19521380,
+      "id": "Q19521380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19521374"
+  },
+  "lastUpdated": "2025-12-17"
+}

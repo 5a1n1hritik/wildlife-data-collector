@@ -1,0 +1,25 @@
+{
+  "id": "cynomys-ludovicianus",
+  "name": "black-tailed prairie dog",
+  "scientificName": "Cynomys ludovicianus",
+  "wikibase_item": "Q247142",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 30359,
+      "id": "Q30359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247142",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-tailed_prairie_dog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-tailed prairie dog is a rodent of the family Sciuridae found in the Great Plains of North America from about the United States–Canada border to the United States–Mexico border. Unlike some other prairie dogs, these animals do not truly hibernate. The black-tailed prairie dog can be seen above ground in midwinter. A black-tailed prairie dog town in Texas was reported to cover 25,000 sq mi (64,000 km2) and included 400,000,000 individuals. Prior to habitat destruction, the species may have been the most abundant prairie dog in central North America. It was one of two prairie dogs described by the Lewis and Clark Expedition in the journals and diaries of their expedition.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cynomys_ludovicianus_GNP_21.jpg"
+}

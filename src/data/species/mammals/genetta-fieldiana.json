@@ -1,0 +1,22 @@
+{
+  "id": "genetta-fieldiana",
+  "name": "Genetta fieldiana",
+  "scientificName": "Genetta fieldiana",
+  "wikibase_item": "Q125459871",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 43221,
+      "id": "Q43221"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125459871"
+  },
+  "lastUpdated": "2025-12-17"
+}

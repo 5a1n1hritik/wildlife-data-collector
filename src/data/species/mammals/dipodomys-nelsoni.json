@@ -1,0 +1,25 @@
+{
+  "id": "dipodomys-nelsoni",
+  "name": "Nelson's kangaroo rat",
+  "scientificName": "Dipodomys nelsoni",
+  "wikibase_item": "Q303732",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303732",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson's_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nelson's kangaroo rat is a species of rodent in the family Heteromyidae which is endemic to the central plateau of Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dipodomys_nelsoni_by_Renee_Regan.jpg"
+}

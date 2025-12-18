@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-wilsoni",
+  "name": "Miniopterus wilsoni",
+  "scientificName": "Miniopterus wilsoni",
+  "wikibase_item": "Q99204582",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99204582",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilson's_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wilson's long-fingered bat is a species of bat described in 2020 from Gorongosa National Park in Mozambique. The name M. wilsoni refers to American evolutionary biologist Edward O. Wilson. The species inhabits the mountains of central and northern Mozambique and southern Malawi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Miniopterus_wilsoni.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-yanbarensis",
+  "name": "Yanbaru whiskered bat",
+  "scientificName": "Myotis yanbarensis",
+  "wikibase_item": "Q2810243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2810243",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yanbaru_whiskered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yanbaru whiskered bat is a species of vesper bat in the genus Myotis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Myotis_yanbarensis_distribution.png"
+}

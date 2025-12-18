@@ -1,0 +1,25 @@
+{
+  "id": "phyllotis-vaccarum",
+  "name": "Punta de Vacas Leaf-eared Mouse",
+  "scientificName": "Phyllotis vaccarum",
+  "wikibase_item": "Q109317210",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109317210",
+    "wikipedia": "https://en.wikipedia.org/wiki/Punta_de_Vacas_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Punta de Vacas leaf-eared mouse is a species of rodent in the family Cricetidae. It is found on Andean mountains in Argentina and Chile. Although these mountaintops have no vegetation and mummified remains of mice have long been assumed to be transported there by people, live specimens have been caught as high as 6,739 m (22,110 ft) above sea level. Also, dating of the mouse remains shows them to be too new to be from Incan era burials, and genetic analysis points to these mice as being part of populations rather than being brought from afar. The range of this species also extends to lower elevations, at least as low as 3651 meters.",
+  "image": null
+}

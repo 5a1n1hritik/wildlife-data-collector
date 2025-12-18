@@ -1,0 +1,25 @@
+{
+  "id": "mesechinus-hughi",
+  "name": "Hugh's hedgehog",
+  "scientificName": "Mesechinus hughi",
+  "wikibase_item": "Q950891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1545952,
+      "id": "Q1545952"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q950891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh's_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Hugh's hedgehog, also sometimes referred to as the central Chinese hedgehog, is native to central China and Manchuria. It prefers open areas of dry steppe, but can be found in shrubland and forests. It is known to look for food even in daytime on rainy days.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hugh%27s_Hedgehog_area.png"
+}

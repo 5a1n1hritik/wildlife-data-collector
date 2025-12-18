@@ -1,0 +1,25 @@
+{
+  "id": "graomys-edithae",
+  "name": "Edith's leaf-eared mouse",
+  "scientificName": "Graomys edithae",
+  "wikibase_item": "Q307005",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139823,
+      "id": "Q139823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307005",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith's_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Edith's leaf-eared mouse is a species of rodentin the family Cricetidae. \nIt is known only from Argentina, where it was found in a montane grassland on Otro Cerro at an elevation of 3000 m.",
+  "image": null
+}

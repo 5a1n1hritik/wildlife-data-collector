@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-illigeri",
+  "name": "Saguinus illigeri",
+  "scientificName": "Saguinus illigeri",
+  "wikibase_item": "Q21684971",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21684971",
+    "wikipedia": "https://en.wikipedia.org/wiki/Illiger's_saddle-back_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Illiger's saddle-back tamarin is a species of saddle-back tamarin, a type of small monkey from South America. Illiger's saddle-back tamarin was formerly considered to be a subspecies of the brown-mantled tamarin, L. fuscicollis. It is closely related to the Andean saddle-back tamarin. It is endemic to the Peruvian Amazon and its type locality is in Loreto, Peru, at the left bank of the lower Rio Ucayali.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Leontocebus_illigeri_%28cropped%29.jpeg"
+}

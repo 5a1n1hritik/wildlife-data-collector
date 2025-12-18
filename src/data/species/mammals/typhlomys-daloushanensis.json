@@ -1,0 +1,22 @@
+{
+  "id": "typhlomys-daloushanensis",
+  "name": "Typhlomys daloushanensis",
+  "scientificName": "Typhlomys daloushanensis",
+  "wikibase_item": "Q47736254",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1325936,
+      "id": "Q1325936"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47736254"
+  },
+  "lastUpdated": "2025-12-17"
+}

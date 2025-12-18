@@ -1,0 +1,22 @@
+{
+  "id": "physalus-duguidii",
+  "name": "Physalus duguidii",
+  "scientificName": "Physalus duguidii",
+  "wikibase_item": "Q41167107",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157116,
+      "id": "Q41157116"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167107"
+  },
+  "lastUpdated": "2025-12-17"
+}

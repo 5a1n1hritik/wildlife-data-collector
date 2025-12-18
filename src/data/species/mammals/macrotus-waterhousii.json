@@ -1,0 +1,25 @@
+{
+  "id": "macrotus-waterhousii",
+  "name": "Waterhouse's Leaf-nosed Bat",
+  "scientificName": "Macrotus waterhousii",
+  "wikibase_item": "Q1831620",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 956183,
+      "id": "Q956183"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831620",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waterhouse's_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Waterhouse's leaf-nosed bat is a species of big-eared bat in the family Phyllostomidae. It is found in the Greater Antilles in the Cayman Islands, Cuba, Hispaniola and Jamaica, as well as Mexico south to Guatemala.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Macrotus_waterhousii_115561876.jpg"
+}

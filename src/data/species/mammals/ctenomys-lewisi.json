@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-lewisi",
+  "name": "Lewis's tuco-tuco",
+  "scientificName": "Ctenomys lewisi",
+  "wikibase_item": "Q1764981",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764981",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lewis's tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to Bolivia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ctenomys_amguya_tutu.jpg"
+}

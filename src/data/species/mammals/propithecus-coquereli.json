@@ -1,0 +1,25 @@
+{
+  "id": "propithecus-coquereli",
+  "name": "Coquerel's sifaka",
+  "scientificName": "Propithecus coquereli",
+  "wikibase_item": "Q1131678",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1131678",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coquerel's_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Coquerel's sifaka is a diurnal, medium-sized lemur of the sifaka genus Propithecus. It is native to northwest Madagascar. Coquerel's sifaka was once considered a subspecies of Verreaux's sifaka but was eventually granted full species status. It is listed as Critically Endangered on the IUCN Red List due to habitat loss and hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Propithecus_coquereli_02.jpg"
+}

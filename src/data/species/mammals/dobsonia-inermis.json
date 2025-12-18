@@ -1,0 +1,25 @@
+{
+  "id": "dobsonia-inermis",
+  "name": "Dobsonia inermis",
+  "scientificName": "Dobsonia inermis",
+  "wikibase_item": "Q301227",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301227",
+    "wikipedia": "https://en.wikipedia.org/wiki/Solomon's_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Solomon's naked-backed fruit bat is a species of megabat in the family Pteropodidae. It is endemic to the Solomon Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Solomon%27s_Naked-backed_Fruit_Bat_area.png"
+}

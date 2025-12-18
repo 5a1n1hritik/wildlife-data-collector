@@ -1,0 +1,25 @@
+{
+  "id": "myomimus-setzeri",
+  "name": "Setzer's Mouse-tailed Dormouse",
+  "scientificName": "Myomimus setzeri",
+  "wikibase_item": "Q1767300",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 944092,
+      "id": "Q944092"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767300",
+    "wikipedia": "https://en.wikipedia.org/wiki/Setzer's_mouse-tailed_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Setzer's mouse-tailed dormouse is a species of rodent in the family Gliridae. It is endemic to Iran. Very little information is available for this species, with only 10 specimens known. It is found mainly in the pellets of the Eurasian eagle owl.",
+  "image": null
+}

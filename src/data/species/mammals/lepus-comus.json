@@ -1,0 +1,25 @@
+{
+  "id": "lepus-comus",
+  "name": "Yunnan hare",
+  "scientificName": "Lepus comus",
+  "wikibase_item": "Q1291427",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3734504,
+      "id": "Q3734504"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1291427",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yunnan_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yunnan hare is a medium-sized species of mammal in the family Leporidae. It has soft, flat, and long dorsal pelage which is grayish brown or dark gray in color, and whitish ventral pelage. It was considered endemic to China, but its presence was recorded in northern Myanmar in 2000. It is a herbivore, and forages on shrubs and forbs. It is rated as a species of least concern on the IUCN Red List of Endangered Species. The Red List of China's Vertebrates has listed the Yunnan hare as near threatened, almost meeting the criteria to be listed as vulnerable.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Lepus_comus_528388471.jpg"
+}

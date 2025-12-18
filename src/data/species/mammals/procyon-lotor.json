@@ -1,0 +1,25 @@
+{
+  "id": "procyon-lotor",
+  "name": "raccoon",
+  "scientificName": "Procyon lotor",
+  "wikibase_item": "Q121439",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121439",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raccoon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The raccoon, sometimes called the North American, northern or common raccoon to distinguish it from other species of raccoon, is a mammal native to North America. It is the largest of the procyonid family, having a body length of 40 to 70 cm, and a body weight of 5 to 26 kg. Its grayish coat mostly consists of dense underfur, which insulates it against cold weather. The animal's most distinctive features include its extremely dexterous front paws, its facial mask, and its ringed tail, which are common themes in the mythologies of the Indigenous peoples of the Americas surrounding the species. The raccoon is noted for its intelligence, and studies show that it can remember the solution to tasks for at least three years. It is usually nocturnal and omnivorous, eating about 40% invertebrates, 33% plants, and 27% vertebrates.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg"
+}

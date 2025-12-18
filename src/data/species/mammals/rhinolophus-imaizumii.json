@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-imaizumii",
+  "name": "Imaizumi's horseshoe bat",
+  "scientificName": "Rhinolophus imaizumii",
+  "wikibase_item": "Q1164092",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1164092",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imaizumi's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Imaizumi's horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to Japan. Its natural habitat is temperate forests. While it was formerly considered endangered by the IUCN, it is now considered synonymous with the least horseshoe bat, which is evaluated as least concern.",
+  "image": null
+}

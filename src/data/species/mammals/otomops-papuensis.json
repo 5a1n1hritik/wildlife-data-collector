@@ -1,0 +1,25 @@
+{
+  "id": "otomops-papuensis",
+  "name": "big-eared mastiff bat",
+  "scientificName": "Otomops papuensis",
+  "wikibase_item": "Q1829439",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2525205,
+      "id": "Q2525205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829439",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big-eared_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big-eared mastiff bat is a species of bat in the Molossidae family endemic to Papua New Guinea. It is only known from eleven specimens and it is not easy to survey. It forages in rainforest canopy and roosts in tree hollows. It is likely more widespread than currently known but additional research is needed.",
+  "image": null
+}

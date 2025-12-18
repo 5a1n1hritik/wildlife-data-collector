@@ -1,0 +1,25 @@
+{
+  "id": "oligoryzomys-magellanicus",
+  "name": "Oligoryzomys magellanicus",
+  "scientificName": "Oligoryzomys magellanicus",
+  "wikibase_item": "Q1764219",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764219",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_magellanicus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys magellanicus, also known as the Patagonian colilargo and the Magellanic pygmy rice rat, is a species of rodent in the genus Oligoryzomys of the family Cricetidae. It is found in the southernmost parts of Argentina and Chile, including Tierra del Fuego and other outlying islands. Its karyotype has 2n = 54 and FNa = 66.",
+  "image": null
+}

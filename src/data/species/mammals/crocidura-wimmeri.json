@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-wimmeri",
+  "name": "Crocidura wimmeri",
+  "scientificName": "Crocidura wimmeri",
+  "wikibase_item": "Q306667",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wimmer's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Wimmer's shrew is a white-toothed shrew found only in Côte d'Ivoire. It is listed as a vulnerable species due to habitat loss and a restricted range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Wimmer%27s_Shrew_area.png"
+}

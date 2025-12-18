@@ -1,0 +1,22 @@
+{
+  "id": "phocaena-dioptrica",
+  "name": "Phocaena dioptrica",
+  "scientificName": "Phocaena dioptrica",
+  "wikibase_item": "Q109647416",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 61884042,
+      "id": "Q61884042"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647416"
+  },
+  "lastUpdated": "2025-12-17"
+}

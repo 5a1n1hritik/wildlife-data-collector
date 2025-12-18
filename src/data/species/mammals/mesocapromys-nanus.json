@@ -1,0 +1,25 @@
+{
+  "id": "mesocapromys-nanus",
+  "name": "Dwarf hutia",
+  "scientificName": "Mesocapromys nanus",
+  "wikibase_item": "Q933369",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244182,
+      "id": "Q244182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q933369",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf hutia is a small, critically endangered, rat-like mammal known only from Cuba. Aside from tracks, it was last seen in 1937 and may be extinct. It gives birth to only a single offspring at a time, and is threatened by habitat loss and non-native species such as rats and mongoose. The dwarf hutia belongs to the hutia subfamily (Capromyinae), a group of rodents native to the Caribbean that are mostly endangered or extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mesocapromys_nana_Map.jpg"
+}

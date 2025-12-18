@@ -1,0 +1,25 @@
+{
+  "id": "phyllotis-anitae",
+  "name": "Anita's leaf-eared mouse",
+  "scientificName": "Phyllotis anitae",
+  "wikibase_item": "Q3018995",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 632289,
+      "id": "Q632289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3018995",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita's_leaf-eared_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Anita's leaf-eared mouse is a species of rodent in the family Cricetidae. It was discovered in Tucumán Province in northwestern Argentina in alder forest of the upper part of the Southern Andean Yungas ecoregion, on the eastern slopes of the Andes. The species is terrestrial and nocturnal, and was named after American zoologist Anita K. Pearson. It appears to be most closely related to the bunchgrass leaf-eared mouse.",
+  "image": null
+}

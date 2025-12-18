@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-iheringi",
+  "name": "Ihering's three-striped opossum",
+  "scientificName": "Monodelphis iheringi",
+  "wikibase_item": "Q194475",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194475",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ihering's_three-striped_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ihering's three-striped opossum is an opossum species found in Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ihering%27s_Short-tailed_Opossum_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sorex-gracillimus",
+  "name": "Slender Shrew",
+  "scientificName": "Sorex gracillimus",
+  "wikibase_item": "Q1766407",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766407",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slender_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The slender shrew is a species of shrew. An adult slender shrew has a weight of 1.5–5.3 g (0.053–0.187 oz) and a body length of 4.7–6.0 cm (1.9–2.4 in), with a tail of 4–5 cm (1.6–2.0 in); this makes it one of the smaller shrews found in its range. It is distributed across northeastern North Korea, Hokkaidō, and the Russian Far East including the Kuril Islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Slender_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tamias-cinereicollis",
+  "name": "Tamias cinereicollis",
+  "scientificName": "Tamias cinereicollis",
+  "wikibase_item": "Q1767483",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767483",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray-collared_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray-collared chipmunk is a species of rodent in the family Sciuridae. It is endemic to Arizona and New Mexico in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gray_Collared_Chipmunk_-_Flickr_-_GregTheBusker_cropped.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-tuconax",
+  "name": "Robust tuco-tuco",
+  "scientificName": "Ctenomys tuconax",
+  "wikibase_item": "Q305862",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305862",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robust_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The robust tuco-tuco is a species of rodent in the family Ctenomyidae. It is a burrowing rodent and is endemic to the Tucumán Province of Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ctenomys_tuconax_38864099.jpg"
+}

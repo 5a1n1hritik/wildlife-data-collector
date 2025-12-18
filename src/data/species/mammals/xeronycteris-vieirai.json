@@ -1,0 +1,25 @@
+{
+  "id": "xeronycteris-vieirai",
+  "name": "Xeronycteris vieirai",
+  "scientificName": "Xeronycteris vieirai",
+  "wikibase_item": "Q348873",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 17809445,
+      "id": "Q17809445"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q348873",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vieira's_long-tongued_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Vieira's long-tongued bat is a species of bat from northeastern Brazil, discovered in 2005 by Gregorin and Ditchfield. It is the only species in the genus Xeronycteris.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Distribution_of_Xeronycteris_vieirai.png"
+}

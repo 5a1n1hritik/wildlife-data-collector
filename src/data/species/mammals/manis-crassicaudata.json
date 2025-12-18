@@ -1,0 +1,25 @@
+{
+  "id": "manis-crassicaudata",
+  "name": "Indian pangolin",
+  "scientificName": "Manis crassicaudata",
+  "wikibase_item": "Q752467",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2659251,
+      "id": "Q2659251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q752467",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_pangolin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Indian pangolin, also called thick-tailed pangolin and scaly anteater, is a pangolin native to the Indian subcontinent.\nLike other pangolins, it has large, overlapping scales on its body which act as armour. The colour of its scales varies depending on the colour of the earth in its surroundings. It can also curl itself into a ball as self-defence against predators such as the tiger. \nIt is an insectivore feeding on ants and termites, digging them out of mounds and logs using its long claws, which are as long as its fore limbs. It is nocturnal and rests in deep burrows during the day.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg"
+}

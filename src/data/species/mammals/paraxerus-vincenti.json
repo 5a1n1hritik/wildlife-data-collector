@@ -1,0 +1,25 @@
+{
+  "id": "paraxerus-vincenti",
+  "name": "Vincent's bush squirrel",
+  "scientificName": "Paraxerus vincenti",
+  "wikibase_item": "Q1767198",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767198",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincent's_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Vincent's bush squirrel is a species of rodent in the family Sciuridae, named in honour of Jack Vincent. It is endemic to Mozambique. Its natural habitat is subtropical or tropical moist montane forests, and it is threatened by habitat loss.",
+  "image": null
+}

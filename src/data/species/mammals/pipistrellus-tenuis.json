@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-tenuis",
+  "name": "least pipistrelle",
+  "scientificName": "Pipistrellus tenuis",
+  "wikibase_item": "Q558048",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558048",
+    "wikipedia": "https://en.wikipedia.org/wiki/Least_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The least pipistrelle is a species of vesper bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pipistrellus_tenuis_by_Dibyendu_Ash.jpg"
+}

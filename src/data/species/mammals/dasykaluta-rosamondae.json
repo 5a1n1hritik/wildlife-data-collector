@@ -1,0 +1,25 @@
+{
+  "id": "dasykaluta-rosamondae",
+  "name": "Little Red Kaluta",
+  "scientificName": "Dasykaluta rosamondae",
+  "wikibase_item": "Q511104",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10754035,
+      "id": "Q10754035"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q511104",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_red_kaluta"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little red kaluta is a small, reddish-brown, shrew-like mammal native to dry grasslands of northwest Western Australia. It is active at night, feeding on insects and other small animals. The kaluta is a marsupial and is the only member of its genus, Dasykaluta. Individuals are around 10 cm (3.9 in) long and weigh from 20 to 40 g. They live for about four years in captivity. Other common names include little red antechinus, russet antechinus and spinifex antechinus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Little_Red_Kaluta_area.png"
+}

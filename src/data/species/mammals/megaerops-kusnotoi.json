@@ -1,0 +1,25 @@
+{
+  "id": "megaerops-kusnotoi",
+  "name": "Javan tailless fruit bat",
+  "scientificName": "Megaerops kusnotoi",
+  "wikibase_item": "Q1769088",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2273400,
+      "id": "Q2273400"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769088",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javan_tailless_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan tailless fruit bat is a species of megabat in the family Pteropodidae. It is endemic to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Javan_Tailless_Fruit_Bat_area.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mustela-canadensis",
+  "name": "Mustela canadensis",
+  "scientificName": "Mustela canadensis",
+  "wikibase_item": "Q122890921",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122890921"
+  },
+  "lastUpdated": "2025-12-17"
+}

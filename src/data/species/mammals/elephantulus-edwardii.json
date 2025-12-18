@@ -1,0 +1,25 @@
+{
+  "id": "elephantulus-edwardii",
+  "name": "Elephantulus edwardii",
+  "scientificName": "Elephantulus edwardii",
+  "wikibase_item": "Q643527",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q643527",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape elephant shrew, also known as the Cape rock elephant-shrew or Cape rock sengi, is a species of elephant shrew in the family Macroscelididae. It is endemic to South Africa, although it is a relatively common animal. Its natural habitat is rocky areas. Elephant shrews are not closely related to true shrews, nor to rodents such as mice. E. edwardii has been observed to be a non-flying mammal pollinator of the pagoda lily. Elephant shrews are floral pollinators due to their largely insectivorous diet. Elephant-shrews are pollinators of Hyobanche atropurpurea. It uses its long slender tongue to feed on the pagoda lily's nectar while getting the lily's pollen on its long nose. E. edwardii is also a pollinator of Protea sulphurea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Macroscelides_edwardii_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20900065_2.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "peropteryx-pallidoptera",
+  "name": "Peropteryx pallidoptera",
+  "scientificName": "Peropteryx pallidoptera",
+  "wikibase_item": "Q3900050",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133521,
+      "id": "Q133521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3900050",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale-winged_dog-like_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale-winged dog-like bat is a bat species found in Brazil, Colombia, Ecuador, and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Peropteryx_pallidoptera.jpg"
+}

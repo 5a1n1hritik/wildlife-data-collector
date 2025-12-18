@@ -1,0 +1,22 @@
+{
+  "id": "diclidurus-sp.",
+  "name": "Diclidurus sp.",
+  "scientificName": "Diclidurus sp.",
+  "wikibase_item": "Q41082856",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468603,
+      "id": "Q468603"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41082856"
+  },
+  "lastUpdated": "2025-12-17"
+}

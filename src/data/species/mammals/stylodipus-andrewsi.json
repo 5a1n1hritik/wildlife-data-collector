@@ -1,0 +1,25 @@
+{
+  "id": "stylodipus-andrewsi",
+  "name": "Andrews's three-toed jerboa",
+  "scientificName": "Stylodipus andrewsi",
+  "wikibase_item": "Q1764121",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 658876,
+      "id": "Q658876"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764121",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrews's_three-toed_jerboa"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andrews's three-toed jerboa, or the Mongolian jerboa, is a species of rodent in the family Dipodidae. It is found in China and Mongolia.",
+  "image": null
+}

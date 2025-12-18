@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-naso",
+  "name": "Antechinus naso",
+  "scientificName": "Antechinus naso",
+  "wikibase_item": "Q116259825",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116259825",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-nosed_dasyure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-nosed dasyure is a species of marsupial in the family Dasyuridae. It is found in Indonesia and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Long-nosed_Dasyure_area.png"
+}

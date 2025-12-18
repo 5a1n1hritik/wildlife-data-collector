@@ -1,0 +1,25 @@
+{
+  "id": "marmosa-phaea",
+  "name": "Marmosa phaea",
+  "scientificName": "Marmosa phaea",
+  "wikibase_item": "Q20754796",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20754796",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_woolly_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little woolly mouse opossum is a nocturnal, arboreal and mainly solitary species of South American marsupial in the family Didelphidae. It is native to the western slopes of the Andes in Colombia, Ecuador and Peru, where it lives at altitudes from sea level to 1,500 metres (4,900 ft). It primarily inhabits lowland rainforest and montane cloud forest, although it has been reported from dry forest in the southern end of its range. It was formerly assigned to the genus Micoureus, which was made a subgenus of Marmosa in 2009. Its conservation status is vulnerable, due to habitat fragmentation and continuing loss of habitat via urbanization and conversion to agriculture.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Marmosa_phaea.jpg"
+}

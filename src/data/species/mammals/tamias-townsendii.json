@@ -1,0 +1,25 @@
+{
+  "id": "tamias-townsendii",
+  "name": "Tamias townsendii",
+  "scientificName": "Tamias townsendii",
+  "wikibase_item": "Q1768062",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768062",
+    "wikipedia": "https://en.wikipedia.org/wiki/Townsend's_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Townsend's chipmunk is a species of rodent in the squirrel family, Sciuridae. It lives in the forests of the Pacific Northwest of North America, from extreme southwestern British Columbia through western Washington and western Oregon. Townsend's chipmunk is named after John Kirk Townsend, an early 19th-century ornithologist.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Townsend%27s_Chipmunk_1965vv.jpg"
+}

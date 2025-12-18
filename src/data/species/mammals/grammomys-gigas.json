@@ -1,0 +1,25 @@
+{
+  "id": "grammomys-gigas",
+  "name": "Giant thicket rat",
+  "scientificName": "Grammomys gigas",
+  "wikibase_item": "Q303914",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 416550,
+      "id": "Q416550"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303914",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_thicket_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant thicket rat is a species of rodent in the family Muridae which is restricted to a small area of Kenya.",
+  "image": null
+}

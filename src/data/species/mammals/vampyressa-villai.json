@@ -1,0 +1,25 @@
+{
+  "id": "vampyressa-villai",
+  "name": "Vampyressa villai",
+  "scientificName": "Vampyressa villai",
+  "wikibase_item": "Q124986505",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2703837,
+      "id": "Q2703837"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124986505",
+    "wikipedia": "https://en.wikipedia.org/wiki/Villa's_yellow-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Villa's little yellow-eared bat is a bat species found in Mexico to the west of the Isthmus of Tehuantepec. It is known from the Mexican states of Oaxaca, Guerrero, and Veracruz.",
+  "image": null
+}

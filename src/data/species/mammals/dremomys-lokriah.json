@@ -1,0 +1,25 @@
+{
+  "id": "dremomys-lokriah",
+  "name": "Orange-bellied Himalayan squirrel",
+  "scientificName": "Dremomys lokriah",
+  "wikibase_item": "Q307691",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909825,
+      "id": "Q909825"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orange-bellied_Himalayan_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The orange-bellied Himalayan squirrel is a species of rodent in the family Sciuridae. It is found in Bangladesh, China, India, Myanmar, Nepal and Bhutan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Orange-bellied_Himalayan_Squirrel_Khangchendzonga_Biosphere_Reserve_West_Sikkim_India_25.10.2015.jpg"
+}

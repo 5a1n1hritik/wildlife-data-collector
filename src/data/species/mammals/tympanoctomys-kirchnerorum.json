@@ -1,0 +1,25 @@
+{
+  "id": "tympanoctomys-kirchnerorum",
+  "name": "Tympanoctomys kirchnerorum",
+  "scientificName": "Tympanoctomys kirchnerorum",
+  "wikibase_item": "Q16064168",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12268441,
+      "id": "Q12268441"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16064168",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirchner's_viscacha_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kirchner's viscacha rat or Kirchner's vizcacha rat is a species of rodent in the family Octodontidae described in 2014. It is one of three species in the genus Tympanoctomys. That species is endemic to Chubut Province in the central western Argentina, where it has a fragmented range. Its natural habitat is desert scrubland, dunes and salt flats, where it eats halophyte plants. It is a solitary, nocturnal rodent that constructs large mounds with complex burrows. The species was named in honor of both Cristina Fernández de Kirchner and Néstor Kirchner, presidents of Argentina.",
+  "image": null
+}

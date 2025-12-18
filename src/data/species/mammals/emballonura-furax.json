@@ -1,0 +1,25 @@
+{
+  "id": "emballonura-furax",
+  "name": "Greater sheath-tailed bat",
+  "scientificName": "Emballonura furax",
+  "wikibase_item": "Q305017",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 15286375,
+      "id": "Q15286375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305017",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater sheath-tailed bat or New Guinea sheath-tailed bat is a species of sac-winged bat in the family Emballonuridae. It is endemic to New Guinea and some nearby islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Greater_Sheath-Tailed_Bat_area.png"
+}

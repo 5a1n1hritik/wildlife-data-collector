@@ -1,0 +1,25 @@
+{
+  "id": "cryptotis-mayensis",
+  "name": "Yucatan small-eared shrew",
+  "scientificName": "Cryptotis mayensis",
+  "wikibase_item": "Q1765965",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765965",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yucatan_small-eared_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Yucatan small-eared shrew is a species of mammal in the family Soricidae. It is mainly known from lowlands of Guatemala, Belize and Mexico's Yucatán Peninsula, where it has been found in dry scrubland and tropical dry forest at elevations below 100 m. It is threatened by deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Yucatan_Small-eared_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rousettus-madagascariensis",
+  "name": "Rousettus madagascariensis",
+  "scientificName": "Rousettus madagascariensis",
+  "wikibase_item": "Q745958",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950348,
+      "id": "Q11950348"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q745958",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madagascan_rousette"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Madagascan rousette or Madagascar rousette, is a species of megabat in the family Pteropodidae endemic to Madagascar. Its natural habitat is subtropical or tropical dry forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Rousettus_madagascariensis_2.png"
+}

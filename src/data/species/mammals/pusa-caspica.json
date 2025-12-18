@@ -1,0 +1,25 @@
+{
+  "id": "pusa-caspica",
+  "name": "Caspian seal",
+  "scientificName": "Pusa caspica",
+  "wikibase_item": "Q742727",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 310863,
+      "id": "Q310863"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q742727",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caspian_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Caspian seal is one of the smallest members of the earless seal family and unique in that it is found exclusively in the brackish Caspian Sea. It lives along the shorelines, but also on the many rocky islands and floating blocks of ice that dot the Caspian Sea. In winter and cooler parts of the spring and autumn season, it populates the northern Caspian coastline. As the ice melts in the summer and warmer parts of the spring and autumn season, it also occurs in the deltas of the Volga and Ural Rivers, as well as the southern latitudes of the Caspian where the water is cooler due to greater depth.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Caspian_seal_03.jpg"
+}

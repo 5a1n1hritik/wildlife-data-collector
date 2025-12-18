@@ -1,0 +1,25 @@
+{
+  "id": "dorcopsulus-macleayi",
+  "name": "Macleay's dorcopsis",
+  "scientificName": "Dorcopsulus macleayi",
+  "wikibase_item": "Q209742",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 280752,
+      "id": "Q280752"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209742",
+    "wikipedia": "https://en.wikipedia.org/wiki/Macleay's_dorcopsis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Macleay's dorcopsis, also known as the Papuan dorcopsis or the Papuan forest wallaby, is a species of marsupial in the family Macropodidae. It is endemic to Papua New Guinea, where its natural habitat is subtropical or tropical dry forest. Being little threatened by habitat destruction, the International Union for Conservation of Nature has rated it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Dorcopsulus_macleayi_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02933.JPG"
+}

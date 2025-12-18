@@ -1,0 +1,25 @@
+{
+  "id": "neoromicia-malagasyensis",
+  "name": "Neoromicia malagasyensis",
+  "scientificName": "Neoromicia malagasyensis",
+  "wikibase_item": "Q626679",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 427215,
+      "id": "Q427215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626679",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isalo_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Isalo serotine is a vesper bat of Madagascar in the genus Laephotis. It is known only from the vicinity of the Isalo National Park in the southwestern part of the island, where it has been caught in riverine habitats. After the first specimen was caught in 1967, it was described as a subspecies of Eptesicus somalicus in 1995. After four more specimens were collected in 2002 and 2003, it was recognized as a separate species. Because of its small distribution and the threat of habitat destruction, it is considered \"vulnerable\" in the IUCN Red List.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Neoromicia_malagasyensis_range.svg/500px-Neoromicia_malagasyensis_range.svg.png"
+}

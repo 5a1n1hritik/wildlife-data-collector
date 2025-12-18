@@ -1,0 +1,22 @@
+{
+  "id": "proechimys-hilda",
+  "name": "Proechimys hilda",
+  "scientificName": "Proechimys hilda",
+  "wikibase_item": "Q41015730",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 279215,
+      "id": "Q279215"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41015730"
+  },
+  "lastUpdated": "2025-12-17"
+}

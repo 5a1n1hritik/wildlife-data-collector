@@ -1,0 +1,25 @@
+{
+  "id": "niviventer-brahma",
+  "name": "Brahma white-bellied rat",
+  "scientificName": "Niviventer brahma",
+  "wikibase_item": "Q1765435",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765435",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahma_white-bellied_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brahma white-bellied rat is a species of rodent in the family Muridae. It is found in northeastern India, northern Myanmar, and southwestern China (Yunnan). It lives in various forest habitats at elevations of 2,000–2,800 m (6,600–9,200 ft) above sea level.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Range_Niviventer_brahma.png"
+}

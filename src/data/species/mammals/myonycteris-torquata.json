@@ -1,0 +1,25 @@
+{
+  "id": "myonycteris-torquata",
+  "name": "Little Collared Fruit Bat",
+  "scientificName": "Myonycteris torquata",
+  "wikibase_item": "Q1763436",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20877552,
+      "id": "Q20877552"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763436",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_collared_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little collared fruit bat is a species of megabat in the family Pteropodidae found in Angola, Cameroon, the Central African Republic, the Republic of the Congo, the Democratic Republic of the Congo, Ivory Coast, Equatorial Guinea, Gabon, Ghana, Guinea, Liberia, Nigeria, Rwanda, Sierra Leone, South Sudan, Togo, and Uganda. Its natural habitats are subtropical or tropical moist lowland forests and moist savanna.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Naturalis_Biodiversity_Center_-_RMNH.MAM.17359.b_dor_-_Myonycteris_torquata_-_skin.jpeg"
+}

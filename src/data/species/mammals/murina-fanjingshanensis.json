@@ -1,0 +1,25 @@
+{
+  "id": "murina-fanjingshanensis",
+  "name": "Murina fanjingshanensis",
+  "scientificName": "Murina fanjingshanensis",
+  "wikibase_item": "Q25403704",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1179958,
+      "id": "Q1179958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25403704",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murina_fanjingshanensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Murina fanjingshanensis is a species of vesper bat found in China.",
+  "image": null
+}

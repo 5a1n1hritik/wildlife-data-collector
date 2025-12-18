@@ -1,0 +1,25 @@
+{
+  "id": "meles-anakuma",
+  "name": "Japanese badger",
+  "scientificName": "Meles anakuma",
+  "wikibase_item": "Q1576038",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1345042,
+      "id": "Q1345042"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1576038",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese badger is a species of carnivoran of the family Mustelidae, the weasels and their kin. Endemic to Japan, it is found on Honshu, Kyushu, Shikoku, and Shōdoshima. It is assigned to the genus Meles with its close relatives, the European, Caucasian and Asian badgers. In Japan, it is called by the name anaguma meaning \"hole-bear\", or mujina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-hoveli",
+  "name": "Myotis hoveli",
+  "scientificName": "Myotis hoveli",
+  "wikibase_item": "Q125898428",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125898428",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natterer's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Natterer's bat is a European vespertilionid bat with pale wings. It has mostly brown fur with greyish-white fur on its underside. It is found across most of the continent of Europe, parts of the Near East and North Africa. It feeds on insects and other invertebrates which it catches on the wing or pursues on the ground.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Myotis_nattereri_%282862347369%29.jpg"
+}

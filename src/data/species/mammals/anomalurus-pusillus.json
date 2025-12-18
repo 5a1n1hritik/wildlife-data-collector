@@ -1,0 +1,25 @@
+{
+  "id": "anomalurus-pusillus",
+  "name": "Dwarf scaly-tailed squirrel",
+  "scientificName": "Anomalurus pusillus",
+  "wikibase_item": "Q306637",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1194758,
+      "id": "Q1194758"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306637",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_scaly-tailed_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf scaly-tailed squirrel is a species of rodent in the family Anomaluridae. It is found in Cameroon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon and Uganda. The species is nocturnal and arboreal and lives in subtropical or tropical lowland rainforest. Membranes attached to its limbs and tail enable it to glide between trees. This squirrel is currently not considered to be threatened by habitat destruction; \"much of the habitat within parts of the known range of this species is relatively intact, and the species is unlikely to be experiencing any significant declines.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/AnomalurusPusillusSmit.jpg"
+}

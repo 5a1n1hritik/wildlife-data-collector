@@ -1,0 +1,25 @@
+{
+  "id": "tamias-merriami",
+  "name": "Tamias merriami",
+  "scientificName": "Tamias merriami",
+  "wikibase_item": "Q1769103",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769103",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merriam's_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Merriam's chipmunk is a species of chipmunk in the family Sciuridae. It is found in central and southern California in the United States and a small area in northern Baja California, Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Neotamias_merriami.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sorex-fumeus",
+  "name": "Smoky Shrew",
+  "scientificName": "Sorex fumeus",
+  "wikibase_item": "Q1769712",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20876533,
+      "id": "Q20876533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769712",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smoky_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The smoky shrew is a medium-sized North American shrew found in eastern Canada and the northeastern United States and further south along the Appalachian Mountains.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Smoky_shrew.jpg"
+}

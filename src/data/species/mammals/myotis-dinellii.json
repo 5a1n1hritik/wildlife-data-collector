@@ -1,0 +1,25 @@
+{
+  "id": "myotis-dinellii",
+  "name": "Myotis dinellii",
+  "scientificName": "Myotis dinellii",
+  "wikibase_item": "Q3927217",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3927217",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dinelli's_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Dinelli's myotis is a species of vesper bat found in southern South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Dinelli%27s_Myotis_imported_from_iNaturalist_photo_156512394_on_1_February_2022.jpg"
+}

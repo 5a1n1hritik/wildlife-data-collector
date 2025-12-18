@@ -1,0 +1,22 @@
+{
+  "id": "macropus-fraenatus",
+  "name": "Macropus fraenatus",
+  "scientificName": "Macropus fraenatus",
+  "wikibase_item": "Q41084488",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 174322,
+      "id": "Q174322"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084488"
+  },
+  "lastUpdated": "2025-12-17"
+}

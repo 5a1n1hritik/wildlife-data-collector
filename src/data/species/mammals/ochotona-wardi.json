@@ -1,0 +1,22 @@
+{
+  "id": "ochotona-wardi",
+  "name": "Ochotona wardi",
+  "scientificName": "Ochotona wardi",
+  "wikibase_item": "Q40543242",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 184067,
+      "id": "Q184067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40543242"
+  },
+  "lastUpdated": "2025-12-17"
+}

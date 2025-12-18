@@ -1,0 +1,22 @@
+{
+  "id": "petauroides-stirtoni",
+  "name": "Petauroides stirtoni",
+  "scientificName": "Petauroides stirtoni",
+  "wikibase_item": "Q2064921",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804830,
+      "id": "Q10804830"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2064921"
+  },
+  "lastUpdated": "2025-12-17"
+}

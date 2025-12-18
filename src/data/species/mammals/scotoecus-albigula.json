@@ -1,0 +1,25 @@
+{
+  "id": "scotoecus-albigula",
+  "name": "White-bellied Lesser House Bat",
+  "scientificName": "Scotoecus albigula",
+  "wikibase_item": "Q1831917",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845860,
+      "id": "Q845860"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831917",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-bellied_lesser_house_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-bellied lesser house bat is a species of vesper bat. It can be found in Angola, Kenya, Malawi, Mozambique, Somalia, Uganda, and Zambia.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "petromus-typicus",
+  "name": "Dassie rat",
+  "scientificName": "Petromus typicus",
+  "wikibase_item": "Q838740",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804847,
+      "id": "Q10804847"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q838740",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dassie_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dassie rat is an African rodent found among rocky outcroppings. It is the only living member of its genus, Petromus, and family, Petromuridae. The name \"dassie\" means \"hyrax\" in Afrikaans, and the two animals are found in similar habitats. Petromus means \"rock mouse\" and dassie rats are one of many rodents sometimes called rock rats. The family and genus names are sometimes misspelled as Petromyidae and Petromys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Petromus_typicus.jpg"
+}

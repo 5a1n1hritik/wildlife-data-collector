@@ -1,0 +1,22 @@
+{
+  "id": "graomys-medius",
+  "name": "Graomys medius",
+  "scientificName": "Graomys medius",
+  "wikibase_item": "Q40997140",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139823,
+      "id": "Q139823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40997140"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "uropsilus-nivatus",
+  "name": "Uropsilus nivatus",
+  "scientificName": "Uropsilus nivatus",
+  "wikibase_item": "Q99194715",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 867212,
+      "id": "Q867212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194715",
+    "wikipedia": "https://en.wikipedia.org/wiki/Snow_Mountain_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Snow Mountain shrew mole is a species of mammal in the family Talpidae. It is native to Yunnan Province in China and potentially Myanmar. Its common name references Jade Dragon Snow Mountain, which is the type locality of the species. Aside from there, the only other confirmed specimen is from Cang Mountain.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aeromys-tephromelas",
+  "name": "Black flying squirrel",
+  "scientificName": "Aeromys tephromelas",
+  "wikibase_item": "Q1767362",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 304282,
+      "id": "Q304282"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767362",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black flying squirrel or large black flying squirrel is a species of rodent in the family Sciuridae. It is found in Brunei, Indonesia, and Malaysia; its habitat is primary and secondary forests and gardens where it uses tree hollows. It feeds on fruits, nuts and other vegetable matter. It is likely not threatened and is adaptable to habitat loss. Black flying squirrels tend to have smaller populations than other squirrels because female black flying squirrels breed infrequently and have a small litter size of just one young.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/PteromysTephromelasWolf.jpg"
+}

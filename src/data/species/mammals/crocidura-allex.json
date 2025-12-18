@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-allex",
+  "name": "East African Highland Shrew",
+  "scientificName": "Crocidura allex",
+  "wikibase_item": "Q303035",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303035",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_African_highland_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East African highland shrew is a species of mammal in the family Soricidae. It is found in Kenya and Tanzania. Its natural habitats are subtropical or tropical moist montane forests, high-elevation grassland, and swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/East_African_Highland_Shrew_area.png"
+}

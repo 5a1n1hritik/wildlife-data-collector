@@ -1,0 +1,25 @@
+{
+  "id": "molossus-coibensis",
+  "name": "Coiban mastiff bat",
+  "scientificName": "Molossus coibensis",
+  "wikibase_item": "Q3294199",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1723019,
+      "id": "Q1723019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3294199",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coiban_mastiff_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Coiban mastiff bat is a species of bat in the family Molossidae. Its range extends from Chiapas in southern Mexico to Mato Grosso in Brazil, including Peru, Ecuador, Venezuela, Panama, Costa Rica and El Salvador. The taxonomic status of the populations in Central America is uncertain. The species is insectivorous and is known from a variety of forest habitats at elevations from near sea level to 1300 m.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Distribution_of_Molossus_coibensis.png"
+}

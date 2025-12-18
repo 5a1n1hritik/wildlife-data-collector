@@ -1,0 +1,25 @@
+{
+  "id": "cnephaeus-japonensis",
+  "name": "Cnephaeus japonensis",
+  "scientificName": "Cnephaeus japonensis",
+  "wikibase_item": "Q125207670",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125207648,
+      "id": "Q125207648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125207670",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese short-tailed bat is a species of bat belonging to the family Vespertilionidae. It is endemic to Japan where it is found at the base of the northern Japanese Alps, the Chichibu Mountains and Oze National Park, mostly at altitudes higher than 700 m.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vulpes-pallida",
+  "name": "Pale fox",
+  "scientificName": "Vulpes pallida",
+  "wikibase_item": "Q739525",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q739525",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale fox is a species of fox found in the band of African Sahel from Senegal in the west to Sudan in the east. It is one of the least studied of all canid species, in part due to its remote habitat and its sandy coat that blends in well with the desert-like terrain. The pale fox is distinguished by its light-colored fur and oversized ears, which enable it to excel in camouflage and survival in harsh environments.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Keulemans_pale_fox.png"
+}

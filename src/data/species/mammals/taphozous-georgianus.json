@@ -1,0 +1,25 @@
+{
+  "id": "taphozous-georgianus",
+  "name": "Taphozous georgianus",
+  "scientificName": "Taphozous georgianus",
+  "wikibase_item": "Q1829326",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950884,
+      "id": "Q11950884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829326",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common sheath-tailed bat, is a bat in the family Emballonuridae, occurring in northern Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Sharp-Nosed_Tomb_Bat_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-grisescens",
+  "name": "gray bat",
+  "scientificName": "Myotis grisescens",
+  "wikibase_item": "Q1834518",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834518",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray bat is a species of microbat endemic to North America. It once flourished in caves all over the southeastern United States, but due to human disturbance, gray bat populations declined severely during the early and mid portion of the 20th century. 95% of gray bats now hibernate in only 15 caves. M. grisescens has been listed as federally endangered by the U.S. Fish and Wildlife Service since 1976, and is protected under the Endangered Species Act. Gray bat populations were estimated at approximately 2 million bats around the time they were placed on the Endangered Species list. By the early 1980s populations of gray bats dropped to 1.6 million. With conservation efforts in place, in 2004, gray bat populations were estimated to have reached 3.4 million.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Myotis_grisescens_photo.jpg"
+}

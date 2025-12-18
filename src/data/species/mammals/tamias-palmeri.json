@@ -1,0 +1,25 @@
+{
+  "id": "tamias-palmeri",
+  "name": "Tamias palmeri",
+  "scientificName": "Tamias palmeri",
+  "wikibase_item": "Q1764506",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764506",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palmer's_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Palmer's chipmunk is a species of rodent in the family Sciuridae, endemic to Spring Mountains in southern Nevada. Its natural habitat is temperate forests. Palmer's chipmunks are limited to \"sky islands\" which are mountainous habitats that are surrounded by other lower elevation inhospitable habitats. It is primarily threatened by habitat loss. Palmer's chipmunk is named after Theodore Sherman Palmer, an American botanist and zoologist. With adequate habitat and food resources Palmer's chipmunks typically live from 1 to 4 years.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palmer%27s_chipmunk.jpg"
+}

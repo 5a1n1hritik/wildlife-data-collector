@@ -1,0 +1,25 @@
+{
+  "id": "neophocaena-sunameri",
+  "name": "Neophocaena sunameri",
+  "scientificName": "Neophocaena sunameri",
+  "wikibase_item": "Q108457190",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10798086,
+      "id": "Q10798086"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108457190",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_Asian_finless_porpoise"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The East Asian finless porpoise is a species of porpoise native to the East China Sea, Yellow Sea, and the seas around Japan. The Yangtze finless porpoise was formerly considered a subspecies but is now thought to be a distinct species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Neophocaena_phocaenoides_-Miyajima_Aquarium_-Japan-8a.jpg"
+}

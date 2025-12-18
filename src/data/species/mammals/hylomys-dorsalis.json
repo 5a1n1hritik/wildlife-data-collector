@@ -1,0 +1,25 @@
+{
+  "id": "hylomys-dorsalis",
+  "name": "Hylomys dorsalis",
+  "scientificName": "Hylomys dorsalis",
+  "wikibase_item": "Q124037637",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1392810,
+      "id": "Q1392810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124037637",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bornean_short-tailed_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bornean short-tailed gymnure is a gymnure. It was previously recognized as a subspecies of H. suillus, but it was elevated to full species in 2023.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Hylomys_suillus_dorsalis.jpg"
+}

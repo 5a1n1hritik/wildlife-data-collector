@@ -1,0 +1,25 @@
+{
+  "id": "dorcopsis-atrata",
+  "name": "Black dorcopsis",
+  "scientificName": "Dorcopsis atrata",
+  "wikibase_item": "Q113654",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909045,
+      "id": "Q909045"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113654",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_dorcopsis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black dorcopsis or black forest wallaby is a species of marsupial in the family Macropodidae. It is endemic to Goodenough Island at the eastern end of New Guinea where its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss and hunting, its population is declining and the IUCN lists it as being \"Critically endangered\". It was discovered in 1953 during The Fourth Archbold Expedition to New Guinea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Black_Dorcopsis_area.png"
+}

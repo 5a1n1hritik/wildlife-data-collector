@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-petersoni",
+  "name": "Miniopterus petersoni",
+  "scientificName": "Miniopterus petersoni",
+  "wikibase_item": "Q1986736",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1986736",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peterson's_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Peterson's long-fingered bat is a bat in the genus Miniopterus which occurs in southeast Madagascar. It was described by Steven M. Goodman et al. in 2008. While M. petersoni is similar to M. sororculus, the two species are not closely related to each other, and possess a number of differing external and cranial characteristics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Miniopterus_petersoni_range_map.svg/2324px-Miniopterus_petersoni_range_map.svg.png"
+}

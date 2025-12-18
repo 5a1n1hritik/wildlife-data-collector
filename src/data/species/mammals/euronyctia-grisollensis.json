@@ -1,0 +1,22 @@
+{
+  "id": "euronyctia-grisollensis",
+  "name": "Euronyctia grisollensis",
+  "scientificName": "Euronyctia grisollensis",
+  "wikibase_item": "Q41164787",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41153599,
+      "id": "Q41153599"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41164787"
+  },
+  "lastUpdated": "2025-12-17"
+}

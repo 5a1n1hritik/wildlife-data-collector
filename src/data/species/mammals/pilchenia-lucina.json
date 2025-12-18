@@ -1,0 +1,22 @@
+{
+  "id": "pilchenia-lucina",
+  "name": "Pilchenia lucina",
+  "scientificName": "Pilchenia lucina",
+  "wikibase_item": "Q20719059",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12901512,
+      "id": "Q12901512"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20719059"
+  },
+  "lastUpdated": "2025-12-17"
+}

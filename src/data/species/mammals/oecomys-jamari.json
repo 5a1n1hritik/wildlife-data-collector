@@ -1,0 +1,25 @@
+{
+  "id": "oecomys-jamari",
+  "name": "Oecomys jamari",
+  "scientificName": "Oecomys jamari",
+  "wikibase_item": "Q123096129",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123096129",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oecomys_jamari"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oecomys jamari, also known as the Jamari arboreal rice rat, is a newly described species of rice rat endemic to Brazil.",
+  "image": null
+}

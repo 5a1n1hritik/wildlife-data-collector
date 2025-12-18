@@ -1,0 +1,25 @@
+{
+  "id": "mustela-eversmanii",
+  "name": "Mustela eversmanii",
+  "scientificName": "Mustela eversmanii",
+  "wikibase_item": "Q732127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q732127",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steppe_polecat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The steppe polecat, also known as the white or masked polecat, is a species of mustelid native to Central and Eastern Europe and Central and East Asia. It is listed as Least Concern on the IUCN Red List because of its wide distribution, occurrence in a number of protected areas, and tolerance to some degree of habitat modification. \nIt is generally of a very light yellowish colour, with dark limbs and a dark mask across the face. Compared to its relative, the European polecat, the steppe polecat is larger in size and has a more powerfully built skull.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Wild_steppe_polecat_%28cropped%29.jpg"
+}

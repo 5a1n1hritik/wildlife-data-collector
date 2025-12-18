@@ -1,0 +1,22 @@
+{
+  "id": "ctenomys-rosendopasuali",
+  "name": "Rosendo Pascual's Tuco-tuco",
+  "scientificName": "Ctenomys rosendopasuali",
+  "wikibase_item": "Q95676144",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95676144"
+  },
+  "lastUpdated": "2025-12-17"
+}

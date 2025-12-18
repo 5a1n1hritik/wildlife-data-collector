@@ -1,0 +1,25 @@
+{
+  "id": "hydromys-ziegleri",
+  "name": "Ziegler's water rat",
+  "scientificName": "Hydromys ziegleri",
+  "wikibase_item": "Q1971434",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668884,
+      "id": "Q668884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1971434",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ziegler's_water_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ziegler's water rat, described in the mid-2000s, is a semiaquatic species of rodent native to the mountains Papua New Guinea of which little is known.",
+  "image": null
+}

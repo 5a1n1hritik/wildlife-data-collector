@@ -1,0 +1,25 @@
+{
+  "id": "sundasciurus-lowii",
+  "name": "Low's squirrel",
+  "scientificName": "Sundasciurus lowii",
+  "wikibase_item": "Q1766485",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766485",
+    "wikipedia": "https://en.wikipedia.org/wiki/Low's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Low's squirrel is a species of rodent in the family Sciuridae. It is found in Borneo and nearby islets. Its former subspecies S. l. robinsoni from Sumatra and the Malay Peninsula and S. l. natunensis from the Natuna islands have recently been given species status.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Low%27s_Squirrel_%2814181809432%29.jpg"
+}

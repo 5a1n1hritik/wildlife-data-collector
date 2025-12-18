@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-sanctacrucis",
+  "name": "Pteropus sanctacrucis",
+  "scientificName": "Pteropus sanctacrucis",
+  "wikibase_item": "Q5464136",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5464136",
+    "wikipedia": "https://en.wikipedia.org/wiki/Temotu_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Temotu flying fox is a species of flying fox in the family Pteropodidae. It is endemic to the Solomon Islands. It is threatened by habitat destruction due to subsistence agricultural practices, as well as natural disasters such as tropical cyclones. Due to its imperiled status, it is identified by the Alliance for Zero Extinction as a species in danger of imminent extinction. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Temotu_Flying_Fox_area.png"
+}

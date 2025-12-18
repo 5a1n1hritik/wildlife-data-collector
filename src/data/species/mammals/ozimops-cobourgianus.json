@@ -1,0 +1,25 @@
+{
+  "id": "ozimops-cobourgianus",
+  "name": "Ozimops cobourgianus",
+  "scientificName": "Ozimops cobourgianus",
+  "wikibase_item": "Q61655230",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 61629169,
+      "id": "Q61629169"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61655230",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozimops_cobourgianus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ozimops cobourgianus is a species of molossid bat, insectivorous flying mammals known as freetail bats, which are found in north and west coastal regions of Australia. First described in 1959, the group were later recognised as species Mormopterus cobourgianus and soon placed with a new genus. They are associated with mangrove habitat and roost in the hollows of those trees, and known to seek food there and in eucalypt or melaleuca woodland or other coastal habitat. A smaller bat of genus Ozimops, O. cobourgianus are around fifty millimetres long and weigh six to ten grams. Little is known of their habits.",
+  "image": null
+}

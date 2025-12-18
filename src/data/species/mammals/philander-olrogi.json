@@ -1,0 +1,25 @@
+{
+  "id": "philander-olrogi",
+  "name": "Olrog's four-eyed opossum",
+  "scientificName": "Philander olrogi",
+  "wikibase_item": "Q2015380",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1284059,
+      "id": "Q1284059"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2015380",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olrog's_four-eyed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Olrog's four-eyed opossum is a South American species of opossum endemic to eastern Bolivia, first described in 2008 based on specimens collected in 1974. It inhabits the lowland Amazon rainforest, with an elevation range of 150 to 250 m. The species is named after Swedish-Argentine biologist Claes C. Olrog. It is sympatric with P. opossum, which it resembles. The two species differ in several ways, such as ventral fur color and condition of the zygomatic arch. It is considered to be a junior synonym of the common four-eyed opossum by some sources, such as the Mammal Diversity Database.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Philander_olrogi_map.svg/500px-Philander_olrogi_map.svg.png"
+}

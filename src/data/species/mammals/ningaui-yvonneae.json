@@ -1,0 +1,25 @@
+{
+  "id": "ningaui-yvonneae",
+  "name": "Southern ningaui",
+  "scientificName": "Ningaui yvonneae",
+  "wikibase_item": "Q194756",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754405,
+      "id": "Q1754405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194756",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_ningaui"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern ningaui is a tiny marsupial carnivore belonging to the Dasyuridae family. Similar in appearance to Ningaui ridei, found throughout central Australia, this species occurs in spinifex on semi-arid sandplains across the southern coast of the continent. The fur is a tawny or greyish olive colour, light grey below, and distinguished by shades of cinnamon. The southern ningaui prefers smaller prey, including insects and spiders, but is capable of killing and consuming larger animals such as cockroaches and skinks. Their narrow muzzle is used with quick and fierce bites about the head to despatch their meal. The species was first described in 1983, and placed within the genus Ningaui.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Southern_ningaui_captured_in_the_Middleback_Ranges.jpg"
+}

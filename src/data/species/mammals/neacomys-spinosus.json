@@ -1,0 +1,25 @@
+{
+  "id": "neacomys-spinosus",
+  "name": "Neacomys spinosus",
+  "scientificName": "Neacomys spinosus",
+  "wikibase_item": "Q384767",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 593339,
+      "id": "Q593339"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q384767",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neacomys_spinosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Neacomys spinosus, also known as the common neacomys, common bristly mouse, or bristly mouse, is a nocturnal rodent species from South America in the genus Neacomys. It is found in Bolivia, Brazil, Colombia, Ecuador and Peru, where it often lives in transition areas between lowland forest and open regions. Its diet consists of insects, seeds and fruit.",
+  "image": null
+}

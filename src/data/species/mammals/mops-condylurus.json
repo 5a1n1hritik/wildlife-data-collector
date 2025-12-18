@@ -1,0 +1,25 @@
+{
+  "id": "mops-condylurus",
+  "name": "Angolan free-tailed bat",
+  "scientificName": "Mops condylurus",
+  "wikibase_item": "Q1832498",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11937568,
+      "id": "Q11937568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832498",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angolan_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Angolan free-tailed bat is a species of bat in the family Molossidae. It is found in Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, the Republic of the Congo, the Democratic Republic of the Congo, Ivory Coast, Eswatini, Ethiopia, Gambia, Ghana, Guinea, Kenya, Malawi, Mali, Mozambique, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Uganda, Zambia, and Zimbabwe. Its natural habitats are dry and moist savanna, although it is sometimes found at the edges of woodlands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Naturalis_Biodiversity_Center_-_ZMA.MAM.10240.b_ven_-_Mops_condylurus_-_skin.jpeg"
+}

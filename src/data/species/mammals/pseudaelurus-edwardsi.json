@@ -1,0 +1,22 @@
+{
+  "id": "pseudaelurus-edwardsi",
+  "name": "Pseudaelurus edwardsi",
+  "scientificName": "Pseudaelurus edwardsi",
+  "wikibase_item": "Q27150047",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132747,
+      "id": "Q132747"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27150047"
+  },
+  "lastUpdated": "2025-12-17"
+}

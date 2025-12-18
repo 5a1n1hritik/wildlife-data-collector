@@ -1,0 +1,25 @@
+{
+  "id": "octodon-bridgesi",
+  "name": "Bridges' degu",
+  "scientificName": "Octodon bridgesi",
+  "wikibase_item": "Q1762680",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 628979,
+      "id": "Q628979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bridges's_degu"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bridges's degu is a species of rodent in the family Octodontidae. It is found in southern Chile. The species was named after Thomas Bridges.",
+  "image": null
+}

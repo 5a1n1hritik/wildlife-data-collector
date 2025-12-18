@@ -1,0 +1,22 @@
+{
+  "id": "manus-koellikeri",
+  "name": "Manus koellikeri",
+  "scientificName": "Manus koellikeri",
+  "wikibase_item": "Q81850451",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83169289,
+      "id": "Q83169289"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81850451"
+  },
+  "lastUpdated": "2025-12-17"
+}

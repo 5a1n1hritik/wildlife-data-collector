@@ -1,0 +1,25 @@
+{
+  "id": "abrothrix-olivaceus",
+  "name": "Olive-colored Akodont",
+  "scientificName": "Abrothrix olivaceus",
+  "wikibase_item": "Q305888",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q305888",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olive_grass_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Abrothrix olivacea, also known as the olive grass mouse or olive akodont, is a species of rodent in the genus Abrothrix of family Cricetidae. It is found from northern Chile into southern Chile and Argentina, including the islands of Tierra del Fuego. It is prone to large swings in population size.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Abrothrix_olivacea_99513268.jpg"
+}

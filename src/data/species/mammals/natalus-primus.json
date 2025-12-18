@@ -1,0 +1,25 @@
+{
+  "id": "natalus-primus",
+  "name": "Cuban greater funnel-eared bat",
+  "scientificName": "Natalus primus",
+  "wikibase_item": "Q2128891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2420687,
+      "id": "Q2420687"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2128891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuban_greater_funnel-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cuban greater funnel-eared bat is a species of funnel-eared bat. It is endemic to a cave in westernmost Cuba.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Natalus_primus_distribution.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "atelerix-albiventris",
+  "name": "four-toed hedgehog",
+  "scientificName": "Atelerix albiventris",
+  "wikibase_item": "Q836725",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 205065,
+      "id": "Q205065"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q836725",
+    "wikipedia": "https://en.wikipedia.org/wiki/Four-toed_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The four-toed hedgehog, also known as the African pygmy hedgehog, is a species of hedgehog found throughout much of central and eastern Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Atelerix_albiventris.jpg"
+}

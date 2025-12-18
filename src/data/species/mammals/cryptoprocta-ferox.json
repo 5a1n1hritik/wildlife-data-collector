@@ -1,0 +1,25 @@
+{
+  "id": "cryptoprocta-ferox",
+  "name": "fossa",
+  "scientificName": "Cryptoprocta ferox",
+  "wikibase_item": "Q183330",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141424,
+      "id": "Q141424"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q183330",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fossa"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fossa may refer to:",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "triaenops-pauliani",
+  "name": "Triaenops pauliani",
+  "scientificName": "Triaenops pauliani",
+  "wikibase_item": "Q109647607",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 649924,
+      "id": "Q649924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647607"
+  },
+  "lastUpdated": "2025-12-17"
+}

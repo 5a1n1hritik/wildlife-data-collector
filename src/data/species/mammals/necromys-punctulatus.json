@@ -1,0 +1,25 @@
+{
+  "id": "necromys-punctulatus",
+  "name": "Spotted bolo mouse",
+  "scientificName": "Necromys punctulatus",
+  "wikibase_item": "Q306687",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139082,
+      "id": "Q139082"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306687",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted_bolo_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted bolo mouse or Ecuadorian akodont is a species of rodent in the family Cricetidae. It is known from Ecuador and may also occur in Colombia. Little is known of its status and range.",
+  "image": null
+}

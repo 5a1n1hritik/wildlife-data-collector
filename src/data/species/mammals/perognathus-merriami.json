@@ -1,0 +1,25 @@
+{
+  "id": "perognathus-merriami",
+  "name": "Perognathus merriami",
+  "scientificName": "Perognathus merriami",
+  "wikibase_item": "Q1769211",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 923659,
+      "id": "Q923659"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769211",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merriam's_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Merriam's pocket mouse is a species of rodent in the family Heteromyidae. It is found in northeast Mexico and New Mexico, Oklahoma and Texas in the United States. Its habitat is shortgrass prairie, desert areas with scrub and arid shrubland. The species is named to honor Clinton Hart Merriam, a biologist who first described several other members of the genus Perognathus, and first elucidated the principle of a \"life zone\" as a means of characterizing ecological areas with similar plant and animal communities.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Perognathus_merriami.png"
+}

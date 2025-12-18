@@ -1,0 +1,22 @@
+{
+  "id": "paradoxodonta-ruetimeyeranus",
+  "name": "Paradoxodonta ruetimeyeranus",
+  "scientificName": "Paradoxodonta ruetimeyeranus",
+  "wikibase_item": "Q41527453",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41218209,
+      "id": "Q41218209"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41527453"
+  },
+  "lastUpdated": "2025-12-17"
+}

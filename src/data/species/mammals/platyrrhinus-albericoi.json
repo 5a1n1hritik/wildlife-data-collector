@@ -1,0 +1,25 @@
+{
+  "id": "platyrrhinus-albericoi",
+  "name": "Platyrrhinus albericoi",
+  "scientificName": "Platyrrhinus albericoi",
+  "wikibase_item": "Q2367811",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2367811",
+    "wikipedia": "https://en.wikipedia.org/wiki/Platyrrhinus_albericoi"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Platyrrhinus albericoi is a species of leaf-nosed bat found in South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Platyrrhinus_albericoi_map.svg/960px-Platyrrhinus_albericoi_map.svg.png"
+}

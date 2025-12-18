@@ -1,0 +1,25 @@
+{
+  "id": "nyctereutes-megamastoides",
+  "name": "Nyctereutes megamastoides",
+  "scientificName": "Nyctereutes megamastoides",
+  "wikibase_item": "Q40537824",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2900104,
+      "id": "Q2900104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40537824",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyctereutes"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Nyctereutes is a genus of Asian canid with two extant species, the raccoon dogs: the common raccoon dog and the Japanese raccoon dog. Nyctereutes entered the fossil record 5.5 million years ago (Mya) in northern China. It was one of the earliest canines in the Old World. All but two species became extinct before the end of the Pleistocene. A study suggests that the evolution of Nyctereutes was influenced by environmental and climatic changes, such as the expansion and contraction of forests and the fluctuations of temperature and precipitation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nyctereutes.png"
+}

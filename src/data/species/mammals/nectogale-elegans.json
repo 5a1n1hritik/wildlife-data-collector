@@ -1,0 +1,25 @@
+{
+  "id": "nectogale-elegans",
+  "name": "Elegant water shrew",
+  "scientificName": "Nectogale elegans",
+  "wikibase_item": "Q612916",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10797457,
+      "id": "Q10797457"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q612916",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elegant_water_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The elegant water shrew is a species of mammal in the subfamily Soricinae of the family Soricidae. It is the only species within the genus Nectogale. It lives in Sikkim and China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Elegant_Water_Shrew_area-2.png"
+}

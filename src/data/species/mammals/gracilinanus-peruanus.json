@@ -1,0 +1,22 @@
+{
+  "id": "gracilinanus-peruanus",
+  "name": "Gracilinanus peruanus",
+  "scientificName": "Gracilinanus peruanus",
+  "wikibase_item": "Q99194668",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311603,
+      "id": "Q311603"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99194668"
+  },
+  "lastUpdated": "2025-12-17"
+}

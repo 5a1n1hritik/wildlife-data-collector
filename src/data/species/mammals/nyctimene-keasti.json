@@ -1,0 +1,25 @@
+{
+  "id": "nyctimene-keasti",
+  "name": "Nyctimene keasti",
+  "scientificName": "Nyctimene keasti",
+  "wikibase_item": "Q1765241",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754955,
+      "id": "Q1754955"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765241",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keast's_tube-nosed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Keast's tube-nosed fruit bat is a species of megabat in the family Pteropodidae found in Babar, Tanimbar, and the Kai Islands. It was named after Colin Keast.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keast%27s_Tube-nosed_Fruit_Bat_area.png"
+}

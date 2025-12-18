@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-iliensis",
+  "name": "Ili pika",
+  "scientificName": "Ochotona iliensis",
+  "wikibase_item": "Q1508891",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3687135,
+      "id": "Q3687135"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1508891",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ili_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ili pika or magic rabbit is a species of mammal in the family Ochotonidae, endemic to northwest China. After its discovery in 1983, it was studied for a decade.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ili_Pika_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mustela-haidarum",
+  "name": "Mustela haidarum",
+  "scientificName": "Mustela haidarum",
+  "wikibase_item": "Q107657638",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107657638",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haida_ermine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Haida ermine is a mustelid species endemic to a few islands off the Pacific Northwest of North America, namely Haida Gwaii in Canada and the southern Alexander Archipelago in the U.S. state of Alaska.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Haida_Ermine_%28Mustela_haidarum%29.jpg"
+}

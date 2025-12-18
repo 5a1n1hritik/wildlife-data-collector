@@ -1,0 +1,22 @@
+{
+  "id": "mogera-coreana",
+  "name": "Mogera coreana",
+  "scientificName": "Mogera coreana",
+  "wikibase_item": "Q133219322",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913882,
+      "id": "Q913882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133219322"
+  },
+  "lastUpdated": "2025-12-17"
+}

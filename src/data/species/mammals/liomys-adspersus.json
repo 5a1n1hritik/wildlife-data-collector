@@ -1,0 +1,25 @@
+{
+  "id": "liomys-adspersus",
+  "name": "Panamanian spiny pocket mouse",
+  "scientificName": "Liomys adspersus",
+  "wikibase_item": "Q94503",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 912104,
+      "id": "Q912104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94503",
+    "wikipedia": "https://en.wikipedia.org/wiki/Panamanian_spiny_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Panamanian spiny pocket mouse, also known as Peter's spiny pocket mouse, is a species of heteromyid rodent endemic to Panama. It is very closely related to Salvin's spiny pocket mouse, and has been placed in the same species group by some authors. It was formerly placed in the genus Liomys, which is now recognized to be paraphyletic and has been subsumed into Heteromys.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Heteromys_adspersus_distribution_map.png"
+}

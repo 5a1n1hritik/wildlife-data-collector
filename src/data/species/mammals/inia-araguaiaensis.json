@@ -1,0 +1,25 @@
+{
+  "id": "inia-araguaiaensis",
+  "name": "Inia araguaiaensis",
+  "scientificName": "Inia araguaiaensis",
+  "wikibase_item": "Q15640675",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2896224,
+      "id": "Q2896224"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15640675",
+    "wikipedia": "https://en.wikipedia.org/wiki/Araguaian_river_dolphin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Araguaian river dolphin or Araguaian boto is a South American river dolphin population native to the Araguaia–Tocantins basin of Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Inia_range_map_PLoS_ONE.jpg"
+}

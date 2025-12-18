@@ -1,0 +1,25 @@
+{
+  "id": "microtus-yuldaschi",
+  "name": "Microtus yuldaschi",
+  "scientificName": "Microtus yuldaschi",
+  "wikibase_item": "Q125424112",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125424112",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juniper_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The juniper vole is a species of rodent in the family Cricetidae.\nIt is found in Afghanistan, China, Pakistan and Tajikistan. It was formerly classified in the genus Neodon, but genetic evidence indicates that it is classified within the subgenus Blanfordimys in Microtus.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-macrotis",
+  "name": "Pteropus macrotis",
+  "scientificName": "Pteropus macrotis",
+  "wikibase_item": "Q1768580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768580",
+    "wikipedia": "https://en.wikipedia.org/wiki/Big-eared_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The big-eared flying fox is a species of bat in the family Pteropodidae, larger bats who subsist largely on fruits. The species is distributed across a range in Indonesia, Papua New Guinea and islands nearing the Cape York Peninsula at the northeast of Australia, at elevations less than 500 metres and often in coastal mangroves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pteropus_macrotis.jpg"
+}

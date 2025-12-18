@@ -1,0 +1,25 @@
+{
+  "id": "phyllonycteris-aphylla",
+  "name": "Jamaican flower bat",
+  "scientificName": "Phyllonycteris aphylla",
+  "wikibase_item": "Q1831141",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20879092,
+      "id": "Q20879092"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831141",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamaican_flower_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Jamaican flower bat is a critically endangered species of bat in the family Phyllostomidae. It is endemic to Jamaica.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Phyllonycteris_aphylla_2.jpg"
+}

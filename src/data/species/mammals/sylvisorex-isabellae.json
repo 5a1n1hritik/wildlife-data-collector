@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-isabellae",
+  "name": "Bioko forest shrew",
+  "scientificName": "Sylvisorex isabellae",
+  "wikibase_item": "Q1766006",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766006",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bioko_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bioko forest shrew or Isabella's shrew is a species of mammal in the family Soricidae found in Cameroon and Equatorial Guinea. Its natural habitats are subtropical or tropical moist montane forest and subtropical or tropical high-elevation grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bioko_Forest_Shrew_area.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "oryzomys-flavescens",
+  "name": "Oryzomys flavescens",
+  "scientificName": "Oryzomys flavescens",
+  "wikibase_item": "Q18479868",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 371566,
+      "id": "Q371566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18479868"
+  },
+  "lastUpdated": "2025-12-17"
+}

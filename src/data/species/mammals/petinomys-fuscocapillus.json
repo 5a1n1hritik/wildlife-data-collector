@@ -1,0 +1,25 @@
+{
+  "id": "petinomys-fuscocapillus",
+  "name": "Travancore Flying Squirrel",
+  "scientificName": "Petinomys fuscocapillus",
+  "wikibase_item": "Q1766700",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244166,
+      "id": "Q244166"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766700",
+    "wikipedia": "https://en.wikipedia.org/wiki/Travancore_flying_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Travancore flying squirrel is a flying squirrel found in Sri Lanka and the Western Ghats of South India. Travancore flying squirrels were thought to be extinct but were rediscovered in 1989 after a gap of 100 years in Kerala. It was subsequently confirmed to also be present in Sri Lanka after 78 years. The animals were reported only in wet and intermediate zones of the island, and had a few sightings in the Sinharaja Forest Reserve.",
+  "image": null
+}

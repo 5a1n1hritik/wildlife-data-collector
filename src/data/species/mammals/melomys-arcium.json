@@ -1,0 +1,25 @@
+{
+  "id": "melomys-arcium",
+  "name": "Melomys arcium",
+  "scientificName": "Melomys arcium",
+  "wikibase_item": "Q2085576",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2085576",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rossel_Island_melomys"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Rossel Island melomys is a species of rodent from the family Muridae. It is endemic to Rossel Island in Papua New Guinea, but Flannery (1955) presumed that \"it did exist previously on other islands of the group, but has become extinct on all except Rossel.\" For many years it was seen as a subspecies of the white-bellied mosaic-tailed rat, but is now considered a distinct species. It is listed as data deficient by the IUCN Red List in light of little information on \"population status, ecological requirements, and threats\". The Rossel Island melomys has not been officially recorded since 1956, but its habitat is still in good condition. The IUCN lists determining population status of the melomys as a \"high priority\".",
+  "image": null
+}

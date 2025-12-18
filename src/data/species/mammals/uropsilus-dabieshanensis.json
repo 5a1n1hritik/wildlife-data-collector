@@ -1,0 +1,25 @@
+{
+  "id": "uropsilus-dabieshanensis",
+  "name": "Uropsilus dabieshanensis",
+  "scientificName": "Uropsilus dabieshanensis",
+  "wikibase_item": "Q107500639",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 867212,
+      "id": "Q867212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107500639",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dabie_Mountains_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Dabie Mountains shrew mole is a species of mammal in the family Talpidae and genus Uropsilus. It is endemic to Anhui Province in China, where, as its name suggests, it is only known from the Dabie Mountains.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-ater",
+  "name": "Hipposideros ater",
+  "scientificName": "Hipposideros ater",
+  "wikibase_item": "Q288108",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q288108",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_leaf-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky leaf-nosed bat is a bat from the genus Hipposideros whose habitat extends from India and Sri Lanka to the Philippines, New Guinea and Northern Australia. This species is counted in the H. bicolor species group and was formerly classified within that species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hipposideros_ater_by_Nameer.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pogonomelomys-mayeri",
+  "name": "Shaw Mayer's Brush Mouse",
+  "scientificName": "Pogonomelomys mayeri",
+  "wikibase_item": "Q1762581",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135740,
+      "id": "Q135740"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaw_Mayer's_brush_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Shaw Mayer's brush mouse is a species of rodent in the family Muridae.\nIt is found in West Papua, Indonesia and Papua New Guinea.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "balantiopteryx-plicata",
+  "name": "Balantiopteryx plicata",
+  "scientificName": "Balantiopteryx plicata",
+  "wikibase_item": "Q135384",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 133688,
+      "id": "Q133688"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135384",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_sac-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray sac-winged bat is a species in the family Emballonuridae which comprises the 51 species of sac-winged bats. It is found in Mexico from Baja California Sur and Sonora to Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica and northern Colombia, at elevations up to 1,500 metres (4,900 ft).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gray_Sac-winged_Bat_%28Balantiopteryx_plicata%29_%2824776812271%29.jpg"
+}

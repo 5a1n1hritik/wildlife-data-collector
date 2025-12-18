@@ -1,0 +1,22 @@
+{
+  "id": "nyctereutes-albus",
+  "name": "Nyctereutes albus",
+  "scientificName": "Nyctereutes albus",
+  "wikibase_item": "Q122839943",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2900104,
+      "id": "Q2900104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122839943"
+  },
+  "lastUpdated": "2025-12-17"
+}

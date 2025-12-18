@@ -1,0 +1,25 @@
+{
+  "id": "tamandua-mexicana",
+  "name": "Northern tamandua",
+  "scientificName": "Tamandua mexicana",
+  "wikibase_item": "Q839675",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 428197,
+      "id": "Q428197"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q839675",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_tamandua"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern tamandua is a species of tamandua, an anteater in the family Myrmecophagidae. They live in tropical and subtropical forests from southern Mexico, through Central America, and to the edge of the northern Andes.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/DirkvdM_tamandua.jpg"
+}

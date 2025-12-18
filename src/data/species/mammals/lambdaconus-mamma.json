@@ -1,0 +1,22 @@
+{
+  "id": "lambdaconus-mamma",
+  "name": "Lambdaconus mamma",
+  "scientificName": "Lambdaconus mamma",
+  "wikibase_item": "Q111839007",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111838995,
+      "id": "Q111838995"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111839007"
+  },
+  "lastUpdated": "2025-12-17"
+}

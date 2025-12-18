@@ -1,0 +1,25 @@
+{
+  "id": "rousettus-bidens",
+  "name": "Rousettus bidens",
+  "scientificName": "Rousettus bidens",
+  "wikibase_item": "Q1189569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20877829,
+      "id": "Q20877829"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1189569",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manado_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Manado fruit bat is a species of megabat in the family Pteropodidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Manado_Fruit_Bat_area.png"
+}

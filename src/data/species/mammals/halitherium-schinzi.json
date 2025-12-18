@@ -1,0 +1,25 @@
+{
+  "id": "halitherium-schinzi",
+  "name": "Halitherium schinzi",
+  "scientificName": "Halitherium schinzi",
+  "wikibase_item": "Q41165080",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2313205,
+      "id": "Q2313205"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165080",
+    "wikipedia": "https://en.wikipedia.org/wiki/Halitherium"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Halitherium is a dubious genus of extinct dugongid sea cow that arose in the late Eocene, then became extinct during the early Oligocene. Its fossils are common in European shales. Inside its flippers were finger bones that did not stick out. Halitherium also had the remnants of back legs, which did not show externally. However, it did have a basic femur, joined to a reduced pelvis. Halitherium also had elongated ribs, presumably to increase lung capacity to provide fine control of buoyancy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Halitherium.jpg"
+}

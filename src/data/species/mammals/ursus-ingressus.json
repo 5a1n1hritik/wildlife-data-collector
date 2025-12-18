@@ -1,0 +1,25 @@
+{
+  "id": "ursus-ingressus",
+  "name": "Ursus ingressus",
+  "scientificName": "Ursus ingressus",
+  "wikibase_item": "Q30693320",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30693320",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursus_ingressus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ursus ingressus is an extinct species of the cave bear species complex that lived in Central Europe during the Late Pleistocene. It is named after the Gamssulzen Cave in Austria, where the holotype of this species was found.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Poto%C4%8Dka_zijavka_o4.jpg"
+}

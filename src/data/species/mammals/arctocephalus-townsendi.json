@@ -1,0 +1,25 @@
+{
+  "id": "arctocephalus-townsendi",
+  "name": "Guadalupe fur seal",
+  "scientificName": "Arctocephalus townsendi",
+  "wikibase_item": "Q221088",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 776652,
+      "id": "Q776652"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q221088",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guadalupe_fur_seal"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guadalupe fur seal is one of eight members of the fur seal genus Arctocephalus. They are the northernmost member of this genus. Sealers reduced the population to just a few dozen by the late 19th century, but the species had recovered to 10,000 in number by the late 1990s. Many individuals can be found on Mexico's Guadalupe Island.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Arctocephalus_townsendi.jpg"
+}

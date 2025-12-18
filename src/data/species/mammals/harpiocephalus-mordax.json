@@ -1,0 +1,25 @@
+{
+  "id": "harpiocephalus-mordax",
+  "name": "Greater hairy-winged bat",
+  "scientificName": "Harpiocephalus mordax",
+  "wikibase_item": "Q303255",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 845856,
+      "id": "Q845856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303255",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_hairy-winged_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser hairy-winged bat is a species of vesper bat in the family Vespertilionidae. It can be found in India, Indonesia, the Philippines, and Taiwan. They are known to eat various species of beetles. It is the only species in the genus Harpiocephalus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Harpiocephalus_harpia.jpg"
+}

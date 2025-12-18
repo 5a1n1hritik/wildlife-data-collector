@@ -1,0 +1,25 @@
+{
+  "id": "lutra-canadensis",
+  "name": "Lutra canadensis",
+  "scientificName": "Lutra canadensis",
+  "wikibase_item": "Q61885243",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 446882,
+      "id": "Q446882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61885243",
+    "wikipedia": "https://en.wikipedia.org/wiki/North_American_river_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The North American river otter, also known as the northern river otter and river otter, is a semiaquatic mammal that is endemic to the North American continent throughout most of Canada, along the coasts of the United States and its inland waterways. An adult North American river otter can weigh between 5 and 14 kilograms (11–31 lb). The river otter is protected and insulated by a thick, water-repellent coat of fur.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Northern_River_Otter_on_Seedskadee_NWR_%2822802102984%29.jpg"
+}

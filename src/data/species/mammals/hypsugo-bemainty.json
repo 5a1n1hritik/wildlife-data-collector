@@ -1,0 +1,25 @@
+{
+  "id": "hypsugo-bemainty",
+  "name": "Hypsugo bemainty",
+  "scientificName": "Hypsugo bemainty",
+  "wikibase_item": "Q19819457",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 140365,
+      "id": "Q140365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19819457",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirindy_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Kirindy serotine is a species of vesper bat in the family Vespertilionidae. It occurs in the central and south-central portions of western Madagascar. As of the most recent IUCN assessment in May 2016, it is of least concern.",
+  "image": null
+}

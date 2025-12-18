@@ -1,0 +1,25 @@
+{
+  "id": "leopardus-narinensis",
+  "name": "Leopardus narinensis",
+  "scientificName": "Leopardus narinensis",
+  "wikibase_item": "Q120514490",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120514490",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopardus_narinensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Leopardus narinensis, also called the red tigrina, Nariño cat, and Galeras cat by the scientists who discovered it, is a putative species of small wild cat in the genus Leopardus. It was described in 2023, based on a single skin collected in 1989.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Leopardus_narinensis_and_tigrina.jpg"
+}

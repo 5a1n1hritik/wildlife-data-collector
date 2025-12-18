@@ -1,0 +1,25 @@
+{
+  "id": "anoura-luismanueli",
+  "name": "Luis Manuel's Tailless Bat",
+  "scientificName": "Anoura luismanueli",
+  "wikibase_item": "Q306471",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 83528,
+      "id": "Q83528"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306471",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Manuel's_tailless_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Luis Manuel's tailless bat is a species of bat in the family Phyllostomidae. It is endemic to Venezuela and the eastern slope of the Cordillera Oriental of Colombia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Anoura_luismanueli_map.svg/500px-Anoura_luismanueli_map.svg.png"
+}

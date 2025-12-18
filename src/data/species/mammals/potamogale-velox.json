@@ -1,0 +1,25 @@
+{
+  "id": "potamogale-velox",
+  "name": "Giant otter shrew",
+  "scientificName": "Potamogale velox",
+  "wikibase_item": "Q474780",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18175529,
+      "id": "Q18175529"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q474780",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_otter_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant otter shrew is a semiaquatic, carnivorous afrotherian mammal. It is found in the main rainforest block of central Africa from Nigeria to Zambia, with a few isolated populations in Kenya and Uganda. It lives in streams, wetlands and slow flowing larger rivers. It is the only species in the genus Potamogale. Otter shrews are most closely related to the tenrecs of Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Potamogale_velox_340101862.jpg"
+}

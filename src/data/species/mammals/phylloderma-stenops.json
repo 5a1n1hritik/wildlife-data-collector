@@ -1,0 +1,25 @@
+{
+  "id": "phylloderma-stenops",
+  "name": "Pale-faced Bat",
+  "scientificName": "Phylloderma stenops",
+  "wikibase_item": "Q247346",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10805587,
+      "id": "Q10805587"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247346",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pale-faced_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pale-faced bat is a bat species from South and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Phylloderma_stenops_map.svg/960px-Phylloderma_stenops_map.svg.png"
+}

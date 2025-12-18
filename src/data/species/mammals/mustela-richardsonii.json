@@ -1,0 +1,25 @@
+{
+  "id": "mustela-richardsonii",
+  "name": "American ermine",
+  "scientificName": "Mustela richardsonii",
+  "wikibase_item": "Q41085321",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28521,
+      "id": "Q28521"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085321",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_ermine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American ermine or American stoat is a species of mustelid native to most of North America. The specific epithet refers to Arctic explorer and naturalist John Richardson.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ermine-_Bacon_Fiend_%2814083889879%29.jpg"
+}

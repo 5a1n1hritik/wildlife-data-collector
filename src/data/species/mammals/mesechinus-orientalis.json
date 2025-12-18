@@ -1,0 +1,25 @@
+{
+  "id": "mesechinus-orientalis",
+  "name": "Mesechinus orientalis",
+  "scientificName": "Mesechinus orientalis",
+  "wikibase_item": "Q123695767",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1545952,
+      "id": "Q1545952"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123695767",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_forest_hedgehog"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern forest hedgehog is a newly described species of hedgehog endemic to eastern China.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mesechinus_orientalis.jpg"
+}

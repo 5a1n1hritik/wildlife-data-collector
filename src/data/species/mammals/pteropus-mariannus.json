@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-mariannus",
+  "name": "Pteropus mariannus",
+  "scientificName": "Pteropus mariannus",
+  "wikibase_item": "Q1765832",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765832",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariana_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mariana fruit bat, also known as the Mariana flying fox, and the fanihi in Chamorro, is a megabat found only in the Mariana Islands and Ulithi. Habitat loss has driven it to endangered status, and it is listed as threatened by the US Fish and Wildlife Service. Poaching, habitat loss, and the introduction of invasive species have contributed to the species' decline.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mariana_Fruit_Bat.jpg"
+}

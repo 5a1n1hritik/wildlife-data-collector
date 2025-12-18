@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-cognatus",
+  "name": "Pteropus cognatus",
+  "scientificName": "Pteropus cognatus",
+  "wikibase_item": "Q1764273",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764273",
+    "wikipedia": "https://en.wikipedia.org/wiki/Makira_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Makira flying fox is a species of megabat in the genus Pteropus, found in the Solomon Islands. The species is currently decreasing and is endangered due to threats from logging and hunting. In 2013, Bat Conservation International listed this species as one of the 35 species of its worldwide priority list of conservation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Makira_Flying_Fox_area.png"
+}

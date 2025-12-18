@@ -1,0 +1,25 @@
+{
+  "id": "taterillus-tranieri",
+  "name": "Tranieri's tateril",
+  "scientificName": "Taterillus tranieri",
+  "wikibase_item": "Q1766176",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 111842,
+      "id": "Q111842"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766176",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tranier's_tateril"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Tranier's tateril is a species of rodent found in Mali and Mauritania. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, and arable land.",
+  "image": null
+}

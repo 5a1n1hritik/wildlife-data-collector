@@ -1,0 +1,25 @@
+{
+  "id": "tachyglossus-aculeatus",
+  "name": "short-beaked echidna",
+  "scientificName": "Tachyglossus aculeatus",
+  "wikibase_item": "Q193182",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12902259,
+      "id": "Q12902259"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q193182",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-beaked_echidna"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-beaked echidna, also known as the common echidna, or short-nosed echidna, is one of four living species of echidna, and the only member of the genus Tachyglossus, from Ancient Greek ταχύς, meaning \"fast\", and γλῶσσα, meaning \"tongue\". It is covered in fur and spines and has a distinctive snout and a specialised tongue, which it uses to catch its insect prey at a great speed. Like the other extant monotremes, the short-beaked echidna lays eggs; the monotremes are the only living group of mammals to do so.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Wild_shortbeak_echidna.jpg"
+}

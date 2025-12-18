@@ -1,0 +1,25 @@
+{
+  "id": "paradoxurus-hermaphroditus",
+  "name": "Asian palm civet",
+  "scientificName": "Paradoxurus hermaphroditus",
+  "wikibase_item": "Q18764",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 887918,
+      "id": "Q887918"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18764",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_palm_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian palm civet, also called common palm civet, toddy cat and musang is a viverrid native to South and Southeast Asia. Since 2008, it is IUCN Red Listed as least concern as it accommodates to a broad range of habitats. It is widely distributed with large populations that in 2008 were thought unlikely to be declining. It is threatened by poaching for the illegal wildlife trade.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Common_Palm_Civet_%28Paradoxurus_hermaphroditus%29_%287781509830%29.jpg"
+}

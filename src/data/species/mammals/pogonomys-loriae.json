@@ -1,0 +1,25 @@
+{
+  "id": "pogonomys-loriae",
+  "name": "Large tree-mouse",
+  "scientificName": "Pogonomys loriae",
+  "wikibase_item": "Q1769861",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 516305,
+      "id": "Q516305"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769861",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_tree_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large tree mouse is a species of rodent in the family Muridae.\nIt is found on the island of New Guinea.",
+  "image": null
+}

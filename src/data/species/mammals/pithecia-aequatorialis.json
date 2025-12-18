@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-aequatorialis",
+  "name": "Pithecia aequatorialis",
+  "scientificName": "Pithecia aequatorialis",
+  "wikibase_item": "Q255609",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q255609",
+    "wikipedia": "https://en.wikipedia.org/wiki/Equatorial_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The equatorial saki, also called the red-bearded saki, is a species of saki monkey, a type of New World monkey. It is found in northeastern Peru and Ecuador.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Pithecia_aequatorialis_1775.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "amblonyx-cinereus",
+  "name": "Amblonyx cinereus",
+  "scientificName": "Amblonyx cinereus",
+  "wikibase_item": "Q107333229",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 107272854,
+      "id": "Q107272854"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107333229",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_small-clawed_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian small-clawed otter, also called oriental small-clawed otter and small-clawed otter, is an otter species native to South and Southeast Asia. It has short claws that do not extend beyond the pads of its webbed digits. With a total body length of 730 to 960 mm, and a maximum weight of 3.5 kg (7.7 lb), it is the smallest otter species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Otter_-_melbourne_zoo.jpg"
+}

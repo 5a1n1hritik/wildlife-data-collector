@@ -1,0 +1,25 @@
+{
+  "id": "sorex-raddei",
+  "name": "Radde's Shrew",
+  "scientificName": "Sorex raddei",
+  "wikibase_item": "Q1766102",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766102",
+    "wikipedia": "https://en.wikipedia.org/wiki/Radde's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Radde's shrew is a species of mammal in the family Soricidae. It is found in Armenia, Azerbaijan, Georgia, Russia, and Turkey.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Radde%27s_Shrew_area.png"
+}

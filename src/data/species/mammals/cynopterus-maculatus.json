@@ -1,0 +1,22 @@
+{
+  "id": "cynopterus-maculatus",
+  "name": "Cynopterus maculatus",
+  "scientificName": "Cynopterus maculatus",
+  "wikibase_item": "Q40423702",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 311701,
+      "id": "Q311701"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40423702"
+  },
+  "lastUpdated": "2025-12-17"
+}

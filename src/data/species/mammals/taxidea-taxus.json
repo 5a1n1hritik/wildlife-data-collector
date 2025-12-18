@@ -1,0 +1,25 @@
+{
+  "id": "taxidea-taxus",
+  "name": "American badger",
+  "scientificName": "Taxidea taxus",
+  "wikibase_item": "Q232129",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950979,
+      "id": "Q11950979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q232129",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_badger"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American badger is a North American badger similar in appearance to the European badger, although not closely related. It is found in the western, central, and northeastern United States, northern Mexico, and south-central Canada to certain areas of southwestern British Columbia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Taxidea_taxus_%28Point_Reyes%2C_2007%29.jpg"
+}

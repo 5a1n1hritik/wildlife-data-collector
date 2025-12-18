@@ -1,0 +1,25 @@
+{
+  "id": "zalophus-wollebaeki",
+  "name": "Galápagos sea lion",
+  "scientificName": "Zalophus wollebaeki",
+  "wikibase_item": "Q998769",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 135911,
+      "id": "Q135911"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q998769",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_sea_lion"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Galápagos sea lion is a species of sea lion that lives and breeds on the Galápagos Islands and, in smaller numbers, on Isla de la Plata (Ecuador). They are the smallest sea lion species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Galapagos%2C_sea-lion%2C_female_%28by_Casey_Klebba%29.jpg"
+}

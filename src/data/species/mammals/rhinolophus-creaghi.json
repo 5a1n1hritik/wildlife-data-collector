@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-creaghi",
+  "name": "Creagh's horseshoe bat",
+  "scientificName": "Rhinolophus creaghi",
+  "wikibase_item": "Q1767759",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767759",
+    "wikipedia": "https://en.wikipedia.org/wiki/Creagh's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Creagh's horseshoe bat is a species of bat in the family Rhinolophidae. It is found in Indonesia and Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Naturalis_Biodiversity_Center_-_RMNH.MAM.33449_lat_-_Rhinolophus_creaghi_-_skull.jpeg"
+}

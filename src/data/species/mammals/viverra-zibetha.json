@@ -1,0 +1,25 @@
+{
+  "id": "viverra-zibetha",
+  "name": "Large Indian civet",
+  "scientificName": "Viverra zibetha",
+  "wikibase_item": "Q757265",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762710,
+      "id": "Q1762710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q757265",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_Indian_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large Indian civet is a viverrid native to South and Southeast Asia. It is listed as least concern on the IUCN Red List. The global population is thought to be decreasing due to hunting and trapping driven by the demand for bushmeat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Large_Indian_Civet%2C_Viverra_zibetha_in_Kaeng_Krachan_national_park.jpg"
+}

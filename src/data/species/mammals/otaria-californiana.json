@@ -1,0 +1,25 @@
+{
+  "id": "otaria-californiana",
+  "name": "Otaria californiana",
+  "scientificName": "Otaria californiana",
+  "wikibase_item": "Q109647399",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817140,
+      "id": "Q19817140"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647399",
+    "wikipedia": "https://en.wikipedia.org/wiki/California_sea_lion"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The California sea lion is a coastal eared seal native to western North America. It is one of six species of sea lions. Its natural habitat ranges from southeast Alaska to central Mexico, including the Gulf of California. California sea lions are sexually dimorphic; males are larger than females, and have a thicker neck, and a protruding sagittal crest. They mainly haul out on sandy or rocky beaches, but they also frequent manmade environments such as marinas and wharves. California sea lions feed on a number of species of fish and squid, and are preyed on by orcas and great white sharks.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/California_Sea_Lion%2C_Monterey%2C_California%2C_United_States_imported_from_iNaturalist_photo_203598492.jpg"
+}

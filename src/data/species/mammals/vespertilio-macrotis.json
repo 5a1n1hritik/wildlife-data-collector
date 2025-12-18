@@ -1,0 +1,22 @@
+{
+  "id": "vespertilio-macrotis",
+  "name": "Vespertilio macrotis",
+  "scientificName": "Vespertilio macrotis",
+  "wikibase_item": "Q109647646",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762568,
+      "id": "Q1762568"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647646"
+  },
+  "lastUpdated": "2025-12-17"
+}

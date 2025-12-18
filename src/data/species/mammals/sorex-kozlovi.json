@@ -1,0 +1,25 @@
+{
+  "id": "sorex-kozlovi",
+  "name": "Kozlov's shrew",
+  "scientificName": "Sorex kozlovi",
+  "wikibase_item": "Q1767159",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767159",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kozlov's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Kozlov's shrew is a red-toothed shrew found only at the Mekong River, Tibet, China. It is listed as a data deficient species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kozlov%27s_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "micoureus-alstoni",
+  "name": "Micoureus alstoni",
+  "scientificName": "Micoureus alstoni",
+  "wikibase_item": "Q194898",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2592705,
+      "id": "Q2592705"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194898",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alston's_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Alston's mouse opossum, also known as Alston's opossum, is a medium-sized pouchless marsupial of the family Didelphidae. It is arboreal and nocturnal, inhabiting forests from Belize to northern Colombia. The main components of its diet are insects and fruits, but it may also eat small rodents, lizards, and bird eggs. It was formerly assigned to the genus Micoureus, which was made a subgenus of Marmosa in 2009.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alston%27s_opossum_marmosa_alstoni.jpg"
+}

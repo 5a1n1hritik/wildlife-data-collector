@@ -1,0 +1,22 @@
+{
+  "id": "felis-viverrinus",
+  "name": "Felis viverrinus",
+  "scientificName": "Felis viverrinus",
+  "wikibase_item": "Q106448127",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106448127"
+  },
+  "lastUpdated": "2025-12-17"
+}

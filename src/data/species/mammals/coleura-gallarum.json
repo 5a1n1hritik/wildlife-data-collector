@@ -1,0 +1,22 @@
+{
+  "id": "coleura-gallarum",
+  "name": "Coleura gallarum",
+  "scientificName": "Coleura gallarum",
+  "wikibase_item": "Q125852758",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2440514,
+      "id": "Q2440514"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125852758"
+  },
+  "lastUpdated": "2025-12-17"
+}

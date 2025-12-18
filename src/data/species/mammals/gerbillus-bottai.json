@@ -1,0 +1,25 @@
+{
+  "id": "gerbillus-bottai",
+  "name": "Gerbillus bottai",
+  "scientificName": "Gerbillus bottai",
+  "wikibase_item": "Q28133276",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 517079,
+      "id": "Q517079"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28133276",
+    "wikipedia": "https://en.wikipedia.org/wiki/Botta's_gerbil"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Botta's gerbil is a species of gerbil endemic to Sudan and possibly northern Kenya. According to the International Union for Conservation of Nature, it was listed as Least Concern in 1996 until it was listed as Data Deficient in 2004. According to a 2013 book, it is known from a few specimens taken from four or five localities in a small area between the rivers White Nile and Blue Nile; its habitat is fields of vegetables and cereals. Aside from this information, nothing else is known about the species including its population and threats.",
+  "image": null
+}

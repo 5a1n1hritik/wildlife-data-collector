@@ -1,0 +1,25 @@
+{
+  "id": "dermanura-tolteca",
+  "name": "Dermanura tolteca",
+  "scientificName": "Dermanura tolteca",
+  "wikibase_item": "Q28154679",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5262681,
+      "id": "Q5262681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28154679",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toltec_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Toltec fruit-eating bat is a species of bat in the family Phyllostomidae. It is also sometimes called the \"lowland fruit eating bat.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dermanura_tolteca.jpg"
+}

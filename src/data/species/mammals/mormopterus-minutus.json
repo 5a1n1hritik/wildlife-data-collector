@@ -1,0 +1,25 @@
+{
+  "id": "mormopterus-minutus",
+  "name": "Little Goblin Bat",
+  "scientificName": "Mormopterus minutus",
+  "wikibase_item": "Q1834052",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2579356,
+      "id": "Q2579356"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834052",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_goblin_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little goblin bat is a species of bat in the family Molossidae, the free-tailed bats. It is endemic to Cuba.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mormopterus_minutus_Miller_1899_2.png"
+}

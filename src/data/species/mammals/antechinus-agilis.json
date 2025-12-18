@@ -1,0 +1,25 @@
+{
+  "id": "antechinus-agilis",
+  "name": "Agile antechinus",
+  "scientificName": "Antechinus agilis",
+  "wikibase_item": "Q134343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650656,
+      "id": "Q650656"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agile_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The agile antechinus is a species of small carnivorous marsupial of the family Dasyuridae. It is found in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agile_Antechinus_%28Antechinus_agilis%29_on_hand.jpg"
+}

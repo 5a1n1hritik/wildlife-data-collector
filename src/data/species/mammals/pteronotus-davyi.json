@@ -1,0 +1,25 @@
+{
+  "id": "pteronotus-davyi",
+  "name": "Davy's naked-backed bat",
+  "scientificName": "Pteronotus davyi",
+  "wikibase_item": "Q1834816",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11943213,
+      "id": "Q11943213"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834816",
+    "wikipedia": "https://en.wikipedia.org/wiki/Davy's_naked-backed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Davy's (lesser) naked-backed bat is a small, insect-eating, cave-dwelling bat of the Family Mormoopidae. It is found throughout South and Central America, including Trinidad, but not Tobago, Guyana, Suriname, or French Guiana. Specimens of this bat had been found infected with rabies in Trinidad during the height of that island's vampire-bat-transmitted rabies epidemic of the early half of the 20th century, but not in recent times.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pteronotus_davyi.jpg"
+}

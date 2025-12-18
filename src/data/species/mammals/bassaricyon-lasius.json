@@ -1,0 +1,25 @@
+{
+  "id": "bassaricyon-lasius",
+  "name": "Harris's olingo",
+  "scientificName": "Bassaricyon lasius",
+  "wikibase_item": "Q150602",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425180,
+      "id": "Q1425180"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q150602",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_olingo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern olingo, also known as the bushy-tailed olingo or, simply, the olingo, is an arboreal (tree-dwelling) member of the raccoon family, Procyonidae, which also includes the coatimundis and kinkajou. Native to Central America, it was the first species of olingo to be scientifically described; while it is considered by some authors to be the only \"true\" olingo species, a review of the genus Bassaricyon had shown there to be a total of four species, two of those now being considered synonymous with the northern olingo. Its specific name honors William More Gabb (1839-1878), who found and collected the first specimen for western science.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bushy_tailed_olingo.jpg"
+}

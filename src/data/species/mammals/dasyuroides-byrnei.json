@@ -1,0 +1,25 @@
+{
+  "id": "dasyuroides-byrnei",
+  "name": "Kowari",
+  "scientificName": "Dasyuroides",
+  "wikibase_item": "Q754050",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10754130,
+      "id": "Q10754130"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q754050",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kowari"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The kowari, also known by its Diyari name kariri, is a small carnivorous marsupial native to the gibber deserts of central Australia. It is the sole member of the genus Dasyuroides.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dasycercus_byrnei.JPG"
+}

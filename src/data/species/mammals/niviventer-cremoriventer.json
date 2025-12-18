@@ -1,0 +1,25 @@
+{
+  "id": "niviventer-cremoriventer",
+  "name": "Dark-tailed tree rat",
+  "scientificName": "Niviventer cremoriventer",
+  "wikibase_item": "Q1766297",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 642929,
+      "id": "Q642929"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766297",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark-tailed_tree_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dark-tailed tree rat or Sundaic arboreal niviventer is a species of rodent in the family Muridae. It is found on the Malay Peninsula, including some offshore islands, and in parts of the Malay Archipelago. It might be a species complex.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Tikus.jpg"
+}

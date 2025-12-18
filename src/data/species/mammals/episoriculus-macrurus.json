@@ -1,0 +1,25 @@
+{
+  "id": "episoriculus-macrurus",
+  "name": "Long-tailed mountain shrew",
+  "scientificName": "Episoriculus macrurus",
+  "wikibase_item": "Q1763901",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894104,
+      "id": "Q2894104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763901",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-tailed_mountain_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-tailed mountain shrew is a species of mammal in the family Soricidae. It is found in China, Myanmar, Nepal, and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Long-tailed_Mountain_Shrew_area.png"
+}

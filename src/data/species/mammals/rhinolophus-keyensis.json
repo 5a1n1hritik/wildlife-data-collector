@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-keyensis",
+  "name": "Insular horseshoe bat",
+  "scientificName": "Rhinolophus keyensis",
+  "wikibase_item": "Q1767755",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767755",
+    "wikipedia": "https://en.wikipedia.org/wiki/Insular_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The insular horseshoe bat is a species of bat in the family Rhinolophidae. It is endemic to Indonesia and Timor-Leste.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Rhinolophus_keyensis_247104551.jpg"
+}

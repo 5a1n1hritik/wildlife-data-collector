@@ -1,0 +1,25 @@
+{
+  "id": "dendrolagus-goodfellowi",
+  "name": "Goodfellow's tree-kangaroo",
+  "scientificName": "Dendrolagus goodfellowi",
+  "wikibase_item": "Q209581",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 325064,
+      "id": "Q325064"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goodfellow's_tree-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Goodfellow's tree-kangaroo, also called the ornate tree-kangaroo, is an endangered, long-tailed mammal native to rainforests of New Guinea. Like most tree-kangaroos, it lives in the treetops and feeds on leaves or other plant matter. It belongs to the macropod family (Macropodidae) along with kangaroos, and carries its young in a pouch like other marsupials. Its main threats are habitat loss and hunting. There are two subspecies: D. g. goodfellowi and D. g. buergersi.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tree_kangaroo2.jpg"
+}

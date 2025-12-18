@@ -1,0 +1,25 @@
+{
+  "id": "petaurus-gracilis",
+  "name": "Petaurus gracilis",
+  "scientificName": "Petaurus gracilis",
+  "wikibase_item": "Q135842",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135842",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahogany_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mahogany glider is an endangered gliding possum native to a small region of coastal Queensland in Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mahogany_glider.jpg"
+}

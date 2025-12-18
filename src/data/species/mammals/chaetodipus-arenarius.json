@@ -1,0 +1,25 @@
+{
+  "id": "chaetodipus-arenarius",
+  "name": "Little desert pocket mouse",
+  "scientificName": "Chaetodipus arenarius",
+  "wikibase_item": "Q153752",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 859919,
+      "id": "Q859919"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153752",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_desert_pocket_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little desert pocket mouse is a species of small rodent in the family Heteromyidae. It is endemic to the Baja California peninsula in Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Little_Desert_Pocket_Mouse_imported_from_iNaturalist_photo_187495659_on_18_April_2022.jpg"
+}

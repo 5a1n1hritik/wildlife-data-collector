@@ -1,0 +1,25 @@
+{
+  "id": "mesocapromys-sanfelipensis",
+  "name": "Mesocapromys sanfelipensis",
+  "scientificName": "Mesocapromys sanfelipensis",
+  "wikibase_item": "Q1041402",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244182,
+      "id": "Q244182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1041402",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Felipe_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The San Felipe hutia, also known as the little earth hutia, is small, critically endangered, rat-like mammal found on the small island of Cayo de Juan Garcia off the southwest coast of Cuba. It was discovered in 1970 and is possibly extinct. Little is known about the species, except that it lives in swamps and coastal mangrove forests. It is a member of the hutia subfamily (Capromyinae), a group of stout rodents native to the Caribbean that are mostly endangered or extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mesocapromys_sanfelipensis_drawing.jpg"
+}

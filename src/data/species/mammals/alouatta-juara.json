@@ -1,0 +1,25 @@
+{
+  "id": "alouatta-juara",
+  "name": "Juruá red howler",
+  "scientificName": "Alouatta juara",
+  "wikibase_item": "Q1353803",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 504247,
+      "id": "Q504247"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1353803",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juru%C3%A1_red_howler"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Juruá red howler is a species of howler monkey, native to Peru and Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jurua_Red_Howler_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nesolagus-netscheri",
+  "name": "Sumatran striped rabbit",
+  "scientificName": "Nesolagus netscheri",
+  "wikibase_item": "Q18785",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913660,
+      "id": "Q913660"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18785",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumatran_striped_rabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sumatran striped rabbit, also known as the Sumatra short-eared rabbit or Sumatran rabbit, is a rabbit found only in forests in the Barisan Mountains in western Sumatra, Indonesia, and surrounding areas. It is threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sumatran_striped_rabbit_illustration_BeckyKidus.jpg"
+}

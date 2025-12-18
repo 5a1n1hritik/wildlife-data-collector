@@ -1,0 +1,22 @@
+{
+  "id": "amphechinus-rusingensis",
+  "name": "Amphechinus rusingensis",
+  "scientificName": "Amphechinus rusingensis",
+  "wikibase_item": "Q41162457",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4748145,
+      "id": "Q4748145"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162457"
+  },
+  "lastUpdated": "2025-12-17"
+}

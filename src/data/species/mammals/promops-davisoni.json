@@ -1,0 +1,25 @@
+{
+  "id": "promops-davisoni",
+  "name": "Promops davisoni",
+  "scientificName": "Promops davisoni",
+  "wikibase_item": "Q81851911",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2702004,
+      "id": "Q2702004"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81851911",
+    "wikipedia": "https://en.wikipedia.org/wiki/Promops_davisoni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Promops davisoni is a species of free-tailed bat in the family Molossidae. It was first described by Oldfield Thomas in 1921. While thought of as a subspecies of the big crested mastiff bat by scientists from roughly 1966 to 2010, morphological and geographical differences between P. davisoni and P. centralis are sufficiently suggestive of another species. P. davisoni is small for its genus, with a forearm length of 47.6 to 52.0 millimetres, and is light or cinnamon brown with distinguishable white bands on its back. P. davisoni is native to the Andes mountain range in Ecuador and Peru. More recently, evidence has been found that P. davisoni resides in the Atacama Desert in Chile.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Davison%27s_Mastiff_Bat%2C_Chile_imported_from_iNaturalist_photo_112757198.jpg"
+}

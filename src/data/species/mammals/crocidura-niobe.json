@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-niobe",
+  "name": "Niobe's Shrew",
+  "scientificName": "Crocidura niobe",
+  "wikibase_item": "Q1763616",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763616",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niobe's_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Niobe's shrew is a species of mammal in the family Soricidae. It is native to the Albertine Rift montane forests.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Niobe%27s_Shrew_area.png"
+}

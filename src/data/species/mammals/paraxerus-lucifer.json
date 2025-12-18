@@ -1,0 +1,25 @@
+{
+  "id": "paraxerus-lucifer",
+  "name": "Black and red bush squirrel",
+  "scientificName": "Paraxerus lucifer",
+  "wikibase_item": "Q1770429",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385914,
+      "id": "Q385914"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770429",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_and_red_bush_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black and red bush squirrel is a species of rodent in the family Sciuridae occurring in Malawi, Tanzania, and Zambia. In Malawi, it is found in Misuku Hills and Nyika Plateau and in Tanzania Poroto Mountains and Mount Rungwe; it has not been found in Zambia where it was expected to occur in Mafinga Hills and Makutu Mountains. Its natural habitats are subtropical or tropical moist montane forest, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland. It may be threatened by habitat loss.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/FunisciurusLuciferSmit.jpg"
+}

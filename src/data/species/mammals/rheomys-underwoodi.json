@@ -1,0 +1,25 @@
+{
+  "id": "rheomys-underwoodi",
+  "name": "Underwood's water mouse",
+  "scientificName": "Rheomys underwoodi",
+  "wikibase_item": "Q1770117",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766211,
+      "id": "Q766211"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770117",
+    "wikipedia": "https://en.wikipedia.org/wiki/Underwood's_water_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Underwood's water mouse is a species of rodent in the family Cricetidae. It is found in Costa Rican and western Panamanian cloud forest at altitudes from 1500 to 2000 m. This mouse lives near streams in highland forests and is semiaquatic; its carnivorous diet includes invertebrates. Although its range is small, it includes a number of protected areas, and the population appears to be sizable; the IUCN therefore rates the conservation status of the species as \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rheomys_underwoodi.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-nicobarica",
+  "name": "Crocidura nicobarica",
+  "scientificName": "Crocidura nicobarica",
+  "wikibase_item": "Q2045011",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2045011",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicobar_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nicobar shrew or Nicobar white-tailed shrew is a critically endangered species of mammal in the family Soricidae. It is endemic to Great Nicobar Island in India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nicobar_Shrew_area.png"
+}

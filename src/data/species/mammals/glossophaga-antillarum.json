@@ -1,0 +1,22 @@
+{
+  "id": "glossophaga-antillarum",
+  "name": "Glossophaga antillarum",
+  "scientificName": "Glossophaga antillarum",
+  "wikibase_item": "Q125841470",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571718,
+      "id": "Q1571718"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125841470"
+  },
+  "lastUpdated": "2025-12-17"
+}

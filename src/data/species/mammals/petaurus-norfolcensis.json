@@ -1,0 +1,25 @@
+{
+  "id": "petaurus-norfolcensis",
+  "name": "Petaurus norfolcensis",
+  "scientificName": "Petaurus norfolcensis",
+  "wikibase_item": "Q209903",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1414895,
+      "id": "Q1414895"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209903",
+    "wikipedia": "https://en.wikipedia.org/wiki/Squirrel_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The squirrel glider is a nocturnal gliding possum and is one of the wrist-winged gliders of the genus Petaurus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Petaurus_norfolcensis_-_Gould.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "asellia-italosomalica",
+  "name": "Somalian trident bat",
+  "scientificName": "Asellia italosomalica",
+  "wikibase_item": "Q60789570",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 225066,
+      "id": "Q225066"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60789570",
+    "wikipedia": "https://en.wikipedia.org/wiki/Somalian_trident_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Somalian trident bat is a species of bat found in the Horn of Africa.",
+  "image": null
+}

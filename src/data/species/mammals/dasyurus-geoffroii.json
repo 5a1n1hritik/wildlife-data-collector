@@ -1,0 +1,25 @@
+{
+  "id": "dasyurus-geoffroii",
+  "name": "Western quoll",
+  "scientificName": "Dasyurus geoffroii",
+  "wikibase_item": "Q194252",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 379740,
+      "id": "Q379740"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194252",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_quoll"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western quoll is Western Australia's largest endemic mammalian carnivore. One of the many marsupial mammals native to Australia, it is also known as the chuditch. The species is currently classed as near-threatened.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Chuditch_at_Caversham_Wildlife_Park.png"
+}

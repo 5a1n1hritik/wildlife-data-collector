@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-martinsi",
+  "name": "Martins's tamarin",
+  "scientificName": "Saguinus martinsi",
+  "wikibase_item": "Q932541",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q932541",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martins's_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Martins's tamarin or Martin's ochraceous bare-face tamarin, is a species of tamarin endemic to Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Saguinus_martinsi_MDD_Range.png"
+}

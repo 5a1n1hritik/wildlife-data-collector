@@ -1,0 +1,25 @@
+{
+  "id": "thalpomys-lasiotis",
+  "name": "Hairy-eared cerrado mouse",
+  "scientificName": "Thalpomys lasiotis",
+  "wikibase_item": "Q1768860",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 628472,
+      "id": "Q628472"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768860",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hairy-eared_cerrado_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The hairy-eared cerrado mouse or hairy-eared akodont, is a rodent species from South America. It is found in the cerrado grassland of Brazil.",
+  "image": null
+}

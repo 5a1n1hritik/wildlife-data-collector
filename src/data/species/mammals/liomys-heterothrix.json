@@ -1,0 +1,22 @@
+{
+  "id": "liomys-heterothrix",
+  "name": "Liomys heterothrix",
+  "scientificName": "Liomys heterothrix",
+  "wikibase_item": "Q60167552",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 912104,
+      "id": "Q912104"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60167552"
+  },
+  "lastUpdated": "2025-12-17"
+}

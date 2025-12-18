@@ -1,0 +1,25 @@
+{
+  "id": "lophostoma-brasiliense",
+  "name": "Pygmy Round-eared Bat",
+  "scientificName": "Lophostoma brasiliense",
+  "wikibase_item": "Q1831111",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2894193,
+      "id": "Q2894193"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831111",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy round-eared bat is a bat species from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lophostoma_brasiliense_%28Marco_Mello%29.jpg"
+}

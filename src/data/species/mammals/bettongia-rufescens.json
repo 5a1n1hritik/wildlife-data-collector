@@ -1,0 +1,22 @@
+{
+  "id": "bettongia-rufescens",
+  "name": "Bettongia rufescens",
+  "scientificName": "Bettongia rufescens",
+  "wikibase_item": "Q109646853",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 945387,
+      "id": "Q945387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109646853"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "spermophilus-relictus",
+  "name": "relict ground squirrel",
+  "scientificName": "Spermophilus relictus",
+  "wikibase_item": "Q656721",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 199251,
+      "id": "Q199251"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q656721",
+    "wikipedia": "https://en.wikipedia.org/wiki/Relict_ground_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The relict ground squirrel is a species of rodent in the family Sciuridae. It is found in Kazakhstan, Kyrgyzstan and Uzbekistan. It is thought to be synonymous with Spermophilus ralli, whose name was formerly used for the Tian Shan ground squirrel.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spermophilus_relictus_staying.jpg/3456px-Spermophilus_relictus_staying.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pitymys-sikimensis",
+  "name": "Pitymys sikimensis",
+  "scientificName": "Pitymys sikimensis",
+  "wikibase_item": "Q15232932",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 50577682,
+      "id": "Q50577682"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15232932"
+  },
+  "lastUpdated": "2025-12-17"
+}

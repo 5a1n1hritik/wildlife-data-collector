@@ -1,0 +1,25 @@
+{
+  "id": "oreoscaptor-mizura",
+  "name": "Oreoscaptor mizura",
+  "scientificName": "Oreoscaptor mizura",
+  "wikibase_item": "Q46792709",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 46443972,
+      "id": "Q46443972"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46792709",
+    "wikipedia": "https://en.wikipedia.org/wiki/Japanese_mountain_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Japanese mountain mole is a species of Old World mole in the family Talpidae. It is endemic to Japan. It is the only member of the monotypic genus Oreoscaptor. Its natural habitats are temperate forests and temperate grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Euroscaptor_mizura_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC06747.JPG"
+}

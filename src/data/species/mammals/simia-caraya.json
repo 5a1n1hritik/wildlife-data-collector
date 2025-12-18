@@ -1,0 +1,22 @@
+{
+  "id": "simia-caraya",
+  "name": "Simia caraya",
+  "scientificName": "Simia caraya",
+  "wikibase_item": "Q125946152",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1427112,
+      "id": "Q1427112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125946152"
+  },
+  "lastUpdated": "2025-12-17"
+}

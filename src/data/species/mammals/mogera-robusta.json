@@ -1,0 +1,25 @@
+{
+  "id": "mogera-robusta",
+  "name": "Mogera robusta",
+  "scientificName": "Mogera robusta",
+  "wikibase_item": "Q2661249",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913882,
+      "id": "Q913882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2661249",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ussuri_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ussuri mole or large mole, is a species of mammal in the family Talpidae, formerly treated as a subspecies of the Japanese mole. It is found in China, North Korea, South Korea, and Russia and lives in a long burrow, seldom emerging on the surface of the ground during the day.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mogera_robusta_2.jpg"
+}

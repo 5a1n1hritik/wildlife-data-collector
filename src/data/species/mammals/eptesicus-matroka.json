@@ -1,0 +1,25 @@
+{
+  "id": "eptesicus-matroka",
+  "name": "Eptesicus matroka",
+  "scientificName": "Eptesicus matroka",
+  "wikibase_item": "Q27440772",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27440772",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malagasy_serotine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malagasy serotine, is a species of vesper bat. It is found only in Madagascar. It was formerly classified in Neoromicia before phylogenetic analysis found it to belong to Laephotis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Eptesicus_matroka_range_map.svg/2324px-Eptesicus_matroka_range_map.svg.png"
+}

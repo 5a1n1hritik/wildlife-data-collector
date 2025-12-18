@@ -1,0 +1,25 @@
+{
+  "id": "canis-lupaster",
+  "name": "African wolf",
+  "scientificName": "Canis lupaster",
+  "wikibase_item": "Q105272263",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105272263",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_wolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African wolf is a canine native to North Africa, West Africa, the Sahel, northern East Africa, and the Horn of Africa. It is listed as least concern on the IUCN Red List. In the Middle Atlas in Morocco, it was sighted in elevations as high as 1,800 m (5,900 ft). It is primarily a predator of invertebrates and mammals as large as gazelle fawns, though larger animals are sometimes taken. Its diet also includes animal carcasses, human refuse, and fruit. They are monogamous and territorial; offspring remain with the parents to assist in raising their parents' younger pups.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/African_wolf%2C_Dagana%2C_Senegal.jpg"
+}

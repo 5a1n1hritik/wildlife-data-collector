@@ -1,0 +1,22 @@
+{
+  "id": "eptesicus-pumilius",
+  "name": "Eptesicus pumilius",
+  "scientificName": "Eptesicus pumilius",
+  "wikibase_item": "Q41083084",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5834970,
+      "id": "Q5834970"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41083084"
+  },
+  "lastUpdated": "2025-12-17"
+}

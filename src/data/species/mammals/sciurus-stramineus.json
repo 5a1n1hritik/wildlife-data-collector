@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-stramineus",
+  "name": "Guayaquil squirrel",
+  "scientificName": "Sciurus stramineus",
+  "wikibase_item": "Q1769870",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769870",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guayaquil_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guayaquil squirrel is a tree squirrel endemic to Ecuador and Peru. It is a robust squirrel with a head-and-body length of 18 to 32 cm and a similar length tail. The colour is variable; in Peru, a pale morph is more common, while in Ecuador, most individuals have darker grey fur on the forequarters, dull orange hindquarters. A melanistic morph is sometimes seen. It lives largely in trees and is diurnal, feeding on seeds, flowers, and other plant material, fungi and some insects. These squirrels are also found in urban areas, living in close proximity to humans, and may be vectors for leptospirosis and Chagas disease. This squirrel faces no particular threats, has a wide range and is relatively common, and the International Union for Conservation of Nature has rated it as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sciurus_stramineus_189151313_%28crop%29.jpeg"
+}

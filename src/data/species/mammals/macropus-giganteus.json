@@ -1,0 +1,25 @@
+{
+  "id": "macropus-giganteus",
+  "name": "eastern grey kangaroo",
+  "scientificName": "Macropus giganteus",
+  "wikibase_item": "Q270098",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 180041,
+      "id": "Q180041"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q270098",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_grey_kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern grey kangaroo is a marsupial found in the eastern third of Australia, with a population of several million. Although a large M. giganteus kangaroo male can typically weigh up to 69 kg (152 lb) and have a length of well over 2 m, the scientific name is misleading as the red kangaroo of the semi-arid inland is larger, weighing up to 90 kg (200 lb).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Macropus_giganteus_-_Brunkerville.jpg"
+}

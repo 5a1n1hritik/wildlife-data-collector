@@ -1,0 +1,25 @@
+{
+  "id": "cnephaeus-nilssonii",
+  "name": "Cnephaeus nilssonii",
+  "scientificName": "Cnephaeus nilssonii",
+  "wikibase_item": "Q125880762",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125207648,
+      "id": "Q125207648"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125880762",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern bat is the most abundant species of bat in northern Eurasia occurring from France to Hokkaidō and south to Kazakhstan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eptesicus_nilssoni.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-princeps",
+  "name": "American pika",
+  "scientificName": "Ochotona princeps",
+  "wikibase_item": "Q469908",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 764475,
+      "id": "Q764475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q469908",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The American pika is a small, herbivorous mammal of the family Ochotonidae, closely related to rabbits and hares. It is native to the mountainous regions of western North America, typically inhabiting rocky slopes and talus fields at or above the tree line. Unlike most mammals of similar size, the American pika is diurnal, being active primarily during the day. It employs two distinct foraging strategies: directly consuming vegetation or gathering and storing plant materials in \"haypiles\" to sustain itself through the winter months, a behavior known as haying.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ochotona_princeps_rockies.JPG"
+}

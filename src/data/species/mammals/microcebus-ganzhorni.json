@@ -1,0 +1,25 @@
+{
+  "id": "microcebus-ganzhorni",
+  "name": "Ganzhorn's mouse lemur",
+  "scientificName": "Microcebus ganzhorni",
+  "wikibase_item": "Q23938124",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 4377,
+      "id": "Q4377"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23938124",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ganzhorn's_mouse_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Ganzhorn's mouse lemur is a species of lemur described in 2016. The discovery was made by researchers at the German Primate Center. It was discovered in Madagascar among closely related species such as Madame Berthe's mouse lemur, already described in 2013. Due to their close resemblance, it was initially impossible to identify them as distinct species. It was only after genetic analyses that the species was established. The genetic study was done in collaboration with scientists at the University of Kentucky, the Duke Lemur Center and the University of Antananarivo in Madagascar.",
+  "image": null
+}

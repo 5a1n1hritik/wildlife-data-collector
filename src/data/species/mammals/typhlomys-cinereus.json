@@ -1,0 +1,25 @@
+{
+  "id": "typhlomys-cinereus",
+  "name": "Chinese pygmy dormouse",
+  "scientificName": "Typhlomys cinereus",
+  "wikibase_item": "Q1074270",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1325936,
+      "id": "Q1325936"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1074270",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinese_pygmy_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chinese pygmy dormouse is a species of rodent of the family Platacanthomyidae found in China and Vietnam.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Typhlomys_cinereus_ZooKeys-164-041-g004.jpg"
+}

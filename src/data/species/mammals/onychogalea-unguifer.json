@@ -1,0 +1,22 @@
+{
+  "id": "onychogalea-unguifer",
+  "name": "Onychogalea unguifer",
+  "scientificName": "Onychogalea unguifer",
+  "wikibase_item": "Q41085754",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 429799,
+      "id": "Q429799"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085754"
+  },
+  "lastUpdated": "2025-12-17"
+}

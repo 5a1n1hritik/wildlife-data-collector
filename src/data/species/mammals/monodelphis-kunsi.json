@@ -1,0 +1,25 @@
+{
+  "id": "monodelphis-kunsi",
+  "name": "Pygmy short-tailed opossum",
+  "scientificName": "Monodelphis kunsi",
+  "wikibase_item": "Q194473",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1425981,
+      "id": "Q1425981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194473",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_short-tailed_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy short-tailed opossum, is an opossum species from South America. M. kunsi is a marsupial from the family Didelphidae of the order Didelphimorphia. Although it is a marsupial, it lacks the characteristic pouch that is often associated with this order. It is found in Argentina, Bolivia, Brazil and Paraguay. M. kunsi is considered a smaller species within the family Didelphidae, which is why it is named a pygmy opossum. The young are referred to as 'joeys'. The females are referred to as 'Jill,' and the males 'jack'. It was thought to have been endangered in 2001, but has since been moved to least concern by the International Union for Conservation of Nature.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pygmy_Short-tailed_Opossum_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-escalerai",
+  "name": "Myotis escalerai",
+  "scientificName": "Myotis escalerai",
+  "wikibase_item": "Q773518",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q773518",
+    "wikipedia": "https://en.wikipedia.org/wiki/Escalera's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Escalera's bat is a European bat in the genus Myotis, found in Spain, Portugal, and far southern France.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/38/Myotis_escalerai_Cabrera.png"
+}

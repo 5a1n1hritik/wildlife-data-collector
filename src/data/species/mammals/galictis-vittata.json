@@ -1,0 +1,25 @@
+{
+  "id": "galictis-vittata",
+  "name": "Greater grison",
+  "scientificName": "Galictis vittata",
+  "wikibase_item": "Q283426",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 756008,
+      "id": "Q756008"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q283426",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_grison"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater grison is a species of mustelid native to Southern Mexico, Central America, and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Greater_grison.jpg"
+}

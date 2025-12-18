@@ -1,0 +1,25 @@
+{
+  "id": "myotis-goudoti",
+  "name": "Malagasy mouse-eared bat",
+  "scientificName": "Myotis goudoti",
+  "wikibase_item": "Q745546",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q745546",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malagasy_mouse-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Malagasy mouse-eared bat is a species of bat in the family Vespertilionidae that is endemic to Madagascar.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Myotis_goudoti_range_map.svg/2324px-Myotis_goudoti_range_map.svg.png"
+}

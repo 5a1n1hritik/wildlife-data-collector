@@ -1,0 +1,25 @@
+{
+  "id": "nasuella-meridensis",
+  "name": "Nasuella meridensis",
+  "scientificName": "Nasuella meridensis",
+  "wikibase_item": "Q6967764",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2895094,
+      "id": "Q2895094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6967764",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nasuella_meridensis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern mountain coati or eastern dwarf coati is a small procyonid found in cloud forest and páramo at elevations of 2,000–4,000 m (6,600–13,100 ft) in the Andes of western Venezuela. Until 2009, it was included as a subspecies of the western mountain coati, but the eastern mountain coati is overall smaller, somewhat shorter-tailed on average, has markedly smaller teeth, a paler olive-brown pelage, and usually a dark mid-dorsal stripe on the back versus more rufescent or blackish, and usually without a dark mid-dorsal stripe in the western mountain coati. When the two were combined, they were classified as Data Deficient on the IUCN Red List but following the split the eastern mountain coati is considered endangered. A genetic analysis revealed that it should be regarded as a synonym of N. olivacea.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nasuella_meridensis_range.png"
+}

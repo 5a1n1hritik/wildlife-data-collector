@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-johnstoni",
+  "name": "Johnston's Forest Shrew",
+  "scientificName": "Sylvisorex johnstoni",
+  "wikibase_item": "Q1765059",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765059",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnston's_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Johnston's forest shrew is a species of mammal in the family Soricidae found in Burundi, Cameroon, the Central African Republic, the Republic of the Congo, the Democratic Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, Tanzania, and Uganda. Its natural habitats are subtropical or tropical moist lowland and montane forest.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Johnston%27s_Forest_Shrew_area.png"
+}

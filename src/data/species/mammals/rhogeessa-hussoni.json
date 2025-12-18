@@ -1,0 +1,25 @@
+{
+  "id": "rhogeessa-hussoni",
+  "name": "Rhogeessa hussoni",
+  "scientificName": "Rhogeessa hussoni",
+  "wikibase_item": "Q618577",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20886276,
+      "id": "Q20886276"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618577",
+    "wikipedia": "https://en.wikipedia.org/wiki/Husson's_yellow_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Husson's yellow bat is a species of vesper bat found in Suriname and southern Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Distribution_of_Rhogeessa_hussoni.png"
+}

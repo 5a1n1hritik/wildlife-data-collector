@@ -1,0 +1,25 @@
+{
+  "id": "surdisorex-polulus",
+  "name": "Mount Kenya Mole Shrew",
+  "scientificName": "Surdisorex polulus",
+  "wikibase_item": "Q1761676",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1911147,
+      "id": "Q1911147"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761676",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mount_Kenya_mole_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mount Kenya mole shrew is a species of mammal in the family Soricidae endemic to Mount Kenya in Kenya. Its natural habitat is tropical high-elevation bamboo and grassland, particularly the bamboo-belt of Mount Kenya and the adjacent heath and grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Surdisorex_polulus.jpg"
+}

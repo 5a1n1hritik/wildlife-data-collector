@@ -1,0 +1,25 @@
+{
+  "id": "saguinus-midas",
+  "name": "Red-handed tamarin",
+  "scientificName": "Saguinus midas",
+  "wikibase_item": "Q775569",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 240034,
+      "id": "Q240034"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q775569",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-handed_tamarin"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-handed tamarin, also known as the red-handed tamarin or Midas tamarin, is a New World monkey belonging to the family Callitrichidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Saguinus_midas_flk24863753.jpg"
+}

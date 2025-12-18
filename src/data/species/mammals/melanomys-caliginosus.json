@@ -1,0 +1,25 @@
+{
+  "id": "melanomys-caliginosus",
+  "name": "Melanomys caliginosus",
+  "scientificName": "Melanomys caliginosus",
+  "wikibase_item": "Q1769680",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 175497,
+      "id": "Q175497"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melanomys_caliginosus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Melanomys caliginosus, also known as the dusky melanomys or dusky rice rat, is a species of rodent in the genus Melanomys of family Cricetidae. It is found from Central America, in Honduras, Nicaragua, Costa Rica, and Panama, into South America, where it occurs in Venezuela, Colombia, and Ecuador. Populations currently classified under M. caliginosus may in fact include more than one species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Melanomys_caliginosus_191849723_%28cropped%29.jpg"
+}

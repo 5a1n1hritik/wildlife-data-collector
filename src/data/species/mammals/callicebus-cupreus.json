@@ -1,0 +1,25 @@
+{
+  "id": "callicebus-cupreus",
+  "name": "Coppery titi",
+  "scientificName": "Callicebus cupreus",
+  "wikibase_item": "Q1187091",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203649,
+      "id": "Q203649"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1187091",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coppery_titi_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coppery titi monkey or red titi monkey is a species of titi monkey, a type of New World monkey, from South America. They are found in the Amazon of Brazil and Peru, and perhaps northern Bolivia. It was described as Callithrix cupreus in 1823. These monkeys have a lifespan of a little over 20 years. These monkeys eat certain fruits, insects, and plants. They live in monogamous pairs with interesting ways for vocalizing and protecting themselves from predators.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coppery_Titi_2.jpg"
+}

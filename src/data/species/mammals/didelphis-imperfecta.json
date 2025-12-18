@@ -1,0 +1,25 @@
+{
+  "id": "didelphis-imperfecta",
+  "name": "Guianan white-eared opossum",
+  "scientificName": "Didelphis imperfecta",
+  "wikibase_item": "Q194232",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 287881,
+      "id": "Q287881"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194232",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guianan_white-eared_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Guianan white-eared opossum is an opossum species from South America. It is found in Brazil, Venezuela, Guyana, Suriname, and French Guiana.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Adult-female-of-Didelphis-imperfecta-captured-at-El-Tuparro-NNP.png"
+}

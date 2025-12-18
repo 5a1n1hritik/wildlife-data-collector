@@ -1,0 +1,22 @@
+{
+  "id": "hypsitherium-bolivianum",
+  "name": "Hypsitherium bolivianum",
+  "scientificName": "Hypsitherium bolivianum",
+  "wikibase_item": "Q60978385",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 28220468,
+      "id": "Q28220468"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60978385"
+  },
+  "lastUpdated": "2025-12-17"
+}

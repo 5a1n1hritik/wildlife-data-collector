@@ -1,0 +1,22 @@
+{
+  "id": "martes-toufoeus",
+  "name": "Martes toufoeus",
+  "scientificName": "Martes toufoeus",
+  "wikibase_item": "Q41084799",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26533,
+      "id": "Q26533"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41084799"
+  },
+  "lastUpdated": "2025-12-17"
+}

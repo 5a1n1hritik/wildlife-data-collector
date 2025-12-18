@@ -1,0 +1,25 @@
+{
+  "id": "tylomys-bullaris",
+  "name": "Chiapan climbing rat",
+  "scientificName": "Tylomys bullaris",
+  "wikibase_item": "Q140537",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 604917,
+      "id": "Q604917"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140537",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiapan_climbing_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Chiapan climbing rat is a species of rodent in the family Cricetidae.\nIt is found only in Mexico. The species is known from only one location in Tuxtla Gutiérrez, Chiapas. The habitat in the region is being converted to agricultural and urban use, which is likely causing critical declines in numbers of T. bullaris.",
+  "image": null
+}

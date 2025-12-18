@@ -1,0 +1,25 @@
+{
+  "id": "sminthopsis-boullangerensis",
+  "name": "Boullanger Island dunnart",
+  "scientificName": "Sminthopsis boullangerensis",
+  "wikibase_item": "Q194123",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 653458,
+      "id": "Q653458"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194123",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boullanger_Island_dunnart"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Boullanger Island dunnart is a species of dunnart found only on Boullanger Island, Western Australia. It was formerly considered a subspecies of the grey-bellied dunnart, for which reason it was not assessed by the IUCN in 2008. The EPBC Act classifies the Boullanger Island dunnart as vulnerable.",
+  "image": null
+}

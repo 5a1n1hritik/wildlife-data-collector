@@ -1,0 +1,25 @@
+{
+  "id": "carollia-subrufa",
+  "name": "Gray short-tailed bat",
+  "scientificName": "Carollia subrufa",
+  "wikibase_item": "Q139344",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858694,
+      "id": "Q858694"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139344",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gray_short-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The gray short-tailed bat, or Hahn's short-tailed bat, is a species of bat in the family Phyllostomidae native to Mexico and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gray_Short-tailed_Bat%2C_Caba%C3%B1as%2C_El_Salvador_imported_from_iNaturalist_photo_262500540.jpg"
+}

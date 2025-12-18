@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-lessai",
+  "name": "Ctenomys lessai",
+  "scientificName": "Ctenomys lessai",
+  "wikibase_item": "Q17379748",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17379748",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lessa's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lessa's Tuco-Tuco is a species of tuco-tuco native to Bolivia. Only found near Lluthu Pampa, Cochabamba Department, at elevations of around 2,500 to 2,750 meters, the species measures about 255 millimeters in length and has soft brown hair. It was named after Enrique P. Lessa.",
+  "image": null
+}

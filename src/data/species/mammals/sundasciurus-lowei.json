@@ -1,0 +1,22 @@
+{
+  "id": "sundasciurus-lowei",
+  "name": "Sundasciurus lowei",
+  "scientificName": "Sundasciurus lowei",
+  "wikibase_item": "Q41021932",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 953559,
+      "id": "Q953559"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41021932"
+  },
+  "lastUpdated": "2025-12-17"
+}

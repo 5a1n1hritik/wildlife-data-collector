@@ -1,0 +1,25 @@
+{
+  "id": "melonycteris-fardoulisi",
+  "name": "Fardoulis' blossom bat",
+  "scientificName": "Melonycteris fardoulisi",
+  "wikibase_item": "Q1768961",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20877508,
+      "id": "Q20877508"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768961",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fardoulis's_blossom_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Fardoulis's blossom bat is a species of bat in the Pteropodidae family. It is endemic to the Solomon Islands. Its natural habitat is subtropical or tropical moist lowland forests. It is named after Emmanuel Fardoulis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fardoulis%27_Blossom_Bat_area.png"
+}

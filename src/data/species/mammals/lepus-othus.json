@@ -1,0 +1,25 @@
+{
+  "id": "lepus-othus",
+  "name": "Alaskan hare",
+  "scientificName": "Lepus othus",
+  "wikibase_item": "Q856653",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3830767,
+      "id": "Q3830767"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q856653",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alaskan_hare"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alaskan hare, also known as the tundra hare, is a species of mammal in the family Leporidae. They do not dig burrows and are found in the open tundra of western Alaska and the Alaska Peninsula in the United States. They are solitary for most of the year except during mating season, when they produce a single litter of up to eight young. Predators include birds of prey, lynx, mustelids and wolves, among other animals, as well as humans.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Arctic_Hare.jpg"
+}

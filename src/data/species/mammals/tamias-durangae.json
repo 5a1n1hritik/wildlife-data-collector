@@ -1,0 +1,25 @@
+{
+  "id": "tamias-durangae",
+  "name": "Tamias durangae",
+  "scientificName": "Tamias durangae",
+  "wikibase_item": "Q1763771",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 22364,
+      "id": "Q22364"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763771",
+    "wikipedia": "https://en.wikipedia.org/wiki/Durango_chipmunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Durango chipmunk is a species of rodent in the family Sciuridae. It is endemic to Mexico.",
+  "image": null
+}

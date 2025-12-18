@@ -1,0 +1,25 @@
+{
+  "id": "sciurus-richmondi",
+  "name": "Richmond's squirrel",
+  "scientificName": "Sciurus richmondi",
+  "wikibase_item": "Q1769330",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 281124,
+      "id": "Q281124"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769330",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richmond's_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Richmond's squirrel is a poorly known tree squirrel in the genus Sciurus endemic to Nicaragua, which is likely a synonym of the red-tailed squirrel. It is locally known as the ardilla del rama.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Richmond%27s_squirrel_habitat_map.png"
+}

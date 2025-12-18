@@ -1,0 +1,22 @@
+{
+  "id": "perameles-sp.",
+  "name": "Perameles sp.",
+  "scientificName": "Perameles sp.",
+  "wikibase_item": "Q41086716",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1207399,
+      "id": "Q1207399"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41086716"
+  },
+  "lastUpdated": "2025-12-17"
+}

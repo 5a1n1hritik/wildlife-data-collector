@@ -1,0 +1,25 @@
+{
+  "id": "cryptotis-alticola",
+  "name": "Central Mexican broad-clawed shrew",
+  "scientificName": "Cryptotis alticola",
+  "wikibase_item": "Q1770028",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1746975,
+      "id": "Q1746975"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770028",
+    "wikipedia": "https://en.wikipedia.org/wiki/Central_Mexican_broad-clawed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Central Mexican broad-clawed shrew is a species of mammal in the family Soricidae. It is found in the highlands above 2000 m in the Mexican states of Colima, Hidalgo, Jalisco, Michoacán, Mexico, Morelos, and Puebla, and in Mexico City.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Central_Mexican_Broad-clawed_Shrew_area.png"
+}

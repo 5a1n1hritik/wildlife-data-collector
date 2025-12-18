@@ -1,0 +1,25 @@
+{
+  "id": "artibeus-fraterculus",
+  "name": "Fraternal fruit-eating bat",
+  "scientificName": "Artibeus fraterculus",
+  "wikibase_item": "Q308111",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 372731,
+      "id": "Q372731"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q308111",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fraternal_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The fraternal fruit-eating bat is a species of bat in the family Phyllostomidae that is found in drier habitats in Ecuador and Peru. It was formerly considered to be a subspecies of the Jamaican fruit bat, but was raised to species level in 1978. The smallest species in the group of large Artibeus, it has a forearm length of 52–59 mm (2.0–2.3 in), a total length of 64–76 mm (2.5–3.0 in), and a weight of 30–55 g (1.1–1.9 oz).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Fraternal_fruit-eating_bat_Artibeus_fraterculus_roosting.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-nyctor",
+  "name": "Myotis nyctor",
+  "scientificName": "Myotis nyctor",
+  "wikibase_item": "Q48841109",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48841109",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbados_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Barbados myotis is a species of bat found in the Lesser Antilles.\nIt was previously considered a subspecies of Schwartz's myotis, Myotis martiniquensis, but was elevated to species rank in 2012.",
+  "image": null
+}

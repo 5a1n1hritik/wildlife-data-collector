@@ -1,0 +1,25 @@
+{
+  "id": "miniopterus-griffithsi",
+  "name": "Miniopterus griffithsi",
+  "scientificName": "Miniopterus griffithsi",
+  "wikibase_item": "Q6865663",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18924,
+      "id": "Q18924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6865663",
+    "wikipedia": "https://en.wikipedia.org/wiki/Griffith's_long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Griffith's long-fingered bat is a bat in the genus Miniopterus which occurs in southern Madagascar. M. griffithsi was previously a part of the largest family of bats, the Vespertilionidae, which consist of five subfamilies. The bat family Miniopteridae is widely distributed, ranging from the majority of sub-Saharan Africa to north Africa and Eurasia, as well as southern and southeastern Asia and Australia. Typical features of these bats include elongated third fingers, long narrow wings giving them a pointed shape when in flight, and a bent shape when folded, adding to the common name of bent-wing bats. M. griffithsi is similar to its sister species Miniopterus gleni, which lives north of the Onilahy River, while M. giffithsi lives south of it. Researchers first discovered that M. griffithsi was separate from M. gleni based on phylogeographic studies of the latter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Distribution_of_Miniopterus_griffithsi.png"
+}

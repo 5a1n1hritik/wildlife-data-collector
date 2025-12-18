@@ -1,0 +1,25 @@
+{
+  "id": "lepilemur-otto",
+  "name": "Lepilemur otto",
+  "scientificName": "Lepilemur otto",
+  "wikibase_item": "Q1185242",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1185242",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto's_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Otto's sportive lemur, or the Ambodimahabibo sportive lemur, is a sportive lemur endemic to Madagascar. Like all members of the genus Lepilemur, it is solitary, nocturnal and largely folivorous. It is threatened by habitat loss and hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lepilemur_otto_holotype_specimen.jpg"
+}

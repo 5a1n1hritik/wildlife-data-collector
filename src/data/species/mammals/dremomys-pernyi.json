@@ -1,0 +1,25 @@
+{
+  "id": "dremomys-pernyi",
+  "name": "Perny's long-nosed squirrel",
+  "scientificName": "Dremomys pernyi",
+  "wikibase_item": "Q307778",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909825,
+      "id": "Q909825"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307778",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perny's_long-nosed_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Perny's long-nosed squirrel is a species of rodent in the family Sciuridae. It is found in Northeast India, southern and central China, northern Myanmar, northern Vietnam, and Taiwan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Dremomys_pernyi.jpg"
+}

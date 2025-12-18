@@ -1,0 +1,25 @@
+{
+  "id": "glauconycteris-curryae",
+  "name": "Curry's bat",
+  "scientificName": "Glauconycteris curryae",
+  "wikibase_item": "Q1829966",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 753964,
+      "id": "Q753964"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829966",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curry's_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Curry's bat is a species of vesper bat in the family Vespertilionidae. It is found in Cameroon and Democratic Republic of the Congo. Its natural habitats are subtropical and tropical moist lowland forests and subtropical and tropical swamps.",
+  "image": null
+}

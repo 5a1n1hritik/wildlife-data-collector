@@ -1,0 +1,25 @@
+{
+  "id": "thylamys-elegans",
+  "name": "Elegant fat-tailed mouse opossum",
+  "scientificName": "Thylamys elegans",
+  "wikibase_item": "Q194410",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409303,
+      "id": "Q1409303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194410",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elegant_fat-tailed_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The elegant fat-tailed mouse opossum, also known as the Chilean mouse opossum, is an opossum from central Chile. The type species of Thylamys, it was first described by English naturalist George Robert Waterhouse in 1839. This medium-sized opossum is characterized by black rings around the eyes, white limbs, gray to light brown coat, lighter flanks and underbelly and a thick 12.7–14.6 centimetres (5.0–5.7 in) long tail covered with hairs. It is crepuscular and lives in nests in tree hollows or under rocks and roots. This opossum feeds mainly on arthropods and larvae apart from fruits. Litter size is typically between 11 and 13. The elegant fat-tailed opossum can occur in a variety of habitats – from cloud forests to chaparrals. The IUCN classifies the opossum as least concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Llaca.jpg"
+}

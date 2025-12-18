@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-melanopogon",
+  "name": "Black-bearded flying fox",
+  "scientificName": "Pteropus melanopogon",
+  "wikibase_item": "Q1947353",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1947353",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-bearded_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-bearded flying fox is an endangered species of megabat in the genus Pteropus. It is endemic to Indonesia, found on the islands of Ambon, Buru, Seram, Banda, and Yamdena. Currently considered monotypic, it formerly included the Aru flying fox and Kei flying fox as subspecies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Naturalis_Biodiversity_Center_-_RMNH.MAM.45934_lat_-_Pteropus_melanopogon_-_skull.jpeg"
+}

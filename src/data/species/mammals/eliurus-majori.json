@@ -1,0 +1,25 @@
+{
+  "id": "eliurus-majori",
+  "name": "Major's tufted-tailed rat",
+  "scientificName": "Eliurus majori",
+  "wikibase_item": "Q307029",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 285112,
+      "id": "Q285112"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307029",
+    "wikipedia": "https://en.wikipedia.org/wiki/Major's_tufted-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Major's tufted-tailed rat is a species of rodent in the family Nesomyidae. It is found only in Madagascar. Its natural habitat is subtropical or tropical dry forests. It is threatened by habitat loss. The species was named in honor of Swiss zoologist C. I. Forsyth Major.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eliurus_majori_range_map.svg/2324px-Eliurus_majori_range_map.svg.png"
+}

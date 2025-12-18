@@ -1,0 +1,25 @@
+{
+  "id": "hydrictis-maculicollis",
+  "name": "spotted-necked otter",
+  "scientificName": "Hydrictis maculicollis",
+  "wikibase_item": "Q577677",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18272206,
+      "id": "Q18272206"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q577677",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spotted-necked_otter"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The spotted-necked otter, or speckle-throated otter, is an otter native to sub-Saharan Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Spotted-necked_otter_1.jpg"
+}

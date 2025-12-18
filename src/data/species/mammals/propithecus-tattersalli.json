@@ -1,0 +1,25 @@
+{
+  "id": "propithecus-tattersalli",
+  "name": "Golden-crowned sifaka",
+  "scientificName": "Propithecus tattersalli",
+  "wikibase_item": "Q775574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 673365,
+      "id": "Q673365"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q775574",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden-crowned_sifaka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden-crowned sifaka or Tattersall's sifaka is a medium-sized lemur characterized by mostly white fur, prominent furry ears, and a golden-orange crown. It is one of the smallest sifakas, weighing around 3.5 kg (7.7 lb) and measuring approximately 90 cm (35 in) from head to tail. Like all sifakas, it is a vertical clinger and leaper, and its diet includes mostly seeds and leaves. The golden-crowned sifaka is named after its discoverer, Ian Tattersall, who first spotted the species in 1974. However, it was not formally described until 1988, after a research team led by Elwyn L. Simons observed and captured some specimens for captive breeding. The golden-crowned sifaka most closely resembles the western forest sifakas of the P. verreauxi group, yet its karyotype suggests a closer relationship with the P. diadema group of eastern forest sifakas. Despite the similarities with both groups, more recent studies of its karyotype support its classification as a distinct species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Propithecus_tattersalli_001.jpg"
+}

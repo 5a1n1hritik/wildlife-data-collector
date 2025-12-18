@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-apodemoides",
+  "name": "Silky mouse",
+  "scientificName": "Pseudomys apodemoides",
+  "wikibase_item": "Q1768973",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1768973",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silky_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The silky mouse is a small, nocturnal rodent native to the western and northwestern regions of Victoria, Australia. Weighing 16-22 grams, it has light blue-grey fur flecked with light brown and black guard hairs, and a white underside. Known for its complex burrows, the Silky Mouse favors floristically rich mallee-heath environments, especially areas near Banksia ornata, due to consistent soil moisture and food availability. The silky mouse primarily feeds on seeds, nectar, flowers, and insects. Though threatened by habitat destruction and fires, conservation efforts have led to population recovery.",
+  "image": null
+}

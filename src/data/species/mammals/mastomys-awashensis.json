@@ -1,0 +1,25 @@
+{
+  "id": "mastomys-awashensis",
+  "name": "Awash multimammate mouse",
+  "scientificName": "Mastomys awashensis",
+  "wikibase_item": "Q1970364",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 498708,
+      "id": "Q498708"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1970364",
+    "wikipedia": "https://en.wikipedia.org/wiki/Awash_multimammate_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Awash multimammate mouse or Awash mastomys is a species of rodent in the family Muridae found only in Ethiopia. Phylogentically the Awash multimammate mouse is the sister taxon of the Natal multimammate mouse, a species found almost everywhere in Africa south of the Sahara and considered a serious agricultural pest throughout its range.",
+  "image": null
+}

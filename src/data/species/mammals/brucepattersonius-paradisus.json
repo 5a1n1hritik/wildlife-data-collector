@@ -1,0 +1,25 @@
+{
+  "id": "brucepattersonius-paradisus",
+  "name": "Arroyo of Paradise brucie",
+  "scientificName": "Brucepattersonius paradisus",
+  "wikibase_item": "Q1761041",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 141986,
+      "id": "Q141986"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1761041",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arroyo_of_Paradise_brucie"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Arroyo of Paradise brucie, also known as the Arroyo of Paradise akodont is a South American rodent species of the family Cricetidae. It is known only from northeastern Argentina. No population data is available for the species; it is threatened by deforestation and has not been found in any protected area.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "petauroides-volans",
+  "name": "Petauroides volans",
+  "scientificName": "Petauroides volans",
+  "wikibase_item": "Q668004",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10804830,
+      "id": "Q10804830"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q668004",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_greater_glider"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern greater glider, also known as the southern and central greater glider, is a species of large gliding marsupial native to the forests of southeastern Australia. It is a vulnerable species per the IUCN Red List classification, but since 5 July 2022 is listed as endangered under the EPBC Act in Australia. The main threats to its survival are climate change and logging.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Petauroides_volans.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myomimus-personatus",
+  "name": "Masked Mouse-tailed Dormouse",
+  "scientificName": "Myomimus personatus",
+  "wikibase_item": "Q1764482",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 944092,
+      "id": "Q944092"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764482",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masked_mouse-tailed_dormouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The masked mouse-tailed dormouse, also called Ognev's mouse-tailed dormouse, is a species of rodent in the family Gliridae. It is found in Iran and Turkmenistan.",
+  "image": null
+}

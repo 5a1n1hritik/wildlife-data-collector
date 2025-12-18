@@ -1,0 +1,25 @@
+{
+  "id": "pseudantechinus-mimulus",
+  "name": "Alexandria false antechinus",
+  "scientificName": "Pseudantechinus mimulus",
+  "wikibase_item": "Q135142",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1409297,
+      "id": "Q1409297"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135142",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_false_antechinus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Alexandria false antechinus, also known as the Carpentarian false antechinus or Carpentarian pseudantechinus, is a small carnivorous marsupial, found only in a number of small, isolated localities in northern Australia. It is the smallest and rarest of the false antechinuses.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pseudantechinus_mimulus.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-capaccinii",
+  "name": "Long-fingered bat",
+  "scientificName": "Myotis capaccinii",
+  "wikibase_item": "Q912118",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q912118",
+    "wikipedia": "https://en.wikipedia.org/wiki/Long-fingered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The long-fingered bat is a small carnivorous vesper bat.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Myotis_capaccinii_0105b_cropped.jpg"
+}

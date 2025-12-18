@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-peguensis",
+  "name": "Pegu pipistrelle",
+  "scientificName": "Pipistrellus peguensis",
+  "wikibase_item": "Q4826132",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4826132",
+    "wikipedia": "https://en.wikipedia.org/wiki/Java_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Javan or Eastern pipistrelle is a species of pipistrelle bat found in South and Southeast Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Range_Pipistrellus_javanicus.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-parvidens",
+  "name": "Sturnira parvidens",
+  "scientificName": "Sturnira parvidens",
+  "wikibase_item": "Q21377101",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1653127,
+      "id": "Q1653127"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21377101",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturnira_parvidens"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The little yellow-shouldered Mesoamerican bat is a species of leaf-nosed bat found in Mexico and Central America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sturnira_parvidens.jpg"
+}

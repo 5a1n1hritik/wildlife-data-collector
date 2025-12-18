@@ -1,0 +1,25 @@
+{
+  "id": "paracoelops-megalotis",
+  "name": "Paracoelops megalotis",
+  "scientificName": "Paracoelops megalotis",
+  "wikibase_item": "Q2165367",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10937355,
+      "id": "Q10937355"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2165367",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pomona_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pomona roundleaf bat, Pomona leaf-nosed bat, or Andersen's leaf-nosed bat is a species of bat in the family Hipposideridae that is endemic to India.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Naturalis_Biodiversity_Center_-_RMNH.MAM.33154.b_ven_-_Hipposideros_Pomona_sinensis_-_skin.jpeg"
+}

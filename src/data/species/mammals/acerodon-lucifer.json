@@ -1,0 +1,25 @@
+{
+  "id": "acerodon-lucifer",
+  "name": "Acerodon lucifer",
+  "scientificName": "Acerodon lucifer",
+  "wikibase_item": "Q2717030",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2307345,
+      "id": "Q2307345"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2717030",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_golden-crowned_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The giant golden-crowned flying fox, also known as the golden-capped fruit bat, is a species of megabat endemic to the Philippines. Since its description in 1831, three subspecies of the giant golden-crowned flying fox have been recognized, one of which is extinct. The extinct subspecies was formerly recognized as a full species, the Panay golden-crowned flying fox. Formerly, this species was placed in the genus Pteropus; while it is no longer within the genus, it has many physical similarities to Pteropus megabats. It is one of the largest bat species in the world, weighing up to 1.4 kg (3.1 lb)—only the Indian and great flying fox can weigh more. It has the longest documented forearm length of any bat species at 21 cm (8.3 in).",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Acerodon_jubatus_by_Gregg_Yan.jpg"
+}

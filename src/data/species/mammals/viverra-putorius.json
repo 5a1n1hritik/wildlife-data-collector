@@ -1,0 +1,25 @@
+{
+  "id": "viverra-putorius",
+  "name": "Viverra putorius",
+  "scientificName": "Viverra putorius",
+  "wikibase_item": "Q122170380",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1762710,
+      "id": "Q1762710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122170380",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_spotted_skunk"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern spotted skunk is a small, relatively slender skunk found in North America, in the central and parts of the southeastern United States and in small areas of Canada and Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Spilogale_putorius_%282%29.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "megaerops-ecaudatus",
+  "name": "Tailless fruit bat",
+  "scientificName": "Megaerops ecaudatus",
+  "wikibase_item": "Q1767154",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2273400,
+      "id": "Q2273400"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767154",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tailless_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The tailless fruit bat is a species of fruit bat in the family Pteropodidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pteropus_ecaudatus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20700041.tif/lossy-page1-4556px-Pteropus_ecaudatus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ20700041.tif.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tupaia-salatena",
+  "name": "Tupaia salatena",
+  "scientificName": "Tupaia salatena",
+  "wikibase_item": "Q62605871",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62605871"
+  },
+  "lastUpdated": "2025-12-17"
+}

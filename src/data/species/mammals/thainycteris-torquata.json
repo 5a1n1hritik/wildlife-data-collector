@@ -1,0 +1,22 @@
+{
+  "id": "thainycteris-torquata",
+  "name": "Thainycteris torquata",
+  "scientificName": "Thainycteris torquata",
+  "wikibase_item": "Q125898482",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 105762220,
+      "id": "Q105762220"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125898482"
+  },
+  "lastUpdated": "2025-12-17"
+}

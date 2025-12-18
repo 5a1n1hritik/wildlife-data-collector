@@ -1,0 +1,25 @@
+{
+  "id": "hipposideros-abae",
+  "name": "Hipposideros abae",
+  "scientificName": "Hipposideros abae",
+  "wikibase_item": "Q309101",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 268051,
+      "id": "Q268051"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q309101",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aba_roundleaf_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Aba roundleaf bat, also known as the Aba leaf-nosed bat is a species of bat in the family Hipposideridae. It is found in West Africa along the southern coast from Nigeria to Senegal. Populations have also been noted in Sudan and Uganda. Its natural habitats are subtropical or tropical moist lowland forests, dry and moist savannas, and caves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Aba_Roundleaf_Bat.gif"
+}

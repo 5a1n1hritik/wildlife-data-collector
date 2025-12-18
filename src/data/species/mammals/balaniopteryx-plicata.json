@@ -1,0 +1,22 @@
+{
+  "id": "balaniopteryx-plicata",
+  "name": "Balaniopteryx plicata",
+  "scientificName": "Balaniopteryx plicata",
+  "wikibase_item": "Q41162839",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41151546,
+      "id": "Q41151546"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41162839"
+  },
+  "lastUpdated": "2025-12-17"
+}

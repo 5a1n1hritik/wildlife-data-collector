@@ -1,0 +1,22 @@
+{
+  "id": "phasmatonycteris-phiomensis",
+  "name": "Phasmatonycteris phiomensis",
+  "scientificName": "Phasmatonycteris phiomensis",
+  "wikibase_item": "Q21309695",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 21223523,
+      "id": "Q21223523"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21309695"
+  },
+  "lastUpdated": "2025-12-17"
+}

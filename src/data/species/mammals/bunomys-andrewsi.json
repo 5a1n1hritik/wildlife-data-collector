@@ -1,0 +1,25 @@
+{
+  "id": "bunomys-andrewsi",
+  "name": "Andrew's Hill Rat",
+  "scientificName": "Bunomys andrewsi",
+  "wikibase_item": "Q307922",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 851992,
+      "id": "Q851992"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307922",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew's_hill_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Andrew's hill rat is a species of rodent in the family Muridae. It is found only in Sulawesi and Buton Island, Indonesia.",
+  "image": null
+}

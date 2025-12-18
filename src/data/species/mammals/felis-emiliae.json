@@ -1,0 +1,22 @@
+{
+  "id": "felis-emiliae",
+  "name": "Felis emiliae",
+  "scientificName": "Felis emiliae",
+  "wikibase_item": "Q122808525",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 228283,
+      "id": "Q228283"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122808525"
+  },
+  "lastUpdated": "2025-12-17"
+}

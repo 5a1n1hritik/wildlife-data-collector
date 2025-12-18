@@ -1,0 +1,25 @@
+{
+  "id": "patagonia-peregrinum",
+  "name": "Patagonia peregrinum",
+  "scientificName": "Patagonia peregrinum",
+  "wikibase_item": "Q7144155",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12901391,
+      "id": "Q12901391"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7144155",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patagonia_peregrinum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Patagonia peregrinum is a species of snout moth in the genus Patagonia. It was described by Carl Heinrich in 1956. It is found in North America, including Arizona, California and Iowa.",
+  "image": null
+}

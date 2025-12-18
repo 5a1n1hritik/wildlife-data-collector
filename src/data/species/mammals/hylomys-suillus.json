@@ -1,0 +1,25 @@
+{
+  "id": "hylomys-suillus",
+  "name": "Short-tailed gymnure",
+  "scientificName": "Hylomys suillus",
+  "wikibase_item": "Q602913",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1392810,
+      "id": "Q1392810"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q602913",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-tailed_gymnure"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Short-tailed gymnure can refer to any of these species:Javan short-tailed gymnure \nBornean short-tailed gymnure \nMax's short-tailed gymnure \nNorthern short-tailed gymnure \n\n",
+  "image": null
+}

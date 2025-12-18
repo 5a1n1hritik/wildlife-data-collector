@@ -1,0 +1,25 @@
+{
+  "id": "tachyoryctes-annectens",
+  "name": "Mianzini mole rat",
+  "scientificName": "Tachyoryctes annectens",
+  "wikibase_item": "Q1767501",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 82710,
+      "id": "Q82710"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767501",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mianzini_African_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mianzini mole-rat or Mianzini African mole-rat is a species of rodent in the family Spalacidae endemic to Kenya. Its natural habitats are dry savanna, pastureland, and rural gardens. Some taxonomic authorities consider it to be conspecific with the East African mole-rat.",
+  "image": null
+}

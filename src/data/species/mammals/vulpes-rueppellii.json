@@ -1,0 +1,25 @@
+{
+  "id": "vulpes-rueppellii",
+  "name": "Rüppell's fox",
+  "scientificName": "Vulpes rueppellii",
+  "wikibase_item": "Q295994",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185194,
+      "id": "Q185194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q295994",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCppell's_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rüppell's fox, also called Rüppell's sand fox, is a fox species living in desert and semi-desert regions of North Africa, the Middle East, and southwestern Asia. It has been listed as Least Concern on the IUCN Red List since 2008.\nIt is named after the German naturalist Eduard Rüppell.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/R%C3%BCppell%27s_fox.jpg"
+}

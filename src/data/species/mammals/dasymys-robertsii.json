@@ -1,0 +1,25 @@
+{
+  "id": "dasymys-robertsii",
+  "name": "Robert's shaggy rat",
+  "scientificName": "Dasymys robertsii",
+  "wikibase_item": "Q2106057",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 226953,
+      "id": "Q226953"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2106057",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert's_shaggy_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Robert's shaggy rat is a species of rodent in the genus Dasymys that lives in South Africa. It was described in 2004.",
+  "image": null
+}

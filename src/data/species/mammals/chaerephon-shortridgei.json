@@ -1,0 +1,25 @@
+{
+  "id": "chaerephon-shortridgei",
+  "name": "Shortridge's free-tailed bat",
+  "scientificName": "Chaerephon shortridgei",
+  "wikibase_item": "Q1831930",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831930",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chapin's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Chapin's free-tailed bat is a species of bat in the family Molossidae. It is found in central and southern Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Chaerephon_chapini.jpg"
+}

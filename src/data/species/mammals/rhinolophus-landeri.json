@@ -1,0 +1,25 @@
+{
+  "id": "rhinolophus-landeri",
+  "name": "Lander's horseshoe bat",
+  "scientificName": "Rhinolophus landeri",
+  "wikibase_item": "Q1764415",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2000632,
+      "id": "Q2000632"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764415",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lander's_horseshoe_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Lander's horseshoe bat is a species of bat in the family Rhinolophidae found in Africa. Its natural habitats are savanna and caves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rhinolophus_landeri.jpg"
+}

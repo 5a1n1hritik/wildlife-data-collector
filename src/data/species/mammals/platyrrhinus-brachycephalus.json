@@ -1,0 +1,25 @@
+{
+  "id": "platyrrhinus-brachycephalus",
+  "name": "Short-headed Broad-nosed Bat",
+  "scientificName": "Platyrrhinus brachycephalus",
+  "wikibase_item": "Q1829294",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1848924,
+      "id": "Q1848924"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829294",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-headed_broad-nosed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-headed broad-nosed bat is a bat species found in Bolivia, northwestern Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Naturalis_Biodiversity_Center_-_RMNH.MAM.35838.b_ven_-_Platyrrhinus_brachycephalus_-_skin.jpeg"
+}

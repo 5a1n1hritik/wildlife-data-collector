@@ -1,0 +1,22 @@
+{
+  "id": "petinomys-momonga",
+  "name": "Petinomys momonga",
+  "scientificName": "Petinomys momonga",
+  "wikibase_item": "Q41012217",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244166,
+      "id": "Q244166"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41012217"
+  },
+  "lastUpdated": "2025-12-17"
+}

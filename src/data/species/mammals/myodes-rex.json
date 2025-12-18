@@ -1,0 +1,25 @@
+{
+  "id": "myodes-rex",
+  "name": "Hokkaido red-backed vole",
+  "scientificName": "Myodes rex",
+  "wikibase_item": "Q1767996",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767996",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hokkaido_red-backed_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Hokkaido red-backed vole is a species of rodent in the family Cricetidae. It is found at high altitudes on the island of Hokkaido in Japan and at lower altitudes on some smaller islands nearby. Its natural habitat is temperate forests.",
+  "image": null
+}

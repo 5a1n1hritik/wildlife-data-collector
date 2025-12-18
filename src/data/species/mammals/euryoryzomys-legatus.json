@@ -1,0 +1,25 @@
+{
+  "id": "euryoryzomys-legatus",
+  "name": "Euryoryzomys legatus",
+  "scientificName": "Euryoryzomys legatus",
+  "wikibase_item": "Q1766673",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 752973,
+      "id": "Q752973"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766673",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euryoryzomys_legatus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Euryoryzomys legatus, also known as the Tarija oryzomys or big-headed rice rat, is a species of rodent in the family Cricetidae. It now belongs to the genus Euryoryzomys, having previously been placed in Oryzomys. It is found in the eastern Andes of northwestern Argentina and southern Bolivia.",
+  "image": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "phascolomys-tasmaniensis",
+  "name": "Phascolomys tasmaniensis",
+  "scientificName": "Phascolomys tasmaniensis",
+  "wikibase_item": "Q110087044",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41156958,
+      "id": "Q41156958"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110087044"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "orthogeomys-heterodus",
+  "name": "Variable pocket gopher",
+  "scientificName": "Orthogeomys heterodus",
+  "wikibase_item": "Q1769179",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871738,
+      "id": "Q20871738"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769179",
+    "wikipedia": "https://en.wikipedia.org/wiki/Variable_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The variable pocket gopher is a species of rodent in the family Geomyidae. It is endemic to Costa Rica, usually being found in grasslands and tropical forests at higher altitudes, up to 8,000 feet. It is threatened by habitat loss, but are sometimes kept as pets in the United States and elsewhere.",
+  "image": null
+}

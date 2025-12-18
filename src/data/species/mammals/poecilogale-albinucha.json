@@ -1,0 +1,25 @@
+{
+  "id": "poecilogale-albinucha",
+  "name": "African striped weasel",
+  "scientificName": "Poecilogale albinucha",
+  "wikibase_item": "Q852756",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10808040,
+      "id": "Q10808040"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q852756",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_striped_weasel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African striped weasel, also known as the white-naped weasel, striped weasel or African weasel, is a small mammal native to sub-Saharan Africa, where its range stretches from as far north as Kenya south to South Africa. It is in the family Mustelidae and is the lone member of the genus Poecilogale. It has a long, slender body with short legs and a bushy tail. One of the smallest carnivorans in Africa, it measures 24 to 35 cm long excluding the tail, with males generally larger than females. It has black fur over most of its body, with distinctive white bands running from the top of its head down its back, with the tail being completely white. The closest living relative of this species is the striped polecat, and it may also be related to the extinct Propoecilogale bolti.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg"
+}

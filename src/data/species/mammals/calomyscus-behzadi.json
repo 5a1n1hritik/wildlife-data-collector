@@ -1,0 +1,25 @@
+{
+  "id": "calomyscus-behzadi",
+  "name": "Calomyscus behzadi",
+  "scientificName": "Calomyscus behzadi",
+  "wikibase_item": "Q123474334",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 284030,
+      "id": "Q284030"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123474334",
+    "wikipedia": "https://en.wikipedia.org/wiki/Behzad's_brush-tailed_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Behzad's brush-tailed mouse is a species of mouse-like hamster. It is found in western Iran, where it is found in rocky areas in mountains. It is named after the Iranian biologist Professor Mahmoud Behzad.",
+  "image": null
+}

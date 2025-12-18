@@ -1,0 +1,25 @@
+{
+  "id": "ochotona-sacraria",
+  "name": "Ochotona sacraria",
+  "scientificName": "Ochotona sacraria",
+  "wikibase_item": "Q125721333",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 184067,
+      "id": "Q184067"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125721333",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moupin_pika"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Moupin pika, also known as Moupin-pika, and Manipuri pika, is a species of mammal in the pika family, Ochotonidae. It has many subspecies, some of which may be distinct species. Its summer pelage is dark russet-brown with some light spots on the dorsal side, and ochraceous buff tinged on the belly. In winter it is lighter, with buff to dull brown dorsal pelage. A generalist herbivore, it is found in the mountains of the eastern Tibetan Plateau in China, Bhutan, India (Sikkim), and northern Myanmar. Both the International Union for Conservation of Nature Red List of Endangered Species and the Red List of China's Vertebrates classify it as a species of least concern; although one subspecies may be endangered.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ochotona_thibetana_range.svg/1000px-Ochotona_thibetana_range.svg.png"
+}

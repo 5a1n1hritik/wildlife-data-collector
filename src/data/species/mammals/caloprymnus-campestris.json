@@ -1,0 +1,25 @@
+{
+  "id": "caloprymnus-campestris",
+  "name": "Desert rat-kangaroo",
+  "scientificName": "Caloprymnus campestris",
+  "wikibase_item": "Q209696",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 10743941,
+      "id": "Q10743941"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209696",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_rat-kangaroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert rat-kangaroo, also called the buff-nosed rat-kangaroo, plains rat-kangaroo or oolacunta, is an extinct small hopping marsupial endemic to desert regions of Central Australia. It was first recorded in the early 1840s and described by John Gould in London in 1843, on the basis of three specimens sent to him by George Grey, the governor of South Australia at the time.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Caloprymnus.jpg"
+}

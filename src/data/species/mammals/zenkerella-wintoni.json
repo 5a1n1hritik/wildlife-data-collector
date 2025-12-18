@@ -1,0 +1,25 @@
+{
+  "id": "zenkerella-wintoni",
+  "name": "Zenkerella wintoni",
+  "scientificName": "Zenkerella wintoni",
+  "wikibase_item": "Q108583729",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19717489,
+      "id": "Q19717489"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108583729",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zenkerella_wintoni"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Zenkerella wintoni is in extinct species of rodent from the family Zenkerellidae. It is known from a single mandible from Songhor, Kenya dated to the Early Miocene.",
+  "image": null
+}

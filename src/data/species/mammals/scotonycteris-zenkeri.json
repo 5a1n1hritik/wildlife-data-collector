@@ -1,0 +1,25 @@
+{
+  "id": "scotonycteris-zenkeri",
+  "name": "Zenker's Fruit Bat",
+  "scientificName": "Scotonycteris zenkeri",
+  "wikibase_item": "Q1762676",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1868586,
+      "id": "Q1868586"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762676",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zenker's_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Zenker's fruit bat or Tear-drop bat is a species of megabat in the family Pteropodidae. Its natural habitats are tropical and subtropical moist broadleaf forests and swamps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Scotonycteris_zenkeri_illustration.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "molossus-molossus",
+  "name": "Velvety Free-tailed Bat",
+  "scientificName": "Molossus molossus",
+  "wikibase_item": "Q1832759",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1723019,
+      "id": "Q1723019"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832759",
+    "wikipedia": "https://en.wikipedia.org/wiki/Velvety_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The velvety free-tailed bat is a species of bat found in North, Central, and South America and the Caribbean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Molossus_molossus_molossus_1847.jpg"
+}

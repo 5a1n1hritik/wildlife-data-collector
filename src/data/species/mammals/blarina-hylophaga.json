@@ -1,0 +1,25 @@
+{
+  "id": "blarina-hylophaga",
+  "name": "Elliot's short-tailed shrew",
+  "scientificName": "Blarina hylophaga",
+  "wikibase_item": "Q1770017",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 468813,
+      "id": "Q468813"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770017",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elliot's_short-tailed_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Elliot's short-tailed shrew is a small, slate grey, short-tailed species of shrew. Its common name comes from Daniel Giraud Elliot, who first described the species in 1899.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Shorttail_shrew.jpg"
+}

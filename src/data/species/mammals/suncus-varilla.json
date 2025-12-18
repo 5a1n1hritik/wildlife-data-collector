@@ -1,0 +1,25 @@
+{
+  "id": "suncus-varilla",
+  "name": "Lesser Dwarf Shrew",
+  "scientificName": "Suncus varilla",
+  "wikibase_item": "Q1767413",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 645088,
+      "id": "Q645088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767413",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_dwarf_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser dwarf shrew is a species of mammal in the family Soricidae. It is found in Botswana, Democratic Republic of the Congo, Lesotho, Malawi, Mozambique, South Africa, Tanzania, Zambia, and Zimbabwe.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lesser_Dwarf_Shrew_area.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "erophylla-bombifrons",
+  "name": "Erophylla bombifrons",
+  "scientificName": "Erophylla bombifrons",
+  "wikibase_item": "Q2347845",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 310743,
+      "id": "Q310743"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2347845",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_flower_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown flower bat is a species of bat from the family Phyllostomidae native to the island of Hispaniola, and Puerto Rico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Erophylla_bombifrons_map.png"
+}

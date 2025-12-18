@@ -1,0 +1,25 @@
+{
+  "id": "whollydooleya-tomnpatrichorum",
+  "name": "Whollydooleya tomnpatrichorum",
+  "scientificName": "Whollydooleya tomnpatrichorum",
+  "wikibase_item": "Q66459638",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 26722469,
+      "id": "Q26722469"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66459638",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whollydooleya"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Whollydooleya tomnpatrichorum is a fossil species discovered just beyond the Riversleigh World Heritage Area, an early example of adaptations to hypercarnivory. The dating of the deposit, while uncertain, is associated with material assigned to the genus Ekaltadeta, placing its occurrence in the middle or late Miocene epoch.",
+  "image": null
+}

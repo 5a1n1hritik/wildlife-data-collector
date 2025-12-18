@@ -1,0 +1,25 @@
+{
+  "id": "myotis-austroriparius",
+  "name": "Southeastern myotis",
+  "scientificName": "Myotis austroriparius",
+  "wikibase_item": "Q1829574",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1829574",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southeastern_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southeastern myotis is a small bat found throughout the Gulf Coastal Plain and the Lower Mississippi Alluvial Plain of the southeastern United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Myotis_austroriparius_2.jpg"
+}

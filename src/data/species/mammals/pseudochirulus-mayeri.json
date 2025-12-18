@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirulus-mayeri",
+  "name": "Pygmy ringtail possum",
+  "scientificName": "Pseudochirulus mayeri",
+  "wikibase_item": "Q209575",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209575",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy ringtail possum is a species of marsupial in the family Pseudocheiridae. It is found in the montane forest regions of Papua New Guinea and West Papua, Indonesia. They are \"widespread along the Central Cordillera\" and live at elevations between 1,500 and 3,600 metres above sea level.\"",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/1939.3076_Skin_Dorsal_Skins-3_MG_1865-S.jpg"
+}

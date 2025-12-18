@@ -1,0 +1,25 @@
+{
+  "id": "uropsilus-huanggangensis",
+  "name": "Uropsilus huanggangensis",
+  "scientificName": "Uropsilus huanggangensis",
+  "wikibase_item": "Q123701641",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 867212,
+      "id": "Q867212"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123701641",
+    "wikipedia": "https://en.wikipedia.org/wiki/Huangang_shrew_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The  Huangang shrew mole is a shrew-like mole native to China.",
+  "image": null
+}

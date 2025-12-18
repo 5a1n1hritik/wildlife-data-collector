@@ -1,0 +1,25 @@
+{
+  "id": "sturnira-luisi",
+  "name": "Louis's Yellow-shouldered Bat",
+  "scientificName": "Sturnira luisi",
+  "wikibase_item": "Q1831268",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 11950402,
+      "id": "Q11950402"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1831268",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis's_yellow-shouldered_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Louis's yellow-shouldered bat is a species of bat in the family Phyllostomidae. It is found in Colombia, Costa Rica, Ecuador, Panama, and Peru.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Distribution_of_Sturnira_luisi.png"
+}

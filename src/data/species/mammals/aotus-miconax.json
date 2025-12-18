@@ -1,0 +1,25 @@
+{
+  "id": "aotus-miconax",
+  "name": "Peruvian night monkey",
+  "scientificName": "Aotus miconax",
+  "wikibase_item": "Q490226",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 469636,
+      "id": "Q469636"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q490226",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peruvian_night_monkey"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Peruvian night monkey, also known as the Andean night monkey, is a nocturnal New World monkey endemic to northern Peru. Adults weigh around 1 kg (2.2 lb) and measure up to 50 cm (20 in) in length. Its colour is grey to light brown with characteristic black and white markings on the face. The chest, belly and upper arms are orange tinged, however, to a lesser extent then Aotus nigriceps.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Amiconax_FMC.jpg"
+}

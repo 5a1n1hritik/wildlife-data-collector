@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-tarfayaensis",
+  "name": "Saharan Shrew",
+  "scientificName": "Crocidura tarfayaensis",
+  "wikibase_item": "Q1770876",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770876",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saharan_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Saharan shrew is a species of mammal in the family Soricidae. It is found in Western Sahara, Mauritania and Morocco. Its natural habitats are rocky areas and sandy shores.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Saharan_Shrew_area.png"
+}

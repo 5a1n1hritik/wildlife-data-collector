@@ -1,0 +1,25 @@
+{
+  "id": "ursus-arctos",
+  "name": "Ursus arctos",
+  "scientificName": "Ursus arctos",
+  "wikibase_item": "Q36341",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 243359,
+      "id": "Q243359"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36341",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brown_bear"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The brown bear is a large bear native to Eurasia and North America. Of the land carnivorans, it is rivaled in size only by its closest relative, the polar bear, which is much less variable in size and slightly bigger on average. The brown bear is a sexually dimorphic species, as adult males are larger and more compactly built than females. The fur ranges in color from cream to reddish to dark brown. It has evolved large hump muscles, unique among bears, and paws up to 21 cm (8.3 in) wide and 36 cm (14 in) long, to effectively dig through dirt. Its teeth are similar to those of other bears and reflect its dietary plasticity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg"
+}

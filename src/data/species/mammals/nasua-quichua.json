@@ -1,0 +1,22 @@
+{
+  "id": "nasua-quichua",
+  "name": "Nasua quichua",
+  "scientificName": "Nasua quichua",
+  "wikibase_item": "Q40529383",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148628,
+      "id": "Q148628"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40529383"
+  },
+  "lastUpdated": "2025-12-17"
+}

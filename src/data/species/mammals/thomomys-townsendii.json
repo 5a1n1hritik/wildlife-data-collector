@@ -1,0 +1,25 @@
+{
+  "id": "thomomys-townsendii",
+  "name": "Townsend's pocket gopher",
+  "scientificName": "Thomomys townsendii",
+  "wikibase_item": "Q45595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1094704,
+      "id": "Q1094704"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45595",
+    "wikipedia": "https://en.wikipedia.org/wiki/Townsend's_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Townsend's pocket gopher is a species of pocket gopher endemic to the northwestern United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Townsend%27s_Pocket_Gopher_imported_from_iNaturalist_photo_82264531_on_18_April_2022_%28cropped%29.jpg"
+}

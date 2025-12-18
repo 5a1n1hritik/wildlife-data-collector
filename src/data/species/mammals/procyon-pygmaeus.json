@@ -1,0 +1,25 @@
+{
+  "id": "procyon-pygmaeus",
+  "name": "Cozumel raccoon",
+  "scientificName": "Procyon pygmaeus",
+  "wikibase_item": "Q651814",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 148856,
+      "id": "Q148856"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q651814",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cozumel_raccoon"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cozumel raccoon is a critically endangered species of island raccoon endemic on Cozumel Island off the coast of the Yucatan Peninsula, Mexico. It is sometimes also called the pygmy raccoon, dwarf raccoon, Cozumel Island raccoon, and Cozumel raccoon bear.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cozumel_Raccoon2.jpg"
+}

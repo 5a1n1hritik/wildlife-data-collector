@@ -1,0 +1,22 @@
+{
+  "id": "camelus-guanicoe",
+  "name": "Camelus guanicoe",
+  "scientificName": "Camelus guanicoe",
+  "wikibase_item": "Q27064372",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 7375,
+      "id": "Q7375"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27064372"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mesotaria-ambigua",
+  "name": "Mesotaria ambigua",
+  "scientificName": "Mesotaria ambigua",
+  "wikibase_item": "Q41166033",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41155566,
+      "id": "Q41155566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41166033"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sorex-coronatus",
+  "name": "Crowned shrew",
+  "scientificName": "Sorex coronatus",
+  "wikibase_item": "Q1763035",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6132548,
+      "id": "Q6132548"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763035",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crowned_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The crowned shrew or Millet's shrew is a species of mammal in the family Soricidae. It is found in Austria, Belgium, France, Germany, Liechtenstein, the Netherlands, Spain, Switzerland, and the British island of Jersey. It is almost indistinguishable from the common shrew; its habits and habitats are identical. However it has a different karyotype, is slightly smaller, and has small morphological differences, such as a longer rostrum relative to length of skull.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sorex_coronatus.jpeg"
+}

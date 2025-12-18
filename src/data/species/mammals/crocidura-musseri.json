@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-musseri",
+  "name": "Crocidura musseri",
+  "scientificName": "Crocidura musseri",
+  "wikibase_item": "Q578342",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q578342",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mossy_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mossy forest shrew is a species of shrew native to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mossy_Forest_Shrew_area.png"
+}

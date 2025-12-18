@@ -1,0 +1,22 @@
+{
+  "id": "myotis-desertorum",
+  "name": "Myotis desertorum",
+  "scientificName": "Myotis desertorum",
+  "wikibase_item": "Q41085374",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41085374"
+  },
+  "lastUpdated": "2025-12-17"
+}

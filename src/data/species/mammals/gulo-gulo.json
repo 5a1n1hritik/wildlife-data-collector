@@ -1,0 +1,25 @@
+{
+  "id": "gulo-gulo",
+  "name": "wolverine",
+  "scientificName": "Gulo gulo",
+  "wikibase_item": "Q14334",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 16894566,
+      "id": "Q16894566"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14334",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolverine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The wolverine, also called the carcajou or quickhatch, is the largest land-dwelling member of the family Mustelidae. It is a muscular carnivore and a solitary animal. The wolverine has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger than itself.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gulo_gulo_2.jpg"
+}

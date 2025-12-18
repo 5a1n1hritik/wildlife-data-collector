@@ -1,0 +1,25 @@
+{
+  "id": "dermanura-rosenbergi",
+  "name": "Dermanura rosenbergi",
+  "scientificName": "Dermanura rosenbergi",
+  "wikibase_item": "Q28000585",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5262681,
+      "id": "Q5262681"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28000585",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosenberg's_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Rosenberg's fruit-eating bat is a species of bat in the family Phyllostomidae. It is found in humid tropical forests in the El Chocó region on the coast of western Colombia and northwestern Ecuador at altitudes below 500 m. Until recently it was included within D. glauca, a canopy frugivore that also eats insects. It was elevated to full species status in 2009. The specific name is in honor of collector W. F. H. Rosenberg. The species is regarded as common, but is likely threatened by the deforestation of its habitat.",
+  "image": null
+}

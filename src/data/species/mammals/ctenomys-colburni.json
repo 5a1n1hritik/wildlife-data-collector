@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-colburni",
+  "name": "Colburn's tuco-tuco",
+  "scientificName": "Ctenomys colburni",
+  "wikibase_item": "Q1765233",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765233",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colburn's_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Colburn's tuco-tuco is a species of rodent in the family Ctenomyidae. Its only known habitat is in Argentina.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ctenomys_colburni_204747802.jpg"
+}

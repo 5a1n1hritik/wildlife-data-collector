@@ -1,0 +1,25 @@
+{
+  "id": "rhinosciurus-laticaudatus",
+  "name": "Shrew-faced squirrel",
+  "scientificName": "Rhinosciurus laticaudatus",
+  "wikibase_item": "Q1762287",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12266531,
+      "id": "Q12266531"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762287",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shrew-faced_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The shrew-faced squirrel, also known as the long-nosed squirrel, is a species of rodent in the family Sciuridae. It is monotypic within the genus Rhinosciurus. It is found in forests in Peninsular Malaysia, Singapore, Sumatra and Borneo. This peculiar, terrestrial squirrel mainly feeds on insects and earthworms. It quite closely resembles a Tupaia treeshrew in appearance, but the shrew-faced squirrel can be recognized by its shorter gape, and shorter and more bushy tail.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rhinosciurus_laticaudatus_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02804.JPG"
+}

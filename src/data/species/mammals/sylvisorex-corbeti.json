@@ -1,0 +1,25 @@
+{
+  "id": "sylvisorex-corbeti",
+  "name": "Sylvisorex corbeti",
+  "scientificName": "Sylvisorex corbeti",
+  "wikibase_item": "Q21317879",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134481,
+      "id": "Q134481"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21317879",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corbet's_forest_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Corbet's forest shrew is a species of mammal in the family Soricidae. It is known from a single specimen found in the Mambilla Plateau in Nigeria; its range likely extends into neighboring Cameroon. The specimen was found in a forest swamp, at an elevation of 1,900 metres (6,200 ft).",
+  "image": null
+}

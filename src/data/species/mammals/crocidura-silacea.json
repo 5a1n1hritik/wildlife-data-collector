@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-silacea",
+  "name": "Lesser gray-brown musk shrew",
+  "scientificName": "Crocidura silacea",
+  "wikibase_item": "Q1763665",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763665",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesser_gray-brown_musk_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The lesser gray-brown musk shrew is a species of mammal in the family Soricidae. It is found in Angola, Malawi, Mozambique, South Africa, Swaziland, Tanzania, Uganda, Zambia, and Zimbabwe. Its natural habitats are dry savanna, subtropical or tropical dry shrubland, Mediterranean-type shrubby vegetation, subtropical or tropical high-elevation grassland, and rocky areas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lesser_Gray-brown_Musk_Shrew_area.png"
+}

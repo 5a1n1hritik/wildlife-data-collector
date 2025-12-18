@@ -1,0 +1,25 @@
+{
+  "id": "oligoryzomys-brendae",
+  "name": "Oligoryzomys brendae",
+  "scientificName": "Oligoryzomys brendae",
+  "wikibase_item": "Q1766042",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244303,
+      "id": "Q244303"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1766042",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oligoryzomys_brendae"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Oligoryzomys brendae, also known as Brenda's colilargo, is a South American species of rodent in the genus Oligoryzomys. It is found only in Tucumán Province in northwestern Argentina, but its taxonomic status requires revision.",
+  "image": null
+}

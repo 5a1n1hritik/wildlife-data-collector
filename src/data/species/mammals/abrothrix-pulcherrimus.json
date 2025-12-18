@@ -1,0 +1,22 @@
+{
+  "id": "abrothrix-pulcherrimus",
+  "name": "Abrothrix pulcherrimus",
+  "scientificName": "Abrothrix pulcherrimus",
+  "wikibase_item": "Q48789822",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 480824,
+      "id": "Q480824"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48789822"
+  },
+  "lastUpdated": "2025-12-17"
+}

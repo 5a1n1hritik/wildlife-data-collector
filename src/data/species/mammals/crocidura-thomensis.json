@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-thomensis",
+  "name": "São Tomé Shrew",
+  "scientificName": "Crocidura thomensis",
+  "wikibase_item": "Q306539",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306539",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The São Tomé shrew is a white-toothed shrew about 3.0 in (7.6 cm) long found only on São Tomé Island, São Tomé and Príncipe. It is listed as a critically endangered species due to habitat loss and a restricted range. It was discovered in 1886. The population continues to decrease, making these animals rare. It is found only on São Tomé Island, a small island that is actually a shield volcano that rises out of the Atlantic Ocean.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Crocidura_thomensis_-_Ricardo_Lima_-_161779472.jpeg"
+}

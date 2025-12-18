@@ -1,0 +1,25 @@
+{
+  "id": "myodes-centralis",
+  "name": "Tien Shan Red-Backed Vole",
+  "scientificName": "Myodes centralis",
+  "wikibase_item": "Q303513",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 644476,
+      "id": "Q644476"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303513",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tien_Shan_red-backed_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Tien Shan red-backed vole is a species of rodent in the family Cricetidae. It is found in the Tian Shan Mountains of northwestern China, southeastern Kazakhstan, and Kyrgyzstan.",
+  "image": null
+}

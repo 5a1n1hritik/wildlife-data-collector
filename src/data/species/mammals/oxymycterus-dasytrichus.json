@@ -1,0 +1,25 @@
+{
+  "id": "oxymycterus-dasytrichus",
+  "name": "Atlantic Forest hocicudo",
+  "scientificName": "Oxymycterus dasytrichus",
+  "wikibase_item": "Q1770196",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 766177,
+      "id": "Q766177"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1770196",
+    "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Forest_hocicudo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Atlantic Forest hocicudo is a species of rodent in the family Cricetidae. \nIt is found only in southeastern Brazil, where it lives in the Atlantic Forest and associated wetlands at altitudes from sea level to 800 m (2,600 ft).",
+  "image": null
+}

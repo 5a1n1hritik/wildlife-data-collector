@@ -1,0 +1,22 @@
+{
+  "id": "octodon-cumingii",
+  "name": "Octodon cumingii",
+  "scientificName": "Octodon cumingii",
+  "wikibase_item": "Q41009489",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 628979,
+      "id": "Q628979"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41009489"
+  },
+  "lastUpdated": "2025-12-17"
+}

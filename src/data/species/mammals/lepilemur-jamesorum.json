@@ -1,0 +1,25 @@
+{
+  "id": "lepilemur-jamesorum",
+  "name": "Lepilemur jamesorum",
+  "scientificName": "Lepilemur jamesi",
+  "wikibase_item": "Q1209786",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1209786",
+    "wikipedia": "https://en.wikipedia.org/wiki/James'_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "James' sportive lemur, or the Manombo sportive lemur, is a sportive lemur endemic to Madagascar. Like all members of its genus, it is nocturnal and largely folivorous. It is threatened by habitat loss and unsustainable hunting.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lepilemur_jamesorum_range_map.svg/960px-Lepilemur_jamesorum_range_map.svg.png"
+}

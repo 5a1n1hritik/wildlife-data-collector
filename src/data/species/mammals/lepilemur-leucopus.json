@@ -1,0 +1,25 @@
+{
+  "id": "lepilemur-leucopus",
+  "name": "Lepilemur leucopus",
+  "scientificName": "Lepilemur leucopus",
+  "wikibase_item": "Q747834",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 834470,
+      "id": "Q834470"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q747834",
+    "wikipedia": "https://en.wikipedia.org/wiki/White-footed_sportive_lemur"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The white-footed sportive lemur, white-footed weasel lemur, or dry-bush weasel lemur is a species of lemur in the family Lepilemuridae, the sportive lemurs. It is similar in appearance to other lemurs in the family, with a grey back, a pale grey to white ventral side, and a light brown tail. It is a nocturnal animal that moves through the forest using a vertical clinging and leaping technique. It is endemic to Madagascar, inhabiting the southern subtropical or tropical dry shrubland. It is threatened by habitat loss due to agriculture practices and charcoal production.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/White-footed_Sportive_Lemur_%28Lepilemur_leucopus%29_%289598840071%29.jpg"
+}

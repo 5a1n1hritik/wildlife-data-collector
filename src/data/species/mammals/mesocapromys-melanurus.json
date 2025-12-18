@@ -1,0 +1,25 @@
+{
+  "id": "mesocapromys-melanurus",
+  "name": "Black-tailed hutia",
+  "scientificName": "Mesocapromys melanurus",
+  "wikibase_item": "Q1765900",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244182,
+      "id": "Q244182"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765900",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-tailed_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-tailed hutia, also known as the bushy-tailed hutia, is a small, furry, rat-like mammal found only in Cuba. It lives in lowland moist forests and is threatened by habitat loss. It is a member of the hutia subfamily (Capromyinae), a group of rodents native to the Caribbean that are mostly endangered or extinct.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/CapromysMelanurusSmit.jpg"
+}

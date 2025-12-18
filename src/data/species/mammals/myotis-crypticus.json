@@ -1,0 +1,25 @@
+{
+  "id": "myotis-crypticus",
+  "name": "Myotis crypticus",
+  "scientificName": "Myotis crypticus",
+  "wikibase_item": "Q61765729",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61765729",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cryptic_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The cryptic myotis is a European vespertilionid bat. It is a member of the Natterer's bat species complex, and is also the closest living relative of M. nattereri.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Myotis_crypticus_-_Manuel_Ruedi.jpg"
+}

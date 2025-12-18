@@ -1,0 +1,22 @@
+{
+  "id": "vampyrictis-vipera",
+  "name": "Vampyrictis vipera",
+  "scientificName": "Vampyrictis vipera",
+  "wikibase_item": "Q120411705",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 85990324,
+      "id": "Q85990324"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120411705"
+  },
+  "lastUpdated": "2025-12-17"
+}

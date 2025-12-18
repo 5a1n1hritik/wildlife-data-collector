@@ -1,0 +1,25 @@
+{
+  "id": "crocidura-balingka",
+  "name": "Crocidura balingka",
+  "scientificName": "Crocidura balingka",
+  "wikibase_item": "Q124448813",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 935495,
+      "id": "Q935495"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124448813",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crocidura_balingka"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Crocidura balingka, the Balingka white-toothed shrew, is a species of shrew in the genus Crocidura known from Mount Singgalang on Sumatra, where it occurs only above 2,000 metres (6,600 ft). It is named after the people of the village of Balingka in Agam Regency for their assistance to biologists studying the local fauna. The species was first described in 2024 by a team of scientists from the United States and Indonesia. DNA evidence indicates that it is most closely related to Crocidura dewi, another Mount Singgalang endemic, and to Crocidura aequicauda, which is from another mountain on Sumatra.",
+  "image": null
+}

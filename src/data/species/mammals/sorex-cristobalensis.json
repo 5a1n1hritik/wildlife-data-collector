@@ -1,0 +1,22 @@
+{
+  "id": "sorex-cristobalensis",
+  "name": "Sorex cristobalensis",
+  "scientificName": "Sorex cristobalensis",
+  "wikibase_item": "Q42391359",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42391359"
+  },
+  "lastUpdated": "2025-12-17"
+}

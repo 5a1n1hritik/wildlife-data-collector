@@ -1,0 +1,25 @@
+{
+  "id": "sylvilagus-incitatus",
+  "name": "Sylvilagus incitatus",
+  "scientificName": "Sylvilagus incitatus",
+  "wikibase_item": "Q125849287",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 748448,
+      "id": "Q748448"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125849287",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_tapeti"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern tapeti is a species of cottontail rabbit related to the Central American tapeti. Its type locality is an island in the Pearl Islands of Panama. Previously it was considered a subspecies of the Central American tapeti, and later of the common tapeti from 1950 onwards, it was split into its own separate species in 2019, with researchers noting its \"bizarre dental anatomy\".",
+  "image": null
+}

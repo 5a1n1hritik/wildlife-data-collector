@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-edulis",
+  "name": "Pteropus edulis",
+  "scientificName": "Pteropus edulis",
+  "wikibase_item": "Q122609337",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122609337",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black-eared_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black-eared flying fox, species Pteropus melanotus, is a bat of the family Pteropodidae (megabats). Also known as Blyth's flying fox, it is found on the Andaman Islands and Nicobar Islands (India), and in Sumatra (Indonesia). A population on Christmas Island, which is critically endangered, has been placed as a subspecies of this population, although it may be a distinct species. Pteropus natalis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pteropus_melanotus_natalis_-_the_Christmas_Island_flying-fox.jpg"
+}

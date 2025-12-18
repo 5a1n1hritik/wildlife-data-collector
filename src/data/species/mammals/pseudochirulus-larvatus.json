@@ -1,0 +1,25 @@
+{
+  "id": "pseudochirulus-larvatus",
+  "name": "Masked ringtail possum",
+  "scientificName": "Pseudochirulus larvatus",
+  "wikibase_item": "Q209616",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 625433,
+      "id": "Q625433"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209616",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masked_ringtail_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The masked ringtail possum is a marsupial possum of the family Pseudocheiridae. It is found in northeastern New Guinea in the Star Mountains. the eastern Central Cordillera, the Huon Peninsula and the northern coast ranges. Masked ringtails are arboreal residents of various forest ecosystems. They are sexually dimorphic and locally common. This species is sometimes classified as a subpopulation of P. forbesi; however, it has a separate range.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/1928.10.1.22_Skin_Dorsal_Skins-3_MG_1893-S.jpg"
+}

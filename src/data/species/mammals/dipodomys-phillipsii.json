@@ -1,0 +1,25 @@
+{
+  "id": "dipodomys-phillipsii",
+  "name": "Phillips' kangaroo rat",
+  "scientificName": "Dipodomys phillipsii",
+  "wikibase_item": "Q306215",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q306215",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phillips's_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Phillips's kangaroo rat is a species of rodent in the family Heteromyidae. It is endemic to Mexico. Its natural habitat is hot deserts.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dipodomys_phillipsii_perotensis_4697586.jpg"
+}

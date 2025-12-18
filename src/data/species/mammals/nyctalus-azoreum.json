@@ -1,0 +1,25 @@
+{
+  "id": "nyctalus-azoreum",
+  "name": "Azores noctule",
+  "scientificName": "Nyctalus azoreum",
+  "wikibase_item": "Q794037",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 319018,
+      "id": "Q319018"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q794037",
+    "wikipedia": "https://en.wikipedia.org/wiki/Azores_noctule"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Azores noctule is a species of bat found in the dry forests of the Azores. It is the only species of mammal endemic to the Azores. It has been recorded on most of the islands of the Azores, and remains common on some but is rare on others. Its numbers are threatened due to habitat loss caused by humans, and the remaining populations are quite fragmented. It is known to roost in hollowed-out trees, buildings, and caves.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nyctalus_azoreum.jpg"
+}

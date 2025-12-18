@@ -1,0 +1,25 @@
+{
+  "id": "hydromys-habbema",
+  "name": "Hydromys habbema",
+  "scientificName": "Hydromys habbema",
+  "wikibase_item": "Q301819",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668884,
+      "id": "Q668884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301819",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mountain_water_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The mountain water rat is a semiaquatic species of rodent in the family Muridae.\nIt is found in West Papua, Indonesia and Papua New Guinea.\nIts natural habitat is rivers.",
+  "image": null
+}

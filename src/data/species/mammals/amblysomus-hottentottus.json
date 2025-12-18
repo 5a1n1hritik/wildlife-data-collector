@@ -1,0 +1,22 @@
+{
+  "id": "amblysomus-hottentottus",
+  "name": "Amblysomus hottentottus",
+  "scientificName": "Amblysomus hottentottus",
+  "wikibase_item": "Q41169329",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 886906,
+      "id": "Q886906"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41169329"
+  },
+  "lastUpdated": "2025-12-17"
+}

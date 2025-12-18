@@ -1,0 +1,25 @@
+{
+  "id": "geomys-arenarius",
+  "name": "Desert pocket gopher",
+  "scientificName": "Geomys arenarius",
+  "wikibase_item": "Q1763373",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1009351,
+      "id": "Q1009351"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763373",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desert_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The desert pocket gopher is a species of rodent in the family Geomyidae. It is found in the state of Chihuahua in Mexico and in Texas and New Mexico in the United States.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Desert_pocket_gopher.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cryptomys-mechowi",
+  "name": "Cryptomys mechowi",
+  "scientificName": "Cryptomys mechowi",
+  "wikibase_item": "Q20745897",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 136488,
+      "id": "Q136488"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20745897",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mechow's_mole-rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mechow's mole-rat is a species of rodent in the family Bathyergidae. It is found in Angola, Democratic Republic of the Congo, Zambia, and possibly Malawi. Its natural habitats are moist savanna, subtropical or tropical dry shrubland, and subtropical or tropical dry lowland grassland. This mole-rat was first described by the German naturalist Wilhelm Peters in 1881. The specific epithet honours the Prussian explorer and naturalist Friedrich Wilhelm Alexander von Mechow.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cryptomys_mechowi_Plzen_zoo_02.2011.jpg"
+}

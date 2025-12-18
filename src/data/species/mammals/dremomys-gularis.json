@@ -1,0 +1,25 @@
+{
+  "id": "dremomys-gularis",
+  "name": "Red-throated squirrel",
+  "scientificName": "Dremomys gularis",
+  "wikibase_item": "Q1762985",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909825,
+      "id": "Q909825"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762985",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-throated_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-throated squirrel is a rodent of the family Sciuridae. This species of rodent is distributed in parts of southeastern Asia, in areas of the Red River Valley of northern Vietnam and southern central Yunnan in China. The red-throated squirrel is sympatric with another member of the same genus, D. rufigenis, but lives at higher altitudes.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "onychomys-leucogaster",
+  "name": "Onychomys leucogaster",
+  "scientificName": "Onychomys leucogaster",
+  "wikibase_item": "Q1769900",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 369761,
+      "id": "Q369761"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769900",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_grasshopper_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern grasshopper mouse is a North American carnivorous rodent of the family Cricetidae. It ranges over much of the western part of the continent, from southern Saskatchewan and central Washington to Tamaulipas in northeast Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/ARCH_rodent.jpg"
+}

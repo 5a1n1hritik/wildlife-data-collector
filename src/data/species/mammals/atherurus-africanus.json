@@ -1,0 +1,25 @@
+{
+  "id": "atherurus-africanus",
+  "name": "African brush-tailed porcupine",
+  "scientificName": "Atherurus africanus",
+  "wikibase_item": "Q787416",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 780143,
+      "id": "Q780143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q787416",
+    "wikipedia": "https://en.wikipedia.org/wiki/African_brush-tailed_porcupine"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The African brush-tailed porcupine is a species of rat-like Old World porcupine, indigenous to a broad belt of Africa ranging from Guinea on the west coast to Kenya on the east. This is a common species with a very wide range, and despite it being used extensively for bushmeat, the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Atherurus_africanus_-_Royal_Museum_for_Central_Africa_-_DSC06768.JPG"
+}

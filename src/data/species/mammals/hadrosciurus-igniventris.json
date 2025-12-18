@@ -1,0 +1,22 @@
+{
+  "id": "hadrosciurus-igniventris",
+  "name": "Hadrosciurus igniventris",
+  "scientificName": "Hadrosciurus igniventris",
+  "wikibase_item": "Q63967550",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 65204443,
+      "id": "Q65204443"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63967550"
+  },
+  "lastUpdated": "2025-12-17"
+}

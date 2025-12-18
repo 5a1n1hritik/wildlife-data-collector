@@ -1,0 +1,25 @@
+{
+  "id": "congosorex-phillipsorum",
+  "name": "Congosorex phillipsorum",
+  "scientificName": "Congosorex phillipsorum",
+  "wikibase_item": "Q2016888",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 134766,
+      "id": "Q134766"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2016888",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phillips'_Congo_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Phillips' Congo shrew is a species of mammal in the family Soricidae. It is endemic to Tanzania.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chiropotes-utahicki",
+  "name": "Chiropotes utahicki",
+  "scientificName": "Chiropotes utahicki",
+  "wikibase_item": "Q125859598",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 809594,
+      "id": "Q809594"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125859598",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uta_Hick's_bearded_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Uta Hick's bearded saki is an endangered species of bearded saki, a type of New World monkey. It is endemic to Brazil, where restricted to the Amazon between the Xingu and Tocantins Rivers. It was formerly treated as a subspecies of the more easterly C. satanas, but its back is pale brownish.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Chiropotes_utahickae.jpg"
+}

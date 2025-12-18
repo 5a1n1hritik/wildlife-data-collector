@@ -1,0 +1,25 @@
+{
+  "id": "bradypus-pygmaeus",
+  "name": "Pygmy three-toed sloth",
+  "scientificName": "Bradypus pygmaeus",
+  "wikibase_item": "Q244121",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 185167,
+      "id": "Q185167"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244121",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmy_three-toed_sloth"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The pygmy three-toed sloth, also known as the monk sloth or dwarf sloth, is a species of sloth in the family Bradypodidae. The species is endemic to Isla Escudo de Veraguas, a small island off the Caribbean coast of Panama. The species was first described by Robert P. Anderson of the University of Kansas and Charles O. Handley Jr., of the Smithsonian Institution in 2001. The pygmy three-toed sloth is significantly smaller than the other three members of its genus, but otherwise resembles the brown-throated three-toed sloth. According to Anderson and Handley Jr., the head-and-body length is between 48 and 53 centimetres, and the body mass ranges from 2.5 to 3.5 kg.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bradypus_pygmaeus.jpg"
+}

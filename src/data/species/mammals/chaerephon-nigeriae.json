@@ -1,0 +1,25 @@
+{
+  "id": "chaerephon-nigeriae",
+  "name": "Nigerian free-tailed bat",
+  "scientificName": "Chaerephon nigeriae",
+  "wikibase_item": "Q1832845",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1454665,
+      "id": "Q1454665"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832845",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigerian_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Nigerian free-tailed bat is a species of bat in the family Molossidae. It is native to two widely separated parts of Africa, and is sometimes considered to represent two separate species.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Naturalis_Biodiversity_Center_-_ZMA.MAM.19183.b_dor_-_Chaerephon_nigeriae_-_skin.jpeg"
+}

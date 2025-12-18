@@ -1,0 +1,25 @@
+{
+  "id": "caenolestes-convelatus",
+  "name": "Northern caenolestid",
+  "scientificName": "Caenolestes convelatus",
+  "wikibase_item": "Q194409",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1303333,
+      "id": "Q1303333"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194409",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northern_caenolestid"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northern caenolestid, also known as the blackish shrew opossum, is a shrew opossum found in Colombia and Ecuador. It is listed as Vulnerable by the IUCN.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._%281910%29_%2817809659984%29.jpg"
+}

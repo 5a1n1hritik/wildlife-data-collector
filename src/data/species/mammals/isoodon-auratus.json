@@ -1,0 +1,25 @@
+{
+  "id": "isoodon-auratus",
+  "name": "Golden bandicoot",
+  "scientificName": "Isoodon auratus",
+  "wikibase_item": "Q194264",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475031,
+      "id": "Q1475031"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194264",
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_bandicoot"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The golden bandicoot is a short-nosed bandicoot found in northern Australia. It is the smallest of its genus, and is distinguished from the brown bandicoots by its golden colouring and much smaller size.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Isoodon_auratus.jpg"
+}

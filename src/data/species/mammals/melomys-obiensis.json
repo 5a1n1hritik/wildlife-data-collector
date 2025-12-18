@@ -1,0 +1,25 @@
+{
+  "id": "melomys-obiensis",
+  "name": "Obi mosaic-tailed rat",
+  "scientificName": "Melomys obiensis",
+  "wikibase_item": "Q1767047",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767047",
+    "wikipedia": "https://en.wikipedia.org/wiki/Obi_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Obi mosaic-tailed rat is a species of rodent in the family Muridae.\nIt is found only in Indonesia.",
+  "image": null
+}

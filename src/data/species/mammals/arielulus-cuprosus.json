@@ -1,0 +1,25 @@
+{
+  "id": "arielulus-cuprosus",
+  "name": "Coppery pipistrelle",
+  "scientificName": "Arielulus cuprosus",
+  "wikibase_item": "Q946485",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 777103,
+      "id": "Q777103"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q946485",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coppery_sprite"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coppery sprite, also known as the coppery pipistrelle, is a species of vesper bat found only in Malaysia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Arielulus_cuprosus_distribution_%28colored%29.png"
+}

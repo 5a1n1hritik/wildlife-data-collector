@@ -1,0 +1,22 @@
+{
+  "id": "paraechinus-ludlowi",
+  "name": "Paraechinus ludlowi",
+  "scientificName": "Paraechinus ludlowi",
+  "wikibase_item": "Q41086557",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650378,
+      "id": "Q650378"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41086557"
+  },
+  "lastUpdated": "2025-12-17"
+}

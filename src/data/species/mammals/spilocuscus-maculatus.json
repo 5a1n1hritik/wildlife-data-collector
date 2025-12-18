@@ -1,0 +1,25 @@
+{
+  "id": "spilocuscus-maculatus",
+  "name": "Common spotted cuscus",
+  "scientificName": "Spilocuscus maculatus",
+  "wikibase_item": "Q209548",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475049,
+      "id": "Q1475049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209548",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_spotted_cuscus"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The common spotted cuscus, also known as the white cuscus, is a cuscus, a marsupial that lives in the Cape York region of Australia, New Guinea, and nearby smaller islands.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Phalanger_maculatus_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03051.JPG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tupaia-discolor",
+  "name": "Tupaia discolor",
+  "scientificName": "Tupaia discolor",
+  "wikibase_item": "Q62605812",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 258827,
+      "id": "Q258827"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62605812",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bangka_Island_treeshrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Bangka Island treeshrew, also known as the Bangkan treeshrew, is a treeshrew species within the Tupaiidae. It was previously listed as a junior synonym to Tupaia glis, but was raised up to species status in 2013. It is only found on Bangka Island, which is off the coast of Sumatra. While there is no study yet about its habitat, it may be similar to T. glis's which resides in primary dipterocarp forest. It is likely that it is threatened by local deforestation.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bangka_Island_treeshrew_range.jpg"
+}

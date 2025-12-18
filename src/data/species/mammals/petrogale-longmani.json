@@ -1,0 +1,22 @@
+{
+  "id": "petrogale-longmani",
+  "name": "Petrogale longmani",
+  "scientificName": "Petrogale longmani",
+  "wikibase_item": "Q41086809",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41086809"
+  },
+  "lastUpdated": "2025-12-17"
+}

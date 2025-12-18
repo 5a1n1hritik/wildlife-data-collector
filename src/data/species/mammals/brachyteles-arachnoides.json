@@ -1,0 +1,25 @@
+{
+  "id": "brachyteles-arachnoides",
+  "name": "Southern muriqui",
+  "scientificName": "Brachyteles arachnoides",
+  "wikibase_item": "Q1140418",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 857477,
+      "id": "Q857477"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1140418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_muriqui"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The southern muriqui is a muriqui species endemic to Brazil.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Brachyteles_arachnoides_1.jpg"
+}

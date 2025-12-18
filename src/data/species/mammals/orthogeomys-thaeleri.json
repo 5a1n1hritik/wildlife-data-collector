@@ -1,0 +1,25 @@
+{
+  "id": "orthogeomys-thaeleri",
+  "name": "Thaeler's pocket gopher",
+  "scientificName": "Orthogeomys thaeleri",
+  "wikibase_item": "Q1765745",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 20871738,
+      "id": "Q20871738"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765745",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darien_pocket_gopher"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Darien pocket gopher is a species of rodent in the family Geomyidae. It occurs in Panama and Colombia. Some authors classify it in the genus Orthogeomys, but later research has allowed this and its related species to be classified in the genus Heterogeomys.",
+  "image": null
+}

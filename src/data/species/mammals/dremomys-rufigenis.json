@@ -1,0 +1,25 @@
+{
+  "id": "dremomys-rufigenis",
+  "name": "Asian red-cheeked squirrel",
+  "scientificName": "Dremomys rufigenis",
+  "wikibase_item": "Q307818",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909825,
+      "id": "Q909825"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307818",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asian_red-cheeked_squirrel"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Asian red-cheeked squirrel is a species of rodent in the family Sciuridae. It is found in south-eastern Asia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dremomys_rufigenis.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "typhlomys-primitivus",
+  "name": "Typhlomys primitivus",
+  "scientificName": "Typhlomys primitivus",
+  "wikibase_item": "Q20072461",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1325936,
+      "id": "Q1325936"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20072461"
+  },
+  "lastUpdated": "2025-12-17"
+}

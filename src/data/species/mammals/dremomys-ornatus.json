@@ -1,0 +1,22 @@
+{
+  "id": "dremomys-ornatus",
+  "name": "Dremomys ornatus",
+  "scientificName": "Dremomys ornatus",
+  "wikibase_item": "Q125253595",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 909825,
+      "id": "Q909825"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125253595"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lyroderma-lyra",
+  "name": "Lyroderma lyra",
+  "scientificName": "Lyroderma lyra",
+  "wikibase_item": "Q125912588",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 125912580,
+      "id": "Q125912580"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125912588",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greater_false_vampire_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The greater false vampire bat is a species of bat in the family Megadermatidae, the false vampire bats. It is native to Asia. It is also known as the Indian false vampire bat or greater false-vampire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Greater_False_Vampire_Bat_%28Megaderma_lyra%29.jpg"
+}

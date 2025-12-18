@@ -1,0 +1,22 @@
+{
+  "id": "phascogale-rufogaster",
+  "name": "Phascogale rufogaster",
+  "scientificName": "Phascogale rufogaster",
+  "wikibase_item": "Q41087034",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1754387,
+      "id": "Q1754387"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41087034"
+  },
+  "lastUpdated": "2025-12-17"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-sturdeei",
+  "name": "Sturdee's Pipistrelle",
+  "scientificName": "Pipistrellus sturdeei",
+  "wikibase_item": "Q558306",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 6076606,
+      "id": "Q6076606"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558306",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sturdee's_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Sturdee's pipistrelle, also known as the Japanese bat or Bonin pipistrelle, is an extinct species of bat that was endemic to Japan. The last time this bat was seen was in 1889. However, The sturdee's pipistrelle was declared extinct between 1996 and 2004.",
+  "image": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "myotis-ruber",
+  "name": "Red myotis",
+  "scientificName": "Myotis ruber",
+  "wikibase_item": "Q2895581",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2895581",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_myotis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red myotis is a vesper bat species found in Argentina, Brazil, Paraguay and Uruguay.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Myotis_ruber_1847.jpg"
+}

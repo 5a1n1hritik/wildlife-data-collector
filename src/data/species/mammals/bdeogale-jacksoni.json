@@ -1,0 +1,25 @@
+{
+  "id": "bdeogale-jacksoni",
+  "name": "Jackson's mongoose",
+  "scientificName": "Bdeogale jacksoni",
+  "wikibase_item": "Q1583150",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1546563,
+      "id": "Q1546563"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1583150",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackson's_mongoose"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Jackson's mongoose is a mongoose species native to montane forests in Kenya, Uganda and Tanzania. It appears to be rare and has been classified as Near Threatened since 2008.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Jackson%27s_Mongoose_area.png"
+}

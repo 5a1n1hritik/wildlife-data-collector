@@ -1,0 +1,25 @@
+{
+  "id": "barbastella-darjelingensis",
+  "name": "Barbastella darjelingensis",
+  "scientificName": "Barbastella darjelingensis",
+  "wikibase_item": "Q104249740",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 338951,
+      "id": "Q338951"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104249740",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eastern_barbastelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The eastern barbastelle or Asian barbastelle is a species of vesper bat found throughout much of Asia, from Afghanistan to Taiwan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Range_Barbastella_darjelingensis.png"
+}

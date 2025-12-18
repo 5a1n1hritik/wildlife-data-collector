@@ -1,0 +1,25 @@
+{
+  "id": "potorous-platyops",
+  "name": "Potorous platyops",
+  "scientificName": "Potorous platyops",
+  "wikibase_item": "Q209609",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1475146,
+      "id": "Q1475146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209609",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broad-faced_potoroo"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The broad-faced potoroo is an extinct potoroid marsupial that was found in southwestern Australia. The first specimen was collected in 1839, and described by John Gould in 1844. Only a small number of specimens have been collected since. The last live capture was in 1875. Subfossil remains indicate that it had an extensive distribution around the semiarid coastal districts of Southwest Australia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Potorous_platyops_Natural_History_Museum_Pisa.jpg"
+}

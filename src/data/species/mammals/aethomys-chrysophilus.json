@@ -1,0 +1,25 @@
+{
+  "id": "aethomys-chrysophilus",
+  "name": "Red rock rat",
+  "scientificName": "Aethomys chrysophilus",
+  "wikibase_item": "Q307884",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 385933,
+      "id": "Q385933"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q307884",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_rock_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red rock rat or red veld rat is a species of rodent in the family Muridae native to southern Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Red_veld_rat.jpg"
+}

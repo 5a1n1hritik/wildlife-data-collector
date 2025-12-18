@@ -1,0 +1,25 @@
+{
+  "id": "cavia-nana",
+  "name": "Cavia nana",
+  "scientificName": "Cavia nana",
+  "wikibase_item": "Q40985439",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 286088,
+      "id": "Q286088"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40985439",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_guinea_pig"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Brazilian guinea pig is a wild guinea pig species found in Argentina, Brazil, Bolivia, Colombia, Ecuador, Guyana, Paraguay, Uruguay and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wildmeerschweinchen-06.jpg"
+}

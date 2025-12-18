@@ -1,0 +1,25 @@
+{
+  "id": "saccolaimus-mixtus",
+  "name": "Saccolaimus mixtus",
+  "scientificName": "Saccolaimus mixtus",
+  "wikibase_item": "Q1834270",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2340679,
+      "id": "Q2340679"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1834270",
+    "wikipedia": "https://en.wikipedia.org/wiki/Papuan_sheath-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Papuan sheath-tailed bat is a species of bat in the family Emballonuridae which occurs at the Cape York Peninsula and New Guinea. The poorly known species hunts in open forests for night flying insects.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Troughton%27s_Pouched_Bat_area.png"
+}

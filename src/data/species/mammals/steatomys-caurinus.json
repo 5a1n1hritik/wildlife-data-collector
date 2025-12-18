@@ -1,0 +1,25 @@
+{
+  "id": "steatomys-caurinus",
+  "name": "Northwestern Fat Mouse",
+  "scientificName": "Steatomys caurinus",
+  "wikibase_item": "Q1769521",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 513141,
+      "id": "Q513141"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769521",
+    "wikipedia": "https://en.wikipedia.org/wiki/Northwestern_fat_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The northwestern fat mouse is a species of rodent in the family Nesomyidae. It is native to tropical West Africa where it occurs on grassland and crop land.",
+  "image": null
+}

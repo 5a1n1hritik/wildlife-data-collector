@@ -1,0 +1,25 @@
+{
+  "id": "dactylopsila-trivirgata",
+  "name": "Striped possum",
+  "scientificName": "Dactylopsila trivirgata",
+  "wikibase_item": "Q210088",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 368980,
+      "id": "Q368980"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q210088",
+    "wikipedia": "https://en.wikipedia.org/wiki/Striped_possum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The striped possum or common striped possum is a member of the marsupial family Petauridae. It is found mainly in New Guinea. The species is black with three white stripes running head to tail, and its head has white stripes that form a 'Y' shape. It is closely related to the sugar glider, and is similar in appearance.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Striped_Possum_on_bananas_edited.jpg"
+}

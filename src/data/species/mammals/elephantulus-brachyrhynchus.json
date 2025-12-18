@@ -1,0 +1,25 @@
+{
+  "id": "elephantulus-brachyrhynchus",
+  "name": "Short-snouted elephant shrew",
+  "scientificName": "Elephantulus brachyrhynchus",
+  "wikibase_item": "Q1767975",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1326344,
+      "id": "Q1326344"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1767975",
+    "wikipedia": "https://en.wikipedia.org/wiki/Short-snouted_elephant_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The short-snouted elephant shrew or short-snouted sengi is a species of elephant shrew in the family Macroscelididae. It is found over a wide area of Africa. Its natural habitats are dry savanna and subtropical or tropical dry lowland grassland.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Elephantulus_brachyrhynchus_Smith_1839.jpg"
+}

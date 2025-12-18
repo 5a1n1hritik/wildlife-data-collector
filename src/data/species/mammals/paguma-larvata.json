@@ -1,0 +1,25 @@
+{
+  "id": "paguma-larvata",
+  "name": "masked palm civet",
+  "scientificName": "Paguma larvata",
+  "wikibase_item": "Q626049",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 19817074,
+      "id": "Q19817074"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626049",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masked_palm_civet"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The masked palm civet, also called the gem-faced civet or Himalayan palm civet, is a viverrid species native to the Indian subcontinent and Southeast Asia. It has been listed as least concern on the IUCN Red List since 2008 as it occurs in many protected areas, is tolerant to some degree of habitat modification, and widely distributed with presumed large populations that are unlikely to be declining.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Palm_civet_on_tree_%28detail%29.jpg"
+}

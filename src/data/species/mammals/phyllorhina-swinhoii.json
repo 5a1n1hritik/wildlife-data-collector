@@ -1,0 +1,22 @@
+{
+  "id": "phyllorhina-swinhoii",
+  "name": "Phyllorhina swinhoii",
+  "scientificName": "Phyllorhina swinhoii",
+  "wikibase_item": "Q41167096",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157094,
+      "id": "Q41157094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167096"
+  },
+  "lastUpdated": "2025-12-17"
+}

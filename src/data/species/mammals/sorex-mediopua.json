@@ -1,0 +1,25 @@
+{
+  "id": "sorex-mediopua",
+  "name": "Sorex mediopua",
+  "scientificName": "Sorex mediopua",
+  "wikibase_item": "Q2106948",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2106948",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jalisco_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Jalisco shrew  is a species of mammal in the family Soricidae. It is found in southern Mexico.",
+  "image": null
+}

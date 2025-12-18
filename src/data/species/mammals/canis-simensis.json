@@ -1,0 +1,25 @@
+{
+  "id": "canis-simensis",
+  "name": "Canis simensis",
+  "scientificName": "Canis simensis",
+  "wikibase_item": "Q188957",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 149892,
+      "id": "Q149892"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q188957",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_wolf"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ethiopian wolf, also called the red jackal, the Simien jackal or Simien fox, is a canine native to the Ethiopian Highlands. In southeastern Ethiopia, it is also known as the horse jackal. It is similar to the coyote in size and build, and is distinguished by its long and narrow skull, and its red and white fur. Unlike most large canids, which are widespread, generalist feeders, the Ethiopian wolf is a highly specialised feeder of Afroalpine rodents with very specific habitat requirements. It is one of the world's rarest canids, and Africa's most endangered carnivore.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg"
+}

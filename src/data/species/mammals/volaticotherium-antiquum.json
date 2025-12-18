@@ -1,0 +1,25 @@
+{
+  "id": "volaticotherium-antiquum",
+  "name": "Volaticotherium antiquum",
+  "scientificName": "Volaticotherium antiquum",
+  "wikibase_item": "Q22113625",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 132474,
+      "id": "Q132474"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22113625",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volaticotherium"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Volaticotherium antiquum is an extinct, gliding, insectivorous mammal that lived in Asia during the Jurassic period, around 164 mya. It is the only member of the genus Volaticotherium.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Volaticotherium-Paleozoological_Museum_of_China_%28cropped%29.jpg"
+}

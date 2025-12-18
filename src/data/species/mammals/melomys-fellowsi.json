@@ -1,0 +1,25 @@
+{
+  "id": "melomys-fellowsi",
+  "name": "Melomys fellowsi",
+  "scientificName": "Melomys fellowsi",
+  "wikibase_item": "Q109647357",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 384520,
+      "id": "Q384520"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109647357",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red-bellied_mosaic-tailed_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The red-bellied mosaic-tailed rat is a species of rodent in the family Muridae. It is the only species in the genus Protochromys.\nIt is found only in Papua New Guinea.",
+  "image": null
+}

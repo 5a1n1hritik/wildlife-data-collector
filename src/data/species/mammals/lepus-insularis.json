@@ -1,0 +1,25 @@
+{
+  "id": "lepus-insularis",
+  "name": "Black jackrabbit",
+  "scientificName": "Lepus insularis",
+  "wikibase_item": "Q167882",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3922539,
+      "id": "Q3922539"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167882",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_jackrabbit"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The black jackrabbit is a species of mammal in the family Leporidae. Endemic to Mexico, its only known location is Espiritu Santo Island in the Gulf of California. The IUCN has listed this species as a \"vulnerable species\" because of its restricted range. This taxon is regarded by some authorities as being a subspecies of the black-tailed jackrabbit, found on the mainland of Mexico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lepus_insularis_iNaturalist.jpg"
+}

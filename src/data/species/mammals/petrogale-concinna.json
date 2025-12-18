@@ -1,0 +1,25 @@
+{
+  "id": "petrogale-concinna",
+  "name": "Petrogale concinna",
+  "scientificName": "Petrogale concinna",
+  "wikibase_item": "Q209591",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 269253,
+      "id": "Q269253"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209591",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nabarlek"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The nabarlek is a small species of macropod found in northern Australia. They are a shy and nocturnal animal that resides in rocky hollows and forages in the surrounding area. Their diet is grasses, sedges, and ferns found in and around their scrub covered refuges. They are distinguished by a reddish tinge to the mostly grey fur and a distinct stripe at the cheek. They move with great speed and agility when observed, with a forward leaning posture and a bushy tail that arches over the back.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Petrogale_cocinna_Gould_Mamm_Aust_vol_2_plate_48.jpg"
+}

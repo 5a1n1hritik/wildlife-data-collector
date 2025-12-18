@@ -1,0 +1,22 @@
+{
+  "id": "callicebus-urubambensis",
+  "name": "Callicebus urubambensis",
+  "scientificName": "Callicebus urubambensis",
+  "wikibase_item": "Q20721824",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203649,
+      "id": "Q203649"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20721824"
+  },
+  "lastUpdated": "2025-12-17"
+}

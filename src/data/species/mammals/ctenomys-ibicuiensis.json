@@ -1,0 +1,25 @@
+{
+  "id": "ctenomys-ibicuiensis",
+  "name": "Ctenomys ibicuiensis",
+  "scientificName": "Ctenomys ibicuiensis",
+  "wikibase_item": "Q19609343",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 908146,
+      "id": "Q908146"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19609343",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibicui_tuco-tuco"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Ibicui tuco-tuco is a species of rodent in the family Ctenomyidae. It is endemic to southern Brazil.",
+  "image": null
+}

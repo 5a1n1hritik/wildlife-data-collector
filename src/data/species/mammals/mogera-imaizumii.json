@@ -1,0 +1,25 @@
+{
+  "id": "mogera-imaizumii",
+  "name": "Small Japanese mole",
+  "scientificName": "Mogera imaizumii",
+  "wikibase_item": "Q1764997",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 913882,
+      "id": "Q913882"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764997",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_Japanese_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small Japanese mole, lesser Japanese mole or Japanese Eastern Mole is a species of mammal in the family Talpidae. It is endemic to Japan.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mogera_imaizumii.jpg"
+}

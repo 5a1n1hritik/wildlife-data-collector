@@ -1,0 +1,25 @@
+{
+  "id": "chionomys-nivalis",
+  "name": "European snow vole",
+  "scientificName": "Chionomys nivalis",
+  "wikibase_item": "Q282660",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 602763,
+      "id": "Q602763"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q282660",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_snow_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The European snow vole or snow vole is a species of rodent in the family Cricetidae. It has dense, pale grey fur and a pale-coloured tail and can reach about 14 cm (5.5 in) long, with a tail which is 7 cm (2.8 in) long.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Microtus_nivalis.jpg"
+}

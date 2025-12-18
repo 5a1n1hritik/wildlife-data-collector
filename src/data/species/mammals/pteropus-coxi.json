@@ -1,0 +1,25 @@
+{
+  "id": "pteropus-coxi",
+  "name": "Pteropus coxi",
+  "scientificName": "Pteropus coxi",
+  "wikibase_item": "Q2165872",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1241332,
+      "id": "Q1241332"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2165872",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large_Samoan_flying_fox"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large Samoan flying fox is a species of fruit-eating megabat whose type specimen was originally collected in Samoa in 1856, but was not identified as a new species until 2009. The only known specimen was collected by an American expedition to Samoa in 1838–1842. It was rediscovered by Smithsonian mammalogist Kristofer Helgen preserved in alcohol. It was the largest known bat from Polynesia. As the type specimen is dead, and no other examples of the species are known, it is believed to be extinct.",
+  "image": null
+}

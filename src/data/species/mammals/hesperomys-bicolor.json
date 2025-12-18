@@ -1,0 +1,22 @@
+{
+  "id": "hesperomys-bicolor",
+  "name": "Hesperomys bicolor",
+  "scientificName": "Hesperomys bicolor",
+  "wikibase_item": "Q41000252",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5746022,
+      "id": "Q5746022"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41000252"
+  },
+  "lastUpdated": "2025-12-17"
+}

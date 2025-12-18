@@ -1,0 +1,25 @@
+{
+  "id": "tonatia-saurophila",
+  "name": "Stripe-headed Round-eared Bat",
+  "scientificName": "Tonatia saurophila",
+  "wikibase_item": "Q1833261",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 2896358,
+      "id": "Q2896358"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1833261",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stripe-headed_round-eared_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The stripe-headed round-eared bat is a species of bat from family Phyllostomidae. It can be found on forests in Central and South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tonatia_saurophila.jpg"
+}

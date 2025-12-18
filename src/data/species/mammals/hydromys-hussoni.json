@@ -1,0 +1,25 @@
+{
+  "id": "hydromys-hussoni",
+  "name": "Western Water Rat",
+  "scientificName": "Hydromys hussoni",
+  "wikibase_item": "Q303850",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 668884,
+      "id": "Q668884"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303850",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_water_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western water rat is a semiaquatic species of rodent in the family Muridae. It is found in West Papua, Indonesia and Papua New Guinea.\nIt is threatened by habitat loss however a lot is still unknown about the species and it has been classified as Data Deficient on the IUCN Red List.",
+  "image": null
+}

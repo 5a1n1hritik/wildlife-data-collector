@@ -1,0 +1,25 @@
+{
+  "id": "lonchophylla-robusta",
+  "name": "Orange nectar bat",
+  "scientificName": "Lonchophylla robusta",
+  "wikibase_item": "Q1830193",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1571405,
+      "id": "Q1571405"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830193",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orange_nectar_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The orange nectar bat is a species of bat in the family Phyllostomidae. It is found in Colombia, Costa Rica, Ecuador, Nicaragua, Panama, Peru, and Venezuela.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lonchophylla_robusta.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "brachyphylla-cavernarum",
+  "name": "Antillean fruit-eating bat",
+  "scientificName": "Brachyphylla cavernarum",
+  "wikibase_item": "Q304323",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 577045,
+      "id": "Q577045"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q304323",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antillean_fruit-eating_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Antillean fruit-eating bat is one of two leaf-nosed bat species belonging to the genus Brachyphylla. The species occurs in the Caribbean from Puerto Rico to St. Vincent and Barbados. Fossil specimens have also been recorded from New Providence, Bahamas.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Brachyphylla_cavernarum.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "falsistrellus-affinis",
+  "name": "Chocolate pipistrelle",
+  "scientificName": "Falsistrellus affinis",
+  "wikibase_item": "Q1830663",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 248049,
+      "id": "Q248049"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1830663",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chocolate_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The chocolate pipistrelle is a species of vesper bat in the family Vespertilionidae. It is found in China, India, Myanmar, Nepal, and Sri Lanka.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Range_Hypsugo_affinis.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rhinophylla-pumilio",
+  "name": "Rhinophylla pumilio",
+  "scientificName": "Rhinophylla pumilio",
+  "wikibase_item": "Q1832267",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 912981,
+      "id": "Q912981"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1832267",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwarf_little_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dwarf little fruit bat is a species of leaf-nosed bat from South America.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rhinophylla_pumilio_Brazil.jpg"
+}

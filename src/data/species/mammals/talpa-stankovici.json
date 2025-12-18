@@ -1,0 +1,25 @@
+{
+  "id": "talpa-stankovici",
+  "name": "Balkan mole",
+  "scientificName": "Talpa stankovici",
+  "wikibase_item": "Q789403",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 650143,
+      "id": "Q650143"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q789403",
+    "wikipedia": "https://en.wikipedia.org/wiki/Balkan_mole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Balkan mole is a species of mammal in the family Talpidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Balkan_Mole_area.png"
+}

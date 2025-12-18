@@ -1,0 +1,22 @@
+{
+  "id": "graomys-taterona",
+  "name": "Graomys taterona",
+  "scientificName": "Graomys taterona",
+  "wikibase_item": "Q40997149",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 139823,
+      "id": "Q139823"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40997149"
+  },
+  "lastUpdated": "2025-12-17"
+}

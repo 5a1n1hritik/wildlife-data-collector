@@ -1,0 +1,25 @@
+{
+  "id": "microtus-umbrosus",
+  "name": "Zempoaltépec Vole",
+  "scientificName": "Microtus umbrosus",
+  "wikibase_item": "Q1762395",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 683647,
+      "id": "Q683647"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762395",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zempoalt%C3%A9pec_vole"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Zempoaltépec vole is a species of rodent in the family Cricetidae. The name Microtus is from the Greek word mikros meaning small and otus meaning ear. The name umbrosus could be from the Latin umbros meaning shady. It is rather large and has a long tail when compared with other voles. Its pelage is long and soft. In the upper parts, the hair is uniformly dusky with brown tips and the lower parts a dark grey thinly washed with a reddish yellow color. It is found only in Mexico, in a semi-isolated mountain range southeast of the Cajones River in Mixes district, in Oaxaca.",
+  "image": null
+}

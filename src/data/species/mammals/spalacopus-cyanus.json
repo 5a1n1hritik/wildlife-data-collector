@@ -1,0 +1,25 @@
+{
+  "id": "spalacopus-cyanus",
+  "name": "Coruro",
+  "scientificName": "Spalacopus cyanus",
+  "wikibase_item": "Q1135691",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 12267560,
+      "id": "Q12267560"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1135691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coruro"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The coruro is a species of rodent in the family Octodontidae. It is the only species in the genus Spalacopus. The species is endemic to central Chile, where it has been found in a wide variety of habitats, from coastal to montane. It is fossorial and lives in colonies.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cururo_en_el_Parque_natural_G%C3%B3mez_Carre%C3%B1o.jpg"
+}

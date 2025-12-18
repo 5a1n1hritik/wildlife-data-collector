@@ -1,0 +1,25 @@
+{
+  "id": "capromys-garridoi",
+  "name": "Capromys garridoi",
+  "scientificName": "Capromys garridoi",
+  "wikibase_item": "Q28173961",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 858255,
+      "id": "Q858255"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28173961",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garrido's_hutia"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Garrido's hutia is a small, critically endangered, rat-like mammal found in coastal mangrove forests on Cuba and nearby islands. It is rarely seen and may be extinct. It is a member of the hutia subfamily (Capromyinae), a group of rodents native to the Caribbean that are mostly endangered or extinct. The only other species in its genus, the Desmarest's hutia, is also found only on Cuba.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Capromys_Map.jpg"
+}

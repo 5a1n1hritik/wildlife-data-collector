@@ -1,0 +1,22 @@
+{
+  "id": "machairodus-crenatidens",
+  "name": "Machairodus crenatidens",
+  "scientificName": "Machaerodus crenatidens",
+  "wikibase_item": "Q41165823",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1274400,
+      "id": "Q1274400"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41165823"
+  },
+  "lastUpdated": "2025-12-17"
+}

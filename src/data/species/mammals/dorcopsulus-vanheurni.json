@@ -1,0 +1,25 @@
+{
+  "id": "dorcopsulus-vanheurni",
+  "name": "Small dorcopsis",
+  "scientificName": "Dorcopsulus vanheurni",
+  "wikibase_item": "Q209624",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 280752,
+      "id": "Q280752"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209624",
+    "wikipedia": "https://en.wikipedia.org/wiki/Small_dorcopsis"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The small dorcopsis or lesser forest wallaby is a species of marsupial in the family Macropodidae. It is found in the mountainous interior of West Papua and Papua New Guinea. Its natural habitat is subtropical or tropical dry forests. It is less common than it used to be and the IUCN has assessed it as being \"near threatened\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Small_Dorcopsis_area.png"
+}

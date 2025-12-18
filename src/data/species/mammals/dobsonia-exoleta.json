@@ -1,0 +1,25 @@
+{
+  "id": "dobsonia-exoleta",
+  "name": "Dobsonia exoleta",
+  "scientificName": "Dobsonia exoleta",
+  "wikibase_item": "Q301213",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 608471,
+      "id": "Q608471"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301213",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sulawesi_naked-backed_fruit_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Sulawesi naked-backed fruit bat is a species of megabat in the family Pteropodidae. It is endemic to Indonesia.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sulawesi_Naked-backed_Fruit_Bat_area.png"
+}

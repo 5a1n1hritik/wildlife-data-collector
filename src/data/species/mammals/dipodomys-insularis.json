@@ -1,0 +1,25 @@
+{
+  "id": "dipodomys-insularis",
+  "name": "San Jose Island kangaroo rat",
+  "scientificName": "Dipodomys insularis",
+  "wikibase_item": "Q2918223",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 120094,
+      "id": "Q120094"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2918223",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Jos%C3%A9_Island_kangaroo_rat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The San José Island kangaroo rat is a subspecies of rodent in the family Heteromyidae. It is endemic to Mexico, where it is found only on San José Island off the east coast of Baja California Sur. is restricted to an area of only 30 km2 in the southwestern coast of San José Island, Lower California, with the population having been drastically reduced in size and being close to extinction No other species of Dipodomys occur in sympatry with D. insularis.",
+  "image": null
+}

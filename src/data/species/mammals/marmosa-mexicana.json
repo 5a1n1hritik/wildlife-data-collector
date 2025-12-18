@@ -1,0 +1,25 @@
+{
+  "id": "marmosa-mexicana",
+  "name": "Mexican mouse opossum",
+  "scientificName": "Marmosa mexicana",
+  "wikibase_item": "Q194222",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 244060,
+      "id": "Q244060"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194222",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexican_mouse_opossum"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Mexican mouse opossum is a species of North American opossum in the family Didelphidae.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Marmosa_mexicana.jpg"
+}

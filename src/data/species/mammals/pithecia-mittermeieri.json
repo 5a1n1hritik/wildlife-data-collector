@@ -1,0 +1,25 @@
+{
+  "id": "pithecia-mittermeieri",
+  "name": "Pithecia mittermeieri",
+  "scientificName": "Pithecia mittermeieri",
+  "wikibase_item": "Q20658240",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 841159,
+      "id": "Q841159"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20658240",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mittermeier's_Tapaj%C3%B3s_saki"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Mittermeier's Tapajós saki is a disputed species of saki monkey, a type of New World monkey. It is endemic to west-central Brazil.",
+  "image": null
+}

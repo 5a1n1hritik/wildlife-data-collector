@@ -1,0 +1,22 @@
+{
+  "id": "oecomys-guianae",
+  "name": "Oecomys guianae",
+  "scientificName": "Oecomys guianae",
+  "wikibase_item": "Q41009580",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 232585,
+      "id": "Q232585"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41009580"
+  },
+  "lastUpdated": "2025-12-17"
+}

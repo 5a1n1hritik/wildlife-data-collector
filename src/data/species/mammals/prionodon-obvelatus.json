@@ -1,0 +1,25 @@
+{
+  "id": "prionodon-obvelatus",
+  "name": "Prionodon obvelatus",
+  "scientificName": "Prionodon obvelatus",
+  "wikibase_item": "Q107055082",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 847194,
+      "id": "Q847194"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107055082",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusky_shark"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The dusky shark is a species of requiem shark, in the family Carcharhinidae, occurring in tropical and warm-temperate continental seas worldwide. A generalist apex predator, the dusky shark can be found from the coast to the outer continental shelf and adjacent pelagic waters, and has been recorded from a depth of 400 m (1,300 ft). Populations migrate seasonally towards the poles in the summer and towards the equator in the winter, traveling hundreds to thousands of kilometers. One of the largest members of its genus, the dusky shark reaches more than 4 m (13 ft) in length and 350 kg (770 lb) in weight. It has a slender, streamlined body and can be identified by its short round snout, long sickle-shaped pectoral fins, ridge between the first and second dorsal fins, and faintly marked fins.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Carcharhinus_obscurus_at_Seaworld.jpg"
+}

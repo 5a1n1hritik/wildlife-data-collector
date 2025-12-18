@@ -1,0 +1,25 @@
+{
+  "id": "mops-leucogaster",
+  "name": "Mops leucogaster",
+  "scientificName": "Mops leucogaster",
+  "wikibase_item": "Q125912630",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 131457380,
+      "id": "Q131457380"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125912630",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grandidier's_free-tailed_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Grandidier's free-tailed bat is a species of bat in the family Molossidae. It is endemic to Madagascar. Its natural habitats are subtropical or tropical dry forests and dry savanna. It has at times been considered synonymous with the little free-tailed bat.",
+  "image": null
+}

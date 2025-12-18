@@ -1,0 +1,25 @@
+{
+  "id": "leopardus-munoai",
+  "name": "Leopardus munoai",
+  "scientificName": "Leopardus munoai",
+  "wikibase_item": "Q96575733",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 318414,
+      "id": "Q318414"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96575733",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pampas_cat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Pampas cat is a small wild cat native to South America. It is listed as Near Threatened on the IUCN Red List as habitat conversion and destruction may cause the population to decline in the future.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Leopardus_pajeros_20101006.jpg"
+}

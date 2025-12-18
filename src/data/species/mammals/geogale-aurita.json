@@ -1,0 +1,25 @@
+{
+  "id": "geogale-aurita",
+  "name": "Large-eared tenrec",
+  "scientificName": "Geogale aurita",
+  "wikibase_item": "Q523970",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 18071350,
+      "id": "Q18071350"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q523970",
+    "wikipedia": "https://en.wikipedia.org/wiki/Large-eared_tenrec"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The large-eared tenrec is a species of mammal in the family Tenrecidae. It is the only species in the monotypic genus Geogale, and the only member of the subfamily Geogalinae. It is endemic to Madagascar where its natural habitats are subtropical or tropical dry forests and shrubland. It is threatened by habitat loss, but to a lesser extent than was previously thought and is listed by the IUCN as being of \"Least Concern\".",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Geogale_aurita_range_map.svg/2324px-Geogale_aurita_range_map.svg.png"
+}

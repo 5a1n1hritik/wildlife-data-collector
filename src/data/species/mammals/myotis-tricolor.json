@@ -1,0 +1,25 @@
+{
+  "id": "myotis-tricolor",
+  "name": "Cape hairy bat",
+  "scientificName": "Myotis tricolor",
+  "wikibase_item": "Q2680683",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 223384,
+      "id": "Q223384"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2680683",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_hairy_bat"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Cape hairy bat, also known as little brown bat, Temminck's mouse-eared bat, Cape myotis, tricoloured mouse-eared bat, Cape hairy myotis, Temminck's hairy bat and three-coloured bat is a species of vesper bat that is found in Sub-Saharan Africa.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Myotis_tricolor.jpg"
+}

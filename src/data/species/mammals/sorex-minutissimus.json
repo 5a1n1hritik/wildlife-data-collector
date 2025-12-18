@@ -1,0 +1,25 @@
+{
+  "id": "sorex-minutissimus",
+  "name": "Eurasian least shrew",
+  "scientificName": "Sorex minutissimus",
+  "wikibase_item": "Q1142854",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 5607349,
+      "id": "Q5607349"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142854",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eurasian_least_shrew"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Eurasian least shrew, also called the lesser pygmy shrew, is the second-smallest mammal by mass after the Etruscan shrew.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sorex_minutissimus_Specimen.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "macropus-greyi",
+  "name": "Macropus greyi",
+  "scientificName": "Macropus greyi",
+  "wikibase_item": "Q209153",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 3878696,
+      "id": "Q3878696"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toolache_wallaby"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The toolache wallaby or Grey's wallaby is an extinct species of wallaby from southeastern South Australia and southwestern Victoria.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Macropus_greyi_-_Gould.jpg"
+}

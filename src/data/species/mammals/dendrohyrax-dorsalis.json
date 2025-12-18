@@ -1,0 +1,25 @@
+{
+  "id": "dendrohyrax-dorsalis",
+  "name": "Dendrohyrax dorsalis",
+  "scientificName": "Dendrohyrax dorsalis",
+  "wikibase_item": "Q742828",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 1761200,
+      "id": "Q1761200"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q742828",
+    "wikipedia": "https://en.wikipedia.org/wiki/Western_tree_hyrax"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The western tree hyrax, also called the western tree dassie or Beecroft's tree hyrax, is a species of tree hyrax within the family Procaviidae. It can be distinguished from other hyraxes by short coarse fur, presence of white patch of fur beneath the chin, lack of hair on the rostrum, and lower crowns of the cheek teeth compared to other members of the same genus.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Beecroft%27sTreeHyrax.JPG"
+}

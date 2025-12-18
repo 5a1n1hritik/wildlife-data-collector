@@ -1,0 +1,22 @@
+{
+  "id": "callicebus-egeria",
+  "name": "Callicebus egeria",
+  "scientificName": "Callicebus egeria",
+  "wikibase_item": "Q41163097",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 203649,
+      "id": "Q203649"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41163097"
+  },
+  "lastUpdated": "2025-12-17"
+}

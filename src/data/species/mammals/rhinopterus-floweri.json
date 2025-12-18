@@ -1,0 +1,22 @@
+{
+  "id": "rhinopterus-floweri",
+  "name": "Rhinopterus floweri",
+  "scientificName": "Rhinopterus floweri",
+  "wikibase_item": "Q41167735",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 41157861,
+      "id": "Q41157861"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41167735"
+  },
+  "lastUpdated": "2025-12-17"
+}

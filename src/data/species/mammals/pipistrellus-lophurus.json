@@ -1,0 +1,25 @@
+{
+  "id": "pipistrellus-lophurus",
+  "name": "Pipistrellus lophurus",
+  "scientificName": "Pipistrellus lophurus",
+  "wikibase_item": "Q126125447",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 221381,
+      "id": "Q221381"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126125447",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burma_pipistrelle"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "The Burma pipistrelle is a species of vesper bat in the family Vespertilionidae found in Myanmar. It is known only from Maliwan in Tanintharyi Region.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Distribution_of_Hypsugo_lophurus.png"
+}

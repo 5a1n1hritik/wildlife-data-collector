@@ -1,0 +1,25 @@
+{
+  "id": "pseudomys-bolami",
+  "name": "Bolam's mouse",
+  "scientificName": "Pseudomys bolami",
+  "wikibase_item": "Q1765757",
+  "taxonomy": {
+    "taxonRank": {
+      "entity-type": "item",
+      "numeric-id": 7432,
+      "id": "Q7432"
+    },
+    "parentTaxon": {
+      "entity-type": "item",
+      "numeric-id": 662475,
+      "id": "Q662475"
+    }
+  },
+  "source": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1765757",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bolam's_mouse"
+  },
+  "lastUpdated": "2025-12-17",
+  "description": "Bolam's mouse is a species of nocturnal, burrowing rodent in the family Muridae that inhabits the semi arid and southern arid regions of Australia. It has a number of physiological and behavioural adaptations developed to cope with an extremely varied climate. These include the ability to survive by extracting water from seeds alone, the production of highly concentrated urine, low water content faeces and nocturnal activity.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bolam%27s_mouse_%28Pseudomys_bolami%29_.jpeg"
+}
