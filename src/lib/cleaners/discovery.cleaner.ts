@@ -12,3 +12,29 @@ export function normalizeDiscoveryResults(raw: any) {
     };
   });
 }
+
+
+// src/lib/cleaners/discovery.cleaner.ts
+export function normalizeGBIFBirds(results: any[]) {
+  return results
+    .filter(r => r.scientificName && r.canonicalName)
+    .map(r => ({
+      id: r.canonicalName
+        .toLowerCase()
+        .replace(/\s+/g, "-"),
+      name: r.vernacularName || r.canonicalName,
+      scientificName: r.scientificName,
+      gbif_id: r.key,
+      taxonomy: {
+        kingdom: r.kingdom,
+        phylum: r.phylum,
+        class: r.class,
+        order: r.order,
+        family: r.family,
+        genus: r.genus
+      },
+      source: {
+        gbif: `https://www.gbif.org/species/${r.key}`
+      }
+    }));
+}
