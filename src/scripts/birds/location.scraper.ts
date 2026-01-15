@@ -3,14 +3,14 @@ import pLimit from "p-limit";
 
 const INPUT_FILE = "src/data/discovery/birds.enriched.json";
 const OUTPUT_FILE = "src/data/discovery/birds.final.json";
-const CONCURRENCY = 5; // Location API fast hai, toh 5 parallel requests safe hain
-const BATCH_SIZE = 50; // Chota batch rakhte hain safety ke liye
+const CONCURRENCY = 5; 
+const BATCH_SIZE = 50; 
 
 const limit = pLimit(CONCURRENCY);
 const sleep = (ms: number) => new Promise((res) => setTimeout(res, ms));
 
 let finalData: any[] = [];
-let isShuttingDown = false; // Flag for graceful shutdown
+let isShuttingDown = false; 
 
 if (fs.existsSync(OUTPUT_FILE)) {
   try {
@@ -21,7 +21,6 @@ if (fs.existsSync(OUTPUT_FILE)) {
     console.error(" Output file corrupt. Resetting to [].");
     finalData = [];
   }
-  // finalData = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf-8"));
 }
 
 // Helper: Save function
@@ -40,10 +39,16 @@ process.on("SIGINT", () => {
 
 // 1. Fetch Lat/Lng Points (Recent sightings)
 async function getLocations(taxonKey: number) {
-  const url = `https://api.gbif.org/v1/occurrence/search?taxonKey=${taxonKey}&limit=5&hasCoordinate=true&basisOfRecord=HUMAN_OBSERVATION`;
+  let url = `https://api.gbif.org/v1/occurrence/search?taxonKey=${taxonKey}&limit=5&hasCoordinate=true&basisOfRecord=HUMAN_OBSERVATION`;
   try {
-    const res = await fetch(url);
-    const data = await res.json();
+    let res = await fetch(url);
+    let data = await res.json();
+
+    if (!data.results || data.results.length === 0) {
+      url = `https://api.gbif.org/v1/occurrence/search?taxonKey=${taxonKey}&limit=5&hasCoordinate=true`;
+      res = await fetch(url);
+      data = await res.json();
+    }
     return data.results.map((occ: any) => ({
       lat: occ.decimalLatitude,
       lng: occ.decimalLongitude,
@@ -61,12 +66,14 @@ async function getDistributions(taxonKey: number) {
   try {
     const res = await fetch(url);
     const data = await res.json();
-    return data.results
-      .filter((d: any) => d.country)
-      .map((d: any) => ({
-        countryCode: d.country,
-        status: d.occurrenceStatus || "PRESENT",
-      }));
+
+    const uniqueCountries = new Set<string>();
+    data.results.forEach((dist: any) => {
+      if (dist.country && dist.occurrenceStatus !== "ABSENT") {
+        uniqueCountries.add(dist.country as string);
+      }
+    });
+    return Array.from(uniqueCountries);
   } catch {
     return [];
   }
@@ -76,12 +83,9 @@ async function startLocationEnrichment() {
   const enrichedBirds = JSON.parse(fs.readFileSync(INPUT_FILE, "utf-8"));
   const remaining = enrichedBirds.slice(finalData.length);
 
-  console.log(
-    `Starting Phase 3: Location Discovery for ${remaining.length} birds...`
-  );
+  console.log(`Starting Phase 3: Location Discovery for ${remaining.length} birds...`);
 
   for (let i = 0; i < remaining.length; i++) {
-    // Agar Ctrl+C press hua hai toh loop se bahar aa jao
     if (isShuttingDown) break;
 
     const bird = remaining[i];
@@ -93,18 +97,36 @@ async function startLocationEnrichment() {
           }... `
         );
 
-        const [points, countries] = await Promise.all([
+        const [points, distCodes] = await Promise.all([
           getLocations(bird.key),
           getDistributions(bird.key),
         ]);
+
+        const sightingCodes = new Set<string>(
+          points.map((p: { country: any; }) => p.country).filter(Boolean)
+        );
+
+        let finalCountries: string[] = [];
+
+        if (sightingCodes.size > 0) {
+          finalCountries = Array.from(sightingCodes);
+        } else {
+          finalCountries = distCodes;
+        }
+
+        const globalBlacklist = ["NO", "AQ"];
+        const filteredCountries = finalCountries.filter((code) => !globalBlacklist.includes(code));
+
+        const nativeCountries = filteredCountries.map((code) => ({
+          countryCode: code,
+        }));
 
         return {
           ...bird,
           location: {
             recentSightings: points,
-            nativeCountries: Array.from(
-              new Set(countries.map((c: any) => c.countryCode))
-            ), // Unique country codes
+            nativeCountries: nativeCountries,
+            mapLayerUrl: `https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}.mvt?taxonKey=${bird.key}&style=classic.poly&bin=hex`,
           },
         };
       });
@@ -124,14 +146,14 @@ async function startLocationEnrichment() {
       saveData();
     }
 
-    saveData();
-    console.log("\n PHASE 3 COMPLETE! Your final dataset is ready.");
   }
+
+  saveData();
+  console.log("\n PHASE 3 COMPLETE! Your final dataset is ready.");
 }
 
 startLocationEnrichment().catch((err) => {
-  console.error("\n Critical Error occurred!");
-  console.error(err);
-  saveData(); // Pehle data save karo
-  process.exit(1); // Phir exit karo
+  console.error("\n Critical Error occurred!", err);
+  saveData();
+  process.exit(1);
 });
