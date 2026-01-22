@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import pLimit from "p-limit";
 import fetch from "node-fetch";
+import { MAMMAL_CLAIMS } from "../../config/mammals.claims.ts";
 
 // --- Configuration ---
 const CONFIG = {
@@ -32,12 +33,19 @@ let state = {
 const limit = pLimit(CONFIG.NETWORK.INITIAL_CONCURRENCY);
 
 // --- Wikidata Mapping (Kal wala logic) ---
-const UNITS_MAP: Record<string, { label: string; factor: number }> = {
-  Q11570: { label: "kg", factor: 1 }, // Kilogram
-  Q41803: { label: "kg", factor: 0.001 }, // Gram -> KG
-  Q11574: { label: "years", factor: 0.00273973 }, // Days -> Years
-  Q174728: { label: "cm", factor: 1 }, // Centimetre
-  Q11573: { label: "cm", factor: 100 }, // Metre -> CM
+const UNITS_MAP: Record<
+  string,
+  { label: string; factor: number; dimension: "mass" | "length" | "time" }
+> = {
+  Q11570: { label: "kg", factor: 1, dimension: "mass" }, // Kilogram
+  Q41803: { label: "kg", factor: 0.001, dimension: "mass" }, // Gram -> KG
+  Q11574: { label: "years", factor: 0.00273973, dimension: "time" }, // Days -> Years
+  Q577: { label: "years", factor: 1, dimension: "time" }, //  Years
+  Q573: { label: "Days", factor: 1, dimension: "time" }, // Days
+  Q23387: { label: "Week", factor: 1, dimension: "time" }, // week
+  Q5151: { label: "Month", factor: 1, dimension: "time" }, // month
+  Q174728: { label: "cm", factor: 1, dimension: "length" }, // Centimetre
+  Q11573: { label: "cm", factor: 100, dimension: "length" }, // Metre -> CM
 };
 
 const IUCN_MAP: Record<string, string> = {
@@ -50,19 +58,6 @@ const IUCN_MAP: Record<string, string> = {
   Q211005: "Least Concern (LC)",
   Q3245245: "Data Deficient (DD)",
 };
-
-const P_NUMBERS = [
-  "P2067",
-  "P2257",
-  "P2048",
-  "P2049",
-  "P2574",
-  "P141",
-  "P18",
-  "P2974",
-  "P1034",
-  "P3811",
-];
 
 // --- 3. UTILITIES (Point 3: Defensive Programming) ---
 
@@ -126,31 +121,92 @@ function pickBestClaim(claims: Record<string, any[]>, p: string) {
 
 function parseClaim(claims: any, p: string) {
   const claim = pickBestClaim(claims, p)?.mainsnak?.datavalue;
-  if (!claim) return "Unknown";
+  if (!claim) return null;
 
   if (claim.type === "quantity") {
-    const amount = parseFloat(claim.value.amount);
-    const unitRaw = claim.value.unit;
+    return {
+      type: "quantity",
+      amount: parseFloat(claim.value.amount),
+      unitQid:
+        claim.value.unit === "1" ? null : claim.value.unit.split("/").pop(),
+    };
+    // const amount = parseFloat(claim.value.amount);
+    // const unitRaw = claim.value.unit;
 
-    if (unitRaw === "1") {
-      return amount.toString();
-    }
+    // if (unitRaw === "1") {
+    //   return amount.toString();
+    // }
 
-    const unitQid = unitRaw.split("/").pop();
-    const unit = unitQid ? UNITS_MAP[unitQid] : undefined;
-    return unit
-      ? `${(amount * unit.factor).toFixed(2)} ${unit.label}`
-      : amount.toString();
+    // const unitQid = unitRaw.split("/").pop();
+    // const unit = unitQid ? UNITS_MAP[unitQid] : undefined;
+    // return unit
+    //   ? `${(amount * unit.factor).toFixed(2)} ${unit.label}`
+    //   : amount.toString();
   }
 
   if (claim.type === "wikibase-entityid") {
-    return claim.value.id; // sirf QID
+    return { type: "qid", value: claim.value.id }; // sirf QID
   }
 
-  if (p === "P18" && typeof claim.value === "string")
-    return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(claim.value)}?width=1000`;
+  // if (p === "P18" && typeof claim.value === "string")
+  //   return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(claim.value)}?width=1000`;
 
-  return "Unknown";
+  // return "Unknown";
+  if (p === "P18") {
+    return {
+      type: "image",
+      file: claim.value,
+    };
+  }
+
+  return null;
+}
+
+function normalizeClaim(raw: any) {
+  if (!raw) return null;
+
+  if (raw.type === "quantity") {
+    const unit = raw.unitQid ? UNITS_MAP[raw.unitQid] : null;
+    return {
+      value: unit ? +(raw.amount * unit.factor).toFixed(2) : raw.amount,
+      unit: unit?.label ?? null,
+      dimension: unit?.dimension,
+      raw,
+    };
+  }
+
+  if (raw.type === "qid") {
+    return { qid: raw.value };
+  }
+
+  if (raw.type === "image") {
+    return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(raw.file)}?width=1000`;
+  }
+
+  return raw;
+}
+
+function normalizeGroup(group: Record<string, any>) {
+  const out: Record<string, any> = {};
+
+  for (const [p, raw] of Object.entries(group)) {
+    out[p] = normalizeClaim(raw);
+  }
+
+  return out;
+}
+
+function extractClaims(claims: any, pList: readonly string[]) {
+  const out: Record<string, any> = {};
+
+  for (const p of pList) {
+    const value = parseClaim(claims, p);
+    if (value !== null) {
+      out[p] = value;
+    }
+  }
+
+  return out;
 }
 
 // --- 4. ENGINE FUNCTIONS (Point 1: Adaptive & Chunked) ---
@@ -242,25 +298,62 @@ async function enrichBatch(
       }
 
       if (entry && entry.claims) {
-        const rawStatusQid = parseClaim(entry.claims, "P141");
-        let resolvedStatus = "Unknown";
+        // const rawStatusQid = parseClaim(entry.claims, "P141");
+        // let resolvedStatus = "Unknown";
 
-        if (typeof rawStatusQid === "string" && rawStatusQid !== "Unknown") {
-          resolvedStatus = await resolveStatusLabel(rawStatusQid);
-        } else if (mammal.rank === "SUBSPECIES" && mammal.parentKey) {
-          const parent = state.enrichedMap.get(mammal.parentKey);
-          if (parent?.traits?.status) {
-            resolvedStatus = parent.traits.status;
-          }
+        // if (typeof rawStatusQid === "string" && rawStatusQid !== "Unknown") {
+        //   resolvedStatus = await resolveStatusLabel(rawStatusQid);
+        // } else if (mammal.rank === "SUBSPECIES" && mammal.parentKey) {
+        //   const parent = state.enrichedMap.get(mammal.parentKey);
+        //   if (parent?.traits?.status) {
+        //     resolvedStatus = parent.traits.status;
+        //   }
+        // }
+
+        // mammal.traits = {
+        //   weight: parseClaim(entry.claims, "P2067"),
+        //   lifespan: parseClaim(entry.claims, "P2257"),
+        //   height: parseClaim(entry.claims, "P2048"),
+        //   status: resolvedStatus,
+        // };
+        // const traits = {
+        //   physical: extractClaims(entry.claims, MAMMAL_CLAIMS.physical),
+        //   reproduction: extractClaims(entry.claims, MAMMAL_CLAIMS.reproduction),
+        //   ecology: extractClaims(entry.claims, MAMMAL_CLAIMS.ecology),
+        //   conservation: extractClaims(entry.claims, MAMMAL_CLAIMS.conservation),
+        // };
+        const rawTraits = {
+          physical: extractClaims(entry.claims, MAMMAL_CLAIMS.physical),
+          reproduction: extractClaims(entry.claims, MAMMAL_CLAIMS.reproduction),
+          ecology: extractClaims(entry.claims, MAMMAL_CLAIMS.ecology),
+          conservation: extractClaims(entry.claims, MAMMAL_CLAIMS.conservation),
+        };
+
+        const traits = {
+          physical: normalizeGroup(rawTraits.physical),
+          reproduction: normalizeGroup(rawTraits.reproduction),
+          ecology: normalizeGroup(rawTraits.ecology),
+          conservation: normalizeGroup(rawTraits.conservation),
+        };
+
+        // const rawStatusQid = traits.conservation?.P141;
+
+        // if (typeof rawStatusQid === "string") {
+        //   traits.conservation.P141 = await resolveStatusLabel(rawStatusQid);
+        // }
+        const status = traits.conservation?.P141;
+
+        if (status?.qid) {
+          traits.conservation.P141 = {
+            qid: status.qid,
+            status:
+              IUCN_MAP[status.qid] ?? (await resolveStatusLabel(status.qid)),
+          };
         }
 
-        mammal.traits = {
-          weight: parseClaim(entry.claims, "P2067"),
-          lifespan: parseClaim(entry.claims, "P2257"),
-          height: parseClaim(entry.claims, "P2048"),
-          status: resolvedStatus,
-        };
-        mammal.imageUrl = parseClaim(entry.claims, "P18");
+        mammal.traits = traits;
+        const rawImage = parseClaim(entry.claims, "P18");
+        mammal.imageUrl = normalizeClaim(rawImage);
         state.stats.success++;
         succeeded.push(mammal);
       } else {

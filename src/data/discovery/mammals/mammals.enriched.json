@@ -1,1 +1,5737 @@
-[]
+[
+  {
+    "key": 2440902,
+    "scientificName": "Antilocapra americana (Ord, 1815)",
+    "canonicalName": "Antilocapra americana",
+    "rank": "SPECIES",
+    "parentSpecies": "Antilocapra americana",
+    "order": "Artiodactyla",
+    "family": "Antilocapridae",
+    "genus": "Antilocapra",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q187943",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 3.5,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 3.5,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 250,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 250,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q19817351"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Antilocapra%20americana.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 2,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 2,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antilocapra%20americana.jpg?width=1000"
+  },
+  {
+    "key": 2440911,
+    "scientificName": "Pudu puda (Molina, 1782)",
+    "canonicalName": "Pudu puda",
+    "rank": "SPECIES",
+    "parentSpecies": "Pudu puda",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Pudu",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q927065",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 210,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 210,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q848656"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Pudupuda%20hem%208%20FdoVidal%20Villarr%2008Abr06-PhotoJimenez.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pudupuda%20hem%208%20FdoVidal%20Villarr%2008Abr06-PhotoJimenez.JPG?width=1000"
+  },
+  {
+    "key": 2440912,
+    "scientificName": "Pudu mephistophiles (de Winton, 1896)",
+    "canonicalName": "Pudu mephistophiles",
+    "rank": "SPECIES",
+    "parentSpecies": "Pudu mephistophiles",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Pudu",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q1076540",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 210,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 210,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q124815509"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Pudu%20mephistophiles.png?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q3245245",
+          "status": "Data Deficient (DD)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pudu%20mephistophiles.png?width=1000"
+  },
+  {
+    "key": 2440931,
+    "scientificName": "Hydropotes inermis Swinhoe, 1870",
+    "canonicalName": "Hydropotes inermis",
+    "rank": "SPECIES",
+    "parentSpecies": "Hydropotes inermis",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Hydropotes",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q192573",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 195,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 195,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q10770117"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Shammy.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shammy.jpg?width=1000"
+  },
+  {
+    "key": 2440934,
+    "scientificName": "Axis axis (Erxleben, 1777)",
+    "canonicalName": "Axis axis",
+    "rank": "SPECIES",
+    "parentSpecies": "Axis axis",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Axis",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q232054",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 217,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 217,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q783065"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Spotted%20Deer%20Kanha.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spotted%20Deer%20Kanha.jpg?width=1000"
+  },
+  {
+    "key": 2440938,
+    "scientificName": "Elaphurus davidianus Milne-Edwards, 1866",
+    "canonicalName": "Elaphurus davidianus",
+    "rank": "SPECIES",
+    "parentSpecies": "Elaphurus davidianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Elaphurus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q207906",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 285,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 285,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q10758204"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaphurus%20davidianus%2001.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q239509",
+          "status": "extinct in the wild (EW)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaphurus%20davidianus%2001.JPG?width=1000"
+  },
+  {
+    "key": 2440940,
+    "scientificName": "Alces alces (Linnaeus, 1758)",
+    "canonicalName": "Alces alces",
+    "rank": "SPECIES",
+    "parentSpecies": "Alces alces",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Alces",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q35517",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 233,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 233,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q10731891"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Elk-telemark.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q879641"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elk-telemark.jpg?width=1000"
+  },
+  {
+    "key": 2440942,
+    "scientificName": "Muntiacus atherodes Groves & Grubb, 1982",
+    "canonicalName": "Muntiacus atherodes",
+    "rank": "SPECIES",
+    "parentSpecies": "Muntiacus atherodes",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q539569",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q234121"
+        },
+        "P105": {
+          "qid": "Q7432"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 2440943,
+    "scientificName": "Muntiacus muntjak (Zimmermann, 1780)",
+    "canonicalName": "Muntiacus muntjak",
+    "rank": "SPECIES",
+    "parentSpecies": "Muntiacus muntjak",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q533451",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 180,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 180,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q234121"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Muntiacus%20muntjak%2034068208%20(cropped).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Muntiacus%20muntjak%2034068208%20(cropped).jpg?width=1000"
+  },
+  {
+    "key": 2440944,
+    "scientificName": "Muntiacus feae (Thomas & Doria, 1889)",
+    "canonicalName": "Muntiacus feae",
+    "rank": "SPECIES",
+    "parentSpecies": "Muntiacus feae",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q1418780",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 180,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 180,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q234121"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Muntiacus%20feae.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q879641"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q3245245",
+          "status": "Data Deficient (DD)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Muntiacus%20feae.JPG?width=1000"
+  },
+  {
+    "key": 2440945,
+    "scientificName": "Muntiacus crinifrons (Sclater, 1885)",
+    "canonicalName": "Muntiacus crinifrons",
+    "rank": "SPECIES",
+    "parentSpecies": "Muntiacus crinifrons",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q600743",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 180,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 180,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q234121"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Hairy-fronted%20muntjac.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hairy-fronted%20muntjac.JPG?width=1000"
+  },
+  {
+    "key": 2440946,
+    "scientificName": "Muntiacus reevesi (Ogilby, 1839)",
+    "canonicalName": "Muntiacus reevesi",
+    "rank": "SPECIES",
+    "parentSpecies": "Muntiacus reevesi",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q695973",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 210,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 210,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q234121"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Formosan%20Reeve's%20muntjac.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Formosan%20Reeve's%20muntjac.jpg?width=1000"
+  },
+  {
+    "key": 2440947,
+    "scientificName": "Muntiacus gongshanensis Ma, 1990",
+    "canonicalName": "Muntiacus gongshanensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Muntiacus gongshanensis",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q2070145",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q234121"
+        },
+        "P105": {
+          "qid": "Q7432"
+        }
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q3245245",
+          "status": "Data Deficient (DD)"
+        }
+      }
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 2440954,
+    "scientificName": "Cervus nippon Temminck, 1838",
+    "canonicalName": "Cervus nippon",
+    "rank": "SPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q190516",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 5.75,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 5.75,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 217,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 217,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q644255"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/SikaDeerM1.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {
+        "P2974": {
+          "qid": "Q42320"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SikaDeerM1.jpg?width=1000"
+  },
+  {
+    "key": 2440958,
+    "scientificName": "Cervus elaphus Linnaeus, 1758",
+    "canonicalName": "Cervus elaphus",
+    "rank": "SPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q79794",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 33.5,
+          "unit": "Week",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 33.5,
+            "unitQid": "Q23387"
+          }
+        },
+        "P171": {
+          "qid": "Q644255"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20elaphus%20Luc%20Viatour%206.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20elaphus%20Luc%20Viatour%206.jpg?width=1000"
+  },
+  {
+    "key": 2440963,
+    "scientificName": "Blastocerus dichotomus (Illiger, 1815)",
+    "canonicalName": "Blastocerus dichotomus",
+    "rank": "SPECIES",
+    "parentSpecies": "Blastocerus dichotomus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Blastocerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q504501",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 263,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 263,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q19817325"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Marsh%20Deer%2C%20Esteros%20Del%20Ibera%2C%20Corrientes%2C%20Argentina%2C%203rd.%20Jan.%202011%20-%20Flickr%20-%20PhillipC.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marsh%20Deer%2C%20Esteros%20Del%20Ibera%2C%20Corrientes%2C%20Argentina%2C%203rd.%20Jan.%202011%20-%20Flickr%20-%20PhillipC.jpg?width=1000"
+  },
+  {
+    "key": 2440965,
+    "scientificName": "Odocoileus virginianus (Zimmermann, 1780)",
+    "canonicalName": "Odocoileus virginianus",
+    "rank": "SPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q215887",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 205,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 205,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q2334923"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20deer.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 2,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 2,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20deer.jpg?width=1000"
+  },
+  {
+    "key": 2440974,
+    "scientificName": "Odocoileus hemionus (Rafinesque, 1817)",
+    "canonicalName": "Odocoileus hemionus",
+    "rank": "SPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q338831",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 205,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 205,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q2334923"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Mule%20deer%20buck%20full-face.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mule%20deer%20buck%20full-face.jpg?width=1000"
+  },
+  {
+    "key": 2440978,
+    "scientificName": "Ozotoceros bezoarticus (Linnaeus, 1758)",
+    "canonicalName": "Ozotoceros bezoarticus",
+    "rank": "SPECIES",
+    "parentSpecies": "Ozotoceros bezoarticus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Ozotoceros",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q674003",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 221,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 221,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q19817330"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/O.%20bezoarticus%20buck.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/O.%20bezoarticus%20buck.jpg?width=1000"
+  },
+  {
+    "key": 2440980,
+    "scientificName": "Hippocamelus antisensis (d'Orbigny, 1834)",
+    "canonicalName": "Hippocamelus antisensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippocamelus antisensis",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Hippocamelus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q657056",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 7,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 7,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q386536"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Huemul.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Huemul.jpg?width=1000"
+  },
+  {
+    "key": 2440981,
+    "scientificName": "Hippocamelus bisulcus (Molina, 1782)",
+    "canonicalName": "Hippocamelus bisulcus",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippocamelus bisulcus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Hippocamelus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q860736",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 7,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 7,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q386536"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Huemul%20macho%20(Hippocamelus%20bisulcus)%2C.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Huemul%20macho%20(Hippocamelus%20bisulcus)%2C.jpg?width=1000"
+  },
+  {
+    "key": 2440983,
+    "scientificName": "Elaphodus cephalophus Milne-Edwards, 1872",
+    "canonicalName": "Elaphodus cephalophus",
+    "rank": "SPECIES",
+    "parentSpecies": "Elaphodus cephalophus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Elaphodus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q723575",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 23.5,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 23.5,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 180,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 180,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q19817332"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaphodus%20cephalophus%20michianus%20Magdeburg%20zoo%2020.10.2012%2001.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaphodus%20cephalophus%20michianus%20Magdeburg%20zoo%2020.10.2012%2001.jpg?width=1000"
+  },
+  {
+    "key": 2440988,
+    "scientificName": "Moschus moschiferus Linnaeus, 1758",
+    "canonicalName": "Moschus moschiferus",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus moschiferus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q190508",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 190,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 190,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20moschiferus%20in%20Plzen%20zoo%20(12.02.2011).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q879641"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20moschiferus%20in%20Plzen%20zoo%20(12.02.2011).jpg?width=1000"
+  },
+  {
+    "key": 2440989,
+    "scientificName": "Moschus chrysogaster (Hodgson, 1839)",
+    "canonicalName": "Moschus chrysogaster",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus chrysogaster",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q288881",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20chrysogaster.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20chrysogaster.jpg?width=1000"
+  },
+  {
+    "key": 2440990,
+    "scientificName": "Moschus fuscus Li, 1981",
+    "canonicalName": "Moschus fuscus",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus fuscus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q949818",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20fuscus%20-%20Kunming%20Natural%20History%20Museum%20of%20Zoology%20-%20DSC02455.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q879641"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20fuscus%20-%20Kunming%20Natural%20History%20Museum%20of%20Zoology%20-%20DSC02455.JPG?width=1000"
+  },
+  {
+    "key": 2440991,
+    "scientificName": "Moschus berezovskii Flerov, 1929",
+    "canonicalName": "Moschus berezovskii",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus berezovskii",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q277469",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20berezovskii%20-%20Kunming%20Natural%20History%20Museum%20of%20Zoology%20-%20DSC02453.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschus%20berezovskii%20-%20Kunming%20Natural%20History%20Museum%20of%20Zoology%20-%20DSC02453.JPG?width=1000"
+  },
+  {
+    "key": 2440993,
+    "scientificName": "Tayassu pecari (Link, 1795)",
+    "canonicalName": "Tayassu pecari",
+    "rank": "SPECIES",
+    "parentSpecies": "Tayassu pecari",
+    "order": "Artiodactyla",
+    "family": "Tayassuidae",
+    "genus": "Tayassu",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q756073",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 32.5,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 32.5,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 159,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 159,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q10824139"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Tayassu%20pecari%20205920788.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 2,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 2,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tayassu%20pecari%20205920788.jpg?width=1000"
+  },
+  {
+    "key": 2440995,
+    "scientificName": "Pecari tajacu (Linnaeus, 1758)",
+    "canonicalName": "Pecari tajacu",
+    "rank": "SPECIES",
+    "parentSpecies": "Pecari tajacu",
+    "order": "Artiodactyla",
+    "family": "Tayassuidae",
+    "genus": "Pecari",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q741516",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 146,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 146,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q913388"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Tayassu%20tajacu.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tayassu%20tajacu.jpg?width=1000"
+  },
+  {
+    "key": 2440998,
+    "scientificName": "Catagonus wagneri (Rusconi, 1930)",
+    "canonicalName": "Catagonus wagneri",
+    "rank": "SPECIES",
+    "parentSpecies": "Catagonus wagneri",
+    "order": "Artiodactyla",
+    "family": "Tayassuidae",
+    "genus": "Catagonus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q1058516",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q836112"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Catagonus%20wagneri%201%20-%20Phoenix%20Zoo.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Catagonus%20wagneri%201%20-%20Phoenix%20Zoo.jpg?width=1000"
+  },
+  {
+    "key": 2441000,
+    "scientificName": "Madoqua piacentinii Drake-Brockman, 1911",
+    "canonicalName": "Madoqua piacentinii",
+    "rank": "SPECIES",
+    "parentSpecies": "Madoqua piacentinii",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Madoqua",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q960006",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q216263"
+        },
+        "P105": {
+          "qid": "Q7432"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q3245245",
+          "status": "Data Deficient (DD)"
+        }
+      }
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 2441001,
+    "scientificName": "Madoqua kirkii (Günther, 1880)",
+    "canonicalName": "Madoqua kirkii",
+    "rank": "SPECIES",
+    "parentSpecies": "Madoqua kirkii",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Madoqua",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q833607",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 0.68,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 677.5,
+            "unitQid": "Q41803"
+          }
+        },
+        "P3063": {
+          "value": 5.5,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 5.5,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q216263"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Madoqua%20kirkii%20-%20male%20(Namutoni).jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Madoqua%20kirkii%20-%20male%20(Namutoni).jpg?width=1000"
+  },
+  {
+    "key": 2441002,
+    "scientificName": "Madoqua saltiana (Blainville, 1816)",
+    "canonicalName": "Madoqua saltiana",
+    "rank": "SPECIES",
+    "parentSpecies": "Madoqua saltiana",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Madoqua",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q922138",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q216263"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D1%8B%D0%B6%D0%B5%D0%B1%D1%80%D1%8E%D1%85%D0%B8%D0%B9%20%D0%B4%D0%B8%D0%BA%D0%B4%D0%B8%D0%BA%201.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D1%8B%D0%B6%D0%B5%D0%B1%D1%80%D1%8E%D1%85%D0%B8%D0%B9%20%D0%B4%D0%B8%D0%BA%D0%B4%D0%B8%D0%BA%201.jpg?width=1000"
+  },
+  {
+    "key": 2441003,
+    "scientificName": "Madoqua guentheri Thomas, 1894",
+    "canonicalName": "Madoqua guentheri",
+    "rank": "SPECIES",
+    "parentSpecies": "Madoqua guentheri",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Madoqua",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q922114",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 0.68,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 684,
+            "unitQid": "Q41803"
+          }
+        },
+        "P3063": {
+          "value": 175,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 175,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q216263"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Guenther's%20Dik-Dik.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guenther's%20Dik-Dik.jpg?width=1000"
+  },
+  {
+    "key": 2441005,
+    "scientificName": "Ammotragus lervia (Pallas, 1777)",
+    "canonicalName": "Ammotragus lervia",
+    "rank": "SPECIES",
+    "parentSpecies": "Ammotragus lervia",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Ammotragus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q322141",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 4.5,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 4.5,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 157,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 157,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q10732899"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Barbary%20sheep.JPG?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1.2,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1.2,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Barbary%20sheep.JPG?width=1000"
+  },
+  {
+    "key": 2441007,
+    "scientificName": "Pseudois schaeferi Haltenorth, 1963",
+    "canonicalName": "Pseudois schaeferi",
+    "rank": "SPECIES",
+    "parentSpecies": "Pseudois schaeferi",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Pseudois",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q244062",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q1004741"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20135-S-06-24-35%2C%20Tibetexpedition%2C%20Erlegter%20Blauschafwidder.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20135-S-06-24-35%2C%20Tibetexpedition%2C%20Erlegter%20Blauschafwidder.jpg?width=1000"
+  },
+  {
+    "key": 2441008,
+    "scientificName": "Pseudois nayaur (Hodgson, 1833)",
+    "canonicalName": "Pseudois nayaur",
+    "rank": "SPECIES",
+    "parentSpecies": "Pseudois nayaur",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Pseudois",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q465019",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 160,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 160,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q1004741"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharal%20-%20Shreeram%20M%20V%20-%20Kibber%2C%20Spiti%20Valley%2C%20Himachal%20Pradesh%2C%20India.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharal%20-%20Shreeram%20M%20V%20-%20Kibber%2C%20Spiti%20Valley%2C%20Himachal%20Pradesh%2C%20India.jpg?width=1000"
+  },
+  {
+    "key": 2441011,
+    "scientificName": "Naemorhedus caudatus (Milne-Edwards, 1867)",
+    "canonicalName": "Naemorhedus caudatus",
+    "rank": "SPECIES",
+    "parentSpecies": "Naemorhedus caudatus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Naemorhedus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q842374",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q1370188"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Nemorhaedus%20caudatus.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nemorhaedus%20caudatus.jpg?width=1000"
+  },
+  {
+    "key": 2441013,
+    "scientificName": "Naemorhedus baileyi Pocock, 1914",
+    "canonicalName": "Naemorhedus baileyi",
+    "rank": "SPECIES",
+    "parentSpecies": "Naemorhedus baileyi",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Naemorhedus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.829Z",
+    "qid": "Q913733",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q1370188"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Naemorhedus%20baileyi%20-%20Kunming%20Natural%20History%20Museum%20of%20Zoology%20-%20DSC02442.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naemorhedus%20baileyi%20-%20Kunming%20Natural%20History%20Museum%20of%20Zoology%20-%20DSC02442.JPG?width=1000"
+  },
+  {
+    "key": 2441016,
+    "scientificName": "Naemorhedus goral (Hardwicke, 1825)",
+    "canonicalName": "Naemorhedus goral",
+    "rank": "SPECIES",
+    "parentSpecies": "Naemorhedus goral",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Naemorhedus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q494436",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 194,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 194,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q1370188"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Himalayan%20Ghoral.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Himalayan%20Ghoral.jpg?width=1000"
+  },
+  {
+    "key": 2441018,
+    "scientificName": "Bos sauveli Urbain, 1937",
+    "canonicalName": "Bos sauveli",
+    "rank": "SPECIES",
+    "parentSpecies": "Bos sauveli",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bos",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q321255",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q237993"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Kouprey.gif?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q219127",
+          "status": "Critically Endangered (CR)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kouprey.gif?width=1000"
+  },
+  {
+    "key": 2441019,
+    "scientificName": "Bos grunniens Linnaeus, 1766",
+    "canonicalName": "Bos grunniens",
+    "rank": "SPECIES",
+    "parentSpecies": "Bos grunniens",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bos",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q13408062",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 264,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 264,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q237993"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Bos%20grunniens%20at%20Letdar%20on%20Annapurna%20Circuit.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bos%20grunniens%20at%20Letdar%20on%20Annapurna%20Circuit.jpg?width=1000"
+  },
+  {
+    "key": 2441022,
+    "scientificName": "Bos taurus Linnaeus, 1758",
+    "canonicalName": "Bos taurus",
+    "rank": "SPECIES",
+    "parentSpecies": "Bos taurus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bos",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q19610691",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q237993"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Toro%2025M.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Toro%2025M.jpg?width=1000"
+  },
+  {
+    "key": 2441025,
+    "scientificName": "Bos frontalis Lambert, 1804",
+    "canonicalName": "Bos frontalis",
+    "rank": "SPECIES",
+    "parentSpecies": "Bos frontalis",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bos",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q45079",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q237993"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/B4%20darjeling%20para-5.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q1006733"
+        }
+      },
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B4%20darjeling%20para-5.jpg?width=1000"
+  },
+  {
+    "key": 2441027,
+    "scientificName": "Bos javanicus d'Alton, 1823",
+    "canonicalName": "Bos javanicus",
+    "rank": "SPECIES",
+    "parentSpecies": "Bos javanicus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bos",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q183035",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 285,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 285,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q237993"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Alas%20Purwo%20banteng%20close%20up.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q219127",
+          "status": "Critically Endangered (CR)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alas%20Purwo%20banteng%20close%20up.jpg?width=1000"
+  },
+  {
+    "key": 2441030,
+    "scientificName": "Hippotragus equinus (É.Geoffroy Saint-Hilaire, 1803)",
+    "canonicalName": "Hippotragus equinus",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippotragus equinus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Hippotragus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q471785",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 9.5,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 9.5,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q516624"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Roan%20(Hippotragus%20equinus)%20male%20...%20(50219724657).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Roan%20(Hippotragus%20equinus)%20male%20...%20(50219724657).jpg?width=1000"
+  },
+  {
+    "key": 2441031,
+    "scientificName": "Hippotragus niger (Harris, 1838)",
+    "canonicalName": "Hippotragus niger",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippotragus niger",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Hippotragus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q239381",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 9,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 9,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q516624"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Sable%20bull.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sable%20bull.jpg?width=1000"
+  },
+  {
+    "key": 2441032,
+    "scientificName": "Hippotragus leucophaeus (Pallas, 1766)",
+    "canonicalName": "Hippotragus leucophaeus",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippotragus leucophaeus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Hippotragus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q746580",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q516624"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippotragus%20leucophaeus%2C%20Naturhistorisches%20Museum%20Wien.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q237350",
+          "status": "Extinct (EX)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippotragus%20leucophaeus%2C%20Naturhistorisches%20Museum%20Wien.jpg?width=1000"
+  },
+  {
+    "key": 2441034,
+    "scientificName": "Syncerus caffer (Sparrman, 1779)",
+    "canonicalName": "Syncerus caffer",
+    "rank": "SPECIES",
+    "parentSpecies": "Syncerus caffer",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Syncerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q160042",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 340,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 340,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q10822466"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Serengeti%20Bueffel1.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Serengeti%20Bueffel1.jpg?width=1000"
+  },
+  {
+    "key": 2441036,
+    "scientificName": "Redunca fulvorufula (Afzelius, 1815)",
+    "canonicalName": "Redunca fulvorufula",
+    "rank": "SPECIES",
+    "parentSpecies": "Redunca fulvorufula",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Redunca",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q820184",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q1050190"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Bergriedbock%202007-08-16%20201.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bergriedbock%202007-08-16%20201.jpg?width=1000"
+  },
+  {
+    "key": 2441037,
+    "scientificName": "Redunca arundinum (Boddaert, 1785)",
+    "canonicalName": "Redunca arundinum",
+    "rank": "SPECIES",
+    "parentSpecies": "Redunca arundinum",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Redunca",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:38.830Z",
+    "qid": "Q755007",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 7.75,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 7.75,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q1050190"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Southern%20Reedbuck%20(Redunca%20arundinum)%20iSimangaliso%20Wetland%20Park%2C%20KwaZulu-Natal%2C%20South%20Africa.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Southern%20Reedbuck%20(Redunca%20arundinum)%20iSimangaliso%20Wetland%20Park%2C%20KwaZulu-Natal%2C%20South%20Africa.jpg?width=1000"
+  },
+  {
+    "key": 2441168,
+    "scientificName": "Cephalophus natalensis A.Smith, 1834",
+    "canonicalName": "Cephalophus natalensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Cephalophus natalensis",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Cephalophus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q541521",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q289118"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotducker.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotducker.jpg?width=1000"
+  },
+  {
+    "key": 2441169,
+    "scientificName": "Cephalophus ogilbyi (Waterhouse, 1838)",
+    "canonicalName": "Cephalophus ogilbyi",
+    "rank": "SPECIES",
+    "parentSpecies": "Cephalophus ogilbyi",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Cephalophus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q925068",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q289118"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20book%20of%20antelopes%20(1894)%20Cephalophus%20ogilbyi.png?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20book%20of%20antelopes%20(1894)%20Cephalophus%20ogilbyi.png?width=1000"
+  },
+  {
+    "key": 2441170,
+    "scientificName": "Cephalophus callipygus Peters, 1876",
+    "canonicalName": "Cephalophus callipygus",
+    "rank": "SPECIES",
+    "parentSpecies": "Cephalophus callipygus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Cephalophus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q373624",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q289118"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Peters%20Duiker%20(Cephalophus%20callipygus)%20from%20behind%2C%20Campo%20Maan%20National%20Park.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peters%20Duiker%20(Cephalophus%20callipygus)%20from%20behind%2C%20Campo%20Maan%20National%20Park.jpg?width=1000"
+  },
+  {
+    "key": 2441176,
+    "scientificName": "Bison bison (Linnaeus, 1758)",
+    "canonicalName": "Bison bison",
+    "rank": "SPECIES",
+    "parentSpecies": "Bison bison",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bison",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q82728",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 20,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 20,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 285,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 285,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q18099"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20bison%20k5680-1.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20bison%20k5680-1.jpg?width=1000"
+  },
+  {
+    "key": 2441184,
+    "scientificName": "Bison bonasus (Linnaeus, 1758)",
+    "canonicalName": "Bison bonasus",
+    "rank": "SPECIES",
+    "parentSpecies": "Bison bonasus",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bison",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q81091",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 263,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 263,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q18099"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20bison%20(Bison%20bonasus)%20male%20Bia%C5%82owieza.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20bison%20(Bison%20bonasus)%20male%20Bia%C5%82owieza.jpg?width=1000"
+  },
+  {
+    "key": 2441187,
+    "scientificName": "Sylvicapra grimmia (Linnaeus, 1758)",
+    "canonicalName": "Sylvicapra grimmia",
+    "rank": "SPECIES",
+    "parentSpecies": "Sylvicapra grimmia",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Sylvicapra",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q756208",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 7.25,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 7.25,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q10822379"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Common%20duiker%20kenya.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Common%20duiker%20kenya.jpg?width=1000"
+  },
+  {
+    "key": 2441197,
+    "scientificName": "Dorcatragus megalotis (Menges, 1894)",
+    "canonicalName": "Dorcatragus megalotis",
+    "rank": "SPECIES",
+    "parentSpecies": "Dorcatragus megalotis",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Dorcatragus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q744078",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q10756690"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorcatragus%20megalotis.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorcatragus%20megalotis.jpg?width=1000"
+  },
+  {
+    "key": 2441199,
+    "scientificName": "Tetracerus quadricornis (Blainville, 1816)",
+    "canonicalName": "Tetracerus quadricornis",
+    "rank": "SPECIES",
+    "parentSpecies": "Tetracerus quadricornis",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Tetracerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q273580",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 0.92,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 0.92,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 7.75,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 7.75,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q10824586"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Four-horned%20Antelope.JPG?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1.6,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1.6,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Four-horned%20Antelope.JPG?width=1000"
+  },
+  {
+    "key": 2441205,
+    "scientificName": "Giraffa camelopardalis (Linnaeus, 1758)",
+    "canonicalName": "Giraffa camelopardalis",
+    "rank": "SPECIES",
+    "parentSpecies": "Giraffa camelopardalis",
+    "order": "Artiodactyla",
+    "family": "Giraffidae",
+    "genus": "Giraffa",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q15083",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 54.5,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 54.5,
+            "unitQid": "Q11570"
+          }
+        },
+        "P2048": {
+          "value": 550,
+          "unit": "cm",
+          "dimension": "length",
+          "raw": {
+            "type": "quantity",
+            "amount": 5.5,
+            "unitQid": "Q11573"
+          }
+        },
+        "P3063": {
+          "value": 457,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 457,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q862089"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Rothschild's%20giraffe%20(Giraffa%20camelopardalis%20rothschildi)%20-%20Murchison%20Falls%20National%20Park.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rothschild's%20giraffe%20(Giraffa%20camelopardalis%20rothschildi)%20-%20Murchison%20Falls%20National%20Park.jpg?width=1000"
+  },
+  {
+    "key": 2441207,
+    "scientificName": "Okapia johnstoni (P.L.Sclater, 1901)",
+    "canonicalName": "Okapia johnstoni",
+    "rank": "SPECIES",
+    "parentSpecies": "Okapia johnstoni",
+    "order": "Artiodactyla",
+    "family": "Giraffidae",
+    "genus": "Okapia",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:00:56.768Z",
+    "qid": "Q82037",
+    "traits": {
+      "physical": {
+        "P2067": {
+          "value": 22,
+          "unit": "kg",
+          "dimension": "mass",
+          "raw": {
+            "type": "quantity",
+            "amount": 22,
+            "unitQid": "Q11570"
+          }
+        },
+        "P3063": {
+          "value": 14.5,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 14.5,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q1872039"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Okapia%20johnstoni%20-Marwell%20Wildlife%2C%20Hampshire%2C%20England-8a.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 1,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 1,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Okapia%20johnstoni%20-Marwell%20Wildlife%2C%20Hampshire%2C%20England-8a.jpg?width=1000"
+  },
+  {
+    "key": 2441209,
+    "scientificName": "Babyrousa babyrussa (Linnaeus, 1758)",
+    "canonicalName": "Babyrousa babyrussa",
+    "rank": "SPECIES",
+    "parentSpecies": "Babyrousa babyrussa",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Babyrousa",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q629015",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q232558"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Babyrousa%20babyrussa%2005%20MWNH%20123a.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Babyrousa%20babyrussa%2005%20MWNH%20123a.jpg?width=1000"
+  },
+  {
+    "key": 2441211,
+    "scientificName": "Phacochoerus aethiopicus (Pallas, 1766)",
+    "canonicalName": "Phacochoerus aethiopicus",
+    "rank": "SPECIES",
+    "parentSpecies": "Phacochoerus aethiopicus",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Phacochoerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q529738",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3645260"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Warthog%2C%20Tsavo%20National%20Park%2C%20Kenya%2001.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Warthog%2C%20Tsavo%20National%20Park%2C%20Kenya%2001.jpg?width=1000"
+  },
+  {
+    "key": 2441212,
+    "scientificName": "Phacochoerus africanus (Gmelin, 1788)",
+    "canonicalName": "Phacochoerus africanus",
+    "rank": "SPECIES",
+    "parentSpecies": "Phacochoerus africanus",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Phacochoerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q183255",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 172,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 172,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q3645260"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Nolan%20warthog%20(Phacochoerus%20africanus%20africanus).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nolan%20warthog%20(Phacochoerus%20africanus%20africanus).jpg?width=1000"
+  },
+  {
+    "key": 2441214,
+    "scientificName": "Sus philippensis Nehring, 1886",
+    "canonicalName": "Sus philippensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Sus philippensis",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q260587",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q10798"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20warty%20pig%20(9105598572).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20warty%20pig%20(9105598572).jpg?width=1000"
+  },
+  {
+    "key": 2441215,
+    "scientificName": "Sus cebifrons Heude, 1888",
+    "canonicalName": "Sus cebifrons",
+    "rank": "SPECIES",
+    "parentSpecies": "Sus cebifrons",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q859200",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q10798"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/VisayanWartyPig01.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q219127",
+          "status": "Critically Endangered (CR)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/VisayanWartyPig01.jpg?width=1000"
+  },
+  {
+    "key": 2441217,
+    "scientificName": "Sus bucculentus Heude, 1892",
+    "canonicalName": "Sus bucculentus",
+    "rank": "SPECIES",
+    "parentSpecies": "Sus bucculentus",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q564473",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q10798"
+        },
+        "P105": {
+          "qid": "Q7432"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q237350",
+          "status": "Extinct (EX)"
+        }
+      }
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 2441220,
+    "scientificName": "Sus salvanius (Hodgson, 1847)",
+    "canonicalName": "Sus salvanius",
+    "rank": "SPECIES",
+    "parentSpecies": "Sus salvanius",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q20819560",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q10798"
+        },
+        "P105": {
+          "qid": "Q7432"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 2441221,
+    "scientificName": "Sus celebensis Müller & Schlegel, 1843",
+    "canonicalName": "Sus celebensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Sus celebensis",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q535406",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 4,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 4,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q10798"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Sus%20celebensis%20416841925.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q719675",
+          "status": "Near Threatened (NT)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sus%20celebensis%20416841925.jpg?width=1000"
+  },
+  {
+    "key": 2441222,
+    "scientificName": "Sus barbatus Müller, 1838",
+    "canonicalName": "Sus barbatus",
+    "rank": "SPECIES",
+    "parentSpecies": "Sus barbatus",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q809606",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 4,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 4,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q10798"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Bearded%20Pigs2.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bearded%20Pigs2.jpg?width=1000"
+  },
+  {
+    "key": 2441225,
+    "scientificName": "Potamochoerus porcus (Linnaeus, 1758)",
+    "canonicalName": "Potamochoerus porcus",
+    "rank": "SPECIES",
+    "parentSpecies": "Potamochoerus porcus",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Potamochoerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q654370",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 123,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 123,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q632928"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Potamochoerus%20porcus%20Zoo%20Amneville%2028092014%202.jpg?width=1000"
+      },
+      "reproduction": {
+        "P7725": {
+          "value": 3.5,
+          "unit": null,
+          "raw": {
+            "type": "quantity",
+            "amount": 3.5,
+            "unitQid": null
+          }
+        }
+      },
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Potamochoerus%20porcus%20Zoo%20Amneville%2028092014%202.jpg?width=1000"
+  },
+  {
+    "key": 2441226,
+    "scientificName": "Potamochoerus larvatus (F.Cuvier, 1822)",
+    "canonicalName": "Potamochoerus larvatus",
+    "rank": "SPECIES",
+    "parentSpecies": "Potamochoerus larvatus",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Potamochoerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q430489",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q632928"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/African%20bush%20pigs%2C%20Mapungubwe%20National%20Park%20(35884241784).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/African%20bush%20pigs%2C%20Mapungubwe%20National%20Park%20(35884241784).jpg?width=1000"
+  },
+  {
+    "key": 2441228,
+    "scientificName": "Hylochoerus meinertzhageni Thomas, 1904",
+    "canonicalName": "Hylochoerus meinertzhageni",
+    "rank": "SPECIES",
+    "parentSpecies": "Hylochoerus meinertzhageni",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Hylochoerus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:04.381Z",
+    "qid": "Q602666",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 151,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 151,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q9295447"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Hylochoerus%20meinertzhageni2.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hylochoerus%20meinertzhageni2.jpg?width=1000"
+  },
+  {
+    "key": 2441230,
+    "scientificName": "Hyemoschus aquaticus (Ogilby, 1841)",
+    "canonicalName": "Hyemoschus aquaticus",
+    "rank": "SPECIES",
+    "parentSpecies": "Hyemoschus aquaticus",
+    "order": "Artiodactyla",
+    "family": "Tragulidae",
+    "genus": "Hyemoschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q256572",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 7.5,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 7.5,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q19817324"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Em%20-%20Hyemoschus%20aquaticus.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Em%20-%20Hyemoschus%20aquaticus.jpg?width=1000"
+  },
+  {
+    "key": 2441235,
+    "scientificName": "Moschiola meminna (Erxleben, 1777)",
+    "canonicalName": "Moschiola meminna",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschiola meminna",
+    "order": "Artiodactyla",
+    "family": "Tragulidae",
+    "genus": "Moschiola",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q948761",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q996737"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschiola%20meminna.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q211005",
+          "status": "Least Concern (LC)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moschiola%20meminna.jpg?width=1000"
+  },
+  {
+    "key": 2441238,
+    "scientificName": "Camelus bactrianus Linnaeus, 1758",
+    "canonicalName": "Camelus bactrianus",
+    "rank": "SPECIES",
+    "parentSpecies": "Camelus bactrianus",
+    "order": "Artiodactyla",
+    "family": "Camelidae",
+    "genus": "Camelus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q132922",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q7375"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/2011%20Trampeltier%201528.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2011%20Trampeltier%201528.JPG?width=1000"
+  },
+  {
+    "key": 2441246,
+    "scientificName": "Hippopotamus lemerlei Grandidier, 1868",
+    "canonicalName": "Hippopotamus lemerlei",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippopotamus lemerlei",
+    "order": "Artiodactyla",
+    "family": "Hippopotamidae",
+    "genus": "Hippopotamus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q1191360",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q629680"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippopotamus%20lemerlei.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q237350",
+          "status": "Extinct (EX)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippopotamus%20lemerlei.jpg?width=1000"
+  },
+  {
+    "key": 2441247,
+    "scientificName": "Hippopotamus amphibius Linnaeus, 1758",
+    "canonicalName": "Hippopotamus amphibius",
+    "rank": "SPECIES",
+    "parentSpecies": "Hippopotamus amphibius",
+    "order": "Artiodactyla",
+    "family": "Hippopotamidae",
+    "genus": "Hippopotamus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q34505",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 8,
+          "unit": "Month",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 8,
+            "unitQid": "Q5151"
+          }
+        },
+        "P171": {
+          "qid": "Q629680"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Hippopotamus%20in%20the%20water.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P1034": {
+          "qid": "Q643352"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q278113",
+          "status": "Vulnerable (VU)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Hippopotamus%20in%20the%20water.jpg?width=1000"
+  },
+  {
+    "key": 2441249,
+    "scientificName": "Hexaprotodon liberiensis (Morton, 1849)",
+    "canonicalName": "Hexaprotodon liberiensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Hexaprotodon liberiensis",
+    "order": "Artiodactyla",
+    "family": "Hippopotamidae",
+    "genus": "Hexaprotodon",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q202241",
+    "traits": {
+      "physical": {
+        "P3063": {
+          "value": 194,
+          "unit": "Days",
+          "dimension": "time",
+          "raw": {
+            "type": "quantity",
+            "amount": 194,
+            "unitQid": "Q573"
+          }
+        },
+        "P171": {
+          "qid": "Q2715758"
+        },
+        "P105": {
+          "qid": "Q7432"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 2441250,
+    "scientificName": "Hexaprotodon madagascariensis (Guldberg, 1883)",
+    "canonicalName": "Hexaprotodon madagascariensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Hexaprotodon madagascariensis",
+    "order": "Artiodactyla",
+    "family": "Hippopotamidae",
+    "genus": "Hexaprotodon",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q15859340",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q2715758"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Malagasy%20Hippopotamus.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Malagasy%20Hippopotamus.jpg?width=1000"
+  },
+  {
+    "key": 4262215,
+    "scientificName": "Moschus berezovskii berezovskii",
+    "canonicalName": "Moschus berezovskii berezovskii",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus berezovskii",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "parentKey": 2440991,
+    "qid": "Q20908196",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q277469"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262216,
+    "scientificName": "Moschus berezovskii yanguiensis Wang & Ma, 1993",
+    "canonicalName": "Moschus berezovskii yanguiensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus berezovskii",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "parentKey": 2440991,
+    "qid": "Q20908199",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q277469"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262217,
+    "scientificName": "Moschus chrysogaster sifanicus Büchner, 1891",
+    "canonicalName": "Moschus chrysogaster sifanicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus chrysogaster",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "parentKey": 2440989,
+    "qid": "Q15223937",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q288881"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262218,
+    "scientificName": "Moschus leucogaster Hodgson, 1839",
+    "canonicalName": "Moschus leucogaster",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus leucogaster",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q1082275",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%99%D7%99%D7%9C%20%D7%9E%D7%95%D7%A9%D7%A7%20%D7%94%D7%94%D7%99%D7%9E%D7%9C%D7%90%D7%99%D7%94%20-%20%D7%90%D7%99%D7%95%D7%A8%20%D7%A9%D7%9C%20%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-%D7%9E%D7%A0%D7%97%D7%9D.%D7%90%D7%9C.png?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {
+        "P2974": {
+          "qid": "Q4421"
+        }
+      },
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%99%D7%99%D7%9C%20%D7%9E%D7%95%D7%A9%D7%A7%20%D7%94%D7%94%D7%99%D7%9E%D7%9C%D7%90%D7%99%D7%94%20-%20%D7%90%D7%99%D7%95%D7%A8%20%D7%A9%D7%9C%20%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-%D7%9E%D7%A0%D7%97%D7%9D.%D7%90%D7%9C.png?width=1000"
+  },
+  {
+    "key": 4262219,
+    "scientificName": "Moschus moschiferus arcticus Flerov, 1929",
+    "canonicalName": "Moschus moschiferus arcticus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus moschiferus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "parentKey": 2440988,
+    "qid": "Q20908203",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190508"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262220,
+    "scientificName": "Moschus moschiferus turowi Zalkin, 1945",
+    "canonicalName": "Moschus moschiferus turowi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus moschiferus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "parentKey": 2440988,
+    "qid": "Q20908206",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190508"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262221,
+    "scientificName": "Moschus anhuiensis Wang, Hu & Yan, 1982",
+    "canonicalName": "Moschus anhuiensis",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus anhuiensis",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:15.411Z",
+    "qid": "Q545537",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%99%D7%99%D7%9C%20%D7%9E%D7%95%D7%A9%D7%A7%20%D7%90%D7%A0%D7%97%D7%95%D7%95%D7%99%20-%20%D7%90%D7%99%D7%95%D7%A8%20%D7%A9%D7%9C%20%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-%D7%9E%D7%A0%D7%97%D7%9D.%D7%90%D7%9C.PNG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%99%D7%99%D7%9C%20%D7%9E%D7%95%D7%A9%D7%A7%20%D7%90%D7%A0%D7%97%D7%95%D7%95%D7%99%20-%20%D7%90%D7%99%D7%95%D7%A8%20%D7%A9%D7%9C%20%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-%D7%9E%D7%A0%D7%97%D7%9D.%D7%90%D7%9C.PNG?width=1000"
+  },
+  {
+    "key": 4262222,
+    "scientificName": "Moschus berezovskii bijiangensis Wang & Li, 1993",
+    "canonicalName": "Moschus berezovskii bijiangensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus berezovskii",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440991,
+    "qid": "Q20908197",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q277469"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262223,
+    "scientificName": "Moschus cupreus Grubb, 1982",
+    "canonicalName": "Moschus cupreus",
+    "rank": "SPECIES",
+    "parentSpecies": "Moschus cupreus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "qid": "Q2326479",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q3866060"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Muskdeerjpg.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q96377276",
+          "status": "Endangered (EN)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Muskdeerjpg.jpg?width=1000"
+  },
+  {
+    "key": 4262224,
+    "scientificName": "Moschus moschiferus parvipes Hollister, 1911",
+    "canonicalName": "Moschus moschiferus parvipes",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus moschiferus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440988,
+    "qid": "Q20908204",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190508"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262225,
+    "scientificName": "Moschus berezovskii caobangis Dao, 1969",
+    "canonicalName": "Moschus berezovskii caobangis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus berezovskii",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440991,
+    "qid": "Q20908198",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q277469"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262228,
+    "scientificName": "Moschus moschiferus sachalinensis Flerov, 1929",
+    "canonicalName": "Moschus moschiferus sachalinensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Moschus moschiferus",
+    "order": "Artiodactyla",
+    "family": "Moschidae",
+    "genus": "Moschus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440988,
+    "qid": "Q20755672",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190508"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262279,
+    "scientificName": "Elaphodus cephalophus fociensis Lydekker, 1904",
+    "canonicalName": "Elaphodus cephalophus fociensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Elaphodus cephalophus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Elaphodus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440983,
+    "qid": "Q20908336",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q723575"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262280,
+    "scientificName": "Elaphodus cephalophus michianus (Swinhoe, 1874)",
+    "canonicalName": "Elaphodus cephalophus michianus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Elaphodus cephalophus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Elaphodus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440983,
+    "qid": "Q20908339",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q723575"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaphodus%20cephalophus%20michianus%20Magdeburg%20zoo%2020.10.2012%2003.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elaphodus%20cephalophus%20michianus%20Magdeburg%20zoo%2020.10.2012%2003.jpg?width=1000"
+  },
+  {
+    "key": 4262282,
+    "scientificName": "Elaphodus cephalophus ichangensis Lydekker, 1904",
+    "canonicalName": "Elaphodus cephalophus ichangensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Elaphodus cephalophus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Elaphodus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440983,
+    "qid": "Q20908338",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q723575"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262283,
+    "scientificName": "Alces americanus (Clinton, 1822)",
+    "canonicalName": "Alces americanus",
+    "rank": "SPECIES",
+    "parentSpecies": "Alces americanus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Alces",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "qid": "Q2112320",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q10731891"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Alces%20alces%20Cape%20Breton%20Highlands%20National%20Park.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alces%20alces%20Cape%20Breton%20Highlands%20National%20Park.jpg?width=1000"
+  },
+  {
+    "key": 4262284,
+    "scientificName": "Alces americanus cameloides (Milne-Edwards, 1867)",
+    "canonicalName": "Alces americanus cameloides",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Alces americanus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Alces",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 4262283,
+    "qid": "Q14776230",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q2112320"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262285,
+    "scientificName": "Alces alces caucasicus Vereshchagin, 1955",
+    "canonicalName": "Alces alces caucasicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Alces alces",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Alces",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440940,
+    "qid": "Q5054268",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q35517"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Elch.PNG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elch.PNG?width=1000"
+  },
+  {
+    "key": 4262296,
+    "scientificName": "Odocoileus virginianus cariacou (Boddaert, 1784)",
+    "canonicalName": "Odocoileus virginianus cariacou",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440965,
+    "qid": "Q20908262",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262297,
+    "scientificName": "Odocoileus virginianus oaxacensis Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus oaxacensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440965,
+    "qid": "Q20908280",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262298,
+    "scientificName": "Odocoileus hemionus californicus (Caton, 1876)",
+    "canonicalName": "Odocoileus hemionus californicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440974,
+    "qid": "Q5021281",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%2008482.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%2008482.JPG?width=1000"
+  },
+  {
+    "key": 4262299,
+    "scientificName": "Odocoileus virginianus dacotensis Goldman & Kellog, 1940",
+    "canonicalName": "Odocoileus virginianus dacotensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440965,
+    "qid": "Q20908268",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262300,
+    "scientificName": "Odocoileus virginianus sinaloae J.A.Allen, 1903",
+    "canonicalName": "Odocoileus virginianus sinaloae",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:26.274Z",
+    "parentKey": 2440965,
+    "qid": "Q20908286",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262301,
+    "scientificName": "Odocoileus hemionus peninsulae (Lydekker, 1898)",
+    "canonicalName": "Odocoileus hemionus peninsulae",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440974,
+    "qid": "Q20908255",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262302,
+    "scientificName": "Odocoileus virginianus mcilhennyi F.W.Miller, 1928",
+    "canonicalName": "Odocoileus virginianus mcilhennyi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908273",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262303,
+    "scientificName": "Odocoileus virginianus ustus Trouessart, 1910",
+    "canonicalName": "Odocoileus virginianus ustus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908294",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262304,
+    "scientificName": "Odocoileus virginianus borealis Miller, 1900",
+    "canonicalName": "Odocoileus virginianus borealis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908261",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20virginianus%20borealis%20CT.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20virginianus%20borealis%20CT.jpg?width=1000"
+  },
+  {
+    "key": 4262305,
+    "scientificName": "Odocoileus virginianus nigribarbis Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus nigribarbis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908279",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262306,
+    "scientificName": "Odocoileus virginianus curassavicus (Hummelinck, 1940)",
+    "canonicalName": "Odocoileus virginianus curassavicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908267",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Cura%C3%A7aos%20witstaarthert%20-%20Bin%C3%A1%20-%20Odocoileus%20virginianus%20curassavicus.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cura%C3%A7aos%20witstaarthert%20-%20Bin%C3%A1%20-%20Odocoileus%20virginianus%20curassavicus.jpg?width=1000"
+  },
+  {
+    "key": 4262307,
+    "scientificName": "Odocoileus virginianus seminolus Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus seminolus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908285",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262308,
+    "scientificName": "Odocoileus hemionus inyoensis Cowan, 1933",
+    "canonicalName": "Odocoileus hemionus inyoensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440974,
+    "qid": "Q20908254",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262309,
+    "scientificName": "Odocoileus virginianus macrourus (Rafinesque, 1817)",
+    "canonicalName": "Odocoileus virginianus macrourus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908272",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Quivira-Whitetail-Buck.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Quivira-Whitetail-Buck.jpg?width=1000"
+  },
+  {
+    "key": 4262310,
+    "scientificName": "Odocoileus virginianus tropicalis Cabrera, 1918",
+    "canonicalName": "Odocoileus virginianus tropicalis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908293",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262311,
+    "scientificName": "Odocoileus virginianus acapulcensis (Caton, 1877)",
+    "canonicalName": "Odocoileus virginianus acapulcensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908260",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262312,
+    "scientificName": "Odocoileus virginianus nemoralis (C.H.Smith, 1827)",
+    "canonicalName": "Odocoileus virginianus nemoralis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908278",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262313,
+    "scientificName": "Odocoileus virginianus couesi (Coues & Yarrow, 1875)",
+    "canonicalName": "Odocoileus virginianus couesi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908266",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262314,
+    "scientificName": "Odocoileus virginianus rothschildi (Thomas, 1902)",
+    "canonicalName": "Odocoileus virginianus rothschildi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908284",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262315,
+    "scientificName": "Odocoileus hemionus fuliginatus Cowan, 1933",
+    "canonicalName": "Odocoileus hemionus fuliginatus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440974,
+    "qid": "Q20908253",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262316,
+    "scientificName": "Odocoileus virginianus toltecus (Saussure, 1860)",
+    "canonicalName": "Odocoileus virginianus toltecus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908290",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262317,
+    "scientificName": "Odocoileus virginianus nelsoni Merriam, 1898",
+    "canonicalName": "Odocoileus virginianus nelsoni",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908277",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20deer%20(Odocoileus%20virginianus%20nelsoni)%20fawn%20Orange%20Walk.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20deer%20(Odocoileus%20virginianus%20nelsoni)%20fawn%20Orange%20Walk.jpg?width=1000"
+  },
+  {
+    "key": 4262318,
+    "scientificName": "Odocoileus virginianus peruvianus (Gray, 1874)",
+    "canonicalName": "Odocoileus virginianus peruvianus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:37.541Z",
+    "parentKey": 2440965,
+    "qid": "Q20908283",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262319,
+    "scientificName": "Odocoileus hemionus eremicus (Mearns, 1897)",
+    "canonicalName": "Odocoileus hemionus eremicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440974,
+    "qid": "Q20908251",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%20eremicus%20-%20Mount%20Angel%20Abbey%20Museum%20-%20Mount%20Angel%20Abbey%20-%20Mount%20Angel%2C%20Oregon%20-%20DSC09978.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%20eremicus%20-%20Mount%20Angel%20Abbey%20Museum%20-%20Mount%20Angel%20Abbey%20-%20Mount%20Angel%2C%20Oregon%20-%20DSC09978.jpg?width=1000"
+  },
+  {
+    "key": 4262320,
+    "scientificName": "Odocoileus virginianus hiltonensis Goldman & Kellog, 1940",
+    "canonicalName": "Odocoileus virginianus hiltonensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q5764596",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262321,
+    "scientificName": "Odocoileus virginianus thomasi Merriam, 1898",
+    "canonicalName": "Odocoileus virginianus thomasi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908289",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262322,
+    "scientificName": "Odocoileus virginianus miquihuanensis Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus miquihuanensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908276",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262323,
+    "scientificName": "Odocoileus virginianus yucatanensis (Hays, 1872)",
+    "canonicalName": "Odocoileus virginianus yucatanensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908297",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262324,
+    "scientificName": "Odocoileus virginianus chiriquensis J.A.Allen, 1910",
+    "canonicalName": "Odocoileus virginianus chiriquensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908265",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262325,
+    "scientificName": "Odocoileus virginianus osceola (Bangs, 1896)",
+    "canonicalName": "Odocoileus virginianus osceola",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908282",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262326,
+    "scientificName": "Odocoileus hemionus columbianus (Richardson, 1829)",
+    "canonicalName": "Odocoileus hemionus columbianus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440974,
+    "qid": "Q3880944",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%205932.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%205932.JPG?width=1000"
+  },
+  {
+    "key": 4262327,
+    "scientificName": "Odocoileus virginianus gymnotis (Wiegmann, 1833)",
+    "canonicalName": "Odocoileus virginianus gymnotis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908270",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262328,
+    "scientificName": "Odocoileus virginianus texanus (Mearns, 1898)",
+    "canonicalName": "Odocoileus virginianus texanus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908288",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262329,
+    "scientificName": "Odocoileus hemionus sitkensis Merriam, 1898",
+    "canonicalName": "Odocoileus hemionus sitkensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440974,
+    "qid": "Q2474346",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%20sitkensis.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20hemionus%20sitkensis.jpg?width=1000"
+  },
+  {
+    "key": 4262330,
+    "scientificName": "Odocoileus virginianus mexicanus (Gmelin, 1788)",
+    "canonicalName": "Odocoileus virginianus mexicanus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908275",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262331,
+    "scientificName": "Odocoileus virginianus veraecrucis Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus veraecrucis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908296",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262332,
+    "scientificName": "Odocoileus virginianus carminis Goldman & Kellog, 1940",
+    "canonicalName": "Odocoileus virginianus carminis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908264",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20deer%20Big%20Bend.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20deer%20Big%20Bend.jpg?width=1000"
+  },
+  {
+    "key": 4262333,
+    "scientificName": "Odocoileus virginianus ochrourus V.Bailey, 1932",
+    "canonicalName": "Odocoileus virginianus ochrourus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908281",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262334,
+    "scientificName": "Odocoileus virginianus goudotii (Gay & Gervais, 1846)",
+    "canonicalName": "Odocoileus virginianus goudotii",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908269",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20virginianus%20goudotii.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odocoileus%20virginianus%20goudotii.JPG?width=1000"
+  },
+  {
+    "key": 4262335,
+    "scientificName": "Odocoileus virginianus taurinsulae Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus taurinsulae",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908287",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262336,
+    "scientificName": "Odocoileus hemionus sheldoni Goldman, 1939",
+    "canonicalName": "Odocoileus hemionus sheldoni",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus hemionus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440974,
+    "qid": "Q20908256",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q338831"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262337,
+    "scientificName": "Odocoileus virginianus margaritae Osgood, 1910",
+    "canonicalName": "Odocoileus virginianus margaritae",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908274",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262338,
+    "scientificName": "Odocoileus virginianus venatorius Goldman & Kellogg, 1940",
+    "canonicalName": "Odocoileus virginianus venatorius",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Odocoileus virginianus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Odocoileus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:01:52.300Z",
+    "parentKey": 2440965,
+    "qid": "Q20908295",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q215887"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262341,
+    "scientificName": "Rucervus duvaucelii duvaucelii",
+    "canonicalName": "Rucervus duvaucelii duvaucelii",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Rucervus duvaucelii",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rucervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 7261380,
+    "qid": "Q20908355",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q506308"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262343,
+    "scientificName": "Rucervus eldii siamensis (Lydekker, 1915)",
+    "canonicalName": "Rucervus eldii siamensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Rucervus eldii",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rucervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 7261381,
+    "qid": "Q20908358",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q646488"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Lierherten.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lierherten.JPG?width=1000"
+  },
+  {
+    "key": 4262345,
+    "scientificName": "Rucervus duvaucelii ranjitsinhi (Groves, 1982)",
+    "canonicalName": "Rucervus duvaucelii ranjitsinhi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Rucervus duvaucelii",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rucervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 7261380,
+    "qid": "Q20908357",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q506308"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262346,
+    "scientificName": "Rucervus schomburgki (Blyth, 1863)",
+    "canonicalName": "Rucervus schomburgki",
+    "rank": "SPECIES",
+    "parentSpecies": "Rucervus schomburgki",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rucervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "qid": "Q749836",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q844555"
+        },
+        "P105": {
+          "qid": "Q7432"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/SchomburgksDeer-Berlin1911.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {
+        "P141": {
+          "qid": "Q237350",
+          "status": "Extinct (EX)"
+        }
+      }
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SchomburgksDeer-Berlin1911.jpg?width=1000"
+  },
+  {
+    "key": 4262348,
+    "scientificName": "Rucervus duvaucelii branderi Pocock, 1943",
+    "canonicalName": "Rucervus duvaucelii branderi",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Rucervus duvaucelii",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rucervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 7261380,
+    "qid": "Q20908356",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q506308"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Rucervus%20duvaucelii%20branderi%20231650420.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rucervus%20duvaucelii%20branderi%20231650420.jpg?width=1000"
+  },
+  {
+    "key": 4262349,
+    "scientificName": "Rucervus eldii thamin Thomas, 1918",
+    "canonicalName": "Rucervus eldii thamin",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Rucervus eldii",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rucervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 7261381,
+    "qid": "Q20908359",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q646488"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Rucervus%20eldii%20thamin%2086968220.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rucervus%20eldii%20thamin%2086968220.jpg?width=1000"
+  },
+  {
+    "key": 4262350,
+    "scientificName": "Cervus nippon sichuanicus Guo, Chen & Wang, 1978",
+    "canonicalName": "Cervus nippon sichuanicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q3665288",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Scheuer%20Cervus%20nippon%20Rheing%C3%B6nheim.JPG?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scheuer%20Cervus%20nippon%20Rheing%C3%B6nheim.JPG?width=1000"
+  },
+  {
+    "key": 4262351,
+    "scientificName": "Cervus elaphus hispanicus Hilzheimer, 1909",
+    "canonicalName": "Cervus elaphus hispanicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q1095643",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Pardo%20ciervo.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Pardo%20ciervo.jpg?width=1000"
+  },
+  {
+    "key": 4262352,
+    "scientificName": "Cervus nippon yakushimae Kuroda & Okada, 1950",
+    "canonicalName": "Cervus nippon yakushimae",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q11344978",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20nippon%20yakushimae%2004-2.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20nippon%20yakushimae%2004-2.jpg?width=1000"
+  },
+  {
+    "key": 4262353,
+    "scientificName": "Cervus elaphus maral Gray, 1850",
+    "canonicalName": "Cervus elaphus maral",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q766569",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspian%20Red%20Deer%20(Maral)%20in%20Arasbaran%20forest.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspian%20Red%20Deer%20(Maral)%20in%20Arasbaran%20forest.jpg?width=1000"
+  },
+  {
+    "key": 4262354,
+    "scientificName": "Cervus elaphus songaricus Severtzov, 1873",
+    "canonicalName": "Cervus elaphus songaricus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q20908318",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262355,
+    "scientificName": "Cervus elaphus yarkandensis Blanford, 1892",
+    "canonicalName": "Cervus elaphus yarkandensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q743853",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262356,
+    "scientificName": "Cervus nippon aplodontus (Heude, 1884)",
+    "canonicalName": "Cervus nippon aplodontus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q20908323",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262357,
+    "scientificName": "Cervus nippon keramae (Kuroda, 1924)",
+    "canonicalName": "Cervus nippon keramae",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q3665284",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20nippon%20keramae.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus%20nippon%20keramae.jpg?width=1000"
+  },
+  {
+    "key": 4262358,
+    "scientificName": "Cervus elaphus alashanicus Bobrinskii & Flerov, 1935",
+    "canonicalName": "Cervus elaphus alashanicus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q20908310",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262359,
+    "scientificName": "Cervus nippon mandarinus Milne-Edwards, 1871",
+    "canonicalName": "Cervus nippon mandarinus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q1124955",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Recherches%20pour%20servir%20%C3%A0%20l'histoire%20naturelle%20des%20mammif%C3%A8res%20(Pl.%2022A)%20(7093179715).jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Recherches%20pour%20servir%20%C3%A0%20l'histoire%20naturelle%20des%20mammif%C3%A8res%20(Pl.%2022A)%20(7093179715).jpg?width=1000"
+  },
+  {
+    "key": 4262360,
+    "scientificName": "Cervus elaphus brauneri Charlemagne, 1920",
+    "canonicalName": "Cervus elaphus brauneri",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q20908312",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262361,
+    "scientificName": "Cervus nippon pulchellus Imaizumi, 1970",
+    "canonicalName": "Cervus nippon pulchellus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q20908326",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262362,
+    "scientificName": "Cervus nippon taiouanus Blyth, 1860",
+    "canonicalName": "Cervus nippon taiouanus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus nippon",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440954,
+    "qid": "Q3847157",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q190516"
+        },
+        "P105": {
+          "qid": "Q68947"
+        },
+        "P18": "https://commons.wikimedia.org/wiki/Special:FilePath/Formosan%20Sika%20Deer%20Rest%20beside%20Wall%20in%20Taipei%20Zoo%2020131002.jpg?width=1000"
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Formosan%20Sika%20Deer%20Rest%20beside%20Wall%20in%20Taipei%20Zoo%2020131002.jpg?width=1000"
+  },
+  {
+    "key": 4262363,
+    "scientificName": "Cervus elaphus macneilli Lydekker, 1909",
+    "canonicalName": "Cervus elaphus macneilli",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q20908315",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262364,
+    "scientificName": "Cervus elaphus pannoniensis Banwell, 1997",
+    "canonicalName": "Cervus elaphus pannoniensis",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q20908317",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  },
+  {
+    "key": 4262365,
+    "scientificName": "Cervus elaphus xanthopygus Milne-Edwards, 1867",
+    "canonicalName": "Cervus elaphus xanthopygus",
+    "rank": "SUBSPECIES",
+    "parentSpecies": "Cervus elaphus",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Cervus",
+    "conservationStatus": "NE",
+    "lastSync": "2026-01-22T15:02:07.546Z",
+    "parentKey": 2440958,
+    "qid": "Q20908320",
+    "traits": {
+      "physical": {
+        "P171": {
+          "qid": "Q79794"
+        },
+        "P105": {
+          "qid": "Q68947"
+        }
+      },
+      "reproduction": {},
+      "ecology": {},
+      "conservation": {}
+    },
+    "imageUrl": null
+  }
+]

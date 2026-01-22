@@ -122,32 +122,44 @@ Tumhe kisi AI ki zarurat nahi hai, tum seedha **Wikidata** ke taxonomy portal pa
 
 Tumhe complete chahiye thi, toh ye rahi woh exhaustive list jo ek mammal ke data ko "complete" banati hai. Iske bahar shayad hi kuch bacha ho:
 
+## currect P_NUMBERS `https://www.wikidata.org/wiki/Wikidata:Database_reports/List_of_properties/all`
+
 #### **Physical & Biological Specs**
 
 * **P2067:** Mass (Weight)
-* **P2257:** Lifespan (Longevity)
+* **P2257:** Lifespan (Longevity) event interval
 * **P2048:** Height (Shoulder height)
-* **P2049:** Length (Body/Tail length)
-* **P2574:** Gestation period (Pregnancy duration)
-* **P1571:** Incubation period
-* **P3063:** Brain size / Cranial capacity
-* **P2112:** Metabolic rate
-* **P2115:** Body temperature
+* **P2049:** Length (width) (Body/Tail length)
+* **P3063:** Gestation period (Pregnancy duration)
+* **P3488:** minimal incubation period in humans
+* **P3487:** maximal incubation period in humans
+* **P7770:** egg incubation period	amount of time needed for incubation of eggs for this animal taxon (birds, fish, reptiles, monotremes)
+* **null:** Brain mass / Cranial capacity
+* **null:** Metabolic rate
+* **null:** Body temperature
+* **P171:** Parent Taxon (family tree)
+* **P1843:** Common Name (name in multiple languages)
+* **P105:** Taxon Rank (Batata hai ki ye Species hai, Subspecies hai ya Genus.)
+* **P225:** Taxon Name (Full scientific name)
+* **P18:** Image (Main image ka file name.)
+* **P373:** Commons category (name of the Wikimedia Commons category containing files related to this item.)
 
 #### **Reproduction & Life Cycle**
 
-* **P3438:** Litter size (Number of offspring)
-* **P3439:** Weaning age (Age when young stop nursing)
-* **P3440:** Sexual maturity age
-* **P3441:** Interbirth interval (Gap between births)
+* **P7725:** Litter size (Number of offspring)
+* **null:** Weaning age (Age when young stop nursing)
+* **P7862:** period of lactation (the interval from the onset of milk production to weaning)
+* **null:** Sexual maturity age
+* **P12432:** age of onset of sexual maturity	(point in time after which an individual attains the ability to reproduce sexually)
+* **null:** Interbirth interval (Gap between births)
 
 #### **Ecology & Behavior**
 
 * **P2974:** Habitat (Specific environment)
 * **P1034:** Main food source (Prey/Plants)
-* **P3811:** Trophic level (Carnivore/Herbivore/Omnivore)
-* **P1294:** Social group (Solitary/Pack/Herd)
-* **P522:** Type of activity (Nocturnal/Diurnal/Crepuscular)
+* **null:** Trophic level (Carnivore/Herbivore/Omnivore)
+* **null:** Social group (Solitary/Pack/Herd)
+* **null:** Type of activity (Nocturnal/Diurnal/Crepuscular)
 * **P2093:** Author citation (Who discovered it)
 * **P3151:** iNaturalist taxon ID (For spotting/maps)
 
@@ -155,8 +167,8 @@ Tumhe complete chahiye thi, toh ye rahi woh exhaustive list jo ek mammal ke data
 
 * **P141:** IUCN conservation status
 * **P181:** Taxon range map (Image of where they live)
-* **P3005:** Valid in period (Geological time/Era)
-* **P9448:** Population trend (Decreasing/Stable/Increasing)
+* **P1264:** Valid in period (Geological time/Era)
+* **null:** Population trend (Decreasing/Stable/Increasing)
 
 ### 3. Ek Pro-Tip jo tumhara kaam asaan kar degi
 
