@@ -124,6 +124,12 @@ Tumhe complete chahiye thi, toh ye rahi woh exhaustive list jo ek mammal ke data
 
 ## currect P_NUMBERS `https://www.wikidata.org/wiki/Wikidata:Database_reports/List_of_properties/all`
 
+`https://www.wikidata.org/wiki/Q-IDs`
+`https://www.wikidata.org/wiki/Property:P_Numbers`
+`https://en.wikipedia.org/api/rest_v1/page/summary/name(e.g.. elephant)`
+`https://www.wikidata.org/wiki/Special:EntityData/Q-IDs (e.g.. Q322141).json`
+`https://www.gbif.org/species/search?q=mammals&advanced=1`
+
 #### **Physical & Biological Specs**
 
 * **P2067:** Mass (Weight)
