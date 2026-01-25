@@ -9,8 +9,10 @@ import {
   convertWikiTextToMarkdown,
   extractGalleryImages,
   extractImages,
+  extractMapFromInfobox,
   extractTables,
   findGenderImages,
+  findMapImage,
   normalizeWhitespace,
   splitSections,
   stripTables,
@@ -20,8 +22,8 @@ import {
 const CONFIG = {
   FILES: {
     IN: "src/data/discovery/mammals/mammals.enriched.json",
-    OUT: "src/data/discovery/mammals/mammals.wikidata+wikipedia.semantic.json",
-    TEMP: "src/data/discovery/mammals/mammals.wikidata+wikipedia.semantic.json.tmp",
+    OUT: "src/data/discovery/mammals/mammals.final.json",
+    TEMP: "src/data/discovery/mammals/mammals.final.json.tmp",
   },
   NETWORK: {
     INITIAL_CONCURRENCY: 3,
@@ -184,6 +186,11 @@ export function runWikipediaSemanticExtractor(mammal: any) {
   const sectionsTree = buildSectionTree(sections);
   const allImages = Array.from(new Set(sections.flatMap((s) => s.images)));
   const genderImages = findGenderImages(sectionsTree);
+  const infoboxRaw =
+    raw.wikitext_raw.match(/\{\{Speciesbox[\s\S]*?\}\}/)?.[0] ?? null;
+
+  const mapFromInfobox = extractMapFromInfobox(infoboxRaw);
+  const mapImage = mapFromInfobox ?? findMapImage(allImages);
 
   mammal.wikipedia_semantic = {
     summary_md: normalizeWhitespace(cleanTextForMarkdown(raw.intro_raw || "")),
@@ -196,6 +203,7 @@ export function runWikipediaSemanticExtractor(mammal: any) {
         male: genderImages.male,
         female: genderImages.female,
       },
+      map_image: mapImage,
     },
   };
 

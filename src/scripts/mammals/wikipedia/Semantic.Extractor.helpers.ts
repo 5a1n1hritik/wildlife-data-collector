@@ -141,6 +141,35 @@ export function stripImageMarkup(text: string): string {
     .replace(/<gallery[\s\S]*?<\/gallery>/gi, "");
 }
 
+export function extractMapFromInfobox(
+  infoboxRaw: string | null,
+): string | null {
+  if (!infoboxRaw) return null;
+
+  const match =
+    infoboxRaw.match(
+      /\|\s*(range_map|distribution_map)\s*=\s*([^\n|]+)/i,
+    );
+
+  if (!match) return null;
+
+  const fileName = match[2].trim().replace(/ /g, "_");
+
+  return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(
+    fileName,
+  )}?width=1000`;
+}
+
+export function findMapImage(images: string[]): string | null {
+  const keywords = ["map", "range", "distribution", "habitat"];
+
+  return (
+    images.find((img) =>
+      keywords.some((k) => img.toLowerCase().includes(k)),
+    ) ?? null
+  );
+}
+
 function convertWikiTableToMarkdown(table: string): string {
   const lines = table.split("\n");
 
