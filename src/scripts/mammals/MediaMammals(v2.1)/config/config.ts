@@ -1,8 +1,8 @@
 export const CONFIG = {
   FILES: {
     IN: "src/data/discovery/mammals/mammals.raw.json",
-    OUT: "src/data/discovery/mammals/mammals.test.json",
-    TEMP: "src/data/discovery/mammals/mammals.test.json.tmp",
+    OUT: "src/data/discovery/mammals/mammals.enriched.json",
+    TEMP: "src/data/discovery/mammals/mammals.enriched.json.tmp",
   },
   NETWORK: {
     INITIAL_CONCURRENCY: 3,
