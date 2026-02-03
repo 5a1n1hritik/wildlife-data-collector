@@ -29,7 +29,8 @@ export async function secureFetch(url: string, retries = 3): Promise<any> {
       const res = await fetchWithTimeout(url);
       if (res.status === 429) {
         const wait = (i + 1) * 3000;
-        state.stats.retries++;
+        state.stats.rateLimited++;
+        state.flags.setBatchRateLimited?.();
         await new Promise((r) => setTimeout(r, wait));
         continue;
       }

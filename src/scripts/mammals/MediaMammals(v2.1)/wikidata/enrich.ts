@@ -87,14 +87,9 @@ export async function enrichBatch(
       }
     }
 
-    if (!batchFailed && state.currentBatchSize < CONFIG.NETWORK.BATCH_MAX) {
-      state.currentBatchSize += 2;
-    }
-
     return { succeeded, failed };
   } catch (e) {
     state.stats.errors += mammals.length;
-    state.currentBatchSize = CONFIG.NETWORK.BATCH_MIN;
     console.error("Batch processing failed", e);
     throw e;
   }

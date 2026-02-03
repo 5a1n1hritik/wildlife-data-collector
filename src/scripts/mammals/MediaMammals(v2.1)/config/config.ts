@@ -3,14 +3,26 @@ export const CONFIG = {
     IN: "src/data/discovery/mammals/mammals.raw.json",
     OUT: "src/data/discovery/mammals/mammals.enriched.json",
     TEMP: "src/data/discovery/mammals/mammals.enriched.json.tmp",
+    QID_CACHE: "src/data/discovery/mammals/mammals.qid.cache.json"
   },
   NETWORK: {
     INITIAL_CONCURRENCY: 3,
+    CONCURRENCY_MIN: 3,
+    CONCURRENCY_MAX: 10,
     BATCH_MIN: 10,
     BATCH_MAX: 60,
     INITIAL_BATCH_SIZE: 50,
     TIMEOUT_MS: 20000,
     WAIT_BETWEEN_BATCHES: 1200,
+    MAX_RETRIES: 3,
+    RETRY_DELAY: 2000,
+    ADAPTIVE_STEP: 5,
+  },
+  RETRY: {
+    MAX_TRIES: 3,
+  },
+  PERSISTENCE: {
+    SAVE_EVERY: 25,
   },
 };
 
