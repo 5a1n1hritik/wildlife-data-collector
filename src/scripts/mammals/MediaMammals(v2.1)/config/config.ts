@@ -7,7 +7,7 @@ export const CONFIG = {
   },
   NETWORK: {
     INITIAL_CONCURRENCY: 3,
-    CONCURRENCY_MIN: 3,
+    CONCURRENCY_MIN: 1,
     CONCURRENCY_MAX: 10,
     BATCH_MIN: 10,
     BATCH_MAX: 60,

@@ -1,6 +1,7 @@
 import { CONFIG } from "../config/config.ts";
 
 export const state = {
+  total: 0,
   enrichedMap: new Map<string, any>(),
   failedQueue: [] as any[],
   stats: {
@@ -29,5 +30,9 @@ export const state = {
   flags: {} as {
     // batchRateLimited: false,
     setBatchRateLimited?: () => void;
+  },
+  adaptive: {
+    stableBatches: 0,
+    lastScaleTs: 0,
   },
 };

@@ -1,6 +1,8 @@
 import { CONFIG, IUCN_MAP, MAMMAL_CLAIMS } from "../config/config.ts";
+import { writeErrorLog } from "../error/errorLogs.ts";
 import { secureFetch } from "../network/fetcher.ts";
 import { state } from "../state/state.ts";
+import { logToUI } from "../ui/progress.ts";
 import { extractClaims, parseClaim } from "./claims.ts";
 import { normalizeClaim, normalizeGroup } from "./normalizer.ts";
 
@@ -37,9 +39,24 @@ export async function enrichBatch(
     let batchFailed = false;
 
     for (const mammal of valid) {
+      if (!entities) {
+        failed.push(mammal);
+        continue;
+      }
+
       const entry = entities[mammal.qid];
+
       if (!entry) {
-        succeeded.push(mammal);
+        // succeeded.push(mammal);
+        failed.push(mammal);
+
+        writeErrorLog({
+          stage: "ENRICH",
+          canonicalName: mammal.canonicalName,
+          qid: mammal.qid,
+          message: "ENTITY_NOT_FOUND_IN_WIKIDATA_RESPONSE",
+        });
+
         continue;
       }
 
@@ -50,13 +67,13 @@ export async function enrichBatch(
           physical: extractClaims(entry.claims, MAMMAL_CLAIMS.physical) ?? {},
           reproduction: isSubspecies
             ? {}
-            : extractClaims(entry.claims, MAMMAL_CLAIMS.reproduction) ?? {},
+            : (extractClaims(entry.claims, MAMMAL_CLAIMS.reproduction) ?? {}),
           ecology: isSubspecies
             ? {}
-            : extractClaims(entry.claims, MAMMAL_CLAIMS.ecology) ?? {},
+            : (extractClaims(entry.claims, MAMMAL_CLAIMS.ecology) ?? {}),
           conservation: isSubspecies
             ? {}
-            : extractClaims(entry.claims, MAMMAL_CLAIMS.conservation) ?? {},
+            : (extractClaims(entry.claims, MAMMAL_CLAIMS.conservation) ?? {}),
         };
 
         const traits = {
@@ -83,13 +100,33 @@ export async function enrichBatch(
         succeeded.push(mammal);
       } else {
         failed.push(mammal);
+
+        writeErrorLog({
+          stage: "ENRICH",
+          canonicalName: mammal.canonicalName,
+          qid: mammal.qid,
+          message: "NO_CLAIMS_IN_ENTITY",
+        });
+        logToUI(`⚠️ Missing data for QID: ${mammal.qid}`);
         batchFailed = true;
       }
     }
 
     return { succeeded, failed };
-  } catch (e) {
+  } catch (e: any) {
     state.stats.errors += mammals.length;
+
+    writeErrorLog({
+      stage: "ENRICH",
+      canonicalName: "BATCH",
+      message: e.message || String(e),
+      extra: {
+        batchSize: mammals.length,
+        qids: mammals.map((m) => m.qid),
+      },
+    });
+
+    logToUI(`Error: ${e.message || e}`);
     console.error("Batch processing failed", e);
     throw e;
   }
